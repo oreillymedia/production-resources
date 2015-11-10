@@ -38,6 +38,8 @@ When creating your figures, please be aware of page size limitations. See the fo
 Series   |   Trim Size   |   Max Figure Size  
 --- | --- | ---
 Animal Books | 7 x 9.1875 inches | 4.8 x 7 inches
+Animal Books | 6 x 9 inches | 4.2 x 7 inches
+Pocket Refs | 4.25 x 7 inches | 2.8 x 5. 5 inches
 Lean Series | 6 x 9 inches | 4.2 x 7 inches
 Maker Press | 1 of 2 columns | 2.5 x 7 inches
 Maker Press | 2 of 2 columns | 6.5 x 7 inches
