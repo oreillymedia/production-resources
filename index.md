@@ -2,6 +2,12 @@
 layout: default
 title: styleguide
 ---
-# Hi there, I'm Hank Quinlan!
+# O'Reilly Media Production Resources
 
-I'm best known as the horrible cop from... 
+## Illustration/Artwork Guidelines
+
+The information found here includes tips on file types, resolution, what kinds of figures we'll redraw, and how to submit final art files and a figure list.
+
+## The O'Reilly Word Template
+
+Writing in Microsoft Word? The information here will help you learn about our Word template.
