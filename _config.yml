@@ -1,2 +1,3 @@
 name: O'Reilly Production
 markdown: kramdown
+baseurl: http://oreillymedia.github.io/production-resources/
