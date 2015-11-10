@@ -6,7 +6,7 @@ title: styleguide
 
 ## Illustration/Artwork Guidelines
 
-The information found here includes tips on file types, resolution, what kinds of figures we'll redraw, and how to submit final art files and a figure list.
+The information found [here](http://oreillymedia.github.io/illustrations/illustrations/) includes tips on file types, resolution, what kinds of figures we'll redraw, and how to submit final art files and a figure list.
 
 ## The O'Reilly Word Template
 
