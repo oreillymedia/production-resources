@@ -1,6 +1,6 @@
 ---
 layout: default
-title: styleguide
+title: Production Resources
 ---
 # O'Reilly Media Production Resources
 
