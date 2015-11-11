@@ -99,3 +99,12 @@ table ol li{
  margin: 0 0 0 8pt;
 }
 
+table, td, th {
+    border: 1px solid green;
+}
+
+th {
+    background-color: green;
+    color: white;
+}
+
