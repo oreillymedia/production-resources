@@ -60,3 +60,42 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* Tables */
+
+table {
+  margin: 12.5pt 0;
+  border-collapse: collapse;
+  max-width: 100%;
+  hyphens: none;
+}
+
+table caption {
+  font-style: italic;
+  margin-bottom: 4pt;
+  display: table-caption;
+  text-align: left;
+  }
+
+
+td, th { 
+  padding: 0.2em 0.4em 0.2em 0.4em;
+  font-size: 9pt;
+  vertical-align: top;
+  text-align: left;
+  word-spacing: 0.3pt;
+}
+  
+thead tr th {
+  font-weight: 600;
+  color: cmyk(0%,0%,0%,0%);
+  background-color: cmyk(0%,0%,0%,100%);
+}
+
+/*lists within tables*/
+table ul li,
+table ol li{
+ font-size: 9pt; 
+ margin: 0 0 0 8pt;
+}
+
