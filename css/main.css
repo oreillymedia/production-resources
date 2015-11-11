@@ -15,17 +15,32 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #00F;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h3 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h4 {
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
