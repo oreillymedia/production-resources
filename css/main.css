@@ -100,11 +100,11 @@ table ol li{
 }
 
 table, td, th {
-    border: 1px solid green;
+    border: 1px #C8C8C8;
 }
 
 th {
-    background-color: green;
+    background-color: #C8C8C8;
     color: white;
 }
 
