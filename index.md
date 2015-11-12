@@ -10,4 +10,4 @@ The information found [here](http://oreillymedia.github.io/production-resources/
 
 ## The O'Reilly Word Template
 
-Writing in Microsoft Word? The information here will help you learn about our Word template.
+Writing in Microsoft Word? [The information here](http://oreillymedia.github.io/production-resources/word/) will help you learn about our Word template.
