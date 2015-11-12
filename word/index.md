@@ -59,5 +59,28 @@ Once you've gotten familiar with the keyboard shortcuts and the SmartStyler, you
 
 There are two buttons on the SmartStyler that you may not recognize. The button marked "C" stands for `Code`, or `Literal`. This is for text that represents computer code or output. The "P" button stands for "Plain", and removes any character, or inline, formatting from the selected text. We encourage you to experiment with the SmartStyler to become familiar with its results.
 
+### Hyperlinks, Filenames, and Technical Terms
+
+Word kindly formats hyperlinks for you as you type. If you want to denote a hyperlink that Word doesn't recognize, you should use the "Hyperlink" style.
+
+For richer hyperlinks, in which the text being linked isn't a URL, again use the "Hyperlink" style. Then associate the link with the appropriate URL by highlighting the Hyperlink-styled text, selecting the command Insert→Hyperlink, and entering the URL in the Insert Hyperlink dialog. Here's an example of such a hyperlink to [O'Reilly's website](http://www.oreilly.com). To see the associated URL after it's inserted, mouse over the hyperlink text, and the URL will appear in a yellow tooltip.
+
+For filenames and directory paths, you should use the "Filename" style. For technical terms that you may want to emphasize when first introduced, you should use the "Technical Italic" style, which is also available from the keyboard shortcut "Ctrl+Shift+I." The only difference between "Technical Italic" and the "emphasis" style is that terms styled with "Technical Italic" don't appear in Word's spell check if you use the SmartStyler.
+
+The SmartStyler recognizes context, not content, so cannot apply the "Technical Italic" style; that is left to your discretion. Please ask your editor if you're unsure of when to apply that style.
+
+### Styles that follow other styles
+
+As an added convenience, many of the Paragraph styles in the template have been set up so that pressing `Enter` at the end of the paragraph automatically makes the *next* paragraph the style that is most likely to follow it. Press `Enter` after a heading, and you're in *Body Text* style. Press `Enter` at the end of a *Sidebar Title*, and you're automatically placed in the Sidebar Body text style.
+
+Of course, sometimes you'll want to use a style other than the default "next" style, but most of the time you'll find it a convenient timesaver.
+
+## Lists and Notes
+
+You'll soon find the need to convey information using a list, or perhaps put a Note or a Warning to accompany a topic. Though there are several types of lists (there are more than two dozen paragraph styles for lists alone), the SmartStyler will take care of remembering which style to use, even for lists within notes.
+
+There are four types of lists you can use in your document:
+
+
 
 
