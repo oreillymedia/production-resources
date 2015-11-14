@@ -140,12 +140,12 @@ Please make sure your code lines do not exceed these restrictions so that code l
 O'Reilly's ebook toolchain now supports syntax highlighting via Pygments. For each block of code that you want to have syntax highlighted, indicate the programming language in brackets, styled as a Comment that immediately precedes the block of code. For example, you'd indicate that the following code is in Java like so:
 
 [java]
-----
+````
 int radius = 40;
 float x = 110;
 float speed = 0.5;
 int direction = 1;
-----
+````
 
 As a result, that block of code will ultimately render in the ebook as shown in the image below.
 
