@@ -83,7 +83,7 @@ There are four types of lists you can use in your document:
 * **Bulleted List:** A list. With Bullets.
 * **Numbered List:** Numbers instead of Bullets.
 * **Variable List:** Usually made of a pair of items, a *term* and a *definition*.
-* 
+ 
 Except for the "Simple List", all of the list types are available via buttons on the SmartStyler. You may nest lists, but only lists that aren't within another formatting element, such as Note or Sidebar. To create a nested list, use the "Increase Indent" button on the SmartStyler.
 
 If you need to "continue" a list item, maybe if a bullet point needs more than one paragraph and you don't want a new bullet yet, you should press `Enter` at the end of the first paragraph in your list item, then press the "List Continue" button on the SmartStyler.
