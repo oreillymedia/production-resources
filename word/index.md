@@ -139,6 +139,7 @@ Please make sure your code lines do not exceed these restrictions so that code l
 O'Reilly's ebook toolchain now supports syntax highlighting via Pygments. For each block of code that you want to have syntax highlighted, indicate the programming language in brackets, styled as a "Comment" that immediately precedes the block of code. For example, you'd indicate that the following code is in Java like so:
 
 [java]
+
 ````
 int radius = 40;
 float x = 110;
@@ -164,8 +165,6 @@ Line annotations are short descriptions that are inserted inline within the code
 
 Production: Using XRefColor to indicate line annotations. 
 
-````This is a code example.    And this is an annotation.````
-
 #### Callouts
 
 See [Bob Stayton's definition of callouts](http://www.sagehill.net/docbookxsl/AnnotateListing.html#Callouts) along with an example. Callouts are a useful and powerful way of annotating your code because they have the advantage of acting as clickable cross-references in online and mobile formats of your book. In the PDF of your book, the callouts will be clickable in the same way that is demonstrated in Stayton's example. Note that you can click back and forth between the callout and its description in the callout list, which is handy when the code and the callout list straddle pages. 
@@ -174,7 +173,8 @@ Creating callouts in the O'Reilly Word template is a bit of a hack, but certainl
 
 Production: Using !!CO1!!, !!CO2!!, etc. to indicate callouts throughout. Match the callouts with the list that follows.
 
-````Code example 12345 example code  !!CO1!!
+````
+Code example 12345 example code  !!CO1!!
    more code
       yet more code 12345 !!CO2!!````
       
