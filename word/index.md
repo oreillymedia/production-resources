@@ -176,8 +176,9 @@ Production: Using !!CO1!!, !!CO2!!, etc. to indicate callouts throughout. Match 
 ````
 Code example 12345 example code  !!CO1!!
    more code
-      yet more code 12345 !!CO2!!````
-      
+      yet more code 12345 !!CO2!!
+````
+
 1.	Description of first callout.
 2.	Description of second callout.
 
