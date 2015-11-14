@@ -81,6 +81,62 @@ You'll soon find the need to convey information using a list, or perhaps put a N
 
 There are four types of lists you can use in your document:
 
+* **Simple List:** This is a list of several short items, usually one or a few words each.
+* **Bulleted List:** A list. With Bullets.
+* **Numbered List:** Numbers instead of Bullets.
+* **Variable List:** Usually made of a pair of items, a *term* and a *definition*.
+* 
+Except for the Simple List, all of the list types are available via buttons on the SmartStyler. You may nest lists, but only lists that aren't within another formatting element, such as Note or Sidebar. To create a nested list, use the "Increase Indent" button on the SmartStyler.
+
+If you need to "continue" a list item, maybe if a bullet point needs more than one paragraph and you don't want a new bullet yet, you should press `Enter` at the end of the first paragraph in your list item, then press the "List Continue" button on the SmartStyler.
+
+There are two types of Notes: *Notes* and *NoteWarnings*. There is a paragraph style for each. You can use the SmartStyler to create a list within a Note, or to insert a code snippet within a Note. If you're typing a paragraph in a Note or a Warning, then press `Enter`, pressing any of the List buttons on the SmartStyler will apply the correct list style.
+
+## Tables and Figures
+
+Headings and body text are fine for introductory information, but once you get into the meat of your subject, you'll probably be using some tables and figures. These can seem complicated at first, but the template will take care of most of the hard work for you. Here's a quick introduction to putting these important elements into your document.
+
+### Tables
+
+There are two main types of tables: *Captioned* and *Uncaptioned*. If your table requires a description, or if you expect to refer to it later elsewhere in the text, you probably want a Captioned table.
+
+A Caption is different from a Heading row. A caption describes the entire table, while a heading row usually contains information about each column. Your Captioned tables might not have heading rows, and your Uncaptioned tables could still have heading rows. Don't worry, once you've seen a couple, it'll become much clearer.
+
+To insert a table, click "Insert Table" on the O'Reilly toolbar. From there, choose whether or not you want a Caption, then whether or not you want a Heading row. The "Insert Table" dialog will come up on your screen. Fill in the number of rows and columns, and click "OK". If you've chosen a Captioned table, an auto-numbered caption will be inserted above the table, and filled in with dummy placeholder text, which you can then replace.
+
+If you later decide you don't want a caption, simply delete it. If you decide another table needs a caption, just put a blank paragraph above it, put your cursor in it, then on the O'Reilly Toolbar click Insert Caption→Table Caption. In either case, the numbering will be adjusted automatically.
+
+NOTE: Some of these commands are also available in other menus, such as the Table menu and the ORATools menu.
+
+### Figures
+
+Your figures will probably have captions, and most often, you'll be putting the caption in at the same time you put in the figure. 
+
+To put a figure in your text, put your cursor in a blank paragraph, and on the O'Reilly Toolbar, click "Insert Figure with Caption". The "Insert Picture" dialog will come up; find the appropriate image, and click "Insert". Your Figure captions will include the auto-numbered prefix.
+
+### Moving and Deleting Tables and Figures
+
+When you insert a new Figure or Table, the numbering for all the other Figures and Tables updates automatically. But if you delete a Figure or Table, or just move one around, the numbering won't update until the next time you save the document, or the next time you insert a caption or cross reference. You can choose to update the numbering manually, by clicking "Insert Caption" on the O'Reilly Toolbar, and choosing "Update Caption Numbering."
+
+## Code Examples
+
+In addition to Tables and Figures, most O'Reilly books rely heavily on Code Examples to illustrate topics and provide examples and exercises. Sometimes your code will just be in two- or three-line snippets, but much of the time your examples will be larger blocks of code that you'll want to label and provide a caption for.
+
+The captions for code examples go above the code itself, so to create a new code example, you'll probably first want to create the caption. Put your cursor in a blank paragraph, then on the O'Reilly Toolbar, go to Insert Caption→Example Caption.
+
+NOTE: If you have text selected when you insert any type of caption, the selected text becomes the text of the caption, and the dummy text is not inserted.
+
+When you've finished the caption, pressing `Enter` puts you into the proper "Code" style. When formatting Code examples, you should use the SmartStyler. For example, if you want one of the lines in your example to stand out in bold, just highlight the entire line, and press the "Bold" button. Also, the "Increase Indent" and "Decrease Indent" buttons will add or subtract leading spaces to selected Code paragraphs, in a default increment of 4 spaces.
+
+NOTE: Since many of you write your code examples in a text editor or IDE, you'll probably want to cut and paste at least some code in from another application. If you do, you can use the menu option labeled "Paste As Code" under ORATools→Insert. This will ensure the text is stripped of any residual formatting from the other application (such as keyword coloring), and that any tabs are converted to the appropriate number of spaces.
+
+### Code Length and Spacing Guidelines
+Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 80 characters, with 84 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 63 characters, with 67 characters available in captioned examples. Pocket references have even smaller code line length—check with your editor for this information. 
+Please make sure your code lines do not exceed these restrictions so that code lines don't run into the right margin when files are converted from Microsoft Word and prepared for typesetting. Indent using spaces, not tabs.
+
+
+
+
 
 
 
