@@ -188,8 +188,10 @@ Note that the code block is followed immediately by a numbered list, which will 
 
 Numbered code is built into the O'Reilly Word template and can be inserted using the "CodeNum" style:
 
-````1	Example of CodeNum style
-2	This is a dangerous format to use````
+````
+1	Example of CodeNum style
+2	This is a dangerous format to use
+````
 
 We strongly discourage authors from using numbered code lines for two main reasons:
 
