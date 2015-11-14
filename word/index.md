@@ -151,6 +151,104 @@ As a result, that block of code will ultimately render in the ebook as shown in 
 
 ![syntax highlighting example](http://oreillymedia.github.io/production-resources/word/syntax-highlighting-example.png)
 
+Pygments supports a wide variety of languages; please see the [full list here](http://pygments.org/docs/lexers/). Ebook reading systems that do not have color screens will still display the highlighting, but in more subtle shades of gray.
+
+If you would like to do something in a language that's not supported, please write to us at [toolsreq@oreilly.com](mailto:toolsreq@oreilly.com) and we'll try to work with you on incorporating it.
+
+### Code Annotations
+
+Authors who are interested in annotating code blocks or examples have a few different options to consider.
+
+#### Line annotation
+
+Line annotations are short descriptions that are inserted inline within the code. They are distinguished from the code by their font formatting. Annotations are set in standard body font (not monospace) in italics and a slightly smaller point size. If you'd like to insert line annotations, please use the character style XRefColor, and insert a note at the first occurrence so that the O'Reilly Tools team will convert it correctly:
+
+Production: Using XRefColor to indicate line annotations. 
+
+````This is a code example.    And this is an annotation.````
+
+#### Callouts
+
+See [Bob Stayton's definition of callouts](http://www.sagehill.net/docbookxsl/AnnotateListing.html#Callouts) along with an example. Callouts are a useful and powerful way of annotating your code because they have the advantage of acting as  clickable cross-references in online and mobile formats of your book. In the PDF of your book that will be available on oreilly.com, Safari Books Online, and elsewhere, the callouts will be clickable in the same way that is demonstrated in Stayton's example. Note that you can click back and forth between the callout and its description in the callout list, which is handy when the code and the callout list straddle pages. 
+
+Creating callouts in the O'Reilly Word template is a bit of a hack, but certainly doable. The following example shows you how. Include a note to production at the first occurrence to ensure that the callouts are processed correctly.
+
+Production: Using !!CO1!!, !!CO2!!, etc. to indicate callouts throughout. Match the callouts with the list that follows.
+
+````Code example 12345 example code  !!CO1!!
+   more code
+      yet more code 12345 !!CO2!!````
+      
+1.	Description of first callout.
+2.	Description of second callout.
+
+Note that the code block is followed immediately by a numbered list, which will act as the callout list once the book is typeset for print.
+
+#### Numbered code
+
+Numbered code is built into the O'Reilly Word template and can be inserted using the CodeNum style:
+
+````1	Example of CodeNum style
+2	This is a dangerous format to use````
+
+We strongly discourage authors from using numbered code lines for two main reasons:
+
+* The line numbers end up hardcoded in typeset and/or downstream versions, making them difficult to maintain, correct, and update. Any references in the body text to the line numbers will also be hardcoded in, and if the code changes, the in-text references will also have to be changed. This maintenance may not sound like a big deal when you are authoring your book, but keep in mind that code may also need to be revised when fixing errata for reprints, and when writing future editions of the book. Numbered code makes the revision process that much more error-prone and cumbersome.
+* 
+* When your readers copy and paste code lines from the digital editions of your book, each line will start with extraneous text (i.e., the line number plus any punctuation and whitespace), thus rendering it unrunnable as code. Most readers will probably access your book through Safari Books Online, PDF, and other digital formats. By adding hardcoded line numbers to your code, you're potentially making it more difficult for readers to actually use it.
+
+## Cross References
+
+Now that you have a document with a few sections of text, and probably some Figures, Tables, and Examples, you'll likely find the need to refer to these elsewhere in the text.
+
+DISCLAIMER: This template's Cross Reference Engine, specifically with regards to cross references to external files, does some rather unnatural things that Word wasn't really meant to do, or at least do reliably or accurately. We've had our way with Word, and sometimes Word won't stand for it. Most errors are benign, and a simple close-reopen will resolve them, but occasionally bad things happen to good documents. If you're trying to use the cross references, and you're having trouble, please don't hesitate to contact the O'Reilly Tools group.
+
+In general, you can create a cross reference to any paragraph in your document, as well as to any paragraph in any other open file that is based on this template and is in the same folder as your document. In most cases, the entire text of the paragraph is inserted, and if it's in a different file, the chapter number is also inserted. In the case of captions, only the caption type and number are included.
+
+To create a cross reference, go to the O'Reilly Toolbar, and click on Cross References→Insert XRef.
+
+By default, the dialog lists every paragraph style in your document. To only view the most frequently used ones, click the button marked "Show only common styles."
+
+Once you choose a paragraph style, the dialog lists every paragraph that has that style applied. Choose the one you want to reference, and press "Insert". Your new cross reference should appear in quotations marks, and with a grey background (to indicate a Field Code). If the reference is to a paragraph in the same document, the reference will also function as a hyperlink. Any changes you make to the source paragraph will be reflected in the cross reference as well.
+
+WARNING: If you need to modify the content of a paragraph that has been cross referenced, be very careful to retain the "Bookmarks" that have been inserted around that paragraph (they appear as large, black brackets). If you just start typing at the end of the paragraph, the bookmarks do not expand; instead, fill in the new text in the middle, then delete spurious text at the end, taking care not to delete the bookmark itself. We know it stinks, but there's not much we can do about it, it's a documented “feature” in Word.
+
+Since cross references tend to be a bit fragile, we suggest waiting until your content is reasonably stable before inserting them, particularly references to headings. You can feel free to create references to captions as soon as you've inserted the caption, but hold off on referencing a heading until you're fairly sure it won't move much.
+
+## Miscellany
+
+A few final items to feed the impatient mind.
+
+### Keyboard Shotcuts
+
+Most of the commonly used styles, and most of the SmartStyler commands, have keyboard shortcuts associated with them. To get a list of all the keyboard shortcuts, choose ORATools→Reports→List Keyboard Shortcuts.
+
+NOTE: Any keyboard shortcut that starts with `Alt` can also be invoked with `Ctrl-Alt`. Some Mac users may find that certain commands that start with `Alt` (such as `Alt-N`, `O` to apply the *Note* style) don't work. In that case, use `Ctrl` as well, as in `Ctrl-Alt-N`, `O`).
+
+### Special characters
+
+You've probably noticed the use of the "→" character in this text. That's the character you'll use to signify a menu hierarchy. You can find it on the O'Reilly Toolbar, under the ORATools menu, and often by right-clicking within text (it depends on the type of text you're in). The same goes for the em-dash "—", which is neither a dash nor a hyphen, and shouldn't have any spaces around it.
+
+### Margins
+This template is set to *roughly approximate* the size of a standard O'Reilly book. Please use the page count only as a *rough estimate*. In the event you're working on a Pocket Reference, to make your estimate a little less rough, go to File→Properties→Custom, change the value of the *BookSeries* property to "Pocket", and then go to ORATools→Configure→Reconfigure according to series.
+
+### Tabs and Spaces
+
+Please don't use tabs, except when navigating in a table. And single spaces after periods, please. If you absolutely *must* use tabs in your code examples, please change them to spaces before submitting your manuscript for production. You can change them globally from ORATools→Repair→Replace Code Tabs with Spaces.
+
+### Blank lines
+
+Except in Code Examples, there should be no blank or empty paragraphs in your document.
+
+### Getting Help
+
+If you're having any trouble with the template, or just have a question, and you're unable to find the answer in the documentation, please send an email to [toolsreq@oreilly.com](mailto:toolsreq@oreilly.com). Congratulations again, and good luck!
+
+
+
+
+
+
 
 
 
