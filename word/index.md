@@ -132,7 +132,27 @@ NOTE: Since many of you write your code examples in a text editor or IDE, you'll
 
 ### Code Length and Spacing Guidelines
 Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 80 characters, with 84 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 63 characters, with 67 characters available in captioned examples. Pocket references have even smaller code line length—check with your editor for this information. 
+
 Please make sure your code lines do not exceed these restrictions so that code lines don't run into the right margin when files are converted from Microsoft Word and prepared for typesetting. Indent using spaces, not tabs.
+
+### Code Syntax Highlighting
+
+O'Reilly's ebook toolchain now supports syntax highlighting via Pygments. For each block of code that you want to have syntax highlighted, indicate the programming language in brackets, styled as a Comment that immediately precedes the block of code. For example, you'd indicate that the following code is in Java like so:
+
+[java]
+----
+int radius = 40;
+float x = 110;
+float speed = 0.5;
+int direction = 1;
+----
+
+As a result, that block of code will ultimately render in the ebook as shown in the image below.
+
+![syntax highlighting example](http://oreillymedia.github.io/production-resources/word/syntax-highlighting-example.png)
+
+
+
 
 
 
