@@ -146,12 +146,12 @@ O'Reilly's ebook toolchain now supports syntax highlighting via Pygments. For ea
 
 [java]
 
-```
+~~~
 int radius = 40;
 float x = 110;
 float speed = 0.5;
 int direction = 1;
-```
+~~~
 
 As a result, that block of code will ultimately render in the ebook as shown in the image below.
 
