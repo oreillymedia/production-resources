@@ -3,7 +3,8 @@ layout: default
 title: O'Reilly Style Guide
 ---
 
-<title>O'Reilly Stylesheet and Word List</title>
+# O'Reilly Style Guide and Word List
+
 <section data-type="chapter" id="general_specifications">
 <h1>General O’Reilly Specifications</h1>
 
