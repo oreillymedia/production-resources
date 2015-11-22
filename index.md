@@ -11,3 +11,7 @@ The information found [here](http://oreillymedia.github.io/production-resources/
 ## The O'Reilly Word Template
 
 Writing in Microsoft Word? [The information here](http://oreillymedia.github.io/production-resources/word/) will help you learn about our Word template.
+
+## The O'Reilly Style Guide and Word List
+
+Looking for guidance on our house style? Check out our style guide.
