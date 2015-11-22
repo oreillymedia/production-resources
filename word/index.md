@@ -179,11 +179,11 @@ Creating callouts in the O'Reilly Word template is a bit of a hack, but certainl
 
 Production: Using !!CO1!!, !!CO2!!, etc. to indicate callouts throughout. Match the callouts with the list that follows.
 
-````
+~~~
 Code example 12345 example code  !!CO1!!
    more code
       yet more code 12345 !!CO2!!
-````
+~~~
 
 1.	Description of first callout.
 2.	Description of second callout.
@@ -194,10 +194,10 @@ Note that the code block is followed immediately by a numbered list, which will 
 
 Numbered code is built into the O'Reilly Word template and can be inserted using the "CodeNum" style:
 
-````
+~~~
 1	Example of CodeNum style
 2	This is a dangerous format to use
-````
+~~~
 
 We strongly discourage authors from using numbered code lines for two main reasons:
 
