@@ -5,43 +5,17 @@ title: O'Reilly Style Guide
 
 # O'Reilly Style Guide and Word List
 
-<section data-type="chapter" id="general_specifications">
-<h1>General O’Reilly Specifications</h1>
-
-
-<p><strong>Last updated:</strong> December 12, 2013</p>
-
-<p>This stylesheet is maintained by Publishing Services and is available <a href="http://chimera.labs.oreilly.com/books/1230000000969/index.html">online</a>.</p>
-
-
-
-
-
-
 <section data-type="sect1" id="getting_started">
 <h1>Getting Started</h1>
 
-<p>Authors, please consult with your editor, editorial assistant, or production editor if you have questions specific to your book. If you’d like to use different conventions, please confer with your editor.</p>
+<p>Authors, please consult with your editor or production editor if you have questions specific to your book. If you’d like to use different conventions, please confer with your editor.</p>
 
-<p>This stylesheet contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://chimera.labs.oreilly.com/books/1230000000065/index.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="https://prod.oreilly.com/external/tools/templates/word/ORA/docs/">Word</a>).</p>
+<p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://chimera.labs.oreilly.com/books/1230000000065/index.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="https://prod.oreilly.com/external/tools/templates/word/ORA/docs/">Word</a>).</p>
 
-<p>Our general style reference is The Chicago Manual of
-      Style, 15th Edition (though some O’Reilly styles differ).</p>
+<p>Our general style reference is The Chicago Manual of Style, 15th Edition (though some O’Reilly styles differ).</p>
 
-<p>Our dictionary is Merriam-Webster’s Collegiate
-      Dictionary, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
+<p>Our dictionary is Merriam-Webster’s Collegiate Dictionary, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
 </section>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <section data-type="sect1" id="considering_electronic_formats">
@@ -50,15 +24,16 @@ title: O'Reilly Style Guide
 <p>Because we use a single set of source files to produce the print and electronic versions of our books, it’s important to keep all possible formats in mind during the authoring, editorial, and production phases.</p>
 
 <ul>
-<li>
-<p>Avoid using "above" and "below" when referencing figures, tables, examples, unnumbered code blocks, equations, etc. (e.g., "In the example below…"). Using live cross references (e.g., "see Figure 2-1") is best, but when that’s not possible, use "preceding" or "following," as the physical placement of elements could be different in reflowable formats.</p>
-</li>
-<li>
-<p>URLs should be anchored to text nodes whenever possible, like they would be on a website.</p>
-</li>
+  <li>
+    <p>Avoid using "above" and "below" when referencing figures, tables, examples, unnumbered code blocks, equations, etc. (e.g., "In the example below…"). Using live cross references (e.g., "see Figure 2-1") is best, but when that’s not possible, use "preceding" or "following," as the physical placement of elements could be different in reflowable formats.</p>
+  </li>
+  <li>
+    <p>URLs should be anchored to text nodes whenever possible, like they would be on a website.</p>
+  </li>
 </ul>
+
 <div data-type="warning" id="id-BeU0teho"><h6>Warning</h6>
-<p>When anchoring URLs to text nodes, be as descriptive as possible, as the print version of your book renders hyperlinks like this: "text anchor (<em><a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a></em>)."</p>
+  <p>When anchoring URLs to text nodes, be as descriptive as possible, as the print version of your book renders hyperlinks like this: "text anchor (<em><a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a></em>)."</p>
 
 <p>For example, this:</p>
 <blockquote>
@@ -78,13 +53,6 @@ title: O'Reilly Style Guide
 </ul>
 </section>
 
-
-
-
-
-
-
-</section>
 
 
 
