@@ -14,4 +14,4 @@ Writing in Microsoft Word? [The information here](http://oreillymedia.github.io/
 
 ## The O'Reilly Style Guide and Word List
 
-Looking for guidance on our house style? Check out our style guide.
+Looking for guidance on our house style? Check out our [style guide](http://oreillymedia.github.io/production-resources/styleguide/).
