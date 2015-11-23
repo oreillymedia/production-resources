@@ -790,324 +790,155 @@ title: O'Reilly Style Guide
 
 
 
+# O’Reilly Word List
 
+_Alphabetical Word List: Default Spellings_
 
+<a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | D
 
-
-
-
-
-
-
-
-
-<section data-type="chapter" id="oreilly_word_list">
-<h1>O’Reilly Word List</h1>
-
-<p><em>Alphabetical Word List: Default Spellings</em></p>
-
-## A
+<h2 id="wordlist-A">A</h2>
 
 * acknowledgments
 * ActionScript
 * ActiveX control
-
-
-      <sect2 id="a_entries">
-        <title>A</title>
-
-        <simplelist columns="2">
-          <member>acknowledgments</member>
-
-          <member>ActionScript</member>
-
-          <member>ActiveX control</member>
-
-          <member>Addison-Wesley</member>
-
-          <member>ad hoc</member>
-
-          <member>ADO.NET</member>
-
-          <member>Agile</member>
-          <member>  (cap when referring to Agile software development or when used on its own as a noun)</member>
-
-          <member>a.k.a. or aka (be consistent)</member>
-
-          <member>a.m. or A.M.</member>
-
-          <member>Alt key</member>
-
-          <member>Alt-N</member>
-
-          <member>anonymous FTP</member>
-
-          <member>anti-pattern</member>
-
-          <member>appendixes</member>
-
-          <member>applet (or Java applet)</member>
-
-          <member>AppleScript</member>
-
-          <member>AppleScript Studio (ASS)</member>
-
-          <member>ARPAnet</member>
-
-          <member>ASCII</member>
-
-          <member>ASP.NET</member>
-
-          <member>at sign</member>
-
-          <member>autogenerate</member>
-
-          <member>awk</member>
-        </simplelist>
-      </sect2>
-
-      <sect2 id="b_entries" role="notoc">
-        <title>B</title>
-
-        <simplelist columns="2">
-          <member>backend</member>
-
-          <member>background processes</member>
-
-          <member>backquote</member>
-
-          <member>backslash</member>
-
-          <member>Backspace key</member>
-
-          <member>backtick</member>
-
-          <member>backup (n)</member>
-
-          <member>back up (v)</member>
-
-          <member>backward</member>
-
-          <member>backward compatible</member>
-
-          <member>bandwidth</member>
-
-          <member>BeOS</member>
-
-          <member>Berkeley Software Distribution (BSD)</member>
-
-          <member>Berkeley Unix</member>
-
-          <member>  (older books may have UNIX)</member>
-
-          <member>BHOs</member>
-
-          <member>Big Design Up Front (BDUF)</member>
-
-          <member>bioinformatics</member>
-
-          <member>bitmap</member>
-
-          <member>bit mask</member>
-
-          <member>Bitnet</member>
-
-          <member>bit plane</member>
-
-          <member>bitwise operators</member>
-
-          <member>BlackBerry</member>
-
-          <member>Boolean (unless referring</member>
-
-          <member>to a datatype in code,</member>
-
-          <member>in which case s/b lowercase)</member>
-
-          <member>Bourne-again shell (bash)</member>
-
-          <member>Bourne shell</member>
-
-          <member>braces or curly braces</member>
-
-          <member>brackets or square brackets</member>
-
-          <member>browsable</member>
-
-          <member>_build-&gt;measure-&gt;learn_ cycle</member>
-
-          <member>built-in (a, n)</member>
-
-          <member>button bar</member>
-        </simplelist>
-      </sect2>
-
-      <sect2 id="c_entries" role="notoc">
-        <title>C</title>
-
-        <simplelist columns="2">
-          <member>call-to-cation</member>
-
-          <member>Caps Lock key</member>
-
-          <member>caret or circumflex</member>
-
-          <member>CAT-5</member>
-
-          <member>CD-ROM</member>
-
-          <member>C language (n)</member>
-
-          <member>C-language (a)</member>
-
-          <member>checkbox</member>
-
-          <member>checkmark</member>
-
-          <member>check-in (n)</member>
-
-          <member>classpath</member>
-
-          <member>click-through (a)</member>
-
-          <member>client/server</member>
-
-          <member>client side (n)</member>
-
-          <member>client-side (a)</member>
-
-          <member>co-class</member>
-
-          <member>coauthor</member>
-
-          <member>code set</member>
-
-          <member>colorcell</member>
-
-          <member>colormap</member>
-
-          <member>Command key (Macintosh)</member>
-
-          <member>command line (n)</member>
-
-          <member>command-line (a)</member>
-
-          <member>Common Object Request</member>
-
-          <member>Broker Architecture (CORBA)</member>
-
-          <member>compact disc</member>
-
-          <member>compile time (n)</member>
-
-          <member>compile-time (a)</member>
-
-          <member>CompuServe</member>
-
-          <member>Control key (Mac)</member>
-
-          <member>copyleft</member>
-
-          <member>copyright</member>
-
-          <member>coworker</member>
-
-          <member>CPU</member>
-
-          <member>criterion (s), criteria (p)</member>
-
-          <member>cross-reference</member>
-
-          <member>C shell</member>
-
-          <member>&lt;CR&gt;&lt;LF&gt;</member>
-
-          <member>Ctrl key (Windows)</member>
-
-          <member>Ctrl-Alt-Delete</member>
-
-          <member>Ctrl-N</member>
-
-          <member>curly braces or braces</member>
-        </simplelist>
-      </sect2>
-
-      <sect2 id="d_entries" role="notoc">
-        <title>D</title>
-
-        <simplelist columns="2">
-          <member>database</member>
-
-          <member>data block</member>
-
-          <member>Data Encryption Standard (DES)</member>
-
-          <member>datafile</member>
-
-          <member>datatype or data type (be consistent)</member>
-
-          <member>data is</member>
-
-          <member>dataset or data set (be consisten)</member>
-
-          <member>DB-9</member>
-
-          <member>Debian GNU/Linux</member>
-
-          <member>decision making (n)</member>
-
-          <member>decision-making (a)</member>
-
-          <member>DevOps</member>
-
-          <member>dial-up (a)</member>
-
-          <member>dial up (v)</member>
-
-          <member>disk</member>
-
-          <member>disk-imaging software</member>
-
-          <member>Delete key</member>
-
-          <member>design time (n)</member>
-
-          <member>design-time (a)</member>
-
-          <member>DNS</member>
-
-          <member>DocBook</member>
-
-          <member>Document Object Model (DOM)</member>
-
-          <member>Domain Name System</member>
-
-          <member>dot</member>
-
-          <member>dot-com</member>
-
-          <member>double-click</member>
-
-          <member>double-precision (a)</member>
-
-          <member>double quotes</member>
-
-          <member>down arrow</member>
-
-          <member>downlevel (a)</member>
-
-          <member>download</member>
-
-          <member>drag-and-drop (n)</member>
-
-          <member>drag and drop (v)</member>
-
-          <member>drop-down (a)</member>
-        </simplelist>
-      </sect2>
-
-      <sect2 id="e_entries" role="notoc">
-        <title>E</title>
+* Addison-Wesley
+* ad hoc
+* ADO.NET
+* Agile (cap when referring to Agile software development or when used on its own as a noun)
+* a.k.a. or aka (be consistent)
+* a.m. or A.M.
+* Alt key
+* Alt-N
+* anonymous FTP
+* anti-pattern
+* appendixes
+* applet (or Java applet)
+* AppleScript
+* AppleScript Studio (ASS)
+* ARPAnet
+* ASCII
+* ASP.NET
+* at sign
+* autogenerate
+* awk
+
+<h2 id="wordlist-B">B</h2>
+
+* backend
+* background processes
+* backquote
+* backslash
+* Backspace key
+* backtick
+* backup (n)
+* back up (v)
+* backward
+* backward compatible
+* bandwidth
+* BeOS
+* Berkeley Software Distribution (BSD)
+* Berkeley Unix (older books may have UNIX)
+* BHOs
+* Big Design Up Front (BDUF)
+* bioinformatics
+* bitmap
+* bit mask
+* Bitnet
+* bit plane
+* bitwise operators
+* BlackBerry
+* Boolean (unless referring to a datatype in code, in which case s/b lowercase)
+* Bourne-again shell (bash)
+* Bourne shell
+* braces or curly braces
+* brackets or square brackets
+* browsable
+* _build-&gt;measure-&gt;learn_ cycle
+* built-in (a, n)
+* button bar
+ 
+<h2 id="wordlist-C">C</h2>
+
+* call-to-cation
+* Caps Lock key
+* caret or circumflex
+* CAT-5
+* CD-ROM
+* C language (n)
+* C-language (a)
+* checkbox
+* checkmark
+* check-in (n)
+* classpath
+* click-through (a)
+* client/server
+* client side (n)
+* client-side (a)
+* co-class
+* coauthor
+* code set
+* colorcell
+* colormap
+* Command key (Macintosh)
+* command line (n)
+* command-line (a)
+* Common Object Request
+* Broker Architecture (CORBA)
+* compact disc
+* compile time (n)
+* compile-time (a)
+* CompuServe
+* Control key (Mac)
+* copyleft
+* copyright
+* coworker
+* CPU
+* criterion (s), criteria (p)
+* cross-reference
+* C shell
+* &lt;CR&gt;&lt;LF&gt;
+* Ctrl key (Windows)
+* Ctrl-Alt-Delete
+* Ctrl-N
+* curly braces or braces
+
+<h2 id="wordlist-D">D</h2>
+* database
+* data block
+* Data Encryption Standard (DES)
+* datafile
+* datatype or data type (be consistent)
+* data is
+* dataset or data set (be consistent)
+* DB-9
+* Debian GNU/Linux
+* decision making (n)
+* decision-making (a)
+* DevOps
+* dial-up (a)
+* dial up (v)
+* disk
+* disk-imaging software
+* Delete key
+* design time (n)
+* design-time (a)
+* DNS
+* DocBook
+* Document Object Model (DOM)
+* Domain Name System
+* dot
+* dot-com
+* double-click
+* double-precision (a)
+* double quotes
+* down arrow
+* downlevel (a)
+* download
+* drag-and-drop (n)
+* drag and drop (v)
+* drop-down (a)
+
+<h2 id="worldlist-E">E</h2>
 
         <simplelist columns="2">
           <member>ebook</member>
@@ -2154,118 +1985,6 @@ title: O'Reilly Style Guide
       </sect2>
 </section>
 
-
-# O’Reilly Word List
-
-_Alphabetical Word List: Default Spellings_
-
-<a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | D
-
-<h2 id="wordlist-A">A</h2>
-
-* acknowledgments
-* ActionScript
-* ActiveX control
-* Addison-Wesley
-* ad hoc
-* ADO.NET
-* Agile (cap when referring to Agile software development or when used on its own as a noun)
-* a.k.a. or aka (be consistent)
-* a.m. or A.M.
-* Alt key
-* Alt-N
-* anonymous FTP
-* anti-pattern
-* appendixes
-* applet (or Java applet)
-* AppleScript
-* AppleScript Studio (ASS)
-* ARPAnet
-* ASCII
-* ASP.NET
-* at sign
-* autogenerate
-* awk
-
-<h2 id="wordlist-B">B</h2>
-
-* backend
-* background processes
-* backquote
-* backslash
-* Backspace key
-* backtick
-* backup (n)
-* back up (v)
-* backward
-* backward compatible
-* bandwidth
-* BeOS
-* Berkeley Software Distribution (BSD)
-* Berkeley Unix (older books may have UNIX)
-* BHOs
-* Big Design Up Front (BDUF)
-* bioinformatics
-* bitmap
-* bit mask
-* Bitnet
-* bit plane
-* bitwise operators
-* BlackBerry
-* Boolean (unless referring to a datatype in code, in which case s/b lowercase)
-* Bourne-again shell (bash)
-* Bourne shell
-* braces or curly braces
-* brackets or square brackets
-* browsable
-* _build-&gt;measure-&gt;learn_ cycle
-* built-in (a, n)
-* button bar
- 
-<h2 id="wordlist-C">C</h2>
-
-* call-to-cation
-* Caps Lock key
-* caret or circumflex
-* CAT-5
-* CD-ROM
-* C language (n)
-* C-language (a)
-* checkbox
-* checkmark
-* check-in (n)
-* classpath
-* click-through (a)
-* client/server
-* client side (n)
-* client-side (a)
-* co-class
-* coauthor
-* code set
-* colorcell
-* colormap
-* Command key (Macintosh)
-* command line (n)
-* command-line (a)
-* Common Object Request
-* Broker Architecture (CORBA)
-* compact disc
-* compile time (n)
-* compile-time (a)
-* CompuServe
-* Control key (Mac)
-* copyleft
-* copyright
-* coworker
-* CPU
-* criterion (s), criteria (p)
-* cross-reference
-* C shell
-* &lt;CR&gt;&lt;LF&gt;
-* Ctrl key (Windows)
-* Ctrl-Alt-Delete
-* Ctrl-N
-* curly braces or braces
 
 
 
