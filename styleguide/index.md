@@ -5,7 +5,7 @@ title: O'Reilly Style Guide
 
 # O'Reilly Style Guide and Word List
 
-<section data-type="sect1" id="getting_started">
+<section data-type="sect2" id="getting_started">
 <h2>Getting Started</h2>
 
 <p>Authors, please consult with your editor or production editor if you have questions specific to your book. If you’d like to use different conventions, please confer with your editor.</p>
@@ -18,7 +18,7 @@ title: O'Reilly Style Guide
 </section>
 
 
-<section data-type="sect1" id="considering_electronic_formats">
+<section data-type="sect2" id="considering_electronic_formats">
 <h2>Considering Electronic Formats</h2>
 
 <p>Because we use a single set of source files to produce the print and electronic versions of our books, it’s important to keep all possible formats in mind during the authoring, editorial, and production phases.</p>
@@ -57,7 +57,7 @@ title: O'Reilly Style Guide
 <section data-type="chapter" id="orm_grammar_punctuation_etc">
 <h1>O’Reilly Grammar, Punctuation, etc.</h1>
 
-<section data-type="sect1" id="abbreviationsacronyms">
+<section data-type="sect2" id="abbreviationsacronyms">
 <h2>Abbreviations/Acronyms</h2>
 
 <ul>
@@ -82,7 +82,7 @@ title: O'Reilly Style Guide
 </ul>
 </section>
 
-<section data-type="sect1" id="bibliographical_entries">
+<section data-type="sect2" id="bibliographical_entries">
 <h2>Bibliographical Entries</h2>
 
 <p>In general, when referencing another book within a book’s text paragraphs, include the author name(s) when there is one or two authors. When there are three or more authors, state the first author name, followed by “et al.”</p>
@@ -101,7 +101,7 @@ title: O'Reilly Style Guide
 <p>For full bibliographical entries (which usually appear in bibliographies or reference lists), see <em>The Chicago Manual of Style</em>, 15th Edition.</p>
 </section>
 
-<section data-type="sect1" id="cross_references">
+<section data-type="sect2" id="cross_references">
 <h2>Cross References</h2>
 
 <ul>
@@ -137,7 +137,7 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="dates_and_numbers">
+<section data-type="sect2" id="dates_and_numbers">
 <h2>Dates and Numbers</h2>
 
 <ul>
@@ -186,7 +186,7 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="figures_tables_and_examples">
+<section data-type="sect2" id="figures_tables_and_examples">
 <h2>Figures, Tables, and Examples</h2>
 
 <p>Every figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Lack of specific in-text references may cause incorrect placement of figures.</p>
@@ -228,7 +228,7 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="code">
+<section data-type="sect2" id="code">
 <h2>Code</h2>
 
 
@@ -238,7 +238,7 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="line-length-ZKs1FLck">
+<section data-type="sect3" id="line-length-ZKs1FLck">
 <h3>Line Length</h3>
 
 <p>Maximum line length for code varies slightly between book formats. Consult the table below to find the maximum line length for your book’s series within Atlas v2. If writing in Word, please keep code within the margins that appear in the Word template and indicate proper linebreaks and indents for all code. Indent using spaces, not tabs.</p>
@@ -351,7 +351,7 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="syntax-highlighting-zVsXIecp">
+<section data-type="sect3" id="syntax-highlighting-zVsXIecp">
 <h3>Syntax Highlighting</h3>
 
 <p>We use a tool called Pygments to colorize code. In most books, code will appear in black and white in the print book and in color in all electronic formats, including the web pdf. If you’re an author, please consult the <a href="http://pygments.org/docs/lexers/">list of available lexers</a> and apply them to your code as you write. To apply syntax highlighting in Asciidoc, consult <a href="http://chimera.labs.oreilly.com/books/1230000000065/ch04.html#code_explanation">the Asciidoc Authoring Guidelines</a>. To apply syntax highlighting in DocBook, consult <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#syntax_highlighting">the DocBook Authoring Guidelines</a>. If you’re writing in Word, for each block of code that you want to have syntax highlighted, indicate the programming language in brackets, styled as a Comment that immediately precedes the block of code. For example, you’d indicate that the following code is in Java like so:</p>
