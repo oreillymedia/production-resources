@@ -2159,7 +2159,7 @@ title: O'Reilly Style Guide
 
 _Alphabetical Word List: Default Spellings_
 
-<a href="#wordlist-A">A</a> | B | C | D
+<a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | D
 
 <h2 id="wordlist-A">A</h2>
 
@@ -2169,8 +2169,7 @@ _Alphabetical Word List: Default Spellings_
 * Addison-Wesley
 * ad hoc
 * ADO.NET
-* Agile
-* (cap when referring to Agile software development or when used on its own as a noun)
+* Agile (cap when referring to Agile software development or when used on its own as a noun)
 * a.k.a. or aka (be consistent)
 * a.m. or A.M.
 * Alt key
