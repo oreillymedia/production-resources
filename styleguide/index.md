@@ -2202,8 +2202,7 @@ _Alphabetical Word List: Default Spellings_
 * bandwidth
 * BeOS
 * Berkeley Software Distribution (BSD)
-* Berkeley Unix
-* (older books may have UNIX)
+* Berkeley Unix (older books may have UNIX)
 * BHOs
 * Big Design Up Front (BDUF)
 * bioinformatics
@@ -2220,7 +2219,54 @@ _Alphabetical Word List: Default Spellings_
 * brackets or square brackets
 * browsable
 * _build-&gt;measure-&gt;learn_ cycle
-* built-in (a, n)button bar
+* built-in (a, n)
+* button bar
+ 
+<h2 id="wordlist-C">C</h2>
+
+* call-to-cation
+* Caps Lock key
+* caret or circumflex
+* CAT-5
+* CD-ROM
+* C language (n)
+* C-language (a)
+* checkbox
+* checkmark
+* check-in (n)
+* classpath
+* click-through (a)
+* client/server
+* client side (n)
+* client-side (a)
+* co-class
+* coauthor
+* code set
+* colorcell
+* colormap
+* Command key (Macintosh)
+* command line (n)
+* command-line (a)
+* Common Object Request
+* Broker Architecture (CORBA)
+* compact disc
+* compile time (n)
+* compile-time (a)
+* CompuServe
+* Control key (Mac)
+* copyleft
+* copyright
+* coworker
+* CPU
+* criterion (s), criteria (p)
+* cross-reference
+* C shell
+* &lt;CR&gt;&lt;LF&gt;
+* Ctrl key (Windows)
+* Ctrl-Alt-Delete
+* Ctrl-N
+* curly braces or braces
+
 
 
 
