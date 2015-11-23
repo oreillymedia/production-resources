@@ -12,9 +12,9 @@ title: O'Reilly Style Guide
 
 <p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://chimera.labs.oreilly.com/books/1230000000065/index.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="https://prod.oreilly.com/external/tools/templates/word/ORA/docs/">Word</a>).</p>
 
-<p>Our general style reference is The Chicago Manual of Style, 15th Edition (though some O’Reilly styles differ).</p>
+<p>Our general style reference is <em>The Chicago Manual of Style</em>, 15th Edition (though some O’Reilly styles differ).</p>
 
-<p>Our dictionary is Merriam-Webster’s Collegiate Dictionary, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
+<p>Our dictionary is <em>Merriam-Webster’s Collegiate Dictionary</em>, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
 </section>
 
 
@@ -804,8 +804,15 @@ title: O'Reilly Style Guide
 <section data-type="chapter" id="oreilly_word_list">
 <h1>O’Reilly Word List</h1>
 
-
 <p><em>Alphabetical Word List: Default Spellings</em></p>
+
+## A
+
+* acknowledgments
+* ActionScript
+* ActiveX control
+
+
       <sect2 id="a_entries">
         <title>A</title>
 
