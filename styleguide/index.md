@@ -5,25 +5,13 @@ title: O'Reilly Style Guide
 
 # O'Reilly Style Guide and Word List
 
-<ul>
-<li><a href="#getting_started">Getting Started</a></li>
-<li><a href="#considering_electronic_formats">Considering Electronic Formats</a></li>
-<li>
-  <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.</a>
-  <li>
-    <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
-  </li>
-  <li>
-    <a href="#bibliographical_entries">Bibliographical Entries</a>
-  </li>
-</li>
-</ul>
+* <a href="#getting_started">Getting Started</a>
+* <a href="#considering_electronic_formats">Considering Electronic Formats</a>
+* <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
+  * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
+  * <a href="#bibliographical_entries">Bibliographical Entries</a>
 
-* item
-* item
-  * item
-  * item
-* item 
+ 
 
 <section data-type="sect2" id="getting_started">
 <h2>Getting Started</h2>
