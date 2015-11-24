@@ -20,6 +20,13 @@ title: O'Reilly Style Guide
   * <a href="footnotes">Footnotes</a>
   * <a href="#headings">Headings</a>
   * <a href="lists">Lists</a>
+    * <a href="#numbered_list">Numbered list</a>
+    * <a href="#variable_list">Variable list</a>
+    * <a href="#bulleted_list">Bulleted list</a>
+  * <a href="#miscellaneous">Miscellaneous</a> 
+  * <a href="#punctuation">Punctuation</a>
+  * <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
+* <a href="#word-list">O’Reilly Word List</a> 
  
 
 <section data-type="sect2" id="getting_started">
@@ -807,7 +814,7 @@ title: O'Reilly Style Guide
 
 
 
-# O’Reilly Word List
+<h1 id="word-list">O’Reilly Word List</h1>
 
 _Alphabetical Word List: Default Spellings_
 
