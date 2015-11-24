@@ -10,7 +10,16 @@ title: O'Reilly Style Guide
 * <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
   * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
   * <a href="#bibliographical_entries">Bibliographical Entries</a>
-
+  * <a href="#cross_references">Cross References</a>
+  * <a href="#dates_and_numbers">Dates and Numbers</a>
+  * <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
+  * <a href="#code">Code</a>
+    * <a href="#line-length-ZKs1FLck">Line Length</a>
+    * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
+    * <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>
+  * <a href="footnotes">Footnotes</a>
+  * <a href="#headings">Headings</a>
+  * <a href="lists">Lists</a>
  
 
 <section data-type="sect2" id="getting_started">
@@ -382,8 +391,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="formatting-code-in-word-yDsgtXca">
-<h2>Formatting Code in Word</h2>
+<section data-type="sect3" id="formatting-code-in-word-yDsgtXca">
+<h3>Formatting Code in Word</h3>
 
 <p>When copyediting in Word, please do a global search and replace for tabs in code (search for \^t to find them) before submitting files for conversion; tabs <em>will not</em> convert. A general rule of thumb is one tab can be replaced with four spaces (which is the same number that the clean-up macro in the ORA.dot template uses). However, this number can vary, so the most important thing is that copyeditors replace tabs with the numbers of spaces needed to match the indentation and make sure levels of indentation are preserved.</p>
 </section>
