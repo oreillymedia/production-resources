@@ -15,14 +15,19 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 ## System Requirements
 
 This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here. 
-
-*NOTE:* Our template is not fully compatible with Microsoft Word 2008 for Mac. The styling buttons work pretty well, but most of the macros aren’t supported in this particular version of Word for Mac.
+<div data-type="note">
+  <h6>Note</h6>
+  <p>Our template is not fully compatible with Microsoft Word 2008 for Mac. The styling buttons work pretty well, but most of the macros aren’t supported in this particular version of Word for Mac.</p>
+</div>
 
 ## Installing the Template
 
 The template contains numerous customizations and macros (short programs written in Visual Basic for Applications, or VBA). In order for these customizations to work properly, and to be available whenever you're working on your manuscript, you'll need to store this template in a special templates folder on your computer.
 
-*NOTE:* Like we mentioned before, there are a lot of versions of Word out there. You might have to adapt the following, depending on where your templates folder is.
+<div data-type="note">
+  <h6>Note</h6>
+  <p>Like we mentioned before, there are a lot of versions of Word out there. You might have to adapt the following, depending on where your templates folder is.</p>
+</div>
 
 ### Installing on a Windows Machine
 
@@ -110,7 +115,10 @@ To insert a table, click **Insert Table** on the O'Reilly toolbar. From there, c
 
 If you later decide you don't want a caption, simply delete it. If you decide another table needs a caption, just put a blank paragraph above it, put your cursor in it, then on the O'Reilly Toolbar click **Insert Caption→Table Caption**. In either case, the numbering will be adjusted automatically.
 
-*NOTE:* Some of these commands are also available in other menus, such as the Table menu and the ORATools menu.
+<div data-type="note">
+  <h6>Note</h6>
+  <p>Some of these commands are also available in other menus, such as the Table menu and the ORATools menu.</p>
+</div>
 
 ### Figures
 
@@ -128,11 +136,17 @@ In addition to Tables and Figures, most O'Reilly books rely heavily on Code Exam
 
 The captions for code examples go above the code itself, so to create a new code example, you'll probably first want to create the caption. Put your cursor in a blank paragraph, then on the O'Reilly Toolbar, go to **Insert Caption→Example Caption**.
 
-*NOTE:* If you have text selected when you insert any type of caption, the selected text becomes the text of the caption, and the dummy text is not inserted.
+<div data-type="note">
+  <h6>Note</h6>
+  <p>If you have text selected when you insert any type of caption, the selected text becomes the text of the caption, and the dummy text is not inserted.</p>
+</div>
 
 When you've finished the caption, pressing `Enter` puts you into the proper "Code" style. When formatting Code examples, you should use the SmartStyler. For example, if you want one of the lines in your example to stand out in bold, just highlight the entire line, and press the "Bold" button. Also, the "Increase Indent" and "Decrease Indent" buttons will add or subtract leading spaces to selected Code paragraphs, in a default increment of 4 spaces.
 
-*NOTE:* Since many of you write your code examples in a text editor or IDE, you'll probably want to cut and paste at least some code in from another application. If you do, you can use the menu option labeled "Paste As Code" under **ORATools→Insert**. This will ensure the text is stripped of any residual formatting from the other application (such as keyword coloring), and that any tabs are converted to the appropriate number of spaces.
+<div data-type="note">
+  <h6>Note</h6>
+  <p>Since many of you write your code examples in a text editor or IDE, you'll probably want to cut and paste at least some code in from another application. If you do, you can use the menu option labeled "Paste As Code" under <strong>ORATools→Insert</strong>. This will ensure the text is stripped of any residual formatting from the other application (such as keyword coloring), and that any tabs are converted to the appropriate number of spaces.</p>
+</div>
 
 ### Code Length and Spacing Guidelines
 
@@ -209,7 +223,10 @@ We strongly discourage authors from using numbered code lines for two main reaso
 
 Now that you have a document with a few sections of text, and probably some Figures, Tables, and Examples, you'll likely find the need to refer to these elsewhere in the text.
 
-*DISCLAIMER:* This template's Cross Reference Engine, specifically with regards to cross references to external files, does some rather unnatural things that Word wasn't really meant to do, or at least do reliably or accurately. We've had our way with Word, and sometimes Word won't stand for it. Most errors are benign, and a simple close-reopen will resolve them, but occasionally bad things happen to good documents. If you're trying to use the cross references, and you're having trouble, please don't hesitate to contact the O'Reilly Tools group.
+<div data-type="note">
+  <h6>Disclaimer</h6
+  <p>This template's Cross Reference Engine, specifically with regards to cross references to external files, does some rather unnatural things that Word wasn't really meant to do, or at least do reliably or accurately. We've had our way with Word, and sometimes Word won't stand for it. Most errors are benign, and a simple close-reopen will resolve them, but occasionally bad things happen to good documents. If you're trying to use the cross references, and you're having trouble, please don't hesitate to contact the O'Reilly Tools group.</p>
+</div>
 
 In general, you can create a cross reference to any paragraph in your document, as well as to any paragraph in any other open file that is based on this template and is in the same folder as your document. In most cases, the entire text of the paragraph is inserted, and if it's in a different file, the chapter number is also inserted. In the case of captions, only the caption type and number are included.
 
@@ -219,7 +236,10 @@ By default, the dialog lists every paragraph style in your document. To only vie
 
 Once you choose a paragraph style, the dialog lists every paragraph that has that style applied. Choose the one you want to reference, and press "Insert". Your new cross reference should appear in quotations marks, and with a grey background (to indicate a Field Code). If the reference is to a paragraph in the same document, the reference will also function as a hyperlink. Any changes you make to the source paragraph will be reflected in the cross reference as well.
 
-**WARNING:** If you need to modify the content of a paragraph that has been cross referenced, be very careful to retain the "Bookmarks" that have been inserted around that paragraph (they appear as large, black brackets). If you just start typing at the end of the paragraph, the bookmarks do not expand; instead, fill in the new text in the middle, then delete spurious text at the end, taking care not to delete the bookmark itself. We know it stinks, but there's not much we can do about it, it's a documented “feature” in Word.
+<div data-type="warning">
+  <h6>Warning</h6
+  <p>If you need to modify the content of a paragraph that has been cross referenced, be very careful to retain the "Bookmarks" that have been inserted around that paragraph (they appear as large, black brackets). If you just start typing at the end of the paragraph, the bookmarks do not expand; instead, fill in the new text in the middle, then delete spurious text at the end, taking care not to delete the bookmark itself. We know it stinks, but there's not much we can do about it, it's a documented “feature” in Word.</p>
+</div>
 
 Since cross references tend to be a bit fragile, we suggest waiting until your content is reasonably stable before inserting them, particularly references to headings. You can feel free to create references to captions as soon as you've inserted the caption, but hold off on referencing a heading until you're fairly sure it won't move much.
 
@@ -231,7 +251,10 @@ A few final items to feed the impatient mind.
 
 Most of the commonly used styles, and most of the SmartStyler commands, have keyboard shortcuts associated with them. To get a list of all the keyboard shortcuts, choose **ORATools→Reports→List Keyboard Shortcuts**.
 
-*NOTE:* Any keyboard shortcut that starts with `Alt` can also be invoked with `Ctrl-Alt`. Some Mac users may find that certain commands that start with `Alt` (such as `Alt-N`, `O` to apply the *Note* style) don't work. In that case, use `Ctrl` as well, as in `Ctrl-Alt-N`, `O`).
+<div data-type="note">
+  <h6>Note</h6>
+  <p>Any keyboard shortcut that starts with <code>Alt</code> can also be invoked with <code>Ctrl-Alt</code>. Some Mac users may find that certain commands that start with <code>Alt</code> (such as <code>Alt-N</code>, <code>O</code> to apply the <em>Note</em> style) don't work. In that case, use <code>Ctrl</code> as well, as in <code>Ctrl-Alt-N</code>, <code>O</code>).</p>
+</div>
 
 ### Special characters
 
