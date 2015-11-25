@@ -106,7 +106,15 @@ th {
 
 div[data-type="warning"] {
  background: #ffe9ec;
- border: solid 1pt red;
 }
+
+div[data-type="note"], div[data-type="warning"], div[data-type="tip"] {
+  border: solid 1pt black;
+  padding: 2em;
+}
+
+
+}
+
 }
 
