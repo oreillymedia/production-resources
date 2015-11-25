@@ -20,6 +20,7 @@ This template was created using Word 2000 for Windows. Yeah, it’s kind of old.
   <p>Our template is not fully compatible with Microsoft Word 2008 for Mac. The styling buttons work pretty well, but most of the macros aren’t supported in this particular version of Word for Mac.</p>
 </div>
 
+
 ## Installing the Template
 
 The template contains numerous customizations and macros (short programs written in Visual Basic for Applications, or VBA). In order for these customizations to work properly, and to be available whenever you're working on your manuscript, you'll need to store this template in a special templates folder on your computer.
