@@ -104,3 +104,9 @@ th {
     color: black;
 }
 
+div[data-type="warning"] {
+ background: red;
+ border: solid 1pt red;
+}
+}
+
