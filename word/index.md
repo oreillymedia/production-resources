@@ -15,8 +15,8 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 ## System Requirements
 
 This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here. 
-<div data-type="note">
-  <h6>Note</h6>
+<div data-type="warning">
+  <h6>Warning</h6>
   <p>Our template is not fully compatible with Microsoft Word 2008 for Mac. The styling buttons work pretty well, but most of the macros aren’t supported in this particular version of Word for Mac.</p>
 </div>
 
