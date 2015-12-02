@@ -15,3 +15,7 @@ Writing in Microsoft Word? [The information here](http://oreillymedia.github.io/
 ## The O'Reilly Style Guide and Word List
 
 Looking for guidance on our house style? Check out our [style guide](http://oreillymedia.github.io/production-resources/styleguide/).
+
+## Production Overview
+
+Want to know how production works? Look at the [overview page](http://oreillymedia.github.io/production-resources/overview/).
