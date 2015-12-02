@@ -983,7 +983,6 @@ _Alphabetical Word List: Default Spellings_
         
 
 <h2 id="wordlist-F">F</h2>
-
 * failback
 * failover
 * fax
