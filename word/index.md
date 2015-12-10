@@ -16,7 +16,8 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 
 * <a href="#system-requirements">System Requirements</a>
 * <a href="#installing">Installing the Template</a>
-  * <a href="#install-windows">Installing on a Windows Machine</a> 
+  * <a href="#install-windows">Installing on a Windows Machine</a>
+  * <h3 id="install-mac">Installing on a Mac</h3>
 
 
 <h2 id="system-requirements">System Requirements</h2>
@@ -48,7 +49,7 @@ If you can't find this folder, another way to determine where Word stores your t
 
 Once you've found the templates folder on your computer, move the template file to that folder. To be sure your installation was successful, go to **File→New**, and make sure that "ORA.dot" is listed as one of the choices.
 
-### Installing on a Mac
+<h3 id="install-mac">Installing on a Mac</h3>
 
 Save the template to your desktop, then double-click to open it. When you open it, the title bar should read "ORA.dot", and not "Document 1". If it doesn't say "ORA.dot", skip to the next section.
 
@@ -58,11 +59,11 @@ If the opened file says "ORA.dot", choose **File→Save**, and choose **Save As 
 
 If the template opens as a document, and not as a template (if it says "Document1" in the title bar, and not "ORA.dot"), close the document without saving changes. Move the ORA.dot file from your desktop to your *My Templates* folder. The template will now be available from the Project Gallery.
 
-## The O'Reilly Menus and Toolbars
+<h2 id="menus-toolbars">The O'Reilly Menus and Toolbars</h2>
 
 In addition to the two custom toolbars you should see on your screen (labeled "O'Reilly SmartStyler" and "O'Reilly Toolbar"—if you don't see them, go to **View→Toolbars**, and be sure they're checked), you'll notice two new menus, labeled "ORAStyles" and "ORATools." Among these toolbars and menus, you should be able to find most of the tools you'll need.
 
-## Setting a Few Important Options
+<h2 id="setting-options">Setting a Few Important Options</h2>
 
 There are a few Word options that you should set to help yourself work better with the template. These aren't essential, but unless you have a compelling reason to want them off, you should probably turn and leave them on.
 
@@ -70,7 +71,7 @@ There are a few Word options that you should set to help yourself work better wi
 2.	Tools→Options→View→Paragraph Marks
 3.	Tools→Options→View→Bookmarks
 
-## Paragraph and Character Styles
+<h2 id="paragraph-character-styles">Paragraph and Character Styles</h2>
 
 Now that you've arranged your workspace, you're ready to start writing. But first, you need to know that all of your text must have a *Style* applied to it. Every single paragraph needs to have a *Paragraph Style* applied, and if you want certain characters within a paragraph to look different than the rest of that paragraph, such as applying *Italics*, **Bold**, or `Literal`, you'll be using a *Character Style*. 
 
@@ -79,7 +80,7 @@ Once you've gotten familiar with the keyboard shortcuts and the SmartStyler, you
 
 There are two buttons on the SmartStyler that you may not recognize. The button marked "C" stands for `Code`, or `Literal`. This is for text that represents computer code or output. The "P" button stands for "Plain", and removes any character formatting from the selected text. We encourage you to experiment with the SmartStyler to become familiar with its results.
 
-### Hyperlinks, Filenames, and Technical Terms
+<h3 id="hyperlnks-filenames-techterms">Hyperlinks, Filenames, and Technical Terms</h3>
 
 Word kindly formats hyperlinks for you as you type. If you want to denote a hyperlink that Word doesn't recognize, you should use the "Hyperlink" style.
 
@@ -87,13 +88,13 @@ For richer hyperlinks, in which the text being linked isn't a URL, again use the
 
 For filenames and directory paths, use the "Filename" style. For technical terms that you may want to emphasize when first introduced, use the "Technical Italic" style, which is also available from the keyboard shortcut "Ctrl+Shift+I." The only difference between "Technical Italic" and the "emphasis" style is that terms styled with "Technical Italic" don't appear in Word's spell check if you use the SmartStyler.
 
-### Styles that Follow Other Styles
+<h3 id="styles-follow-styles">Styles that Follow Other Styles</h3>
 
 As an added convenience, many of the Paragraph styles in the template have been set up so that pressing `Enter` at the end of the paragraph automatically makes the *next* paragraph the style that is most likely to follow it. Press `Enter` after a heading, and you're in *Body Text* style. Press `Enter` at the end of a *Sidebar Title*, and you're automatically placed in the *Sidebar Body* text style.
 
 Of course, sometimes you'll want to use a style other than the default "next" style, but most of the time you'll find it a convenient timesaver.
 
-## Lists and Notes
+<h2 id="lists-notes">Lists and Notes</h2>
 
 You'll soon find the need to convey information using a list, or perhaps include a Note or a Warning to accompany a topic. Though there are several types of lists (there are more than two dozen paragraph styles for lists alone), the SmartStyler will take care of remembering which style to use, even for lists within Notes.
 
@@ -110,11 +111,11 @@ If you need to "continue" a list item, maybe if a bullet point needs more than o
 
 There are two types of Notes: *Notes* and *NoteWarnings*. There is a paragraph style for each. You can use the SmartStyler to create a list within a Note, or to insert a code snippet within a Note. If you're typing a paragraph in a Note or a Warning, then press `Enter`, pressing any of the List buttons on the SmartStyler will apply the correct list style.
 
-## Tables and Figures
+<h2 id="tables-figures">Tables and Figures</h2>
 
 Headings and body text are fine for introductory information, but once you get into the meat of your subject, you'll probably be using some tables and figures. These can seem complicated at first, but the template will take care of most of the hard work for you. Here's a quick introduction to putting these important elements into your document.
 
-### Tables
+<h3 id="tables">Tables</h3>
 
 There are two main types of tables: *Captioned* and *Uncaptioned*. If your table requires a description, or if you expect to refer to it later elsewhere in the text, you probably want a Captioned table.
 
@@ -129,17 +130,17 @@ If you later decide you don't want a caption, simply delete it. If you decide an
   <p>Some of these commands are also available in other menus, such as the Table menu and the ORATools menu.</p>
 </div>
 
-### Figures
+<h3 id="figures">Figures</h3>
 
 Your figures will probably have captions, and most often, you'll be putting the caption in at the same time you put in the figure. 
 
 To put a figure in your text, put your cursor in a blank paragraph, and on the O'Reilly Toolbar, click "Insert Figure with Caption". The "Insert Picture" dialog will come up; find the appropriate image, and click "Insert". Your Figure captions will include the auto-numbered prefix.
 
-### Moving and Deleting Tables and Figures
+<h3 id="moving-stuff">Moving and Deleting Tables and Figures</h3>
 
 When you insert a new Figure or Table, the numbering for all the other Figures and Tables updates automatically. But if you delete a Figure or Table, or just move one around, the numbering won't update until the next time you save the document, or the next time you insert a caption or cross reference. You can choose to update the numbering manually, by clicking "Insert Caption" on the O'Reilly Toolbar, and choosing "Update Caption Numbering."
 
-## Code Examples
+<h2 id="code-examples">Code Examples</h2>
 
 In addition to Tables and Figures, most O'Reilly books rely heavily on Code Examples to illustrate topics and provide examples and exercises. Sometimes your code will just be in two- or three-line snippets, but much of the time your examples will be larger blocks of code that you'll want to label and provide a caption for.
 
@@ -157,13 +158,13 @@ When you've finished the caption, pressing `Enter` puts you into the proper "Cod
   <p>Since many of you write your code examples in a text editor or IDE, you'll probably want to cut and paste at least some code in from another application. If you do, you can use the menu option labeled "Paste As Code" under <strong>ORATools→Insert</strong>. This will ensure the text is stripped of any residual formatting from the other application (such as keyword coloring), and that any tabs are converted to the appropriate number of spaces.</p>
 </div>
 
-### Code Length and Spacing Guidelines
+<h3 id="code-length">Code Length and Spacing Guidelines</h3>
 
 Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 80 characters, with 84 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 63 characters, with 67 characters available in captioned examples. Pocket references have even smaller code line length—check with your editor for this information. 
 
 Please make sure your code lines do not exceed these restrictions so that code lines don't run into the right margin when files are converted from Microsoft Word and prepared for typesetting. Indent using spaces, not tabs.
 
-### Code Syntax Highlighting
+<h3 id="syntax-highlighting">Code Syntax Highlighting</h3>
 
 O'Reilly's ebook toolchain now supports syntax highlighting via Pygments. For each block of code that you want to have syntax highlighted, indicate the programming language in brackets, styled as a "Comment" that immediately precedes the block of code. For example, you'd indicate that the following code is in Java like so:
 
@@ -184,7 +185,7 @@ Pygments supports a wide variety of languages; please see the [full list here](h
 
 If you would like to do something in a language that's not supported, please write to us at [toolsreq@oreilly.com](mailto:toolsreq@oreilly.com) and we'll try to work with you on incorporating it.
 
-### Code Annotations
+<h3 id="code-annotation">Code Annotations</h3>
 
 Authors who are interested in annotating code blocks or examples have a few different options to consider.
 
@@ -228,7 +229,7 @@ We strongly discourage authors from using numbered code lines for two main reaso
 * 
 * When your readers copy and paste code lines from the digital editions of your book, each line will start with extraneous text (i.e., the line number plus any punctuation and whitespace), thus rendering it unrunnable as code. Most readers will probably access your book through Safari Books Online, PDF, and other digital formats. By adding hardcoded line numbers to your code, you're potentially making it more difficult for readers to actually use it.
 
-## Cross References
+<h2 id="xrefs">Cross References</h2>
 
 Now that you have a document with a few sections of text, and probably some Figures, Tables, and Examples, you'll likely find the need to refer to these elsewhere in the text.
 
@@ -252,11 +253,11 @@ Once you choose a paragraph style, the dialog lists every paragraph that has tha
 
 Since cross references tend to be a bit fragile, we suggest waiting until your content is reasonably stable before inserting them, particularly references to headings. You can feel free to create references to captions as soon as you've inserted the caption, but hold off on referencing a heading until you're fairly sure it won't move much.
 
-## Miscellany
+<h2 id="misc">Miscellany</h2>
 
 A few final items to feed the impatient mind.
 
-### Keyboard Shotcuts
+<h3 id="keyboard-shortcuts">Keyboard Shotcuts</h3>
 
 Most of the commonly used styles, and most of the SmartStyler commands, have keyboard shortcuts associated with them. To get a list of all the keyboard shortcuts, choose **ORATools→Reports→List Keyboard Shortcuts**.
 
@@ -265,22 +266,22 @@ Most of the commonly used styles, and most of the SmartStyler commands, have key
   <p>Any keyboard shortcut that starts with <code>Alt</code> can also be invoked with <code>Ctrl-Alt</code>. Some Mac users may find that certain commands that start with <code>Alt</code> (such as <code>Alt-N</code>, <code>O</code> to apply the <em>Note</em> style) don't work. In that case, use <code>Ctrl</code> as well, as in <code>Ctrl-Alt-N</code>, <code>O</code>).</p>
 </div>
 
-### Special characters
+<h3 id="special-chars">Special characters</h3>
 
 You've probably noticed the use of the "→" character in this text. That's the character you'll use to signify a menu hierarchy. You can find it on the O'Reilly Toolbar, under the ORATools menu, and often by right-clicking within text (it depends on the type of text you're in). The same goes for the em-dash "—", which is neither a dash nor a hyphen, and shouldn't have any spaces around it.
 
-### Margins
+<h3 id="margins">Margins</h3>
 This template is set to *roughly approximate* the size of a standard O'Reilly book. Please use the page count only as a *rough estimate*. In the event you're working on a Pocket Reference, to make your estimate a little less rough, go to File→Properties→Custom, change the value of the *BookSeries* property to "Pocket", and then go to ORATools→Configure→Reconfigure according to series.
 
-### Tabs and Spaces
+<h3 id="tabs-spaces">Tabs and Spaces</h3>
 
 Please don't use tabs, except when navigating in a table. And single spaces after periods, please. If you absolutely *must* use tabs in your code examples, please change them to spaces before submitting your manuscript for production. You can change them globally from ORATools→Repair→Replace Code Tabs with Spaces.
 
-### Blank lines
+<h3 id="blank-lines">Blank lines</h3>
 
 Except in Code Examples, there should be no blank or empty paragraphs in your document.
 
-### Getting Help
+<h3 id="help">Getting Help</h3>
 
 If you're having any trouble with the template, or just have a question, and you're unable to find the answer in the documentation, please send an email to [toolsreq@oreilly.com](mailto:toolsreq@oreilly.com). Congratulations again, and good luck!
 
