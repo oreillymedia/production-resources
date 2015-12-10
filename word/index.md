@@ -6,13 +6,20 @@ title: O'Reilly Word Template
 
 Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away.
 
-[Download the Word template here: ORA.dot](ORA.dot)
+* [Download the Word template here: ORA.dot](ORA.dot)
 
-[Download a sample Preface file here: ORA_Preface.doc](ORA_Preface.doc)
+* [Download a sample Preface file here: ORA_Preface.doc](ORA_Preface.doc)
 
-[Download the QuickStart Guide as a Word file here: Word_Template_Quick_Start_Guide.doc](Word_Template_Quick_Start_Guide.doc)
+* [Download this QuickStart Guide as a Word file here: Word_Template_Quick_Start_Guide.doc](Word_Template_Quick_Start_Guide.doc)
 
-## System Requirements
+## Table of Contents
+
+* <a href="#system-requirements">System Requirements</a>
+* <a href="#installing">Installing the Template</a>
+  * <a href="#install-windows">Installing on a Windows Machine</a> 
+
+
+<h2 id="system-requirements">System Requirements</h2>
 
 <p>This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here.</p>
 
@@ -22,7 +29,7 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 </div>
 
 
-## Installing the Template
+<h2 id="installing">Installing the Template</h2>
 
 The template contains numerous customizations and macros (short programs written in Visual Basic for Applications, or VBA). In order for these customizations to work properly, and to be available whenever you're working on your manuscript, you'll need to store this template in a special templates folder on your computer.
 
@@ -31,7 +38,7 @@ The template contains numerous customizations and macros (short programs written
   <p>Like we mentioned before, there are a lot of versions of Word out there. You might have to adapt the following, depending on where your templates folder is.</p>
 </div>
 
-### Installing on a Windows Machine
+<h3 id="install-windows">Installing on a Windows Machine<h3>
 
 On most Windows systems, the Word templates folder is:
 
