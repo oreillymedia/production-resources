@@ -17,7 +17,7 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 * <a href="#system-requirements">System Requirements</a>
 * <a href="#installing">Installing the Template</a>
   * <a href="#install-windows">Installing on a Windows Machine</a>
-  * <h3 id="install-mac">Installing on a Mac</h3>
+  * <a href="#install-mac">Installing on a Mac</a>
 * <a href="#menus-toolbars">The O'Reilly Menus and Toolbars</a>
 * <a href="#setting-options">Setting a Few Important Options</a>
 * <a href="#paragraph-character-styles">Paragraph and Character Styles</a>
