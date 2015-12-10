@@ -18,6 +18,28 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 * <a href="#installing">Installing the Template</a>
   * <a href="#install-windows">Installing on a Windows Machine</a>
   * <h3 id="install-mac">Installing on a Mac</h3>
+* <a href="#menus-toolbars">The O'Reilly Menus and Toolbars</a>
+* <a href="#setting-options">Setting a Few Important Options</a>
+* <a href="#paragraph-character-styles">Paragraph and Character Styles</a>
+  * <a href="#hyperlnks-filenames-techterms">Hyperlinks, Filenames, and Technical Terms</a>
+  * <a href="#styles-follow-styles">Styles that Follow Other Styles</a>
+* <a href="#lists-notes">Lists and Notes</a>
+* <a href="#tables-figures">Tables and Figures</a>
+  * <a href="#tables">Tables</a>
+  * <a href="#figures">Figures</a>
+  * <a href="#moving-stuff">Moving and Deleting Tables and Figures</a>
+* <a href="#code-examples">Code Examples</a>
+  * <a href="#code-length">Code Length and Spacing Guidelines</a>
+  * <a href="#syntax-highlighting">Code Syntax Highlighting</a>
+  * <a href="#code-annotation">Code Annotations</a>
+* <a href="#xrefs">Cross References</a>
+* <a href="#misc">Miscellany</a>
+  * <a href="#keyboard-shortcuts">Keyboard Shotcuts</a>
+  * <a href="#special-chars">Special characters</a>
+  * <a href="#margins">Margins</a>
+  * <a href="#tabs-spaces">Tabs and Spaces</a>
+  * <a href="#blank-lines">Blank lines</a>
+  * <a href="#help">Getting Help</a>
 
 
 <h2 id="system-requirements">System Requirements</h2>
