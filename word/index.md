@@ -38,7 +38,7 @@ The template contains numerous customizations and macros (short programs written
   <p>Like we mentioned before, there are a lot of versions of Word out there. You might have to adapt the following, depending on where your templates folder is.</p>
 </div>
 
-<h3 id="install-windows">Installing on a Windows Machine<h3>
+<h3 id="install-windows">Installing on a Windows Machine</h3>
 
 On most Windows systems, the Word templates folder is:
 
