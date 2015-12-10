@@ -34,11 +34,6 @@ When creating your figures or taking screenshots, please remember there are page
 
 ## Orgainizing with a Figure List
 
-The way you organize and track your figures is a critical part of the production process, and effort here will help ensure a speedy production cycle.
-
-
-### Figure List
-
 Organization is key. A well-organized figure list allows us to move your book through production more quickly and accurately. The figure list should contain the filename, position of the figure in the book, and caption for each figure. This is also where you tell us about callouts you need, whether we need to crop an image, and whether you need us to redraw something.
 
 When creating figure lists, please use the following conventions:
