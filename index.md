@@ -18,4 +18,4 @@ Looking for guidance on our house style? Check out our [style guide](http://orei
 
 ## Production Overview
 
-Want to know how production works? Look at the [overview page](http://oreillymedia.github.io/production-resources/overview/).
+Want to know how production works? Look at the [overview page](http://oreillymedia.github.io/production-resources/overview/)
