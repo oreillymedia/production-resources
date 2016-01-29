@@ -14,9 +14,8 @@ Regardless of how your book is submitted to us (via Atlas, Word, InDesign, Googl
 
 Not every book goes through every stage or follows the same path, but the following describes our most common workflow steps.
 
-### Intake
-
-After your book is sent to production, our Tools team goes over the files and fixes any validity errors, adds boilerplate content (such as the copyright page), cleans up and normalizes the markup, and organizes the figures. 
+Intake
+: After your book is sent to production, our Tools team goes over the files and fixes any validity errors, adds boilerplate content (such as the copyright page), cleans up and normalizes the markup, and organizes the figures. 
 
 ### Copy Edit
 
