@@ -32,7 +32,7 @@ Most illustrations will be modified to fit the style of O'Reilly books. We're ha
 
 When creating your figures or taking screenshots, please remember there are page size limitations. For most of our books, your images need to fit into a 4.8 x 7 inch space.
 
-## Orgainizing with a Figure List
+## Organizing with a Figure List
 
 Organization is key. A well-organized figure list allows us to move your book through production more quickly and accurately. The figure list should contain the filename, position of the figure in the book, and caption for each figure. This is also where you tell us about callouts you need, whether we need to crop an image, and whether you need us to redraw something.
 
