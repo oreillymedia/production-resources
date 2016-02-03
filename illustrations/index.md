@@ -74,7 +74,7 @@ Callouts are the arrows, boxes, circles, and text that are sometimes added to an
 
 In Atlas, figure files are usually added to the images/ directory. Here's a screenshot of an image/ directory as it might appear before production. In this example, the author is using descriptive filenames, and you'll see two version of the aircraft_carrier.jpg image. One version contains callouts added by the author, and one is clean (doesn't include callouts, which production will use to add callouts).
 
-**Figure goes here**
+![](/images-dir-preproduction.png)
 
 During production, we standardize both the filenames and the references to files in the source. We do this only for images that are actually referenced in the source files. Here's what an asciidoc reference to a figure would look like before production renamed the files:
 
