@@ -61,7 +61,7 @@ Here's an example of an ideal figure list.
 Fig #   |   Filename   | Type/Instructions   |  Caption
  --- | --- | --- | ---
  01-01 | some-file-name.pdf | Drawing. Please add an arrow pointing from the outside servers to the middle servers and label it "Workflow."   | Example of server setup showing an important idea.
- 01-02 | my-favorite-picture.png | Screenshot. Pleae crop tightly on the top third. | This is what the top of thee page will look like.
+ 01-02 | my-favorite-picture.png | Screenshot. Please crop tightly on the top third. | This is what the top of thee page will look like.
  01-03 | hello-world-example.png | Screenshot | The image caption would go here.
  ... | ... | ... | ...
  02-01 | my-cat.png | Screenshot | Caption goes here.
