@@ -25,11 +25,8 @@ Either type might also feature *callouts*, which are boxes, arrows, and text tha
 Most illustrations will be modified to fit the style of O'Reilly books. We're happy to work with you to create a refined graphic.
 
 * Use whatever method is most comfortable for you when first creating your illlustrations: they can be sketched, described in text, or generated using a computer drawing program. 
-
 * If you're using a program such as Visio, PowerPoint, Freehand, Illustrator, or another drawing program, please export your files as PDFs to ensure that there are no translation errors between computers.
-
 * To help you generate the images, [we have templates in Adobe Illustrator](image-stuff.zip) and as PDFs that should be able to be opened in your vector program of choice. Just let us know you want to try your hand at them! If you do choose to work with the Illustrator templates, please send us the .ai files you create, along with exported PDFs. 
-
 * If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a "clean" version without callouts, and version that mocks up the callouts you want. Our Illustrator will use standard O'Reilly fonts and specs to add callouts to the clean file, using your example as a guide. Use a file-naming convention that makes it clear which how a "clean" file relates to another image. For example, if your file with callouts is named *0102.png*, you should name the clean file *0102_clean.png*.
 
 ## Figure Sizing
