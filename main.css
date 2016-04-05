@@ -51,6 +51,10 @@ dt {
 
 /* ORM Word Template Quickstart Guide */
 
+li {
+    list-style: none;
+}
+
 a[href$=".dot"],
 a[href$=".doc"] {
      background-image: url('../illustrations/download.svg');
@@ -61,5 +65,4 @@ a[href$=".doc"] {
      padding: 0 0 0 30px;
      margin: 0 0 10px;
     width: 100%;
-    background-color: red;
 }
