@@ -134,7 +134,7 @@ div[data-type="note"], div[data-type="warning"], div[data-type="tip"] {
 
 /* ORM Word Template Quickstart Guide */
 
-li {
+ul {
     list-style: none;
 }
 
