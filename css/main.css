@@ -134,6 +134,10 @@ div[data-type="note"], div[data-type="warning"], div[data-type="tip"] {
 
 /* ORM Word Template Quickstart Guide */
 
+li {
+    list-style: none;
+}
+
 a[href$=".dot"],
 a[href$=".doc"] {
      background-image: url('../illustrations/download.svg');
