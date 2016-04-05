@@ -4,13 +4,13 @@ title: O'Reilly Word Template
 ---
 # O'Reilly Media Word Template Quickstart Guide
 
-Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away.
+Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away. Download some of the essentials right here:
 
-* [Download the Word template here: ORA.dot](ORA.dot)
+* [Word template:ORA.dot](ORA.dot)
 
-* [Download a sample Preface file here: ORA_Preface.doc](ORA_Preface.doc)
+* [Sample Preface file: ORA_Preface.doc](ORA_Preface.doc)
 
-* [Download this QuickStart Guide as a Word file here: Word_Template_Quick_Start_Guide.doc](Word_Template_Quick_Start_Guide.doc)
+* [QuickStart Guide: Word_Template_Quick_Start_Guide.doc](Word_Template_Quick_Start_Guide.doc)
 
 ## Table of Contents
 
