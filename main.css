@@ -48,3 +48,15 @@ ul.posts li {
 dt {
     padding: 1em;
 }
+
+/* ORM Word Template Quickstart Guide */
+
+ul li a {
+     background-image: url(‘../illustrations/download.svg’);
+     background-repeat: no-repeat;
+     display: block;
+     min-height: 20px;
+     background-size: 20px 20px;
+     padding: 0 0 0 30px;
+     margin: 0 0 10px;
+}
