@@ -4,7 +4,7 @@ title: O'Reilly Word Template
 ---
 # O'Reilly Media Word Template Quickstart Guide
 
-Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away. Download some of the essentials right here:
+Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away, including these downloads:
 
 * [Word template: ORA.dot](ORA.dot)
 
