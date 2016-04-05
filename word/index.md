@@ -6,7 +6,7 @@ title: O'Reilly Word Template
 
 Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away. Download some of the essentials right here:
 
-* [Word template:ORA.dot](ORA.dot)
+* [Word template: ORA.dot](ORA.dot)
 
 * [Sample Preface file: ORA_Preface.doc](ORA_Preface.doc)
 
