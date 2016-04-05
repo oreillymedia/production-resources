@@ -132,9 +132,16 @@ div[data-type="note"], div[data-type="warning"], div[data-type="tip"] {
   padding-right: 2em;
 }
 
+/* ORM Word Template Quickstart Guide */
 
-
+a[href$=".dot"],
+a[href$=".doc"] {
+     background-image: url('../illustrations/download.svg');
+     background-repeat: no-repeat;
+     display: block;
+     min-height: 20px;
+     background-size: 20px 20px;
+     padding: 0 0 0 30px;
+     margin: 0 0 10px;
+    width: 100%;
 }
-
-}
-
