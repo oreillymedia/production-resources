@@ -12,7 +12,7 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 
 * [QuickStart Guide: Word_Template_Quick_Start_Guide.doc](Word_Template_Quick_Start_Guide.doc)
 
-## Table of Contents
+<h2 id="table-of-contents-word">Table of Contents</h2>
 
 * <a href="#system-requirements">System Requirements</a>
 * <a href="#installing">Installing the Template</a>
