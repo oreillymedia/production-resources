@@ -256,7 +256,7 @@ We strongly discourage authors from using numbered code lines for two main reaso
 
 Now that you have a document with a few sections of text, and probably some Figures, Tables, and Examples, you'll likely find the need to refer to these elsewhere in the text.
 
-<div data-type="note">
+<div data-type="warning">
   <h6>Disclaimer</h6>
   <p>This template's Cross Reference Engine, specifically with regards to cross references to external files, does some rather unnatural things that Word wasn't really meant to do, or at least do reliably or accurately. We've had our way with Word, and sometimes Word won't stand for it. Most errors are benign, and a simple close-reopen will resolve them, but occasionally bad things happen to good documents. If you're trying to use the cross references, and you're having trouble, please don't hesitate to contact the O'Reilly Tools group.</p>
 </div>
