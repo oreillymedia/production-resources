@@ -35,7 +35,7 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
   * <a href="#code-annotation">Code Annotations</a>
 * <a href="#xrefs">Cross References</a>
 * <a href="#misc">Miscellany</a>
-  * <a href="#keyboard-shortcuts">Keyboard Shotcuts</a>
+  * <a href="#keyboard-shortcuts">Keyboard Shortcuts</a>
   * <a href="#special-chars">Special characters</a>
   * <a href="#margins">Margins</a>
   * <a href="#tabs-spaces">Tabs and Spaces</a>
@@ -280,7 +280,7 @@ Since cross references tend to be a bit fragile, we suggest waiting until your c
 
 A few final items to feed the impatient mind.
 
-<h3 id="keyboard-shortcuts">Keyboard Shotcuts</h3>
+<h3 id="keyboard-shortcuts">Keyboard Shortcuts</h3>
 
 Most of the commonly used styles, and most of the SmartStyler commands, have keyboard shortcuts associated with them. To get a list of all the keyboard shortcuts, choose **ORATools→Reports→List Keyboard Shortcuts**.
 
