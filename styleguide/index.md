@@ -3,7 +3,7 @@ layout: default
 title: O'Reilly Style Guide
 ---
 
-# O'Reilly Style Guide and Word List
+<h1 id="table-of-contents-word">O'Reilly Style Guide and Word List</h1>
 
 * <a href="#getting_started">Getting Started</a>
 * <a href="#considering_electronic_formats">Considering Electronic Formats</a>
