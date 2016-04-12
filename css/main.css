@@ -25,7 +25,7 @@ a:hover {
 }
 
 .hyperlink {
-    word-break: break-all;
+    word-break: normal;
 }
 h1 {
     font-size: 24pt;
