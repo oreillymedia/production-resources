@@ -6,6 +6,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.hyperlink {
+    word-break: break-all;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
@@ -22,19 +27,6 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-
-.hyperlink {
-    word-break: break-all;
-    -ms-word-break: break-all;
-     word-break: break-all;
-
-     // Non standard for webkit
-     word-break: break-word;
-
--webkit-hyphens: auto;
-   -moz-hyphens: auto;
-        hyphens: auto;
 }
 h1 {
     font-size: 24pt;
@@ -64,7 +56,7 @@ ul.posts li,
 /* Lists */
 
 dt {
-    padding: 1em;
+    padding: 1em 0 .5em .75em;
 }
 
 ul {
@@ -214,6 +206,8 @@ div[data-type="warning"] h6 {
 
 }
 
+
+
 /* Responsive */
 
 @media only screen and (min-width: 800px) {
@@ -253,7 +247,6 @@ h4 {
 }
 
 .no-bullets {
-    display: inline;
     padding: 0;
     margin: 0;
 }
@@ -261,6 +254,15 @@ h4 {
 div[data-type="note"],
 div[data-type="warning"] {
     font-size: 12pt;
+}
+
+ul.no-bullets {
+    display: inline-block;
+}
+
+.center {
+    width: 100%;
+    text-align: center;
 }
 
 }
@@ -280,11 +282,5 @@ div[data-type="warning"] {
     width: 375px;
     margin: 0 auto;
 }
-
-.center {
-    display: inline-block;
-    margin: 0 auto;
-}
-
 
 }
