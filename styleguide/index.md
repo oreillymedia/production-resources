@@ -57,7 +57,7 @@ title: O'Reilly Style Guide
 </ul>
 
 <div data-type="warning" id="id-BeU0teho"><h6>Warning</h6>
-  <p>When anchoring URLs to text nodes, be as descriptive as possible, as the print version of your book renders hyperlinks like this: "text anchor (<em><a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a></em>)."</p>
+  <p>When anchoring URLs to text nodes, be as descriptive as possible, as the print version of your book renders hyperlinks like this: "text anchor (<a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a>)."</p>
 
 <p>For example, this:</p>
 <blockquote>
