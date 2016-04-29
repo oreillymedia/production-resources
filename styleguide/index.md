@@ -883,6 +883,7 @@ _Alphabetical Word List: Default Spellings_
  
 <h2 id="wordlist-C">C</h2>
 
+* CacheStorage
 * call-to-cation
 * Caps Lock key
 * caret or circumflex
