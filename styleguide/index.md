@@ -1298,7 +1298,7 @@ _Alphabetical Word List: Default Spellings_
 * server-dependent
 * server side (n)
 * server-side (a)
-* Service Worker
+* service worker
 * servlet
 * set up (v)
 * setup (n)
