@@ -1048,6 +1048,7 @@ _Alphabetical Word List: Default Spellings_
 
 * IDs
 * IDE
+* IndexedDB
 * inline
 * inode
 * interclient
