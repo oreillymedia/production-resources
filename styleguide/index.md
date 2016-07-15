@@ -1163,6 +1163,7 @@ _Alphabetical Word List: Default Spellings_
 * NeXTSTEP
 * NOOP
 * nonlocal
+* NoSQL
 * Novell NetWare
 * the _New York Times_
 
