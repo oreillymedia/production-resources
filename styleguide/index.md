@@ -1417,6 +1417,7 @@ _Alphabetical Word List: Default Spellings_
 * web services (unless preceded by a proper noun, as in Microsoft Web Services)
 * website
 * white pages
+* whitepaper (I printed my whitepaper on white paper.)
 * whitespace
 * wide area network or WAN
 * WiFi
