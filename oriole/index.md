@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Oriole Guidelines
+title: Oriole Guidelines and Resources
 ---
 
-# O'Reilly Oriole Guidelines
+# O'Reilly Oriole Guidelines and Resources
+
+Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content.
+
+To learn more and see examples, please go <a href="http://www.oreilly.com/oriole/">here</a>. Safari members can also see the complete collection <a href="https://www.safaribooksonline.com/oriole/">here</a>.
 
 ## Writing the Notebook Content
 
