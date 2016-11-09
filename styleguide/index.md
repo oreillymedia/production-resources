@@ -1052,7 +1052,7 @@ _Alphabetical Word List: Default Spellings_
 * inline
 * inode
 * interclient
-* Internet
+* internet, the internet
 * internetwork
 * intranet
 * Intrinsics
@@ -1408,7 +1408,7 @@ _Alphabetical Word List: Default Spellings_
 <h2 id="wordlist-W">W</h2>
 
 * the _Wall Street Journal_
-* the Web (n)
+* the web (n)
 * web (a)
 * web client
 * webmaster
