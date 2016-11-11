@@ -111,7 +111,11 @@ Sign up for launchbot at http://launchbot.io/. Use your O’Reilly google email 
    * *Certificate:*<br/>Leave empty
    * *Key:*<br/>Leave empty
 
+## Make an Oriole with Git, Atlas, and LaunchBot
 
+Now that al of the pieces are in place, we'll take you through the steps to start a new Oriole project.
+
+### 
 
 
 # Writing the Notebook Content
