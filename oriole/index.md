@@ -9,6 +9,12 @@ Oriole is a unique new medium that blends code, data, text, and video into a nar
 
 To learn more and see examples, please go <a href="http://www.oreilly.com/oriole/">here</a>. Safari members can also see the complete collection <a href="https://www.safaribooksonline.com/oriole/">here</a>.
 
+# Author's Guide: Creating an Oriole with Atlas and LaunchBot
+
+## Introduction
+
+
+
 ## Writing the Notebook Content
 
 The text in the notebook isn’t intended to mirror the voice-over in the video—it's not meant to be a transcript. The text should be brief and stand on its own in case a viewer prefers to read through text+code instead of watching the video.
