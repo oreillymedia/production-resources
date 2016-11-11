@@ -13,9 +13,31 @@ To learn more and see examples, please go <a href="http://www.oreilly.com/oriole
 
 ## Introduction
 
+The following guide will help you get up and running with Atlas and LaunchBot. We'll help you install and set up:
 
+* Git
+* Docker
+* Atlas
+* LaunchBot
 
-## Writing the Notebook Content
+## Installation and Configuration
+
+### Make sure Git is installed
+
+<div data-type="note">
+  <h5>Why do you need Git?</h5>
+  <p>An Oriole is more like software than a manuscript, and software should be managed with something like Git, which provides version control and useful tools such as branching, merging, and diffing.</p>
+</div>
+
+To check whether you have Git installed already, type `git` at the command line in a terminal window. If you see output that describes common Git commands, you have Git installed and can move on to installing Docker for Mac.
+
+If you need help finding a terminal window and using the command line, see Appendix A.
+
+If you need to install Git, [follow the instructions here](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac) (and please reach out to us for help).
+
+Once Git is installed, use `git config` to specify the email address used to login to your oreilly.com account. [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address, to be able to push changes to the remote Atlas repository.
+
+# Writing the Notebook Content
 
 The text in the notebook isn’t intended to mirror the voice-over in the video—it's not meant to be a transcript. The text should be brief and stand on its own in case a viewer prefers to read through text+code instead of watching the video.
 
