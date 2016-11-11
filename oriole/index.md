@@ -54,6 +54,28 @@ Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get 
 
 If you’d like to go a bit further and learn more about Docker, [the Whalesay tutorial](https://docs.docker.com/engine/getstarted/) is a gentle introduction. There’s also this [Introduction to Docker from LaunchBot](http://launchbot.io/docs/tutorial/docker-intro/) that introduces a few Docker/Dockerfile basics.
 
+### Get an Atlas account
+
+<div data-type="note">
+  <h5>Why do you need Atlas?</h5>
+  <p>Well, to be honest, what you really need to use is Git. But Atlas makes it easy to get a Git repo and also makes it easy to add collaborators to work together on an Oriole project. It’s easy to clone an Atlas repo as a LaunchBot project, and you can then use Git to keep it all in sync. Don’t worry if that sounds daunting. We can help.</p>
+</div>
+
+If you're new to Atlas and don't have an account, write to toolsreq@oreilly.com, and they’ll set you up. We offer [official Atlas docs](http://docs.atlas.oreilly.com/), in case you want to dig in and learn more about Atlas (but you can also just reach out to us with your questions).
+
+Once you’re up and running with an Atlas account, ask us to add you to the Atlas project that we've created for your Oriole.
+
+### Configure your public SSH key in Atlas
+
+If you've used Atlas on your current machine before, you can skip this step, as you should already be able to connect.
+
+This can be one of the trickier parts, so it’s totally fine if you’d rather just ask for help right away. What you’re trying to do here, in a nutshell, is to form a trusted bond between Atlas and your machine, so you don’t have to continuously type in your password. Once the trust is formed, you can clone Atlas projects and work locally with Git.
+
+We have a section of the Atlas docs that explains more about [how Git and Atlas work together](http://docs.atlas.oreilly.com/using_git.html#sshkeys), and this section also describes how to check to see if you have an existing key, how to create one if you need to, and finally how to add your key to Atlas.
+
+If the Atlas instructions were confusing, there’s also some helpful instructions from GitHub that describe [how to generate an SSH key](https://help.github.com/articles/generating-an-ssh-key/). If you generate a new key by following the GitHub instructions, you’ll still need to add your key to Atlas, [as described here](http://docs.atlas.oreilly.com/using_git.html#sshkeys).
+
+
 
 # Writing the Notebook Content
 
