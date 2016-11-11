@@ -45,7 +45,7 @@ Once Git is installed, use `git config` to specify your email address (you'll ne
 
 <div data-type="note">
 <h5>Why do you need Docker?</h5>
-  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a **Dockerfile** that LaunchBot helps you create. If an Oriole depends on a library that’s not included in the starter templates that LaunchBot provides, it’s easy to add it to the Dockerfile to create a new image.  </p>
+  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a *Dockerfile* that LaunchBot helps you create. If an Oriole depends on a library that’s not included in the starter templates that LaunchBot provides, it’s easy to add it to the Dockerfile to create a new image.  </p>
 </div>
 
 If you already have Docker installed, please make sure it's updated to the latest version. Then skip to Get an Atlas account.
@@ -74,6 +74,43 @@ This can be one of the trickier parts, so it’s totally fine if you’d rather 
 We have a section of the Atlas docs that explains more about [how Git and Atlas work together](http://docs.atlas.oreilly.com/using_git.html#sshkeys), and this section also describes how to check to see if you have an existing key, how to create one if you need to, and finally how to add your key to Atlas.
 
 If the Atlas instructions were confusing, there’s also some helpful instructions from GitHub that describe [how to generate an SSH key](https://help.github.com/articles/generating-an-ssh-key/). If you generate a new key by following the GitHub instructions, you’ll still need to add your key to Atlas, [as described here](http://docs.atlas.oreilly.com/using_git.html#sshkeys).
+
+### Install LaunchBot
+
+<div data-type="note">
+  <h5>Why do I need to use LaunchBot?</h5>
+  <p>LaunchBot helps you discover, build, and run Docker-enabled content, such as Jupyter Notebooks and Orioles. It provides a desktop GUI in place of the complex command-line process for installing and running applications. Think of LaunchBot as the place authors and editors will work together to create compelling text and runnable code, and as a tool that will help production ensure that all of the dependencies are captured in the Dockerfile so that the Oriole or notebook will run as expected.
+</p>
+</div>
+
+Check out these “Getting Started” materials to learn more about LaunchBot and Oriole: 
+
+* [LaunchBot Overview](http://launchbot.io/docs/overview/)
+* [Benefits of Using LaunchBot](http://launchbot.io/docs/tutorial/benefits/)
+* [Getting Started](http://launchbot.io/docs/tutorial/getting-started/)
+* [Publishing Your Content](http://launchbot.io/docs/tutorial/publishing-content-to-launchbot/)
+* [A Brief Introduction to Docker](http://launchbot.io/docs/tutorial/docker-intro/)
+* [Creating an Oriole in LaunchBot](https://www.youtube.com/watch?v=WJMUkHzAFsg&feature=youtu.be)
+
+Sign up for launchbot at http://launchbot.io/. Use your O’Reilly google email to sign up (google sign up) and follow the directions about copy/pasting the API key.
+
+1. Use Chrome or Firefox as the browser (Safari does not render correctly).
+2. Sign up for a LaunchBot account at http://launchbot.io/. “Google sign up” is the easiest. If you decide to manually enter an email and password, you will need to verify your email (you'll receive a verification email) and then refresh the LaunchBot page to sign in.
+3. Click “Download the latest release”.
+4. Install via the command line. Prefix with `sudo` if the error message “Permission denied” is returned for the `unzip` command.
+5. Start LaunchBot by typing `launchbot` at the command line. LaunchBot will start in your default browser (should be Chrome or Firefox).
+6. The configuration page is found by clicking on the gear icon in the upper right section of the toolbar. Please check that autofill filled correctly.
+   * *Launchbot Host:*<br/>Check that it is http://launchbot.io
+   * *API Key:*<br/>Autofilled. You get a key when you sign up. It's on the launchbot.io page under Dashboard -> Profile. Copy/paste it here if not autofilled.
+   * *Project Directory:*<br/>This is where LaunchBot will save local copies of projects, using Git. The default location is: `/Users/<your username>/launchbot`
+   * *Path to Docker Executable directory:*<br/>Path to where Docker lives on your machine. The default is: `/usr/local/bin`
+   * *Path to Git executable directory:*<br/>Use `which git` to find. Enter without the `git` ending. The default is: `/usr/bin/`
+   * *Docker Host:*<br/>Autofilled. Should be: `unix:///var/run/docker.sock`
+   * *Host IP Address*<br/>Autofilled. Should be: `0.0.0.0`
+   * *CA Certificate:*<br/>Leave empty
+   * *Certificate:*<br/>Leave empty
+   * *Key:*<br/>Leave empty
+
 
 
 
