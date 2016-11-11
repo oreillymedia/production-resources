@@ -22,6 +22,10 @@ The following guide will help you get up and running with Atlas and LaunchBot. W
 
 ## Installation and Configuration
 
+<div data-type="note">
+  <p>The following instructions are for Mac. For those Windows users, we're sorry! Please reach out to us directly for help.</p>
+</div>
+
 ### Make sure Git is installed
 
 <div data-type="note">
@@ -35,7 +39,21 @@ If you need help finding a terminal window and using the command line, see Appen
 
 If you need to install Git, [follow the instructions here](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac) (and please reach out to us for help).
 
-Once Git is installed, use `git config` to specify the email address used to login to your oreilly.com account. [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address, to be able to push changes to the remote Atlas repository.
+Once Git is installed, use `git config` to specify your email address (you'll need to use the same email address you use to log in to Atlas, which we'll discuss below). [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address here as you do in Atlas, so you'll be able to push changes to the remote Atlas repository.
+
+### Install Docker for Mac
+
+<div data-type="note">
+<h5>Why do you need Docker?</h5>
+  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a **Dockerfile** that LaunchBot helps you create. If an Oriole depends on a library that’s not included in the starter templates that LaunchBot provides, it’s easy to add it to the Dockerfile to create a new image.  </p>
+</div>
+
+If you already have Docker installed, please make sure it's updated to the latest version. Then skip to Get an Atlas account.
+
+Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get Docker up and running on your Mac. [Follow the instructions here](https://docs.docker.com/docker-for-mac/) to download and install Docker for Mac.
+
+If you’d like to go a bit further and learn more about Docker, [the Whalesay tutorial](https://docs.docker.com/engine/getstarted/) is a gentle introduction. There’s also this [Introduction to Docker from LaunchBot](http://launchbot.io/docs/tutorial/docker-intro/) that introduces a few Docker/Dockerfile basics.
+
 
 # Writing the Notebook Content
 
