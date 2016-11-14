@@ -111,9 +111,42 @@ Sign up for launchbot at http://launchbot.io/. Use your Google email to sign up 
    * *Certificate:*<br/>Leave empty
    * *Key:*<br/>Leave empty
 
-## Make an Oriole with Git, Atlas, and LaunchBot
+## How to Make an Oriole with Git, Atlas, and LaunchBot
 
 Now that al of the pieces are in place, we'll take you through the steps to start a new Oriole project.
+
+In the following section, we'll show you how to:
+
+* Find your new Atlas project, make a new branch, and clone that branch locally
+* Verify that the container runs using LaunchBot + Docker
+* Start authoring, making changes, and saving commits
+* Push any committed changes back up to Atlas
+
+### Pulling a project from Atlas
+
+1. Sign in to Atlas. On your Projects dashboard, click on the project and then create a new branch. (Here's some [additional Atlas documentation](http://docs.atlas.oreilly.com/collaboration.html#adding-new-collaborators-YrTVuz), in case you need some help.). You'll need to create your own specific branch, as you cannot push directly to the master branch.
+    1. On the Project page, click “Add a branch” (in green)
+    2. Click “Create a branch” (Don’t worry about the warning that branching is in beta).
+    3. The branch will be named with your username and a long number
+2. Run Docker if it’s not already running. (When active, a whale icon will appear in your menu bar. Click on it to check Docker’s status.)
+At the command line type launchbot at the terminal prompt and Launchbot will open in your default browser (should be Chrome or Firefox).
+In Atlas, under Projects, select the project you want to pull. Go to Project Settings in the upper right. Copy the Git URL.
+In Launchbot, on the Search page, paste the Git URL into the field clone an external project and download. The project will now appear under the Projects page and a project directory will be made in ~/launchbot/<project name>.
+Exit Launchbot (close the browser window) and return to the command line. You now need to switch to the branch you created in Step A. (documentation on git branches here.)
+cd ~/launchbot/<project name> Change into the project directory. When you put the Git URL into launchbot in the last step, the project was automatically downloaded into the launchbot directory. ~/ stands for your home directory. For example, my home directory is /Users/eschoell, so my launchbot projects are under /Users/eschoell/launchbot, which is equivalent to ~/launchbot. (Launchbot created this directory for you when you first ran it.)
+git fetch This command will pull all the branches available, including the one you made.
+git branch This command will list the branches available. The starred one is the one you are currently on. At this point, it should be master.
+git checkout <branch name> This command will change you to your branch, which has your Atlas username followed by a large number.
+launchbot Start launchbot again
+In Launchbot highlight the project and click LAUNCH
+Once launched, options will appear under a Services tab. Most likely, this will say “Jupyter Notebook”. Click it.
+A window will open in your browser with the directory tree. Navigate to the notebook and open it. Any changes you make will be saved to your local repository.
+When you are done with edits, click Command+S to save any changes you made.
+Go back to the Projects page and click “Stop”.
+Exit out of Launchbot by closing the browser window.
+You can now commit the changes to the Atlas repo, outlined in VII.
+
+
 
 ### 
 
