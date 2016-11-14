@@ -129,22 +129,22 @@ In the following section, we'll show you how to:
     2. Click “Create a branch” (Don’t worry about the warning that branching is in beta).
     3. The branch will be named with your username and a long number
 2. Run Docker if it’s not already running. (When active, a whale icon will appear in your menu bar. Click on it to check Docker’s status.)
-At the command line type launchbot at the terminal prompt and Launchbot will open in your default browser (should be Chrome or Firefox).
-In Atlas, under Projects, select the project you want to pull. Go to Project Settings in the upper right. Copy the Git URL.
-In Launchbot, on the Search page, paste the Git URL into the field clone an external project and download. The project will now appear under the Projects page and a project directory will be made in ~/launchbot/<project name>.
-Exit Launchbot (close the browser window) and return to the command line. You now need to switch to the branch you created in Step A. (documentation on git branches here.)
-cd ~/launchbot/<project name> Change into the project directory. When you put the Git URL into launchbot in the last step, the project was automatically downloaded into the launchbot directory. ~/ stands for your home directory. For example, my home directory is /Users/eschoell, so my launchbot projects are under /Users/eschoell/launchbot, which is equivalent to ~/launchbot. (Launchbot created this directory for you when you first ran it.)
-git fetch This command will pull all the branches available, including the one you made.
-git branch This command will list the branches available. The starred one is the one you are currently on. At this point, it should be master.
-git checkout <branch name> This command will change you to your branch, which has your Atlas username followed by a large number.
-launchbot Start launchbot again
-In Launchbot highlight the project and click LAUNCH
-Once launched, options will appear under a Services tab. Most likely, this will say “Jupyter Notebook”. Click it.
-A window will open in your browser with the directory tree. Navigate to the notebook and open it. Any changes you make will be saved to your local repository.
-When you are done with edits, click Command+S to save any changes you made.
-Go back to the Projects page and click “Stop”.
-Exit out of Launchbot by closing the browser window.
-You can now commit the changes to the Atlas repo, outlined in VII.
+3. At the command line type `launchbot` at the terminal prompt and LaunchBot will open in your default browser (should be Chrome or Firefox).
+4. In Atlas, under Projects, select the project you want to pull. Go to _Project Settings_ in the upper right. Copy the Git URL.
+5. In LaunchBot, on the _Search_ page, paste the Git URL into the field labeled _clone an external project_ and download. The project will now appear under the _Projects_ page and a project directory will be made in `~/launchbot/<project name>`.
+6. Exit LaunchBot (close the browser window) and return to the command line. You now need to switch to the branch you created in Step 1. ([Additional documentation on Git branches is available here](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).)
+    1. `cd ~/launchbot/<project name>`<br/>Change into the project directory. When you put the Git URL into launchbot in the last step, the project was automatically downloaded into the launchbot directory. `~/` stands for your home directory. For example, my home directory is `/Users/eschoell`, so my LaunchBot projects are under `/Users/eschoell/launchbot`, which is equivalent to `~/launchbot`. (LaunchBot created this directory for you when you first ran it.)
+    2. `git fetch`<br/>This command will pull all the branches available, including the one you made.
+    3. `git branch`<br/>This command will list the branches available. The starred one is the one you are currently on. At this point, it should be master.
+    4. `git checkout <branch name>`<br/>This command will move you to your branch, which has your Atlas username followed by a large number.
+    5. `launchbot`<br/>Start launchbot again
+7. In LaunchBot, highlight the project and click _LAUNCH_
+    1. Once launched, options will appear under a _Services_ tab. Most likely, this will say “Jupyter Notebook”. Click it.
+    2. A window will open in your browser with the directory tree. Navigate to the notebook and open it. Any changes you make will be saved to your local repository.
+    3. When you are done with edits, click `Command+S` to save any changes you made.
+    4. Go back to the _Projects_ page and click “Stop”.
+    5. Exit out of LaunchBot by closing the browser window.
+    6. You can now commit the changes to the Atlas repo, outlined in Step 7.
 
 
 
