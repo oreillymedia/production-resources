@@ -45,7 +45,7 @@ Once Git is installed, use `git config` to specify your email address (you'll ne
 
 <div data-type="note">
 <h5>Why do you need Docker?</h5>
-  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a *Dockerfile* that LaunchBot helps you create. If an Oriole depends on a library that’s not included in the starter templates that LaunchBot provides, it’s easy to add it to the Dockerfile to create a new image.  </p>
+  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a __Dockerfile__ that LaunchBot helps you create. If an Oriole depends on a library that’s not included in the starter templates that LaunchBot provides, it’s easy to add it to the Dockerfile to create a new image.  </p>
 </div>
 
 If you already have Docker installed, please make sure it's updated to the latest version. Then skip to Get an Atlas account.
@@ -92,7 +92,7 @@ Check out these “Getting Started” materials to learn more about LaunchBot an
 * [A Brief Introduction to Docker](http://launchbot.io/docs/tutorial/docker-intro/)
 * [Creating an Oriole in LaunchBot](https://www.youtube.com/watch?v=WJMUkHzAFsg&feature=youtu.be)
 
-Sign up for launchbot at http://launchbot.io/. Use your O’Reilly google email to sign up (google sign up) and follow the directions about copy/pasting the API key.
+Sign up for launchbot at http://launchbot.io/. Use your Google email to sign up (Google sign up) and follow the directions about copy/pasting the API key.
 
 1. Use Chrome or Firefox as the browser (Safari does not render correctly).
 2. Sign up for a LaunchBot account at http://launchbot.io/. “Google sign up” is the easiest. If you decide to manually enter an email and password, you will need to verify your email (you'll receive a verification email) and then refresh the LaunchBot page to sign in.
