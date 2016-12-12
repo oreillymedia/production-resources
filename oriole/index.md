@@ -84,14 +84,7 @@ Check out these “Getting Started” materials to learn more about LaunchBot an
 
 Now that al of the pieces are in place, we'll take you through the steps to start a new Oriole project.
 
-In the following section, we'll show you how to:
-
-* Find your new Atlas project, make a new branch, and clone that branch locally
-* Verify that the container runs using LaunchBot + Docker
-* Start authoring, making changes, and saving commits
-* Push any committed changes back up to Atlas
-
-### Pulling a project from Atlas
+## Pulling a project from Atlas
 
 1. Sign in to Atlas. On your Projects dashboard, click on the project and then create a new branch. (Here's some [additional Atlas documentation](http://docs.atlas.oreilly.com/collaboration.html#adding-new-collaborators-YrTVuz), in case you need some help.). You'll need to create your own specific branch, as you cannot push directly to the master branch.
     1. On the Project page, click “Add a branch” (in green)
