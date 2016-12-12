@@ -3,22 +3,11 @@ layout: default
 title: Oriole Guidelines and Resources
 ---
 
-# O'Reilly Oriole Guidelines and Resources
+# O'Reilly Oriole Author Guide to Working with Atlas and LaunchBot
 
 Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content.
 
 To learn more and see examples, please go <a href="http://www.oreilly.com/oriole/">here</a>. Safari members can also see the complete collection <a href="https://www.safaribooksonline.com/oriole/">here</a>.
-
-# Author's Guide: Creating an Oriole with Atlas and LaunchBot
-
-## Introduction
-
-The following guide will help you get up and running with Atlas and LaunchBot. We'll help you install and set up:
-
-* Git
-* Docker
-* Atlas
-* LaunchBot
 
 ## Installation and Configuration
 
@@ -26,56 +15,38 @@ The following guide will help you get up and running with Atlas and LaunchBot. W
   <p>The following instructions are for Mac. For those Windows users, we're sorry! Please reach out to us directly for help.</p>
 </div>
 
-### Make sure Git is installed
+## Make sure Git is installed
 
 <div data-type="note">
   <h5>Why do you need Git?</h5>
-  <p>An Oriole is more like software than a manuscript, and software should be managed with something like Git, which provides version control and useful tools such as branching, merging, and diffing.</p>
+  <p>An Oriole is more like software than a manuscript, and Git provides version control and useful tools such as branching, merging, and diffing.</p>
 </div>
 
-To check whether you have Git installed already, type `git` at the command line in a terminal window. If you see output that describes common Git commands, you have Git installed and can move on to installing Docker for Mac.
-
-If you need help finding a terminal window and using the command line, see Appendix A.
-
-If you need to install Git, [follow the instructions here](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac) (and please reach out to us for help).
+To check whether you have Git installed already, type `git` at the command line in a terminal window. If you see output that describes common Git commands, you have Git installed and can move on to Installing Docker for Mac.
 
 Once Git is installed, use `git config` to specify your email address (you'll need to use the same email address you use to log in to Atlas, which we'll discuss below). [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address here as you do in Atlas, so you'll be able to push changes to the remote Atlas repository.
 
-### Install Docker for Mac
+## Install Docker for Mac
 
 <div data-type="note">
 <h5>Why do you need Docker?</h5>
-  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a __Dockerfile__ that LaunchBot helps you create. If an Oriole depends on a library that’s not included in the starter templates that LaunchBot provides, it’s easy to add it to the Dockerfile to create a new image.  </p>
+  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a __Dockerfile__ that LaunchBot helps you create.</p>
 </div>
 
 If you already have Docker installed, please make sure it's updated to the latest version. Then skip to Get an Atlas account.
 
 Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get Docker up and running on your Mac. [Follow the instructions here](https://docs.docker.com/docker-for-mac/) to download and install Docker for Mac.
 
-If you’d like to go a bit further and learn more about Docker, [the Whalesay tutorial](https://docs.docker.com/engine/getstarted/) is a gentle introduction. There’s also this [Introduction to Docker from LaunchBot](http://launchbot.io/docs/tutorial/docker-intro/) that introduces a few Docker/Dockerfile basics.
-
-### Get an Atlas account
+## Get an Atlas account
 
 <div data-type="note">
   <h5>Why do you need Atlas?</h5>
-  <p>Well, to be honest, what you really need to use is Git. But Atlas makes it easy to get a Git repo and also makes it easy to add collaborators to work together on an Oriole project. It’s easy to clone an Atlas repo as a LaunchBot project, and you can then use Git to keep it all in sync. Don’t worry if that sounds daunting. We can help.</p>
+  <p>Well, to be honest, what you really need to use is Git. But Atlas makes it easy to get a Git repo and also makes it easy to add collaborators to work together on an Oriole project.</p>
 </div>
 
-If you're new to Atlas and don't have an account, write to toolsreq@oreilly.com, and they’ll set you up. We offer [official Atlas docs](http://docs.atlas.oreilly.com/), in case you want to dig in and learn more about Atlas (but you can also just reach out to us with your questions).
+We'll prepare a repo with a starter Oriole template for you and send you an invitaiton by email to join the Atlas project. If you haven't received an email invitation, please reach out to Eszti for help.
 
-Once you’re up and running with an Atlas account, ask us to add you to the Atlas project that we've created for your Oriole.
-
-### Configure your public SSH key in Atlas
-
-If you've used Atlas on your current machine before, you can skip this step, as you should already be able to connect.
-
-This can be one of the trickier parts, so it’s totally fine if you’d rather just ask for help right away. What you’re trying to do here, in a nutshell, is to form a trusted bond between Atlas and your machine, so you don’t have to continuously type in your password. Once the trust is formed, you can clone Atlas projects and work locally with Git.
-
-We have a section of the Atlas docs that explains more about [how Git and Atlas work together](http://docs.atlas.oreilly.com/using_git.html#sshkeys), and this section also describes how to check to see if you have an existing key, how to create one if you need to, and finally how to add your key to Atlas.
-
-If the Atlas instructions were confusing, there’s also some helpful instructions from GitHub that describe [how to generate an SSH key](https://help.github.com/articles/generating-an-ssh-key/). If you generate a new key by following the GitHub instructions, you’ll still need to add your key to Atlas, [as described here](http://docs.atlas.oreilly.com/using_git.html#sshkeys).
-
-### Install LaunchBot
+## Install LaunchBot
 
 <div data-type="note">
   <h5>Why do I need to use LaunchBot?</h5>
@@ -92,9 +63,7 @@ Check out these “Getting Started” materials to learn more about LaunchBot an
 * [A Brief Introduction to Docker](http://launchbot.io/docs/tutorial/docker-intro/)
 * [Creating an Oriole in LaunchBot](https://www.youtube.com/watch?v=WJMUkHzAFsg&feature=youtu.be)
 
-Sign up for launchbot at http://launchbot.io/. Use your Google email to sign up (Google sign up) and follow the directions about copy/pasting the API key.
-
-1. Use Chrome or Firefox as the browser (Safari does not render correctly).
+1. Use Chrome or Firefox (Safari does not render correctly).
 2. Sign up for a LaunchBot account at http://launchbot.io/. “Google sign up” is the easiest. If you decide to manually enter an email and password, you will need to verify your email (you'll receive a verification email) and then refresh the LaunchBot page to sign in.
 3. Click “Download the latest release”.
 4. Install via the command line. Prefix with `sudo` if the error message “Permission denied” is returned for the `unzip` command.
@@ -111,7 +80,7 @@ Sign up for launchbot at http://launchbot.io/. Use your Google email to sign up 
    * *Certificate:*<br/>Leave empty
    * *Key:*<br/>Leave empty
 
-## How to Make an Oriole with Git, Atlas, and LaunchBot
+# How to Make an Oriole with Git, Atlas, and LaunchBot
 
 Now that al of the pieces are in place, we'll take you through the steps to start a new Oriole project.
 
