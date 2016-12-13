@@ -5,8 +5,8 @@ title: Oriole Guidelines and Resources
 
 # O'Reilly Oriole and LaunchBot<a name="about_oriole"></a>
 
-[Installation and Setup](#install)
-[How to Make an Oriole with LaunchBot](#make_oriole)
+[Installation and Setup](#install)<br/>
+[How to Make an Oriole with LaunchBot](#make_oriole)<br/>
 [Tips for Creating a Notebook](#tips)
 
 Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content. You can <a href="http://www.oreilly.com/oriole/">see a few examples here</a>, or take a look at the <a href="https://www.safaribooksonline.com/oriole/">complete collection on Safari</a>.
