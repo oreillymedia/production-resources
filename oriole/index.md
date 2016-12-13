@@ -15,7 +15,7 @@ To learn more and see examples, please go <a href="http://www.oreilly.com/oriole
   <p>The following instructions are for Mac. For those Windows users, we're sorry! Please reach out to us directly for help.</p>
 </div>
 
-## Make sure Git is installed
+## Make Sure Git Is Installed
 
 <div data-type="note">
   <h5>Why do you need Git?</h5>
@@ -84,7 +84,7 @@ Check out these “Getting Started” materials to learn more about LaunchBot an
 
 Now that all of the pieces are in place, we'll take you through the steps to start a new Oriole project.
 
-## Coning the project from GitLab
+## Coning the Project from GitLab
 
 1. Start Docker if it’s not already running. (When active, a whale icon will appear in your menu bar. Click on it to check Docker’s status.)
 2. At the command line type `launchbot` at the terminal prompt, and LaunchBot will open in your default browser (we recommend Chrome or Firefox—don't use Safari).
@@ -104,7 +104,7 @@ Now that all of the pieces are in place, we'll take you through the steps to sta
     5. Exit out of LaunchBot by closing the browser window.
     6. You can now commit the changes back to the GitLab repo, so others can see your work.
     
-## Committing Your Changes back to GitLab
+## Committing Your Changes Back to GitLab
 
 On the command line:
 
