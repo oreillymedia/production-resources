@@ -17,7 +17,7 @@ The following instructions will get you up and running with LaunchBot.
 
 To check whether you have Git installed already, type `git` at the command line in a terminal window. If you see output that describes common Git commands, you have Git installed.
 
-Once Git is installed, use `git config` to specify your email address (you'll need to use the same email address you use to log in to GitLab, which we'll discuss below). [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address here as you do in GitLab, so you'll be able to push changes to the remote GitLab repository.
+Use `git config` to specify your email address (you'll need to use the same email address you use to log in to GitLab, which we'll discuss below). [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address here as you do in GitLab, so you'll be able to push changes to the remote GitLab repository.
 
 ## Install Docker for Mac
 
@@ -27,7 +27,7 @@ Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get 
 
 ## Get a GitLab Account and Access to the Oriole Project 
 
-GitLab makes it easy to get a Git repo and add collaborators to work together on an Oriole project. We'll also get you started with a template that includes a base *Dockerfile* that's appropriate for your project and invite you to join and create an account. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
+GitLab makes it easy to get a Git repo and add collaborators to work together on an Oriole project. We'll get you started with a template that includes a base *Dockerfile* that's appropriate for your project, and we'll invite you to create a GitLab account. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
 
 ## Install LaunchBot
 
