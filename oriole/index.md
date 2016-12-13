@@ -5,6 +5,10 @@ title: Oriole Guidelines and Resources
 
 # O'Reilly Oriole and LaunchBot<a name="about_oriole"></a>
 
+[Installation and Setup](#install)<br/>
+[How to Make an Oriole with LaunchBot](#make_oriole)<br/>
+[Tips for Creating a Notebook](#tips)
+
 Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content. You can <a href="http://www.oreilly.com/oriole/">see a few examples here</a>, or take a look at the <a href="https://www.safaribooksonline.com/oriole/">complete collection on Safari</a>.
 
 LaunchBot helps you discover, build, and run Docker-enabled content, such as Jupyter Notebooks and Orioles. It provides a desktop GUI in place of many of the complex command-line process for installing and running applications. Think of LaunchBot as the place authors and editors will work together to create compelling text and runnable code, and as a tool that will help production ensure that all of the dependencies are captured in the *Dockerfile* so that the Oriole or notebook will run as expected.
