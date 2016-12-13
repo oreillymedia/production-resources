@@ -3,56 +3,31 @@ layout: default
 title: Oriole Guidelines and Resources
 ---
 
-# O'Reilly Oriole Author Guide to Working with Atlas and LaunchBot
+# How to Make an Oriole with LaunchBot
 
-Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content.
+Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content. To learn more and see examples, please go <a href="http://www.oreilly.com/oriole/">here</a>. Safari members can also see the complete collection <a href="https://www.safaribooksonline.com/oriole/">here</a>.
 
-To learn more and see examples, please go <a href="http://www.oreilly.com/oriole/">here</a>. Safari members can also see the complete collection <a href="https://www.safaribooksonline.com/oriole/">here</a>.
-
-## Installation and Configuration
-
-<div data-type="note">
-  <p>The following instructions are for Mac. For those Windows users, we're sorry! Please reach out to us directly for help.</p>
-</div>
+The following instructions will get you up and running with LaunchBot.
 
 ## Make Sure Git Is Installed
 
-<div data-type="note">
-  <h5>Why do you need Git?</h5>
-  <p>An Oriole is more like software than a manuscript, and Git provides version control and useful tools such as branching, merging, and diffing.</p>
-</div>
+To check whether you have Git installed already, type `git` at the command line in a terminal window. If you see output that describes common Git commands, you have Git installed.
 
-To check whether you have Git installed already, type `git` at the command line in a terminal window. If you see output that describes common Git commands, you have Git installed and can move on to Installing Docker for Mac.
-
-Once Git is installed, use `git config` to specify your email address (you'll need to use the same email address you use to log in to Atlas, which we'll discuss below). [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address here as you do in Atlas, so you'll be able to push changes to the remote Atlas repository.
+Once Git is installed, use `git config` to specify your email address (you'll need to use the same email address you use to log in to GitLab, which we'll discuss below). [Here are instructions.](https://help.github.com/articles/setting-your-email-in-git/) It's important that you use the same email address here as you do in GitLab, so you'll be able to push changes to the remote GitLab repository.
 
 ## Install Docker for Mac
 
-<div data-type="note">
-<h5>Why do you need Docker?</h5>
-  <p>Orioles run in secure, isolated containers that include all of the dependencies and libraries that the application needs to run. These dependencies are defined in a __Dockerfile__ that LaunchBot helps you create.</p>
-</div>
-
-If you already have Docker installed, please make sure it's updated to the latest version. Then skip to Get an Atlas account.
+If you already have Docker installed, please make sure it's updated to the latest version.
 
 Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get Docker up and running on your Mac. [Follow the instructions here](https://docs.docker.com/docker-for-mac/) to download and install Docker for Mac.
 
 ## Get a GitLab Account and Access to the Oriole Project 
 
-<div data-type="note">
-  <h5>Why do you need GitLab?</h5>
-  <p>GitLab makes it easy to get a Git repo and also makes it easy to add collaborators to work together on an Oriole project. We'll also get you started with a template that includes a base __Dockerfile__ that's appropriate for your project.</p>
-</div>
-
-We'll prepare a repo with a starter Oriole template and send you an invitation join the GitLab project. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
+GitLab makes it easy to get a Git repo and add collaborators to work together on an Oriole project. We'll also get you started with a template that includes a base *Dockerfile* that's appropriate for your project and invite you to join and create an account. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
 
 ## Install LaunchBot
 
-<div data-type="note">
-  <h5>Why do I need to use LaunchBot?</h5>
-  <p>LaunchBot helps you discover, build, and run Docker-enabled content, such as Jupyter Notebooks and Orioles. It provides a desktop GUI in place of the complex command-line process for installing and running applications. Think of LaunchBot as the place authors and editors will work together to create compelling text and runnable code, and as a tool that will help production ensure that all of the dependencies are captured in the Dockerfile so that the Oriole or notebook will run as expected.
-</p>
-</div>
+LaunchBot helps you discover, build, and run Docker-enabled content, such as Jupyter Notebooks and Orioles. It provides a desktop GUI in place of the complex command-line process for installing and running applications. Think of LaunchBot as the place authors and editors will work together to create compelling text and runnable code, and as a tool that will help production ensure that all of the dependencies are captured in the Dockerfile so that the Oriole or notebook will run as expected.
 
 Check out these “Getting Started” materials to learn more about LaunchBot and Oriole: 
 
