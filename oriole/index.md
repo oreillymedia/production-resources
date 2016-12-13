@@ -7,6 +7,17 @@ title: Oriole Guidelines and Resources
 
 Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content. To learn more and see examples, please go <a href="http://www.oreilly.com/oriole/">here</a>. Safari members can also see the complete collection <a href="https://www.safaribooksonline.com/oriole/">here</a>.
 
+LaunchBot helps you discover, build, and run Docker-enabled content, such as Jupyter Notebooks and Orioles. It provides a desktop GUI in place of the complex command-line process for installing and running applications. Think of LaunchBot as the place authors and editors will work together to create compelling text and runnable code, and as a tool that will help production ensure that all of the dependencies are captured in the Dockerfile so that the Oriole or notebook will run as expected.
+
+You can learn more about LaunchBot here: 
+
+* [LaunchBot Overview](http://launchbot.io/docs/overview/)
+* [Benefits of Using LaunchBot](http://launchbot.io/docs/tutorial/benefits/)
+* [Getting Started](http://launchbot.io/docs/tutorial/getting-started/)
+* [Publishing Your Content](http://launchbot.io/docs/tutorial/publishing-content-to-launchbot/)
+* [A Brief Introduction to Docker](http://launchbot.io/docs/tutorial/docker-intro/)
+* [Creating an Oriole in LaunchBot](https://www.youtube.com/watch?v=WJMUkHzAFsg&feature=youtu.be)
+
 The following instructions will get you up and running with LaunchBot.
 
 ## Make Sure Git Is Installed
@@ -26,17 +37,6 @@ Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get 
 GitLab makes it easy to get a Git repo and add collaborators to work together on an Oriole project. We'll also get you started with a template that includes a base *Dockerfile* that's appropriate for your project and invite you to join and create an account. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
 
 ## Install LaunchBot
-
-LaunchBot helps you discover, build, and run Docker-enabled content, such as Jupyter Notebooks and Orioles. It provides a desktop GUI in place of the complex command-line process for installing and running applications. Think of LaunchBot as the place authors and editors will work together to create compelling text and runnable code, and as a tool that will help production ensure that all of the dependencies are captured in the Dockerfile so that the Oriole or notebook will run as expected.
-
-Check out these “Getting Started” materials to learn more about LaunchBot and Oriole: 
-
-* [LaunchBot Overview](http://launchbot.io/docs/overview/)
-* [Benefits of Using LaunchBot](http://launchbot.io/docs/tutorial/benefits/)
-* [Getting Started](http://launchbot.io/docs/tutorial/getting-started/)
-* [Publishing Your Content](http://launchbot.io/docs/tutorial/publishing-content-to-launchbot/)
-* [A Brief Introduction to Docker](http://launchbot.io/docs/tutorial/docker-intro/)
-* [Creating an Oriole in LaunchBot](https://www.youtube.com/watch?v=WJMUkHzAFsg&feature=youtu.be)
 
 1. Use Chrome or Firefox (Safari does not render correctly).
 2. Sign up for a LaunchBot account at http://launchbot.io/. “Google sign up” is the easiest. If you decide to manually enter an email and password, you will need to verify your email (you'll receive a verification email) and then refresh the LaunchBot page to sign in.
