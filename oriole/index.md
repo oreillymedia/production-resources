@@ -37,14 +37,14 @@ If you already have Docker installed, please make sure it's updated to the lates
 
 Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get Docker up and running on your Mac. [Follow the instructions here](https://docs.docker.com/docker-for-mac/) to download and install Docker for Mac.
 
-## Get an Atlas account
+## Get a GitLab Account and Access to the Oriole Project 
 
 <div data-type="note">
-  <h5>Why do you need Atlas?</h5>
-  <p>Well, to be honest, what you really need to use is Git. But Atlas makes it easy to get a Git repo and also makes it easy to add collaborators to work together on an Oriole project.</p>
+  <h5>Why do you need GitLab?</h5>
+  <p>GitLab makes it easy to get a Git repo and also makes it easy to add collaborators to work together on an Oriole project. We'll also get you started with a template that includes a base __Dockerfile__ that's appropriate for your project.</p>
 </div>
 
-We'll prepare a repo with a starter Oriole template for you and send you an invitaiton by email to join the Atlas project. If you haven't received an email invitation, please reach out to Eszti for help.
+We'll prepare a repo with a starter Oriole template and send you an invitation join the GitLab project. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
 
 ## Install LaunchBot
 
@@ -80,59 +80,46 @@ Check out these “Getting Started” materials to learn more about LaunchBot an
    * *Certificate:*<br/>Leave empty
    * *Key:*<br/>Leave empty
 
-# How to Make an Oriole with Git, Atlas, and LaunchBot
+# How to Make an Oriole with LaunchBot
 
-Now that al of the pieces are in place, we'll take you through the steps to start a new Oriole project.
+Now that all of the pieces are in place, we'll take you through the steps to start a new Oriole project.
 
-## Pulling a project from Atlas
+## Coning the project from GitLab
 
-1. Sign in to Atlas. On your Projects dashboard, click on the project and then create a new branch. (Here's some [additional Atlas documentation](http://docs.atlas.oreilly.com/collaboration.html#adding-new-collaborators-YrTVuz), in case you need some help.). You'll need to create your own specific branch, as you cannot push directly to the master branch.
-    1. On the Project page, click “Add a branch” (in green)
-    2. Click “Create a branch” (Don’t worry about the warning that branching is in beta).
-    3. The branch will be named with your username and a long number
-2. Run Docker if it’s not already running. (When active, a whale icon will appear in your menu bar. Click on it to check Docker’s status.)
-3. At the command line type `launchbot` at the terminal prompt and LaunchBot will open in your default browser (should be Chrome or Firefox).
-4. In Atlas, under Projects, select the project you want to pull. Go to _Project Settings_ in the upper right. Copy the Git URL.
-5. In LaunchBot, on the _Search_ page, paste the Git URL into the field labeled _clone an external project_ and download. The project will now appear under the _Projects_ page and a project directory will be made in `~/launchbot/<project name>`.
-6. Exit LaunchBot (close the browser window) and return to the command line. You now need to switch to the branch you created in Step 1. ([Additional documentation on Git branches is available here](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).)
-    1. `cd ~/launchbot/<project name>`<br/>Change into the project directory. When you put the Git URL into launchbot in the last step, the project was automatically downloaded into the launchbot directory. `~/` stands for your home directory. For example, my home directory is `/Users/eschoell`, so my LaunchBot projects are under `/Users/eschoell/launchbot`, which is equivalent to `~/launchbot`. (LaunchBot created this directory for you when you first ran it.)
-    2. `git fetch`<br/>This command will pull all the branches available, including the one you made.
-    3. `git branch`<br/>This command will list the branches available. The starred one is the one you are currently on. At this point, it should be master.
-    4. `git checkout <branch name>`<br/>This command will move you to your branch, which has your Atlas username followed by a large number.
+1. Start Docker if it’s not already running. (When active, a whale icon will appear in your menu bar. Click on it to check Docker’s status.)
+2. At the command line type `launchbot` at the terminal prompt, and LaunchBot will open in your default browser (we recommend Chrome or Firefox—don't use Safari).
+3. In LaunchBot, on the _Search_ page, paste the HTTPS URL from the GitLab project into the field labeled _clone an external project_ and click `download`. The project will now appear under the _Projects_ page and a project directory will be made in `~/launchbot/<project name>`.
+6. Exit LaunchBot (close the browser window) and return to the command line. You now need to switch to the `authoring branch` to do your work.
+    1. `cd ~/launchbot/<project name>`<br/>Change into the project directory.
+    2. `git branch -r`<br/>Lists all available remote branches.
+    3. `git branch`<br/>Lists all available local branches. You should see an asterisk next to Master.
+    4. `git checkout authoring_branch`<br/>Moves you to the authoring branch, where you'll do your work.
+    5. `git branch`<br/>You should now see an asterisk next to `authoring_branch`.
     5. `launchbot`<br/>Start launchbot again
 7. In LaunchBot, highlight the project and click _LAUNCH_
-    1. Once launched, options will appear under a _Services_ tab. Most likely, this will say “Jupyter Notebook”. Click it.
+    1. Once launched (it might take a while to launch the first time), options will appear under a _Services_ tab. Most likely, this will say “Open Notebook”. Click it.
     2. A window will open in your browser with the directory tree. Navigate to the notebook and open it. Any changes you make will be saved to your local repository.
     3. When you are done with edits, click `Command+S` to save any changes you made.
     4. Go back to the _Projects_ page and click “Stop”.
     5. Exit out of LaunchBot by closing the browser window.
-    6. You can now commit the changes to the Atlas repo, outlined in Step 7.
+    6. You can now commit the changes back to the GitLab repo, so others can see your work.
+    
+## Committing Your Changes back to GitLab
 
+On the command line:
 
+1. `cd ~/launchbot/<project name>`
+2. `git status`<br/>This command will list the files you changed
+3. `git add <filename>`<br/>Identifies the files you want to push to the GitLab repo
+4. `git commit -m "message"`<br/>Adds a message of what this commit contains
+5. `git push origin authoring_branch`<br/>Moves the changes to the remote GitLab repo 
+6. Let your editor know that you're ready for editorial input.
 
-### 
+# Tips for Writing the Notebook Content
 
-
-# Writing the Notebook Content
-
-The text in the notebook isn’t intended to mirror the voice-over in the video—it's not meant to be a transcript. The text should be brief and stand on its own in case a viewer prefers to read through text+code instead of watching the video.
-
-## Recording the Video
-
-The video is intended to guide a viewer as they scroll down the page and try the code examples. It isn’t a mirror of the content, but should always refer to it.
-
-## Introduction in the Video
-
-The introduction should include:
-* a brief bio about the author (1 min)
-* explain the “big picture” of what the notebook demonstrates, and give a brief outline of what the viewer should expect from the lesson (aim for 1–2 minutes)
-
-The Introduction is the only video segment shown in full-screen width, so it becomes the main opportunity to connect with the viewer; be casual, accessible, and human.
-
-The remainder of the video (~25 minutes) will appear in a smaller window—unless required by the lesson. Body expressions should be BIG rather than small movements, so they get noticed. Even so, keep eye contact with the camera most of the time. The author stands behind their laptop while recording the video, to refer to the context of the text+code while working through the notebook.
-
-Code won't execute automatically as the video plays, so the author should invite viewers to run the code, and even pause the video to experiment on their own with the examples.
-
-It’s possible to enlarge the video in an Oriole on a cue, so the author can explain something outside of the screen. Ideally this would happen on a whiteboard or a large piece of paper. Whatever gets written should be large and simple enough to be read on a small screen.
-
-When you finish a sentence, don’t just look down at the computer. Make a point to pause and smile, breathe, especially during the intro section. We need to plan for sync’ing video with the notebook.
+* Import libraries into the cell where they're needed rather than including an all-inclusive import cell at the beginning of the notebook. This makes it easier for your audience to follow.
+* Try to condense cells so that each “Run” produces output. 
+* Refer to the cell that the reader should run at that moment.
+* Use local data—don't pull from the internet. You can program as an if-statement if you want code there for downloading, e.g., if not exist: download code.
+* Before submitting your final version, please do a final run through in a fresh container and notebook to make sure everything really does work.
+* When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>`—the `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
