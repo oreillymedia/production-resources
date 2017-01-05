@@ -81,6 +81,7 @@ On the command line:
 * Import libraries into the cell where they're needed rather than including an all-inclusive import cell at the beginning of the notebook. This makes it easier for your audience to follow.
 * Try to condense cells so that each “Run” produces output. 
 * Refer to the cell that the reader should run at that moment.
-* Use local data—don't pull from the internet. You can program as an if-statement if you want code there for downloading, e.g., if not exist: download code.
+* Use local data—don't pull from the internet. You can program as an if-statement if you want code there for downloading, e.g., if not exist: code to download.
+* Do not interactively save and load data.
 * Before submitting your final version, please do a final run through in a fresh container and notebook to make sure everything really does work.
 * When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>`—the `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
