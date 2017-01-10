@@ -91,4 +91,4 @@ On the command line:
 * Before submitting your final version, please do a final run through in a fresh container and notebook to make sure everything really does work.
 
 
-* Refer to the cell that the reader should run at that moment.
+* During the video shoot, please be sure to refer to the cell that the reader should run at that moment.
