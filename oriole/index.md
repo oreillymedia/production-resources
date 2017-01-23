@@ -78,17 +78,24 @@ On the command line:
 
 # Tips for Writing the Notebook Content<a name="tips"></a> 
 
-* Try to condense cells so that each “Run” produces output. 
+* The Oriole notebook should read like an article. Make sure the notebook "stands alone" with subtitles and headers, with  text referring to what the blocks do. Feel free to mention specifics in the text that you may not have time for in the video (which should be kept to 30 minutes).
 
-* Use local data—don't pull from the internet. If including code for downloading data is important, please use an if-statement, e.g., if not exist: code to download.
+* Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. Be sure to explicitly talk about each block and mention running each block specifically during recording.
+
+* Keep output to a reasonable length. For rows, 3-5 should suffice. For columns, display just the ones you are talking about if not all are relevant.
+
+* Use local data — don't pull from the internet. If including code for downloading data is important, please use an if-statement, e.g., if not exist: code to download.
+
+* Keep datasets small and quickly executable. Create a subset and refer to the larger dataset for viewers to use on their own. Long datasets cause long execution times and confuse viewers.
+
+* When referring to results, make sure they are repeatable time and again.
 
 * When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>`—the `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
 
-* Import libraries into the cell where they're first needed to make it easier for the customer to follow.
+* Import libraries into the cell where they're first needed to make it easier for the viewer to follow.
 
 * Consider that the user may go back to re-run individual cells. For example, if you create a dataframe and decide to "clean it" by deleting a column, then the user can't re-run the cell that loaded the previous version of the dataframe without re-creating the original version first. 
 
 * Before submitting your final version, please do a final run through in a fresh container and notebook to make sure everything really does work.
 
-
-* During the video shoot, please be sure to refer to the cell that the reader should run at that moment.
+* When recording, refer specifically to "Run" cells when you are talking about them, in a way that makes them easily identifiable for cuing and for viewers.
