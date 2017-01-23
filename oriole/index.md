@@ -76,17 +76,17 @@ On the command line:
 5. `git push origin authoring_branch`<br/>Moves the changes to the remote GitLab repo 
 6. Let your editor know that you're ready for editorial input.
 
-# Tips for Writing the Notebook Content<a name="tips"></a>
-
-* Import libraries into the cell where they're first needed to make it easier for the customer to follow. 
+# Tips for Writing the Notebook Content<a name="tips"></a> 
 
 * Try to condense cells so that each “Run” produces output. 
 
 * Use local data—don't pull from the internet. If including code for downloading data is important, please use an if-statement, e.g., if not exist: code to download.
 
-* Do not interactively save and load data. The customer does not have write permissions.
-
 * When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>`—the `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
+
+* Import libraries into the cell where they're first needed to make it easier for the customer to follow.
+
+* Consider that the user may go back to re-run individual cells. For example, if you create a dataframe and decide to "clean it" by deleting a column, then the user can't re-run the cell that loaded the previous version of the dataframe without re-creating the original version first. 
 
 * Before submitting your final version, please do a final run through in a fresh container and notebook to make sure everything really does work.
 
