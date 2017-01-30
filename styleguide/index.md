@@ -75,6 +75,11 @@ title: O'Reilly Style Guide
 <p>Long URLs should be shortened so that they’re easy for print readers to type manually. If a book contains many long URLs, our Tools group may be able to automate link shortening.</p>
 </li>
 </ul>
+<div data-type="warning" id="id-warning-amazon"><h6>Warning</h6>
+  <p>Content should not contain any active links to products on any sales channels other than oreilly.com, including Apple, Google, or Amazon. If these remain, it will cause issues (i.e., Apple and Google will refuse to sell content that links to products on Amazon). For vendors, please flag any links to these online vendors and let the production editor know they exist.</p>
+  
+  <p>However, saying "XX book is available on Amazon"—sans link—is OK.</p>
+</div>
 </section>
 
 
