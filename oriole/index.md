@@ -78,9 +78,11 @@ On the command line:
 
 # Tips for Writing the Notebook Content<a name="tips"></a> 
 
-* The Oriole notebook should read like an article. Make sure the notebook "stands alone" with subtitles and headers, with  text referring to what the blocks do. Feel free to mention specifics in the text that you may not have time for in the video (which should be kept to 30 minutes).
+* The Oriole notebook should read like an article. Make sure the notebook "stands alone" with subtitles and headers, with  text referring to what the blocks do. Feel free to mention specifics in the text that you may not have time for in the video (which should be kept between 20-30 minutes).
 
-* Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. Be sure to explicitly talk about each block and mention running each block specifically during recording.
+* Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. 
+
+* Be sure to *explicitly* mention when the user should click Run during recording. The user does not see you scrolling and clicking through the notebook - they respond to your audio cues.
 
 * Keep output to a reasonable length. For rows, 3-5 should suffice. For columns, display just the ones you are talking about if not all are relevant.
 
