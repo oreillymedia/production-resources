@@ -31,15 +31,13 @@ Docker is needed to build an Oriole, and "Docker for Mac" is an easy way to get 
 
 ## Get a GitLab Account and Access to the Oriole Project 
 
-GitLab makes it easy to get a Git repo and add collaborators to work together on an Oriole project. We'll get you started with a template that includes a base *Dockerfile* that's appropriate for your project, and we'll invite you to create a GitLab account. You'll be able to use HTTPS (preferred) or SSH to clone your project into LaunchBot.
+GitLab makes it easy to get a Git repo and add collaborators to work together on an Oriole project. We'll get you started with a template that includes a base *Dockerfile* that's appropriate for your project, and we'll invite you to create a GitLab account. You'll use HTTPS to clone your project into LaunchBot.
 
 ## Install LaunchBot
 
 1. Use Chrome or Firefox (Safari does not render correctly).
-2. Download the [latest release of LaunchBot](https://dl.equinox.io/oreillymedia/launchbot/stable) and follow the instructions for installing. Prefix with `sudo` if the error message “Permission denied” is returned for the `unzip` command.
-3. Sign up for a LaunchBot account at http://launchbot.io/. “Google sign up” is the easiest. If you decide to manually enter an email and password, you will need to verify your email (you'll receive a verification email) and then refresh the LaunchBot page to sign in.
-5. Start LaunchBot by typing `launchbot` at the command line. LaunchBot will start in your default browser (should be Chrome or Firefox).
-6. The configuration page is found by clicking on the gear icon in the upper right section of the toolbar. You can [check your settings here](http://oreillymedia.github.io/production-resources/oriole/launchbot-settings).
+2. Go to [launchbot.io](launchbot.io) and follow the instructions for installing. 
+3. Start LaunchBot by typing `launchbot` at the command line or double clicking the icon. LaunchBot will start in your default browser (should be Chrome or Firefox).
 
 # How to Make an Oriole with LaunchBot<a name="make_oriole"></a>
 
@@ -48,33 +46,21 @@ Now that all of the pieces are in place, we'll take you through the steps to sta
 ## Cloning the Project from GitLab
 
 1. Start Docker if it’s not already running. (When active, a whale icon will appear in your menu bar. Click on it to check Docker’s status.)
-2. At the command line type `launchbot` at the terminal prompt, and LaunchBot will open in your default browser (we recommend Chrome or Firefox—don't use Safari).
-3. In LaunchBot, on the _Search_ page, paste the HTTPS URL from the GitLab project into the field labeled _clone an external project_ and click `download`. The project will now appear under the _Projects_ page and a project directory will be made in `~/launchbot/<project name>`.
-6. Exit LaunchBot (close the browser window) and return to the command line. You now need to switch to the `authoring branch` to do your work.
-    1. `cd ~/launchbot/<project name>`<br/>Change into the project directory.
-    2. `git branch -r`<br/>Lists all available remote branches.
-    3. `git branch`<br/>Lists all available local branches. You should see an asterisk next to Master.
-    4. `git checkout authoring_branch`<br/>Moves you to the authoring branch, where you'll do your work.
-    5. `git branch`<br/>You should now see an asterisk next to `authoring_branch`.
-    5. `launchbot`<br/>Start LaunchBot again
-7. In LaunchBot, highlight the project and click _LAUNCH_
-    1. Once launched (it might take a while to launch the first time), options will appear under a _Services_ tab. Most likely, this will say “Open Notebook”. Click it.
-    2. A window will open in your browser with the directory tree. Navigate to the notebook and open it. Any changes you make will be saved to your local repository.
-    3. When you are done with edits, click `Command+S` to save any changes you made.
-    4. Go back to the _Projects_ page and click “Stop”.
-    5. Exit out of LaunchBot by closing the browser window.
-    6. You can now commit the changes back to the GitLab repo, so others can see your work.
+2. Start LaunchBot
+3. In LaunchBot, click the **Projects** tab. Under _Your Projects_, paste the HTTPS URL from the GitLab project into the field _Clone a project from a git url_ and click `download`. The project will now appear under _Your Projects_ and a project directory will be made in `~/launchbot/<project name>`.
+4. Double click the project
+5. Select the branch you want to work on under _Working Branch_ (probably `authoring_branch`).
+6. Click LAUNCH PROJECT
     
 ## Committing Your Changes Back to GitLab
 
-On the command line:
+After you are satisfied with the changes you have made:
 
-1. `cd ~/launchbot/<project name>`
-2. `git status`<br/>This command will list the files you changed
-3. `git add <filename>`<br/>Identifies the files you want to push to the GitLab repo
-4. `git commit -m "message"`<br/>Adds a message of what this commit contains
-5. `git push origin authoring_branch`<br/>Moves the changes to the remote GitLab repo 
-6. Let your editor know that you're ready for editorial input.
+1. Close jupyter notebook
+2. Type in commit message
+3. Click COMMIT
+4. PUSH to remote repositor
+5. Let your editor know that you're ready for editorial input.
 
 # Tips for Writing the Notebook Content<a name="tips"></a> 
 
