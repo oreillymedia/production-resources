@@ -834,6 +834,7 @@ _Alphabetical Word List: Default Spellings_
 * ad hoc
 * ADO.NET
 * Agile (cap when referring to Agile software development or when used on its own as a noun)
+* Ajax
 * a.k.a. or aka (be consistent)
 * a.m. or A.M.
 * Alt key
