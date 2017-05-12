@@ -1107,6 +1107,7 @@ _Alphabetical Word List: Default Spellings_
 * leftmost
 * less-than sign or &lt;
 * leveled (not levelled)
+* life cycle
 * line-feed (a)
 * line feed (n)
 * Linux
