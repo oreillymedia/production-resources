@@ -7,7 +7,8 @@ title: Oriole Guidelines and Resources
 
 [Installation and Setup](#install)<br/>
 [How to Make an Oriole with LaunchBot](#make_oriole)<br/>
-[Tips for Creating a Notebook](#tips)
+[Tips for Creating a Notebook](#writing)<br/>
+[Tips for Recording an Oriole](#recording)<br/>
 
 Oriole is a unique new medium that blends code, data, text, and video into a narrated learning experience with executable content. You can <a href="http://www.oreilly.com/oriole/">see a few examples here</a>, or take a look at the <a href="https://www.safaribooksonline.com/oriole/">complete collection on Safari</a>.
 
@@ -62,28 +63,35 @@ After you are satisfied with the changes you have made:
 4. PUSH to remote repositor
 5. Let your editor know that you're ready for editorial input.
 
-# Tips for Writing the Notebook Content<a name="tips"></a> 
+# Tips for Writing the Notebook Content<a name="writing"></a> 
 
-* The Oriole notebook should read like an article. Make sure the notebook "stands alone" with subtitles and headers, with  text referring to what the blocks do. Feel free to mention specifics in the text that you may not have time for in the video (which should be kept between 20-30 minutes).
+* __20-30 minutes__ The Oriole should not be longer than 30 minutes. Explicit details can be put in the text.
 
-* Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. 
+* __Write an article__ The Oriole notebook should read like an article and "stand alone" with subtitles and headers, with text referring to what the blocks do. Feel free to mention specifics in the text that you may not have time for in the video.
 
-* Be sure to *explicitly* mention when the user should click Run during recording. The user does not see you scrolling and clicking through the notebook - they respond to your audio cues.
+* __Cell output I__ It is more interesting for the user when running the cell to see output. Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. 
 
-* Keep output to a reasonable length. For rows, 3-5 should suffice. For columns, display just the ones you are talking about if not all are relevant.
+* __Cell output II__ Keep output to a reasonable length. For rows, 3-5 should suffice. For columns, display just the ones you are talking about, if not all are relevant. 
 
-* Use local data — don't pull from the internet. If including code for downloading data is important, please use an if-statement, e.g., if not exist: code to download.
+* __Data/files must be local__ Don't pull anything from the internet. If code for downloading is important for your Oriole, please use an if-statement, e.g., if not exist: code to download.
 
-* Keep datasets small and quickly executable. Create a subset and refer to the larger dataset for viewers to use on their own. Long datasets cause long execution times and confuse viewers.
+* __Small datasets__ Keep datasets small and quickly executable. Create a subset and refer to the larger dataset for viewers to use on their own. Long datasets cause long execution times and confuse viewers.
 
-* When referring to results, make sure they are repeatable time and again.
+* __Links__ When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>` The `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
 
-* When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>`—the `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
+* __Math__ When formatting equations, please use a markdown editor, such as http://dillinger.io/, to check it is formatted correctly. For example, `$\Theta(n^2)$` will render correctly in the jupyter notebook, but to render correctly in the final version, it should be `$$\Theta(n^2)$$`.
 
-* Import libraries into the cell where they're first needed to make it easier for the viewer to follow.
+* __Importing libraries__ Import libraries into the cell where they're first needed to make it easier for the viewer to follow.
 
-* Consider that the user may go back to re-run individual cells. For example, if you create a dataframe and decide to "clean it" by deleting a column, then the user can't re-run the cell that loaded the previous version of the dataframe without re-creating the original version first. 
+* __Re-running cells__ Consider that the user may go back to re-run individual cells.
 
-* Before submitting your final version, please do a final run through in a fresh container and notebook to make sure everything really does work.
+* __Final check__ Before submitting, please do a final run through in a fresh container and notebook to make sure everything really does work.
 
-* When recording, refer specifically to "Run" cells when you are talking about them, in a way that makes them easily identifiable for cuing and for viewers.
+
+# Tips for Recording the Oriole<a name="recording"></a> 
+
+* __Be explicit I__ Be sure to *explicitly* mention, out loud, when the user should click Run during recording. The user does not see you scrolling and clicking through the notebook - they can only respond to your audio cues.
+
+* __Be explicit II__ When recording, refer specifically to "Run" cells when you are talking about them, in a way that makes them easily identifiable for cueing and for viewers.
+
+* __Repeatable results__ If you refer to a specific result, make sure what you say will happen each and every time the code is executed. 
