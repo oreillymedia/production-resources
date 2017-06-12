@@ -37,7 +37,7 @@ GitLab makes it easy to get a Git repo and add collaborators to work together on
 ## Install LaunchBot
 
 1. Use Chrome or Firefox (Safari does not render correctly).
-2. Go to [launchbot.io](launchbot.io) and follow the instructions for installing. 
+2. Go to [launchbot.io](https://launchbot.io/) and follow the instructions for installing. 
 3. Start LaunchBot by typing `launchbot` at the command line or double clicking the icon. LaunchBot will start in your default browser (should be Chrome or Firefox).
 
 # How to Make an Oriole with LaunchBot<a name="make_oriole"></a>
