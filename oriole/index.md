@@ -65,9 +65,9 @@ After you are satisfied with the changes you have made:
 
 # Tips for Writing the Notebook Content<a name="writing"></a> 
 
-* __20-30 minutes__ The Oriole should not be longer than 30 minutes. Explicit details can be put in the text.
+* __20-30 minutes__ The Oriole should not be longer than 30 minutes; explicit details can be put in the text. Essentially, an Oriole is the author explaining the progress of code through the notebook.
 
-* __Write an article__ The Oriole notebook should read like an article and "stand alone" with subtitles and headers, with text referring to what the blocks do. Feel free to mention specifics in the text that you may not have time for in the video.
+* __Write an article__ The Oriole notebook should read like an article and "stand alone" with subtitles and headers. The text refers to what the code does; feel free to mention specifics in the text that you may not have time for in the video.
 
 * __Cell output I__ It is more interesting for the user when running the cell to see output. Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. 
 
@@ -76,6 +76,8 @@ After you are satisfied with the changes you have made:
 * __Data/files must be local__ Don't pull anything from the internet. If code for downloading is important for your Oriole, please use an if-statement, e.g., if not exist: code to download.
 
 * __Small datasets__ Keep datasets small and quickly executable. Create a subset and refer to the larger dataset for viewers to use on their own. Long datasets cause long execution times and confuse viewers.
+
+* __Exercises__ Having exercises, or suggesting specific parameters to change in the code, is an excellent use of the Oriole format. Try to be explicit about what output/solution is expected.
 
 * __Links__ When adding links to the text, make sure to use HTML notation rather than markdown. For example, instead of `[go to this link](http:///www.oreilly.com)` use `<a href="http://www.oreilly.com" target="_blank">go to this link</a>` The `target="_blank"` is very important, to ensure that the link opens in a new window rather than the Oriole window.
 
@@ -95,3 +97,7 @@ After you are satisfied with the changes you have made:
 * __Be explicit II__ When recording, refer specifically to "Run" cells when you are talking about them, in a way that makes them easily identifiable for cueing and for viewers.
 
 * __Repeatable results__ If you refer to a specific result, make sure what you say will happen each and every time the code is executed. 
+
+* __Exercises__ If you have exercises, tell the viewers to pause the video while they work on the exercise. Take a second or two and then continue talking (perhaps starting with a "welcome back"); this makes the final cut of the video smoother.
+
+* __Conclusion__ Feel free to conclude your recording by thanking the audience. You do not need to add a written conclusion within the notebook.
