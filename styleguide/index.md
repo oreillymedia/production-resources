@@ -630,9 +630,6 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Don’t use “they” for third-person singular; alternate between “he” and “she.”</p>
-</li>
-<li>
 <p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
 </li>
 <li>
