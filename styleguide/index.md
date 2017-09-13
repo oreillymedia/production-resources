@@ -183,6 +183,9 @@ title: O'Reilly Style Guide
 <p>You may use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
 </li>
 <li>
+ <p>Always use the symbol % rather than the spelled out word (percent).</p>
+ </li>
+<li>
 <p>32-bit integer.</p>
 </li>
 <li>
@@ -1215,6 +1218,7 @@ _Alphabetical Word List: Default Spellings_
 * pathname
 * pattern-matching (a)
 * peer-to-peer (or P2P)
+* % (not percent)
 * performant (Oracle)
 * period
 * Perl
