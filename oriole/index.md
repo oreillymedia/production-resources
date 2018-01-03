@@ -94,7 +94,7 @@ After you are satisfied with the changes you have made:
 
 * __Be explicit I__ Be sure to *explicitly* mention, out loud, when the user should click Run during recording. The user does not see you scrolling and clicking through the notebook - they can only respond to your audio cues.
 
-* __Be explicit II__ When recording, refer specifically to "Run" cells when you are talking about them, in a way that makes them easily identifiable for cueing and for viewers.
+* __Be explicit II__ When recording, refer specifically to "Run" cells when you are talking about them, in a way that makes them easily identifiable for cueing and for viewers. The number of the cell _is not_ a way to identify the cell, as a) the number in a regular jupyter notebook is not based on cell placement, but rather usage and b) the numbers do not appear in the Oriole.
 
 * __Repeatable results__ If you refer to a specific result, make sure what you say will happen each and every time the code is executed. 
 
