@@ -87,8 +87,7 @@ After you are satisfied with the changes you have made:
 
 * __Re-running cells__ Consider that the user may go back to re-run individual cells.
 
-* __Final check__ Before submitting, please do a final run through in a fresh container and notebook to make sure everything really does work.
-
+* __Final check__ Before submitting, please do a final run through of the notebook by 1. creating a new image from the dockerfile ( `--no-cache` parameter when building), 2. disconnecting from the internet, 3. starting a new container 4. running all notebooks and every cell.
 
 # Tips for Recording the Oriole<a name="recording"></a> 
 
