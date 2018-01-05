@@ -65,9 +65,9 @@ After you are satisfied with the changes you have made:
 
 # Tips for Writing the Notebook Content<a name="writing"></a> 
 
-* __20-30 minutes__ The Oriole should not be longer than 30 minutes; explicit details can be put in the text. Essentially, an Oriole is the author explaining the progress of code through the notebook.
+* __15-25 minutes__ The Oriole should not be longer than 25 minutes; explicit details can be put in the text. Essentially, an Oriole is the author explaining the progress of code through the notebook.
 
-* __Write an article__ The Oriole notebook should read like an article and "stand alone" with subtitles and headers. The text refers to what the code does; feel free to mention specifics in the text that you may not have time for in the video.
+* __Write an article__ The Oriole notebook should read like an article and "stand alone" with subtitles and headers. The text refers to what the code does; feel free to write specifics in the text that you may not have time for in the video.
 
 * __Cell output I__ It is more interesting for the user when running the cell to see output. Find a balance between short code blocks and making sure there is output for code blocks. If the code is too long, break it into multiple blocks. 
 
