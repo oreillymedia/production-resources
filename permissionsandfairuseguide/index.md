@@ -5,11 +5,9 @@ title: Permissions and Fair Use
 
 # Permissions and Fair Use
 
-* <a href="#getting_started">Getting Started</a>
-* <a href="#considering_electronic_formats">Considering Electronic Formats</a>
-* <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
-  * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
-  * <a href="#bibliographical_entries">Bibliographical Entries</a>
+* <a href="#what_is_fair_use">What Is Fair Use?</a>
+* <a href="#how_is_fair_use_determined">How Is Fair Use Determined?</a>
+* <a href="#some_tips_on_permission">Some Tips on Permission</a>
   
 <section data-type="sect2" id="what_is_fair_use">
 <h2>What Is Fair Use?</h2>
@@ -18,7 +16,7 @@ title: Permissions and Fair Use
 
 </section>
 
-<section data-type="sect2" id="what_is_fair_use">
+<section data-type="sect2" id="how_is_fair_use_determined">
 <h2>How Is Fair Use Determined?</h2>
 
 <p>Fair use is a common defense for using very small amounts of material from another source, such as a quote or line of code. But please be aware, there’s no exact legal standard—no word count or percentage.</p>
@@ -34,7 +32,7 @@ title: Permissions and Fair Use
 * Consider if your use will harm the existing or future market for the original work.
 </section>
 
-<section data-type="sect2" id="what_is_fair_use">
+<section data-type="sect2" id="some_tips_on_permission">
 <h2>Some Tips on Permission</h2>
 
 <p>You should treat third-party permissions requests consistently. If you ask for permission to reuse a one-paragraph excerpt from one party, it’s appropriate to ask for permission for all other similar-sized excerpts.</p>
