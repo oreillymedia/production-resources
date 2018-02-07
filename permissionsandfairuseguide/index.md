@@ -42,5 +42,5 @@ title: Permissions and Fair Use
 <p>If you believe your use is fair use, our suggestion would be not to ask permission for the quoted content. If you request permission but your request is declined—or even if you receive no response at all—it would be difficult for you to claim fair use once you’ve already requested permission.</p>
 <p>Some open-source and Creative Commons licenses may not allow you to reuse content in an O’Reilly product, since we require broad rights to publish and distribute our content. Please review all licenses carefully before deciding to use third-party content.</p>
 
-
+<p>For more information, we recommend starting with the <a href="https://www.copyright.gov/fair-use/more-info.html">U.S. Copyright Office’s page on fair use</a>.</p>
 </section>
