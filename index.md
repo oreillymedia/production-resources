@@ -51,4 +51,8 @@ Writing in Microsoft Word? [The information here](http://oreillymedia.github.io/
 
 Looking for guidance on our house style? Check out our [style guide](http://oreillymedia.github.io/production-resources/styleguide/).
 
+## Permissions and Fair Use
+
+Looking for a quick resource on permissions and fair use? Check out our [Permissions and Fair Use guide](http://oreillymedia.github.io/production-resources/permissionsandfairuseguide/).
+
 
