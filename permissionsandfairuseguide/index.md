@@ -5,6 +5,8 @@ title: Permissions and Fair Use
 
 # Permissions and Fair Use
 
+<em>Please note, this is intended as a quick resource for authors. Nothing on this page should be considered legal advice from O’Reilly. You should consult with an experienced IP attorney if you have any questions about including third-party content in your work.</em>
+
 * <a href="#what_is_fair_use">What Is Fair Use?</a>
 * <a href="#how_is_fair_use_determined">How Is Fair Use Determined?</a>
 * <a href="#some_tips_on_permission">Some Tips on Permission</a>
