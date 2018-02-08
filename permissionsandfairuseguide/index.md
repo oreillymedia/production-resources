@@ -32,6 +32,7 @@ title: Permissions and Fair Use
   * Using the most important part (the "heart") of a work, even if it's minimal, may not be fair use.
   * The proportion of third-party material in your work should be small compared to your own content. You should not rely on one or two sources heavily; better to spread reused materials among as many relevant sources as possible.
 * Consider if your use will harm the existing or future market for the original work.
+
 </section>
 
 <section data-type="sect2" id="some_tips_on_permission">
