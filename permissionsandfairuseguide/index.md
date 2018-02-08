@@ -25,13 +25,15 @@ title: Permissions and Fair Use
 
 <p>For your use to be considered fair use:</p>
 
-* The borrowed material should illustrate a point central to your work. Excerpts without meaningful context would not be considered fair use.
-* Transformative uses that add something new and do not merely replicate the original use are more likely to be considered fair use.
-* Never use more than absolutely necessary.
-* The length of the original is important. Fair use would more likely apply to three (3) sentences from a novel versus three (3) lines from a poem.
-* Using the most important part (the "heart") of a work, even if it's minimal, may not be fair use.
-* The proportion of third-party material in your work should be small compared to your own content. You should not rely on one or two sources heavily; better to spread reused materials among as many relevant sources as possible.
-* Consider if your use will harm the existing or future market for the original work.
+<ul>
+<li>The borrowed material should illustrate a point central to your work. Excerpts without meaningful context would not be considered fair use.</li>
+<li>Transformative uses that add something new and do not merely replicate the original use are more likely to be considered fair use.</li>
+<li>Never use more than absolutely necessary.</li>
+<li>The length of the original is important. Fair use would more likely apply to three (3) sentences from a novel versus three (3) lines from a poem.</li>
+<li>Using the most important part (the "heart") of a work, even if it's minimal, may not be fair use.</li>
+<li>The proportion of third-party material in your work should be small compared to your own content. You should not rely on one or two sources heavily; better to spread reused materials among as many relevant sources as possible.</li>
+<li>Consider if your use will harm the existing or future market for the original work.</li>
+</ul>
 
 </section>
 
