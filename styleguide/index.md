@@ -932,6 +932,7 @@ _Alphabetical Word List: Default Spellings_
 * Ctrl-Alt-Delete
 * Ctrl-N
 * curly braces or braces
+* cybersecurity
 
 <h2 id="wordlist-D">D</h2>
 * database
