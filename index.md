@@ -2,7 +2,7 @@
 layout: default
 title: Production Resources
 ---
-# O'Reilly Media Production Resources
+# O'Reilly Media Production Resources!
 
 If you want to know more about what happens during production, you’ve come to the right place. Not every book takes the same path through production, but we hope the information here gives insight into our processes and highlights how we can work together. 
 
