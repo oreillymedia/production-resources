@@ -810,10 +810,10 @@ title: O'Reilly Style Guide
 <p>Or, if you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
 </div>
 </section>
+</section>
 
 
-<section data-type="chapter" id="word-list">
-<h1>O’Reilly Word List</h1>
+<h1 id="word-list">O’Reilly Word List</h1>
 
 _Alphabetical Word List: Default Spellings_
 
@@ -1481,11 +1481,6 @@ _Alphabetical Word List: Default Spellings_
 * zip (v)
 * ZIP file
 
-
-
-
-
-</section>
 
 
 
