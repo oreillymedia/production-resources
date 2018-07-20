@@ -709,6 +709,7 @@ title: O'Reilly Style Guide
 </li>
 </ul>
 </section>
+</section>
 
 
 
@@ -810,6 +811,8 @@ title: O'Reilly Style Guide
 <p>Or, if you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
 </div>
 </section>
+
+
 
 
 <h1 id="word-list">O’Reilly Word List</h1>
