@@ -34,9 +34,9 @@ title: O'Reilly Style Guide
 
 <p>Authors, please consult with your editor or production editor if you have questions specific to your book. If you’d like to use different conventions, please confer with your editor.</p>
 
-<p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://chimera.labs.oreilly.com/books/1230000000065/index.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="https://prod.oreilly.com/external/tools/templates/word/ORA/docs/">Word</a>).</p>
+<p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
-<p>Our general style reference is <em>The Chicago Manual of Style</em>, 15th Edition (though some O’Reilly styles differ).</p>
+<p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ).</p>
 
 <p>Our dictionary is <em>Merriam-Webster’s Collegiate Dictionary</em>, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
 </section>
@@ -131,7 +131,7 @@ title: O'Reilly Style Guide
 </section>
 
 <section data-type="sect2" id="cross_references">
-<h2>Cross References</h2>
+<h2>Cross-References</h2>
 
 <ul>
 <li>
@@ -144,7 +144,7 @@ title: O'Reilly Style Guide
 <p>An example of a section cross-reference in another chapter: see “Acceptable Gifts” on page 58 in Chapter 27.</p>
 </li>
 <li>
-<p>More details on cross-references in Asciidoc are available in our <a href="http://chimera.labs.oreilly.com/books/1230000000065/ch04.html#XREFS:">Getting Started with Atlas Guide</a>.</p>
+<p>More details on cross-referencing in Asciidoc is available in our guide <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">"Writing in AsciiDoc"</a>.</p>
 </li>
 <li>
 <p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
@@ -225,7 +225,7 @@ title: O'Reilly Style Guide
 
 <p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
 
-<p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://chimera.labs.oreilly.com/books/1230000000065/ch04.html#XREFS:">Getting Started with Atlas</a> for examples of Asciidoc cross references.</p>
+<p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Getting Started with Atlas</a> for examples of Asciidoc cross references.</p>
 
 <p>If you are writing or copyediting in DocBook, please reference each figure, table, and example with an &lt;xref&gt;.</p>
 
@@ -386,13 +386,7 @@ title: O'Reilly Style Guide
 <section data-type="sect3" id="syntax-highlighting-zVsXIecp">
 <h3>Syntax Highlighting</h3>
 
-<p>We use a tool called Pygments to colorize code. In most books, code will appear in black and white in the print book and in color in all electronic formats, including the web pdf. If you’re an author, please consult the <a href="http://pygments.org/docs/lexers/">list of available lexers</a> and apply them to your code as you write. To apply syntax highlighting in Asciidoc, consult <a href="http://chimera.labs.oreilly.com/books/1230000000065/ch04.html#code_explanation">the Asciidoc Authoring Guidelines</a>. To apply syntax highlighting in DocBook, consult <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#syntax_highlighting">the DocBook Authoring Guidelines</a>. If you’re writing in Word, for each block of code that you want to have syntax highlighted, indicate the programming language in brackets, styled as a Comment that immediately precedes the block of code. For example, you’d indicate that the following code is in Java like so:</p>
-
-<figure id="id-7XiEIGIpcV">
-<img src="images/code_syntax_highlighting_word.png" alt="code syntax highlighting word">
-<figcaption><span class="label">Figure 2-1. </span></figcaption>
-</figure>
-</section>
+<p>We use a tool called Pygments to colorize code. In most books, code will appear in black and white in the print book and in color in all electronic formats, including the web pdf. If you’re an author, please consult the <a href="http://pygments.org/docs/lexers/">list of available lexers</a> and apply them to your code as you write. To apply syntax highlighting in Asciidoc, consult <a http://docs.atlas.oreilly.com/writing_in_asciidoc.html#syntax_highlighting">the Asciidoc Authoring Guidelines</a>. To apply syntax highlighting in DocBook, consult <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#syntax_highlighting">the DocBook Authoring Guidelines</a>. To apply syntax highlighting in Word, consult the <a href="http://oreillymedia.github.io/production-resources/word/#syntax-highlighting">O’Reilly Media Word Template Quickstart Guide</a>.
 
 
 
@@ -430,8 +424,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="footnotes">
-<h1>Footnotes</h1>
+<section data-type="sect2" id="footnotes">
+<h2>Footnotes</h2>
 
 <p>Footnotes in running text are numbered and start over at 1 in each chapter. Footnote markers in running text should always appear after punctuation.</p>
 
@@ -445,7 +439,7 @@ title: O'Reilly Style Guide
 
 <p>Table footnotes are lettered (a, b, c, etc.) and appear directly after the table. They should be kept to a minimum.</p>
 
-<p>More details about styling footnotes in Asciidoc are in <a href="http://chimera.labs.oreilly.com/books/1230000000065/ch04.html#adding_footnotes:">Getting Started with Atlas</a>.</p>
+<p>More details about styling footnotes in Asciidoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.</p>
 </section>
 
 
@@ -460,8 +454,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="headings">
-<h1>Headings</h1>
+<section data-type="sect2" id="headings">
+<h2>Headings</h2>
 
 <ul>
 <li>
@@ -494,8 +488,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="lists">
-<h1>Lists</h1>
+<section data-type="sect2" id="lists">
+<h2>Lists</h2>
 
 <p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. Following are examples of each type of list.</p>
 
@@ -506,8 +500,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="numbered_list">
-<h2>Numbered list</h2>
+<section data-type="sect3" id="numbered_list">
+<h3>Numbered list</h3>
 
 <p>The following list of step-by-step instructions is an example of a numbered list:</p>
 <ol>
@@ -539,8 +533,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="variable_list">
-<h2>Variable list</h2>
+<section data-type="sect3" id="variable_list">
+<h3>Variable list</h3>
 
 <p>The following list of defined terms is an example of a variable list:</p>
 <dl>
@@ -567,8 +561,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="bulleted_list">
-<h2>Bulleted list</h2>
+<section data-type="sect3" id="bulleted_list">
+<h3>Bulleted list</h3>
 
 <p>The following series of items is an example of a bulleted list:</p>
 
@@ -628,8 +622,8 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="miscellaneous">
-<h1>Miscellaneous</h1>
+<section data-type="sect2" id="miscellaneous">
+<h2>Miscellaneous</h2>
 
 <ul>
 <li>
@@ -689,10 +683,10 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="punctuation">
-<h1>Punctuation</h1>
+<section data-type="sect2" id="punctuation">
+<h2>Punctuation</h2>
 
-<p>For anything not covered in this list, please consult the Chicago Manual of Style, 15th Edition.</p>
+<p>For anything not covered in this list, please consult the Chicago Manual of Style, 17th Edition.</p>
 
 <ul>
 <li>
@@ -741,7 +735,7 @@ title: O'Reilly Style Guide
 <h1>Typography and Font Conventions</h1>
 
 
-<p>The following shows the basic font conventions used in O’Reilly books. Follow these links for detailed instructions for applying these styles in <a href="http://chimera.labs.oreilly.com/books/1230000000065/index.html:">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html:">DocBook</a>, and <a href="https://prod.oreilly.com/external/tools/templates/word/ORA/docs/:">Word</a>.</p>
+<p>The following shows the basic font conventions used in O’Reilly books. Follow these links for detailed instructions for applying these styles in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#INLINES">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html:">DocBook</a>, and <a href="http://oreillymedia.github.io/production-resources/word/#paragraph-character-styles">Word</a>.</p>
 <table>
 
 <thead>
