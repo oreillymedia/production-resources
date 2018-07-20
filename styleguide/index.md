@@ -812,8 +812,8 @@ title: O'Reilly Style Guide
 </section>
 
 
-
-<h1 id="word-list">O’Reilly Word List</h1>
+<section data-type="chapter" id="word-list">
+<h1>O’Reilly Word List</h1>
 
 _Alphabetical Word List: Default Spellings_
 
@@ -1485,7 +1485,7 @@ _Alphabetical Word List: Default Spellings_
 
 
 
-
+</section>
 
 
 
