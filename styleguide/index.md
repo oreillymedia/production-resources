@@ -716,7 +716,7 @@ title: O'Reilly Style Guide
 
 
 
-</section>
+
 
 
 
@@ -809,7 +809,6 @@ title: O'Reilly Style Guide
 
 <p>Or, if you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
 </div>
-</section>
 </section>
 
 
