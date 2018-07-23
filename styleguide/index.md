@@ -809,8 +809,9 @@ title: O'Reilly Style Guide
 <p>For instance, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you do use something that differs from the following list, please write it down on your printout of this stylesheet, which should be submitted with your manuscript.</p>
 
 <p>Or, if you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
-</div>
 </section>
+</div>
+
 
 
 
