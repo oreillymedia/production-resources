@@ -3,7 +3,8 @@ layout: default
 title: O'Reilly Style Guide
 ---
 
-# O'Reilly Style Guide and Word List
+<section data-type="chapter" id="orm_style_guide_and_word_list">
+<h1>O'Reilly Style Guide and Word List</h1>
 
 * <a href="#getting_started">Getting Started</a>
 * <a href="#considering_electronic_formats">Considering Electronic Formats</a>
@@ -80,6 +81,7 @@ title: O'Reilly Style Guide
   
   <p>However, saying "XX book is available on Amazon"—sans link—is OK.</p>
 </div>
+</section>
 </section>
 
 
@@ -386,7 +388,7 @@ title: O'Reilly Style Guide
 <section data-type="sect3" id="syntax-highlighting-zVsXIecp">
 <h3>Syntax Highlighting</h3>
 
-<p>We use a tool called Pygments to colorize code. In most books, code will appear in black and white in the print book and in color in all electronic formats, including the web pdf. If you’re an author, please consult the <a href="http://pygments.org/docs/lexers/">list of available lexers</a> and apply them to your code as you write. To apply syntax highlighting in Asciidoc, consult <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#syntax_highlighting"> Writing in AsciiDoc</a>. To apply syntax highlighting in DocBook, consult <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#syntax_highlighting">the DocBook Authoring Guidelines</a>. To apply syntax highlighting in Word, consult the <a href="http://oreillymedia.github.io/production-resources/word/#syntax-highlighting">O’Reilly Media Word Template Quickstart Guide</a>.
+<p>We use a tool called Pygments to colorize code. In most books, code will appear in black and white in the print book and in color in all electronic formats, including the web pdf. If you’re an author, please consult the <a href="http://pygments.org/docs/lexers/">list of available lexers</a> and apply them to your code as you write. To apply syntax highlighting in Asciidoc, consult <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#syntax_highlighting"> Writing in AsciiDoc</a>. To apply syntax highlighting in DocBook, consult <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#syntax_highlighting">the DocBook Authoring Guidelines</a>. To apply syntax highlighting in Word, consult the <a href="http://oreillymedia.github.io/production-resources/word/#syntax-highlighting">O’Reilly Media Word Template Quickstart Guide</a>.</p>
 </section>
 
 
