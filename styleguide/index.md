@@ -755,7 +755,7 @@ title: O'Reilly Style Guide
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
-<td><p>Emphasized words (shouting!)</p></td>
+<td><p>Emphasized words (shouting!).</p><p>Please use italics rather than bold for emphasis.</p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
@@ -798,7 +798,7 @@ title: O'Reilly Style Guide
 </tbody>
 </table>
 
-<p>These font conventions may vary slightly for each project; please consult your editor, the production editor, or the freelance coordinator if you have any questions. <em>Please note:</em> Word authors should refer to the <a href="https://prod.oreilly.com/external/tools/templates/word/ORA/docs/">Word author Quick Start Guide</a> (username: guest; leave the password blank); DocBook authors should refer to our <a href="https://prod.oreilly.com/external/tools/docbook/docs/authoring/">DocBook Authoring Guidelines</a> (username: guest; leave the password blank).</p>
+<p>These font conventions may vary slightly for each project; please consult your editor, the production editor, or the freelance coordinator if you have any questions. <em>Please note:</em> Word authors should refer to the <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#INLINES">Word Template Quickstart Guide</a>; DocBook authors should refer to our <a href="https://prod.oreilly.com/external/tools/docbook/docs/authoring/">DocBook Authoring Guidelines</a> (username: guest; leave the password blank).</p>
 
 <p>It’s <em>very</em> important to follow tagging conventions for terms. The method for applying conventions will vary depending on the format: Word/OpenOffice, DocBook XML, or InDesign. Please consult with your editor or  <em>toolsreq@oreilly.com</em> for instructions specific to each environment.</p>
 
