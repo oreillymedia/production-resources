@@ -19,7 +19,7 @@ title: O'Reilly Style Guide
     * <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>
   * <a href="footnotes">Footnotes</a>
   * <a href="#headings">Headings</a>
-  * <a href="lists">Lists</a>
+  * <a href="#lists">Lists</a>
     * <a href="#numbered_list">Numbered list</a>
     * <a href="#variable_list">Variable list</a>
     * <a href="#bulleted_list">Bulleted list</a>
