@@ -56,7 +56,7 @@ When creating figure lists, please use the following conventions:
 3. **Type/Instructions**: Let us know if an illustration needs to be drawn or touched-up by our illustrator. Please provide instructions for cropping, adding callouts, etc.
 4. **Figure Caption**: These are very helpful for us when trying to make solve a figure placement problem or when we need to make sure we're working with the correct image in the right place in the book.
  
-Here's an example of an ideal figure list.
+Here's an example of an ideal figure list (this is also available as a [template for your use](https://docs.google.com/spreadsheets/d/1WWS5PicZC1ub6q9ckZ-i1y4nIga4_96ZSThkWgvQhgc/edit?usp=sharing)):
 
 Fig #   |   Filename   | Type/Instructions   |  Caption
  --- | --- | --- | ---
