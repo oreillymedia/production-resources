@@ -36,7 +36,7 @@ title: O'Reilly Style Guide
 
 <p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
-<p>Our general style reference is <em>The Chicago Manual of Style</em>, 15th Edition (though some O’Reilly styles differ).</p>
+<p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ).</p>
 
 <p>Our dictionary is <em>Merriam-Webster’s Collegiate Dictionary</em>, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
 </section>
