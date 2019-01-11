@@ -460,19 +460,23 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>In most of our design templates, A- and B-level headings are cap and lowercase: cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase and coordinating conjunctions (e.g., and, but, for, etc.). Prepositions of four letters or less are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”). Hyphenated words in subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less). Hyphenated words in titles or captions should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
+<p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase and coordinating conjunctions (e.g., and, but, for, etc.). Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”). Hyphenated words in subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less). Hyphenated words in titles or captions should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
 </li>
 <li>
-<p>C-level headings have initial cap on the first word only, with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase).</p>
+<p>C-level headings have initial cap on the first word only (also called sentence-case), with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase).</p>
 </li>
 <li>
 <p>D-level headings (rare) are run-in with the following paragraph and have an initial cap on the first word only, with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase), with a period at the end of the heading.</p>
 </li>
 <li>
-<p>Sidebar titles are cap and lowercase (like A- and B-level headings, mentioned previously).</p>
+<p>Sidebar titles are initial-capped, or title case (like A- and B-level headings, mentioned previously).</p>
+</li>
 </li>
 <li>
-<p>Headings should not contain inline code font.</p>
+<p>Admonition (note/tip/warning) titles are initial-capped, or title case (like A- and B-level headings, mentioned previously). Admonition titles are optional.</p>
+</li>
+<li>
+<p>Headings should not contain inline code font or style formatting such as bold or italic.</p>
 </li>
 </ul>
 </section>
