@@ -936,6 +936,7 @@ _Alphabetical Word List: Default Spellings_
 <h2 id="wordlist-D">D</h2>
 * database
 * data block
+* datacenter or data center (be consistent)
 * Data Encryption Standard (DES)
 * datafile
 * datatype or data type (be consistent)
