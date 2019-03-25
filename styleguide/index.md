@@ -311,6 +311,14 @@ title: O'Reilly Style Guide
 <td><p>40</p></td>
 <td><p>60</p></td>
 </tr>
+ <tr>
+  <td><p><strong>Trade 6x9</strong></p></td>
+  <td><p>76</p></td>
+  <td><p>72</p></td>
+  <td><p>65</p></td>
+  <td><p>80</p></td>
+  <td><p>69</p></td>
+ </tr>
 <tr>
 <td><p><strong>Cookbook</strong></p></td>
 <td><p>81</p></td>
