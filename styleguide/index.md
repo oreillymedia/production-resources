@@ -484,7 +484,7 @@ title: O'Reilly Style Guide
 <p>Admonition (note/tip/warning) titles are initial-capped, or title case (like A- and B-level headings, mentioned previously). Admonition titles are optional.</p>
 </li>
 <li>
-<p>Headings should not contain inline code font or style formatting such as bold or italic.</p>
+<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
 </li>
 </ul>
 </section>
@@ -912,6 +912,7 @@ _Alphabetical Word List: Default Spellings_
 * client/server
 * client side (n)
 * client-side (a)
+* cloud-native (a) (cloud-native application)
 * co-class
 * coauthor
 * code set
