@@ -32,7 +32,9 @@ Most illustrations will be modified to fit the style of O'Reilly books. We're ha
 
 ## Figure Sizing
 
-When creating your figures or taking screenshots, please remember there are page size limitations. For most of our books, your images need to fit into a 4.8 x 7 inch space.
+When taking screenshots, use the highest resolution possible. That said, it's important to remember that there are page size limitations. For most of our books, your images need to fit into a 4.8 x 7 inch space, so take that ratio into account when taking screenshots. Images will be forced into a vertical orientation, so really wide screenshots will be illegible at this size (or they will be rotated to a horizontal display on a vertical page, which isn't ideal). 
+
+TL;DR: Take screenshots at the highest resolution possible—300 dpi is ideal and we don't print anything below 150dpi. 
 
 ## Naming Your Files
 
