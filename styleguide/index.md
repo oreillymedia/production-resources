@@ -19,6 +19,7 @@ title: O'Reilly Style Guide
     * <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>
   * <a href="footnotes">Footnotes</a>
   * <a href="#headings">Headings</a>
+  * <a href="#links">Links</a>
   * <a href="#lists">Lists</a>
     * <a href="#numbered_list">Numbered list</a>
     * <a href="#variable_list">Variable list</a>
@@ -34,7 +35,7 @@ title: O'Reilly Style Guide
 
 <p>Authors, please consult with your editor or production editor if you have questions specific to your book. If you’d like to use different conventions, please confer with your editor.</p>
 
-<p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
+<p>This style guide contains information for authors writing in all formats. If you’re an author, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
 <p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ).</p>
 
@@ -491,11 +492,22 @@ title: O'Reilly Style Guide
 
 
 
+<section data-type="sect1" id="links">
+<h1>Links</h1>
 
+<p>In books produced in Atlas, URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
 
+<p>Navigate to the <a href="https://oreilly.com">O'Reilly homepage</a> for more information.</p>
 
+<p>In the print book, the URL will unfurl in a parenthetical after the linked text:</p>
 
+<p>Navigate to the O'Reilly homepage (<em>https://oreilly.com</em>) for more information.</p>
 
+<p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
+
+<p>We do not anchor URLs to text in books produced in InDesign.</p>
+
+</section>
 
 
 
