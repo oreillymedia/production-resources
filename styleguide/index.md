@@ -489,7 +489,6 @@ title: O'Reilly Style Guide
 </li>
  </ul>
  </li>
-</li>
 <li>
 <p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
 </li>
