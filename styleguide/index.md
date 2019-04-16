@@ -53,7 +53,7 @@ title: O'Reilly Style Guide
     <p>Avoid using "above" and "below" when referencing figures, tables, examples, unnumbered code blocks, equations, etc. (e.g., "In the example below…"). Using live cross references (e.g., "see Figure 2-1") is best, but when that’s not possible, use "preceding" or "following," as the physical placement of elements could be different in reflowable formats.</p>
   </li>
   <li>
-    <p>URLs should be anchored to text nodes whenever possible, like they would be on a website.</p>
+    <p>URLs should be anchored to text nodes whenever possible, like they would be on a website. See <a href="#links">Links</a> for more information.</p>
   </li>
 </ul>
 
@@ -469,24 +469,34 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase and coordinating conjunctions (e.g., and, but, for, etc.). Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”). Hyphenated words in subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less). Hyphenated words in titles or captions should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
+ <p>Capitalization in headings:</p>
+ <ul>
+  <li><p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase and coordinating conjunctions (e.g., and, but, for, etc.).</p></li> 
+  <li><p>Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”).</p></li> 
+  <li><p>Hyphenated words in subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less). Hyphenated words in titles or captions should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
 </li>
-<li>
+  <li>
 <p>C-level headings have initial cap on the first word only (also called sentence-case), with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase).</p>
 </li>
-<li>
+  <li>
 <p>D-level headings (rare) are run-in with the following paragraph and have an initial cap on the first word only, with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase), with a period at the end of the heading.</p>
 </li>
-<li>
+  <li>
 <p>Sidebar titles are initial-capped, or title case (like A- and B-level headings, mentioned previously).</p>
 </li>
-</li>
-<li>
+  <li>
 <p>Admonition (note/tip/warning) titles are initial-capped, or title case (like A- and B-level headings, mentioned previously). Admonition titles are optional.</p>
+</li>
+ </ul>
+ </li>
 </li>
 <li>
 <p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
 </li>
+<li>
+ <p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
+ </li>
+ 
 </ul>
 </section>
 
@@ -516,13 +526,23 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="lists">
 <h1>Lists</h1>
 
-<p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. Following are examples of each type of list.</p>
+<p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. List items should be treated as separate items and should not be strung together with punctuation or conjunctions. </p> 
 
+<p>Not O'Reilly style:</p>
+<ul>
+ <li>Here is an item, and</li>
+ <li><p>here is another item; and</p></li>
+ <li><p>here is the final item.</p></li>
+ </ul>
+ 
+ <p>O'Reilly style:</p>
+ <ul>
+ <li><p>Here is an item</p></li>
+ <li><p>Here is another item</p></li>
+ <li><p>Here is the final item</p></li>
+ </ul>
 
-
-
-
-
+<p>Following are examples of each type of list.</p>
 
 
 <section data-type="sect2" id="numbered_list">
@@ -692,6 +712,9 @@ title: O'Reilly Style Guide
 </li>
 <li>
 <p>Introduce unnumbered code blocks with colons.</p>
+</li>
+ <li>
+<p>Do not stack admonitions, sidebars, or headings.</p>
 </li>
 </ul>
 </section>
