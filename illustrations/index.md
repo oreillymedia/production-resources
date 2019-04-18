@@ -18,7 +18,8 @@ Either type might also feature *callouts*, which are boxes, arrows, and text tha
 
 *	Don't save screenshots as JPEGs. Please use TIF, PNG, or BMP.
 *	Please capture the smallest necessary area when a full desktop screenshot is not required. The less in the screenshot, the easier it will be for your audience to read it.
-*	Let us know if you require callouts, and supply one file with callouts added and one without. (Callouts are text, circles, lines, and arrows added to screenshots or photos that label or describe elements.)
+*	Let us know if you require callouts, and supply one file with callouts added and one without. (Callouts are text, circles, lines, and arrows added to screenshots or photos that label or describe elements.) Here is an example of a figure submitted with desired callouts and then the clean image file for our illustrator to add callouts to:
+
 
 ### Drawn Illustrations
 
@@ -28,7 +29,9 @@ Most illustrations will be modified to fit the style of O'Reilly books. We're ha
 * Please DO NOT submit SVG files, whether to use as-is or as reference for redrawing. Converting SVGs to PNG is unreliable at best and destructive to the file at worst, so to avoid unintentionally introducing errors, please submit only PDFs, PNGs, or AI files. 
 * If you're using a program such as Visio, PowerPoint, Freehand, Illustrator, or another drawing program, please export your files as PDFs to ensure that there are no translation errors between computers.
 * To help you generate the images, [we have templates in Adobe Illustrator](http://oreillymedia.github.io/production-resources/illustrations/image-stuff.zip) and as PDFs that should be able to be opened in your vector program of choice. Just let us know you want to try your hand at them! If you do choose to work with the Illustrator templates, please send us the .ai files you create, along with exported PDFs. 
-* If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a "clean" version without callouts, and version that mocks up the callouts you want. Our Illustrator will use standard O'Reilly fonts and specs to add callouts to the clean file, using your example as a guide. Use a file-naming convention that makes it clear which how a "clean" file relates to another image. For example, if your file with callouts is named *0102.png*, you should name the clean file *0102_clean.png*.
+* If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a "clean" version without callouts, and version that mocks up the callouts you want. Our Illustrator will use standard O'Reilly fonts and specs to add callouts to the clean file, using your example as a guide. Use a file-naming convention that makes it clear which how a "clean" file relates to another image. For example, if your file with callouts is named *0102.png*, you should name the clean file *0102_clean.png*:
+** ![Screenshot marked up with callouts](http://oreillymedia.github.io/production-resources/illustrations/callout-screenshot.png)
+** ![Clean screenshot with no callouts](http://oreillymedia.github.io/production-resources/illustrations/clean-screenshot.png)
 
 ## Figure Sizing
 
