@@ -95,6 +95,8 @@ There are a few Word options that you should set to help yourself work better wi
 2.	Tools→Options→View→Paragraph Marks
 3.	Tools→Options→View→Bookmarks
 
+Please also make sure "All Markup" is selected in the Review tab. If that drop-down is set to "No Markup," Track Changes will be present, but hidden.
+
 <h2 id="paragraph-character-styles">Paragraph and Character Styles</h2>
 
 Now that you've arranged your workspace, you're ready to start writing. But first, you need to know that all of your text must have a *Style* applied to it. Every single paragraph needs to have a *Paragraph Style* applied, and if you want certain characters within a paragraph to look different than the rest of that paragraph, such as applying *Italics*, **Bold**, or `Literal`, you'll be using a *Character Style*. 
