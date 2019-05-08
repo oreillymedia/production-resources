@@ -39,7 +39,7 @@ title: O'Reilly Style Guide
 
 <p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ).</p>
 
-<p>Our dictionary is <em>Merriam-Webster’s Collegiate Dictionary</em>, 11th Edition. Please refer here for any words not on the O’Reilly word list.</p>
+<p>Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the O’Reilly word list and note that O’Reilly uses the American spellings of words when they differ.</p>
 </section>
 
 
@@ -113,22 +113,19 @@ title: O'Reilly Style Guide
 </section>
 
 <section data-type="sect2" id="bibliographical_entries">
-<h2>Bibliographical Entries</h2>
+<h2>Bibliographical Entries and Citations</h2>
 
-<p>In general, when referencing another book within a book’s text paragraphs, include the author name(s) when there is one or two authors. When there are three or more authors, state the first author name, followed by “et al.”</p>
+<p>In general, when referring to another book within a book’s text, include the author name(s) for up to two authors. For three or more authors, state the first author name, followed by “et al.” (be sure to include the period).</p>
 
 <p>On first reference to another book, include author and publisher name. For example, "You can find more information in <em>The Elements of Typographic Style</em> by Robert Bringhurst (H&amp;M)," or "For more information, consult Robert Bringhurt’s <em>The Elements of Typographic Style</em> (H&amp;M)." On subsequent references, just use the book title.</p>
 
 <p>When referencing an O’Reilly book within the text, note only "O’Reilly" in parentheses, not "O’Reilly Media, Inc." References to other O’Reilly books should be linked to the book’s <a href="http://shop.oreilly.com/category/browse-subjects.do">catalog page</a>.</p>
 <div data-type="note" id="id-BeU1hLI7"><h6>Note</h6>
-<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own.</p>
-
-<p>Like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>"</p>
-
-<p>Not: "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
+<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." Not this: "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
 </div>
 
-<p>For full bibliographical entries (which usually appear in bibliographies or reference lists), see <em>The Chicago Manual of Style</em>, 15th Edition.</p>
+<h3>Citations</h3>
+<p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system found in the <em>The Chicago Manual of Style</em>, 17th Edition.</p>
 </section>
 
 <section data-type="sect2" id="cross_references">
@@ -172,7 +169,7 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Spell out numbers under 10, unless the same object appears in a sentence with an object 10 or over (five apples; 5 apples and 100 oranges).</p>
+<p>Spell out numbers under 10, and even hundreds, thousands, millions, etc., unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges).</p>
 </li>
 <li>
 <p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 not 32904). Exceptions: page numbers, addresses, port numbers, etc.</p>
@@ -184,7 +181,10 @@ title: O'Reilly Style Guide
 <p>You may use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
 </li>
 <li>
- <p>Always use the symbol % rather than the spelled out word (percent).</p>
+ <p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: .05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
+ </li>
+ <li>
+  <p>Use spaces around inline operators (1 + 1 = 2. NOT 1+1=2).</p>
  </li>
 <li>
 <p>32-bit integer.</p>
@@ -199,7 +199,7 @@ title: O'Reilly Style Guide
 <p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
 </li>
 <li>
-<p>Use x for dimensions, not by (e.g., "8.5 x 11").</p>
+<p>Use multiplication symbol “x” for dimensions, not by (e.g., "8.5 x 11").</p>
 </li>
 <li>
 <p>Ordinal numbers: Spell out first through ninth, use numerals for 10th and above. No superscript.</p>
@@ -234,13 +234,13 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns. There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
+<p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns.  No code styling within the figure name or caption. There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
 </li>
 <li>
-<p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns. There is no period after table titles.</p>
+<p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns.  No code styling within the table name or caption. There is no period after table titles.</p>
 </li>
 <li>
-<p>Example 1-1. Example titles are initial-capped on the first word only, with the exception of proper nouns. There is no period after example titles.</p>
+<p>Example 1-1. Example titles are initial-capped on the first word only, with the exception of proper nouns.  No code styling within the example name or caption. There is no period after example titles.</p>
 </li>
 </ul>
 
@@ -674,7 +674,7 @@ title: O'Reilly Style Guide
 <p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
 </li>
 <li>
-<p>Unless part of a proper noun, close up words with the prefixes “multi,” “pseudo,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor").</p>
+<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). Any exceptions will be noted in the word list below (e.g., "re-create").</p>
 </li>
 <li>
 <p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
@@ -1186,6 +1186,7 @@ _Alphabetical Word List: Default Spellings_
 * Meta-N
 * MHz (megahertz)
 * mice or mouses (be consistent)
+* microservices
 * Microsoft Windows
 * Microsoft Windows Me
 * Microsoft Windows NT
@@ -1312,6 +1313,7 @@ _Alphabetical Word List: Default Spellings_
 * read/write
 * real time (n)
 * real-time (a)
+* re-create
 * Red Hat Linux
 * Red Hat Package Manager (RPM)
 * redirection
@@ -1384,6 +1386,8 @@ _Alphabetical Word List: Default Spellings_
 * standard output (stdout)
 * start tag
 * startup file
+* stateful
+* stateless
 * status bar
 * stylesheet
 * subprocess (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)
