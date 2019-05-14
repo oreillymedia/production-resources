@@ -166,6 +166,9 @@ title: Head First Production and Style Guide
 </section>
 </section>
 
+
+
+
 <h1 id="word-list">Head First Word List</h1>
 
 <a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | <a href="#wordlist-D">D</a> | <a href="#wordlist-E">E</a> | <a href="#wordlist-F">F</a> | <a href="#wordlist-G">G</a> | <a href="#wordlist-H">H</a> | <a href="#wordlist-I">I</a> | <a href="#wordlist-J">J</a> | <a href="#wordlist-K">K</a> | <a href="#wordlist-L">L</a> | <a href="#wordlist-M">M</a> | <a href="#wordlist-N">N</a> | <a href="#wordlist-O">O</a> | <a href="#wordlist-P">P</a> | <a href="#wordlist-Q">Q</a> | <a href="#wordlist-R">R</a> | <a href="#wordlist-S">S</a> | <a href="#wordlist-T">T</a> | <a href="#wordlist-U">U</a> | <a href="#wordlist-V">V</a> | <a href="#wordlist-W">W</a> | <a href="#wordlist-XYZ">XYZ</a> |
@@ -185,303 +188,350 @@ title: Head First Production and Style Guide
 
 <h2 id="wordlist-B">B</h2>
 
- * backend
- * backslash
- * Backspace key
- * backtick
- * backup (n)
- * back up (v)
- * backward
- * backward-compatible
- * Boolean
- * braces or curly braces
- * brackets or square brackets
- * browsable
- * built-in (a, n)
+<ul>
+  <li><p>backend</p></li>
+  <li><p>backslash</p></li>
+  <li><p>Backspace key</p></li>
+  <li><p>backtick</p></li>
+  <li><p>backup (n)</p></li>
+  <li><p>back up (v)</p></li>
+  <li><p>backward</p></li>
+  <li><p>backward-compatible</p></li>
+  <li><p>Boolean</p></li>
+  <li><p>braces or curly braces</p></li>
+  <li><p>brackets or square brackets</p></li>
+  <li><p>browsable</p></li>
+  <li><p>built-in (a, n)</p></li>
+
+</ul>
 
 <h2 id="wordlist-C">C</h2>
 
-* cannot or can't (not "can not")
-* Caps Lock key
-* caret
-* CD-ROM
-* checkbox
-* client/server
-* client side (n)
-* client-side (a)
-* command line (n)
-* command-line (a)
-* criterion (s), criteria (p)
-* cross-reference
-* Ctrl key (PC)
-* Control key (Mac)
-* Ctrl-Alt-Delete
-* Ctrl-N
-* curly braces or braces
+<ul>
+  <li><p>cannot or can't (not "can not")</p></li>
+  <li><p>Caps Lock key</p></li>
+  <li><p>caret</p></li>
+  <li><p>CD-ROM</p></li>
+  <li><p>checkbox</p></li>
+  <li><p>client/server</p></li>
+  <li><p>client side (n)</p></li>
+  <li><p>client-side (a)</p></li>
+  <li><p>command line (n)</p></li>
+  <li><p>command-line (a)</p></li>
+  <li><p>criterion (s), criteria (p)</p></li>
+  <li><p>cross-reference</p></li>
+  <li><p>Ctrl key (PC)</p></li>
+  <li><p>Control key (Mac)</p></li>
+  <li><p>Ctrl-Alt-Delete</p></li>
+  <li><p>Ctrl-N</p></li>
+  <li><p>curly braces or braces</p></li>
+  
+</ul>
 
 <h2 id="wordlist-D">D</h2>
 
-* database
-* data block
-* Data Encryption Standard (DES)
-* data file
-* data type
-* data is
-* disk
-* Delete key
-* DNS
-* Domain Name System
-* dot
-* dot-com
-* double-click
-* double quotes
-* down arrow
-* download
-* drop-down (a)
+<ul>
+  <li><p>database</p></li>
+  <li><p>data block</p></li>
+  <li><p>Data Encryption Standard (DES)</p></li>
+  <li><p>data file</p></li>
+  <li><p>data type</p></li>
+  <li><p>data is</p></li>
+  <li><p>disk</p></li>
+  <li><p>Delete key</p></li>
+  <li><p>DNS</p></li>
+  <li><p>Domain Name System</p></li>
+  <li><p>dot</p></li>
+  <li><p>dot-com</p></li>
+  <li><p>double-click</p></li>
+  <li><p>double quotes</p></li>
+  <li><p>down arrow</p></li>
+  <li><p>download</p></li>
+  <li><p>drop-down (a)</p></li>
+</ul>
 
 <h2 id="wordlist-E">E</h2>
 
-* ebooks
-* ebusiness
-* ecommerce
-* EJB
-* email
-* end user
-* Enter key
-* equals sign
-* Escape key (or Esc key)
-* Ethernet
-* exclamation mark
+<ul>
+  <li><p>ebooks</p></li>
+  <li><p>ebusiness</p></li>
+  <li><p>ecommerce</p></li>
+  <li><p>EJB</p></li>
+  <li><p>email</p></li>
+  <li><p>end user</p></li>
+  <li><p>Enter key</p></li>
+  <li><p>equals sign</p></li>
+  <li><p>Escape key (or Esc key)</p></li>
+  <li><p>Ethernet</p></li>
+<li><p>exclamation mark</p></li>
+</ul>
 
 <h2 id="wordlist-F">F</h2>
 
-* filename
-* file server
-* filesystem
-* file type
-* foreground
-* forward (adv)
-* frontend
-* FTP site
+<ul>
+  <li><p>filename</p></li>
+  <li><p>file server</p></li>
+  <li><p>filesystem</p></li>
+  <li><p>file type</p></li>
+  <li><p>foreground</p></li>
+  <li><p>forward (adv)</p></li>
+  <li><p>frontend</p></li>
+  <li><p>FTP site</p></li>
+</ul> 
 
 <h2 id="wordlist-G">G</h2>
-
-* GHz (gigahertz)
-* gray
-* grayscale
-* greater-than sign or >
-* GUI, GUIs
+<ul>
+  <li><p>GHz (gigahertz)</p></li>
+  <li><p>gray</p></li>
+  <li><p>grayscale</p></li>
+  <li><p>greater-than sign or ></p></li>
+  <li><p>GUI, GUIs</p></li>
+  
+</ul> 
 
 <h2 id="wordlist-H">H</h2>
 
 
-* hardcoded
-* hardcopy
-* hash sign or sharp sign
-* high-level (adj)
-* hostname
-* hotspot
-* HTML
-* HTTP
-* hypertext
+<ul>
+<li><p>hardcoded</p></li>
+  <li><p>hardcopy</p></li>
+  <li><p>hash sign or sharp sign</p></li>
+  <li><p>high-level (adj)</p></li>
+  <li><p>hostname</p></li>
+  <li><p>hotspot</p></li>
+  <li><p>HTML</p></li>
+  <li><p>HTTP</p></li>
+  <li><p>hypertext</p></li>
+  
+</ul> 
 
 <h2 id="wordlist-I">I</h2>
 
-* IDs
-* inline
-* Internet
-* internetwork
-* I/O
-* IP (Internet Protocol)
-* ISP
+<ul>
+    <li><p>IDs</p></li>
+  <li><p>inline</p></li>
+  <li><p>internet</p></li>
+  <li><p>internetwork</p></li>
+  <li><p>I/O</p></li>
+  <li><p>IP (Internet Protocol)</p></li>
+  <li><p>ISP</p></li>
+  <ul> 
 
 <h2 id="wordlist-J">J</h2>
 
-* JavaScript
-* Java™ (must appear with ™ trademark symbol on copyright page)
-* JavaBeans™ (must appear with ™ symbol on copyright page)
-* JSP™ (must appear with ™ symbol on copyright page)
+<ul>
+  <li><p>JavaScript</p></li>
+  <li><p>Java™ (must appear with ™ trademark symbol on copyright page)</p></li>
+  <li><p>JavaBeans™ (must appear with ™ symbol on copyright page)</p></li>
+  <li><p>JSP™ (must appear with ™ symbol on copyright page)</p></li>
+</ul>
 
 <h2 id="wordlist-K">K</h2>
 
-* KB (kilobyte) (denotes file size or disk space)
-* kbps (kilobits per second)
-* keypad
-* keystroke
-* keyword
-* kHz (kilohertz)
+<ul>
+ <li><p>KB (kilobyte) (denotes file size or disk space)</p></li>
+  <li><p>kbps (kilobits per second)</p></li>
+  <li><p>keypad</p></li>
+  <li><p>keystroke</p></li>
+  <li><p>keyword</p></li>
+  <li><p>kHz (kilohertz)</p></li>
+</ul>
 
 <h2 id="wordlist-L">L</h2>
 
-* local area network or LAN
-* left angle bracket or <
-* lefthand (a)
-* leftmost
-* less-than sign or <
-* leveled (not levelled)
-* listbox
-* login, logout, or logon (n or a)
-* log in, log out, or log on (v)
-* lower- and uppercase
-* lowercase
-* lower-level (a)
-* lower-right (a)
+<ul>
+  <li><p>local area network or LAN</p></li>
+  <li><p>left angle bracket or <</p></li>
+  <li><p>lefthand (a)</p></li>
+  <li><p>leftmost</p></li>
+  <li><p>less-than sign or <</p></li>
+  <li><p>leveled (not levelled)</p></li>
+  <li><p>listbox</p></li>
+  <li><p>login, logout, or logon (n or a)</p></li>
+  <li><p>log in, log out, or log on (v)</p></li>
+  <li><p>lower- and uppercase</p></li>
+  <li><p>lowercase</p></li>
+  <li><p>lower-level (a)</p></li>
+  <li><p>lower-right (a)</p></li>
+ </ul>
 
 <h2 id="wordlist-M">M</h2>
 
-* Macintosh
-* macOS (NOT Mac OS or Mac OS X)
-* manpage
-* markup
-* MB (megabyte)
-* menu bar
-* MHz (megahertz)
-* mice (not mouses)
-* Microsoft Windows
-* multimedia
-* multitasking
-* multiuser
+<ul>
+  <li><p>Macintosh</p></li>
+  <li><p>macOS (NOT Mac OS or Mac OS X)</p></li>
+  <li><p>manpage</p></li>
+  <li><p>markup</p></li>
+  <li><p>MB (megabyte)</p></li>
+  <li><p>menu bar</p></li>
+  <li><p>MHz (megahertz)</p></li>
+  <li><p>mice (not mouses)</p></li>
+  <li><p>Microsoft Windows</p></li>
+  <li><p>multimedia</p></li>
+  <li><p>multitasking</p></li>
+  <li><p>multiuser</p></li>
+ </ul>
 
 <h2 id="wordlist-N">N</h2>
 
-* nameserver
-* namespace
-* the Net
-* .NET
-* newline
-* newsgroups
-* nonstandard (no hyphen with "non" prefix)
+<ul>
+  <li><p>nameserver</p></li>
+  <li><p>namespace</p></li>
+  <li><p>the net</p></li>
+  <li><p>.NET</p></li>
+  <li><p>newline</p></li>
+  <li><p>newsgroups</p></li>
+  <li><p>nonstandard (no hyphen with "non" prefix)</p></li>
+</ul>
 
 <h2 id="wordlist-O">O</h2>
 
-* offline
-* online
-* open source (n or a)
-* OpenWindows
-* O'Reilly Media, Inc.
-* macOS (instead of OS X)
+<ul>
+  <li><p>offline</p></li>
+  <li><p>online</p></li>
+  <li><p>open source (n or a)</p></li>
+  <li><p>OpenWindows</p></li>
+  <li><p>O'Reilly Media, Inc.</p></li>
+  <li><p>macOS (instead of OS X)</p></li>
+</ul>
 
 <h2 id="wordlist-P">P</h2>
 
-* parentheses (p)
-* parenthesis (s)
-* pathname
-* percent (avoid using % sign, except in equations and with decimal values)
-* plug-in (a, n)
-* P.M.
-* pop up (v, n)
-* pop-up (a)
-* process ID
-* pseudocode
-* pull-down (a)
+<ul>
+  <li><p>parentheses (p)</p></li>
+  <li><p>parenthesis (s)</p></li>
+  <li><p>pathname</p></li>
+  <li><p>percent (avoid using % sign, except in equations and with decimal values)</p></li>
+  <li><p>plug-in (a, n)</p></li>
+  <li><p>P.M.</p></li>
+  <li><p>pop up (v, n)</p></li>
+  <li><p>pop-up (a)</p></li>
+  <li><p>process ID</p></li>
+  <li><p>pseudocode</p></li>
+  <li><p>pull-down (a)</p></li>
+</ul>
 
 
 <h2 id="wordlist-R">R</h2>
 
-* read-only (a)
-* read/write
-* real time (n)
-* real-time (a)
-* reference page or manpage
-* rename
-* Return key
-* rich text
-* right angle bracket or greater-than sign (>)
-* right-click
-* righthand (a)
-* roll back (v)
-* rollback (n)
-* runtime (n, a)
+<ul>
+  <li><p>read-only (a)</p></li>
+  <li><p>read/write</p></li>
+  <li><p>real time (n)</p></li>
+  <li><p>real-time (a)</p></li>
+  <li><p>reference page or manpage</p></li>
+  <li><p>rename</p></li>
+  <li><p>Return key</p></li>
+  <li><p>rich text</p></li>
+  <li><p>right angle bracket or greater-than sign (>)</p></li>
+  <li><p>right-click</p></li>
+  <li><p>righthand (a)</p></li>
+  <li><p>roll back (v)</p></li>
+  <li><p>rollback (n)</p></li>
+  <li><p>runtime (n, a)</p></li>
+</ul>
 
 <h2 id="wordlist-S">S</h2>
 
-* screensaver
-* scrollbar
-* semicolon
-* server side (n)
-* server-side (a)
-* servlet
-* sharp sign or hash sign
-* shell (lowercase even in
-* shell name: Bourne shell)
-* shell scripts
-* Shift key
-* single quote
-* spacebar
-* spellchecker
-* square brackets or brackets
-* standalone
-* standard input (stdin)
-* standard output (stdout)
-* stylesheet
-* subprocesses
-* subshade
-* system administrator
+<ul>
+  <li><p>screensaver</p></li>
+  <li><p>scrollbar</p></li>
+  <li><p>semicolon</p></li>
+  <li><p>server side (n)</p></li>
+  <li><p>server-side (a)</p></li>
+  <li><p>servlet</p></li>
+  <li><p>sharp sign or hash sign</p></li>
+  <li><p>shell (lowercase even in shell name: Bourne shell)</p></li>
+  <li><p>shell scripts</p></li>
+  <li><p>Shift key</p></li>
+  <li><p>single quote</p></li>
+  <li><p>spacebar</p></li>
+  <li><p>spellchecker</p></li>
+  <li><p>square brackets or brackets</p></li>
+  <li><p>standalone</p></li>
+  <li><p>standard input (stdin)</p></li>
+  <li><p>standard output (stdout)</p></li>
+  <li><p>stylesheet</p></li>
+  <li><p>subprocesses</p></li>
+  <li><p>subshade</p></li>
+  <li><p>system administrator</p></li>
+</ul>
 
 <h2 id="wordlist-T">T</h2>
-
-* Tab key
-* TCP/IP
-* text box
-* text-input mode
-* thread pooling (n)
-* time-sharing processes
-* timestamp
-* time zone
-* titlebar
-* toolbar
-* toolkit
-* top-level (a)
-* toward
-* troubleshoot
+<ul>
+  <li><p>Tab key</p></li>
+  <li><p>TCP/IP</p></li>
+  <li><p>text box</p></li>
+  <li><p>text-input mode</p></li>
+  <li><p>thread pooling (n)</p></li>
+  <li><p>time-sharing processes</p></li>
+  <li><p>timestamp</p></li>
+  <li><p>time zone</p></li>
+  <li><p>titlebar</p></li>
+  <li><p>toolbar</p></li>
+  <li><p>toolkit</p></li>
+  <li><p>top-level (a)</p></li>
+  <li><p>toward</p></li>
+  <li><p>troubleshoot</p></li>
+  
+</ul>
 
 <h2 id="wordlist-U">U</h2>
-
-* Unix
-* up arrow
-* upper- and lowercase
-* uppercase
-* upper-left corner
-* URLs
-* UK/US
-* username
+<ul>
+  <li><p>Unix</p></li>
+  <li><p>up arrow</p></li>
+  <li><p>upper- and lowercase</p></li>
+  <li><p>uppercase</p></li>
+  <li><p>upper-left corner</p></li>
+  <li><p>URLs</p></li>
+  <li><p>UK/US</p></li>
+  <li><p>username</p></li>
+  
+</ul>
 
 <h2 id="wordlist-V">V</h2>
 
-* v2 or version 2
-* VB.NET
-* vs.
-* vice versa
-* Volume One
+<ul>
+  <li><p>v2 or version 2</p></li>
+  <li><p>VB.NET</p></li>
+  <li><p>vs.</p></li>
+  <li><p>vice versa</p></li>
+  <li><p>Volume One</p></li>
+</ul>
 
 <h2 id="wordlist-W">W</h2>
 
-* the web (n)
-* web (a)
-* web client
-* webmaster
-* web page
-* web server
-* website
-* white pages
-* white paper
-* whitespace
-* wide area network or WAN
-* wildcard
-* Windows Vista
-* Wizard (proper noun)
-* wizard (a, n)
-* workaround
-* workgroup
-* workstation
-* World Wide Web (WWW)
-* wraparound
-* writable
-* write-only (a)
+<ul>
+  <li><p>the web (n)</p></li>
+  <li><p>web (a)</p></li>
+  <li><p>web client</p></li>
+  <li><p>webmaster</p></li>
+  <li><p>web page</p></li>
+<li><p>web server</p></li>
+  <li><p>website</p></li>
+  <li><p>white pages</p></li>
+  <li><p>white paper</p></li>
+  <li><p>whitespace</p></li>
+<li><p>wide area network or WAN</p></li>
+  <li><p>wildcard</p></li>
+  <li><p>Windows Vista</p></li>
+  <li><p>Wizard (proper noun)</p></li>
+  <li><p>wizard (a, n)</p></li>
+<li><p>workaround</p></li>
+  <li><p>workgroup</p></li>
+  <li><p>workstation</p></li>
+  <li><p>World Wide Web (WWW)</p></li>
+  <li><p>wraparound</p></li>
+  <li><p>writable</p></li>
+  <li><p>write-only (a)</p></li>  
+</ul>
+
 
 <h2 id="wordlist-XYZ">XYZ</h2>
 
-* X Window System
-* Yahoo!
-* zeros
-* zip code
+<ul>
+<li><p>X Window System</p></li>
+<li><p>Yahoo!</p></li>
+<li><p>zeros</p></li>
+<li><p>zip code</p></li>
+</ul>
