@@ -162,7 +162,7 @@ title: Head First Production and Style Guide
 
 <p>Use the character style Emphasic_Italics, not Code. (Note from Sanders: Yes, I know this a departure from the past, but it's consistent with styles in all O'Reilly's other book series, it makes it easier to fit long URLs on one line, and I think it looks prettier. So I'm going to bat for this one.) [Same goes for pathnames, filenames, and directories.]</p>
 </section>
-</section>
+
 
 <h1 id="word-list">Head First Word List</h1>
 
