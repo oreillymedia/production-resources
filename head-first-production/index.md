@@ -170,7 +170,13 @@ title: Head First Production and Style Guide
 
 <h2 id="wordlist-A">A</h2>
 
-* acknowledgments
+<ul>
+ <li><p>acknowledgments</p></li>
+  <li><p>acknowledgments</p></li>
+  <li><p>acknowledgments</p></li>
+  <li><p>acknowledgments</p></li>
+</ul>
+
 * ActionScript
 * a.k.a.
 * A.M.
