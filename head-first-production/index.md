@@ -3,6 +3,8 @@ layout: default
 title: Head First Production and Style Guide
 ---
 
+# Head First Production Workflow and Word List
+
 * <a href="#head_first_production_workflow">Head First Production Workflow</a>
 * <a href="#head_first_style_sheet_conventions">Head First Style Sheet Conventions</a>
   * <a href="#annotations">Annotations</a>
@@ -52,6 +54,7 @@ title: Head First Production and Style Guide
 <dt>Post-Prod</dt>
 
 <dd><p>The production editor takes care of post-production, which involves requesting final ebook formats (.epub and .mobi) for distribution to the necessary channels. The production editor also sends the author a final email with instructions detailing how authors can use the Errata Portal and stay up-to-date with their books. Once this email goes out, production is officially finished! In general, printed books are available in stores ~15 business days after the FTP date.</p></dd>
+</dl>
 </section>
 
 <section data-type="sect2" id="head_first_style_sheet_conventions">
@@ -167,7 +170,10 @@ title: Head First Production and Style Guide
 <p>(Loosely based on the <a href="http://oreillymedia.github.io/production-resources/styleguide/#word-list">O'Reilly Word List</a>. Please contact myarbrough@oreilly.com to add any HF-specific terms that are missing.)</p>
 
 
-<a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | <a href="#wordlist-D">D</a> | <a href="#wordlist-E">E</a> | <a href="#wordlist-F">F</a> | <a href="#wordlist-G">G</a> | <a href="#wordlist-H">H</a> | <a href="#wordlist-I">I</a> | <a href="#wordlist-J">J</a> | <a href="#wordlist-K">K</a> | <a href="#wordlist-L">L</a> | <a href="#wordlist-M">M</a> | <a href="#wordlist-N">N</a> | <a href="#wordlist-O">O</a> | <a href="#wordlist-P">P</a> | <a href="#wordlist-Q">Q</a> | <a href="#wordlist-R">R</a> | <a href="#wordlist-S">S</a> | <a href="#wordlist-T">T</a> | <a href="#wordlist-U">U</a> | <a href="#wordlist-V">V</a> | <a href="#wordlist-W">W</a> | <a href="#wordlist-XYZ">XYZ</a> |
+<a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | <a href="#wordlist-D">D</a> | <a href="#wordlist-E">E</a> | <a href="#wordlist-F">F</a> | <a href="#wordlist-G">G</a> | <a href="#wordlist-H">H</a> | 
+<a href="#wordlist-I">I</a> | <a href="#wordlist-J">J</a> | <a href="#wordlist-K">K</a> | <a href="#wordlist-L">L</a> | 
+<a href="#wordlist-M">M</a> | <a href="#wordlist-N">N</a> | <a href="#wordlist-O">O</a> | <a href="#wordlist-P">P</a> | <a href="#wordlist-Q">Q</a> | <a href="#wordlist-R">R</a> | <a href="#wordlist-S">S</a> | <a href="#wordlist-T">T</a> | 
+<a href="#wordlist-U">U</a> | <a href="#wordlist-V">V</a> | <a href="#wordlist-W">W</a> | <a href="#wordlist-XYZ">XYZ</a> |
 
 <h2 id="wordlist-A">A</h2>
 
