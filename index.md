@@ -51,6 +51,10 @@ Writing in Microsoft Word? [The information here](http://oreillymedia.github.io/
 
 Looking for guidance on our house style? Check out our [style guide](http://oreillymedia.github.io/production-resources/styleguide/).
 
+## Head First Production Workflow and Word List
+
+Head First books are unique in more ways than one. Check out our [Head First style guide](http://oreillymedia.github.io/production-resources/head-first-production/).
+
 ## Permissions and Fair Use
 
 Looking for a quick resource on permissions and fair use? Check out our [Permissions and Fair Use guide](http://oreillymedia.github.io/production-resources/permissionsandfairuseguide/).
