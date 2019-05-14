@@ -280,6 +280,7 @@ title: Head First Production and Style Guide
 </ul> 
 
 <h2 id="wordlist-G">G</h2>
+
 <ul>
   <li><p>GHz (gigahertz)</p></li>
   <li><p>gray</p></li>
@@ -293,7 +294,7 @@ title: Head First Production and Style Guide
 
 
 <ul>
-<li><p>hardcoded</p></li>
+  <li><p>hardcoded</p></li>
   <li><p>hardcopy</p></li>
   <li><p>hash sign or sharp sign</p></li>
   <li><p>high-level (adj)</p></li>
@@ -302,20 +303,19 @@ title: Head First Production and Style Guide
   <li><p>HTML</p></li>
   <li><p>HTTP</p></li>
   <li><p>hypertext</p></li>
-  
 </ul> 
 
 <h2 id="wordlist-I">I</h2>
 
 <ul>
-    <li><p>IDs</p></li>
+   <li><p>IDs</p></li>
   <li><p>inline</p></li>
   <li><p>internet</p></li>
   <li><p>internetwork</p></li>
   <li><p>I/O</p></li>
   <li><p>IP (Internet Protocol)</p></li>
   <li><p>ISP</p></li>
-  <ul> 
+<ul> 
 
 <h2 id="wordlist-J">J</h2>
 
@@ -507,17 +507,17 @@ title: Head First Production and Style Guide
   <li><p>web client</p></li>
   <li><p>webmaster</p></li>
   <li><p>web page</p></li>
-<li><p>web server</p></li>
+  <li><p>web server</p></li>
   <li><p>website</p></li>
   <li><p>white pages</p></li>
   <li><p>white paper</p></li>
   <li><p>whitespace</p></li>
-<li><p>wide area network or WAN</p></li>
+  <li><p>wide area network or WAN</p></li>
   <li><p>wildcard</p></li>
   <li><p>Windows Vista</p></li>
   <li><p>Wizard (proper noun)</p></li>
   <li><p>wizard (a, n)</p></li>
-<li><p>workaround</p></li>
+  <li><p>workaround</p></li>
   <li><p>workgroup</p></li>
   <li><p>workstation</p></li>
   <li><p>World Wide Web (WWW)</p></li>
@@ -530,8 +530,8 @@ title: Head First Production and Style Guide
 <h2 id="wordlist-XYZ">XYZ</h2>
 
 <ul>
-<li><p>X Window System</p></li>
-<li><p>Yahoo!</p></li>
-<li><p>zeros</p></li>
-<li><p>zip code</p></li>
+  <li><p>X Window System</p></li>
+  <li><p>Yahoo!</p></li>
+  <li><p>zeros</p></li>
+  <li><p>zip code</p></li>
 </ul>
