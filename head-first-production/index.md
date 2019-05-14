@@ -171,35 +171,31 @@ title: Head First Production and Style Guide
 <h2 id="wordlist-A">A</h2>
 
 <ul>
- <li><p>acknowledgments</p></li>
-  <li><p>acknowledgments</p></li>
-  <li><p>acknowledgments</p></li>
-  <li><p>acknowledgments</p></li>
+<li><p>acknowledgments</p></li>
+<li><p>ActionScript</p></li>
+<li><p>a.k.a.</p></li>
+<li><p>A.M.</p></li>
+<li><p>Alt key</p></li>
+<li><p>Alt-N</p></li>
+<li><p>appendix i (Note: appendixes are numbered with lowercase roman numerals, in both appendix openers and in-text refs)</p></li>
+<li><p>appendixes</p></li>
 </ul>
-
-* ActionScript
-* a.k.a.
-* A.M.
-* Alt key
-* Alt-N
-* appendix i (Note: appendixes are numbered with lowercase roman numerals, in both appendix openers and in-text refs)
-* appendixes
 
 <h2 id="wordlist-B">B</h2>
 
-* backend
-* backslash
-* Backspace key
-* backtick
-* backup (n)
-* back up (v)
-* backward
-* backward-compatible
-* Boolean
-* braces or curly braces
-* brackets or square brackets
-* browsable
-* built-in (a, n)
+ * backend
+ * backslash
+ * Backspace key
+ * backtick
+ * backup (n)
+ * back up (v)
+ * backward
+ * backward-compatible
+ * Boolean
+ * braces or curly braces
+ * brackets or square brackets
+ * browsable
+ * built-in (a, n)
 
 <h2 id="wordlist-C">C</h2>
 
