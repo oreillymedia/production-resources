@@ -114,6 +114,7 @@ title: Head First Production and Style Guide
 <li><p>Then make sure your dotted lines are just beneath each line of text. You may or may not want to repeat the blanks in the solution. Sometimes they're useful, other times, they make it harder to see what's going on (if there are a lot of annotations, for instance).</p></li>
 <li><p>[NB British authors: a blank is not a space (as we are used to), but a dotted line denoting a blank space above it for the learner to write in. If your editor asks for blanks, put in some dotted lines!]</p></li>
 </ul>
+</section>
 
 <section data-type="sect3" id="exercises">
 <h3>Exercises</h3>
@@ -129,6 +130,7 @@ title: Head First Production and Style Guide
 <h3>Fireside Chats</h3>
 
 <p>Headers for the two "characters" talking should appear on both pages if chat covers a full spread.</p>
+</section>
 
 <section data-type="sect3" id="hand_drawn_underlines">
 <h3>Hand-drawn underlines</h3>
@@ -162,7 +164,7 @@ title: Head First Production and Style Guide
 
 <p>Use the character style Emphasic_Italics, not Code. (Note from Sanders: Yes, I know this a departure from the past, but it's consistent with styles in all O'Reilly's other book series, it makes it easier to fit long URLs on one line, and I think it looks prettier. So I'm going to bat for this one.) [Same goes for pathnames, filenames, and directories.]</p>
 </section>
-
+</section>
 
 <h1 id="word-list">Head First Word List</h1>
 
