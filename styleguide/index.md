@@ -17,7 +17,7 @@ title: O'Reilly Style Guide
     * <a href="#line-length-ZKs1FLck">Line Length</a>
     * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
     * <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>
-  * <a href="footnotes">Footnotes</a>
+  * <a href="#footnotes">Footnotes</a>
   * <a href="#headings">Headings</a>
   * <a href="#links">Links</a>
   * <a href="#lists">Lists</a>
@@ -449,7 +449,23 @@ title: O'Reilly Style Guide
 
 <p>Table footnotes are lettered (a, b, c, etc.) and appear directly after the table. They should be kept to a minimum.</p>
 
-<p>More details about styling footnotes in Asciidoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.</p>
+<p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads.</p>
+
+<p>This:</p>
+
+<blockquote>
+ <p>1. The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</p>
+ <p>2. Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</p>
+</blockquote>
+
+<p>Not this:</p>
+
+<blockquote>
+<p>1. https://en.wikipedia.org/wiki/JavaScript</p>
+ <p>2. https://doi.org/10.1086/680389</p>
+ </blockquote>
+
+<p>More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.</p>
 </section>
 
 
