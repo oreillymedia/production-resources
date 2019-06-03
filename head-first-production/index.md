@@ -315,7 +315,7 @@ title: Head First Production and Style Guide
   <li><p>I/O</p></li>
   <li><p>IP (Internet Protocol)</p></li>
   <li><p>ISP</p></li>
-<ul> 
+</ul> 
 
 <h2 id="wordlist-J">J</h2>
 
