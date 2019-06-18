@@ -91,6 +91,10 @@ title: O'Reilly Style Guide
 <h2>Abbreviations/Acronyms</h2>
 
 <ul>
+ <li>
+  <p>Generic pronouns should be they/their when needed, not he, she, or he/she.
+  </p>
+ </li>
 <li>
 <p>Acronyms should generally be spelled out the first time they appear in a book, as in: "Computer Development Environment (CDE)." After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. But if you prefer, you can also define them the first time they appear in each chapter.</p>
 </li>
