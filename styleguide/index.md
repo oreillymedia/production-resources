@@ -876,6 +876,12 @@ title: O'Reilly Style Guide
 
 
 
+<h1 id="cover-style">O'Reilly Cover Style</h1>
+_Use Chicago Maual of Style, 17th Edition for anything not mentioned here:_
+
+<p>Bulleted lists on the back cover should begin with a capitalized word and end with <em>no</em> punctuation. Even if the list item is a complete sentence, it will not take a period.</p>
+
+
 <h1 id="word-list">O’Reilly Word List</h1>
 
 _Alphabetical Word List: Default Spellings_
