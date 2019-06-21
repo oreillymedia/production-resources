@@ -26,24 +26,31 @@ title: Head First Production and Style Guide
 <section data-type="sect2" id="head_first_production_workflow">
 <h2>Head First Production Workflow</h2>
 
-<p>Head First books are unique in many ways, including the production process.</p>
+<p>Head First books are unique in many ways, including the production process. For one, Head First books do not receive a copyedit, but undergo a robust proofread with a brief review period by the author. Please note that authors will have only two review periods for Head First books (QC1 and QC2).</p>
 
 <dl>
 <dt>Initial QA/intake (~1–3 days)</dt>
 <dd><p>Production editor takes a look at the InDesign files submitted to production and confirms we have all required fonts and graphics. Any problems due to missing links or incorrect fonts will be resolved at this point, prior to QC1 and proofread. It’s important that authors don’t make any changes to the files during this time (or at any time during production unless scheduled with the production editor).</p></dd>
 
 <dt>QC1 (Quality Check #1)/proofread/index (~8–10 days)</dt>
-<dd><p>The production editor generates a PDF of the book and sends it to the author as well as a proofreader. We also hire an indexer, who will write an index using tags embedded directly into the source files. The author and proofreader review the book and make comments on the PDF. After the QC1 period ends, the production editor enters the proofreader’s and author’s edits into the source files and sends the draft index to the author for review.</p></dd>
+<dd><p>The production editor generates a PDF of the book and sends it to the author as well as a proofreader. We also hire an indexer, who will write an index using tags embedded directly into the source files. The author and proofreader review the book and make comments on the PDF. At this time, the author should confirm that any cross-references to other pages are accurate and final.</p></dd>
 
-<dt>Index review</dt>
+<dt>QC1 Author Review (~3 days)</dt>
+<dd><p>There is a brief period after QC1 review where the author reviews the proofreader's edits. This is the author's chance to reply to all queries and help guide any global changes that should or should not be made. The author should also finalize all running headers (if left blank when submitted to production). After the QC1 review period ends, the production editor enters the proofreader’s and author’s edits into the source files and sends the draft index to the author for review.</p></dd>
+
+<dt>Index review and QC1 Edits Entered (~8 days)</dt>
 
 <dd><p>The production editor sends a draft PDF of the index to the author for review. At this time, the production editor enters QC1 edits (from the author and proofreader) into the source files. </p></dd>
 
-<dt>QC2 (Quality Check #2)</dt>
+<dt>QC2 (Quality Check #2) (~4 days)</dt>
 
-<dd><p>The edits from QC1 have been made to the files, and the production editor generates a new PDF after inserting any necessary page breaks. The QC2 PDF goes only to the author, but the production editor also does his or her own final review of the book at this time. The indexer works in the source files to make the edits that the author has suggested.</p></dd>
+<dd><p>The edits from QC1 have been made to the files, and the production editor generates a new PDF. The QC2 PDF goes only to the author, but the production editor also does their own final review of the book at this time. The indexer works in the source files to make the edits that the author has requested.</p></dd>
 
-<dt>OTD (“Out the Door”)</dt>
+<dt>QC2 Edits Entered (~3 days)</dt>
+
+<dd><p>The production editor enters all final edits from the QC2 review (their own and the author's). All layouts are final at this stage, so the production editor can manually generate the TOC based on each chapter's headers.</p></dd>
+
+<dt>OTD (“Out the Door”) (~1–2 days)</dt>
 
 <dd><p>The production editor sends the book to a colleague for a final internal review. Nothing substantial can be changed without missing the scheduled print date.</p></dd>
 
