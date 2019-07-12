@@ -753,7 +753,7 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="punctuation">
 <h1>Punctuation</h1>
 
-<p>For anything not covered in this list, please consult the Chicago Manual of Style, 15th Edition.</p>
+<p>For anything not covered in this list, please consult the Chicago Manual of Style, 17th Edition.</p>
 
 <ul>
 <li>
