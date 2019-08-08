@@ -938,6 +938,7 @@ _Alphabetical Word List: Default Spellings_
 * BHOs
 * Big Design Up Front (BDUF)
 * bioinformatics
+* Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)
 * bitmap
 * bit mask
 * Bitnet
