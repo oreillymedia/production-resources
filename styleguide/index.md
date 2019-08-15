@@ -973,7 +973,7 @@ _Alphabetical Word List: Default Spellings_
 * client/server
 * client side (n)
 * client-side (a)
-* cloud-native (a) (cloud-native application)
+* cloud native (n or a)
 * co-class
 * coauthor
 * code set
