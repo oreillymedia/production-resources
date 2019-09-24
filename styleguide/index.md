@@ -238,13 +238,13 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns.  No code styling within the figure name or caption. There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
+<p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns.  Code styling is allowed within the figure name or caption. There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
 </li>
 <li>
-<p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns.  No code styling within the table name or caption. There is no period after table titles.</p>
+<p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
 </li>
 <li>
-<p>Example 1-1. Example titles are initial-capped on the first word only, with the exception of proper nouns.  No code styling within the example name or caption. There is no period after example titles.</p>
+<p>Example 1-1. Example titles are initial-capped on the first word only, with the exception of proper nouns.  Code styling is allowed within the example name or caption. There is no period after example titles.</p>
 </li>
 </ul>
 
@@ -526,11 +526,11 @@ title: O'Reilly Style Guide
 
 <p>In books produced in Atlas, URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
 
-<p>Navigate to the <a href="https://oreilly.com">O'Reilly homepage</a> for more information.</p>
+<p>Navigate to the <a href="https://oreilly.com">O'Reilly home page</a> for more information.</p>
 
 <p>In the print book, the URL will unfurl in a parenthetical after the linked text:</p>
 
-<p>Navigate to the O'Reilly homepage (<em>https://oreilly.com</em>) for more information.</p>
+<p>Navigate to the O'Reilly home page (<em>https://oreilly.com</em>) for more information.</p>
 
 <p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
 
@@ -817,7 +817,7 @@ title: O'Reilly Style Guide
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
-<td><p>URLs, URIs, email addresses</p></td>
+<td><p>URLs, URIs, email addresses, domain names</p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
