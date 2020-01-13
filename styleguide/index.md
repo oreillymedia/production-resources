@@ -186,23 +186,23 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="cross_references">
 <h2>Cross References</h2>
 
+<p>Here are a few examples of cross references:</p>
+
 <ul>
 <li>
-<p>An example of a chapter cross-reference: see Chapter 27.</p>
+<p>Chapter: See Chapter 27.</p>
 </li>
 <li>
-<p>An example of a section cross-reference: see the section “Treatment”. The text “on page x” will be added post-conversion, so the final xref will eventually read “Treatment” on page 37.</p>
+<p>Section: See the section “Treatment”. (The text “on page x” will be added post-conversion, so the final xref will eventually read “Treatment” on page 37.)</p>
 </li>
 <li>
-<p>An example of a section cross-reference in another chapter: see “Acceptable Gifts” on page 58 in Chapter 27.</p>
-</li>
-<li>
-<p>More details on cross-references in Asciidoc are available in our <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> guide.</p>
-</li>
-<li>
-<p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
+<p>Section in another chapter: See “Acceptable Gifts” on page 58 in Chapter 27.</p>
 </li>
 </ul>
+ 
+<p>More details on cross-references in Asciidoc are available in our <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> guide.</p>
+
+<p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
 
 <p>For information about styling URLs and hyperlinks, see <a data-type="xref" href="#considering_electronic_formats">Considering Electronic Formats</a>.</p>
 </section>
@@ -253,6 +253,7 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="dates_and_numbers">
 <h2>Dates and Numbers</h2>
 
+<p>What to spell out and when:</p>
 <ul>
 <li>
  <p>Spell out numbers under 10, <strong>and even hundreds, thousands, millions, etc.</strong>, unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges).</p>
@@ -264,11 +265,19 @@ title: O'Reilly Style Guide
 <p>Use numerals for versions (version 5 or v5).</p>
 </li>
 <li>
-<p>You may use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
+<p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
 </li>
 <li>
  <p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: .05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
  </li>
+ <li>
+<p>Ordinal numbers: Spell out first through ninth, use numerals for 10th and above. No superscript.</p>
+</li>
+ </ul>
+ 
+ <p>Formatting:</p>
+ 
+ <ul>
  <li>
   <p>Use spaces around inline operators (1 + 1 = 2. NOT 1+1=2).</p>
  </li>
@@ -286,9 +295,6 @@ title: O'Reilly Style Guide
 </li>
 <li>
 <p>Use multiplication symbol “x” for dimensions, not by (e.g., "8.5 x 11").</p>
-</li>
-<li>
-<p>Ordinal numbers: Spell out first through ninth, use numerals for 10th and above. No superscript.</p>
 </li>
 </ul>
 </section>
