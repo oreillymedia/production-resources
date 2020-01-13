@@ -42,7 +42,7 @@ title: O'Reilly Style Guide
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 
 <div data-type="tip">
- <p>If you are familiar with our style guide and here to check for updates, look for <strong>bold text</strong>. We set new and refined conventions in bold for a short period.</p>
+ <p>If you are familiar with our style guide and here to check for updates, look for <strong>bold text</strong>. Bold text indicates a recent change.</p>
  </div>
 </section>
 
@@ -62,7 +62,7 @@ title: O'Reilly Style Guide
   <li>
     <p>Anchor URLs to text nodes whenever possible, like you would on a website. See <a href="#links">Links</a> for more information.</p>
 
-<div data-type="warning" id="id-BeU0teho">
+<div data-type="tip" id="id-BeU0teho">
   <p>Be as descriptive as possible because the print version of your book renders hyperlinks like this: "text anchor (<a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a>)."</p>
 
 <p>For example, this:</p>
@@ -158,7 +158,7 @@ title: O'Reilly Style Guide
  <li>
 <p>Footnotes in running text are numbered and start over at 1 in each chapter. Footnote markers in running text should always appear after punctuation.</p>
 
-<div data-type="warning">
+<div data-type="tip">
 <p>This: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price.<sup>1</sup></p>
 
 <p>Not this: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price<sup>1</sup>.</p>
@@ -167,7 +167,7 @@ title: O'Reilly Style Guide
 <li>
 <p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads.</p>
 
-<div data-type="warning">
+<div data-type="tip">
 <p>This: 1. The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</p>
  <p>2. Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</p>
 
@@ -320,7 +320,7 @@ title: O'Reilly Style Guide
 
 <p>Every figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Lack of specific in-text references may cause incorrect placement of figures.</p>
 
-<div data-type="note">
+<div data-type="tip">
 <p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
 
 <p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> for examples of Asciidoc cross references.</p>
@@ -342,7 +342,7 @@ title: O'Reilly Style Guide
 </li>
 </ul>
 
-<div data-type="note">
+<div data-type="tip">
 <p>When working in Word, make sure all table cells are tagged with a cell paragraph tag, even if they’re blank. Any bold “headings” that appear below the very first row of a table should be tagged CellSubheading rather than CellHeading.</p>
 
 <p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
@@ -478,17 +478,16 @@ title: O'Reilly Style Guide
 <h3>Syntax Highlighting</h3>
 
 <p>We use a tool called Pygments to colorize code. In most books, code will appear in black and white in the print book and in color in all electronic formats, including the web pdf. If you’re an author, please consult the <a href="http://pygments.org/docs/lexers/">list of available lexers</a> and apply them to your code as you write. To apply syntax highlighting in Asciidoc, consult <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#syntax_highlighting">Writing in AsciiDoc</a>. To apply syntax highlighting in DocBook, consult <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#syntax_highlighting">the DocBook Authoring Guidelines</a>. To apply syntax highlighting in Word, consult the <a href="http://oreillymedia.github.io/production-resources/word/#syntax-highlighting">O’Reilly Media Word Template Quickstart Guide</a>.</p>
-</section>
 
 
 
 
 
-<section data-type="sect3" id="formatting-code-in-word-yDsgtXca">
-<h3>Formatting Code in Word</h3>
+<div data-type="tip" id="formatting-code-in-word-yDsgtXca">
+<h6>Formatting Code in Word</h6>
 
 <p>When copyediting in Word, please do a global search and replace for tabs in code (search for \^t to find them) before submitting files for conversion; tabs <em>will not</em> convert. A general rule of thumb is one tab can be replaced with four spaces (which is the same number that the clean-up macro in the ORA.dot template uses). However, this number can vary, so the most important thing is that copyeditors replace tabs with the numbers of spaces needed to match the indentation and make sure levels of indentation are preserved.</p>
-</section>
+</div>
 
 
 </section>
@@ -517,7 +516,7 @@ title: O'Reilly Style Guide
  
 <p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
 
-<div data-type="note">
+<div data-type="tip">
 <p>We do not anchor URLs to text in books produced in InDesign.</p>
  </div>
 
@@ -745,6 +744,14 @@ title: O'Reilly Style Guide
 
 
 <p>The following shows the basic font conventions used in O’Reilly books. Follow these links for detailed instructions for applying these styles in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#INLINES">Asciidoc</a>, <a href="http://chimera.labs.oreilly.com/books/1234000000058/index.html:">DocBook</a>, and <a href="http://oreillymedia.github.io/production-resources/word/#paragraph-character-styles">Word</a>.</p>
+
+
+<div data-type="warning">
+<p>If you want to use a font convention that is slightly different for one of the following items, check with your editor first—some things can change; some can’t. For example, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you do use something that differs from the following list, please write it down on your printout of this stylesheet, which should be submitted with your manuscript.</p>
+
+<p>If you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
+</div>
+
 <table>
 
 <thead>
@@ -812,11 +819,6 @@ title: O'Reilly Style Guide
 
 <p>For Word copyediting, please do the following before submitting files for conversion: replace any tabs in code with the appropriate number of spaces (see earlier section, <a data-type="xref" href="#code">Code</a>); convert any remaining Word comments to tagged Comment paragraphs highlighted in blue; search for any manual linebreaks (^l) and delete or replace with paragraph breaks as appropriate; and accept all changes and make sure filenames adhere to house style.</p>
 
-<div data-type="warning">
-<p>If you want to use a font convention that is slightly different for one of the following items, check with your editor first—some things can change; some can’t. For example, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you do use something that differs from the following list, please write it down on your printout of this stylesheet, which should be submitted with your manuscript.</p>
-
-<p>If you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
-</div>
 </section>
 
 
@@ -886,7 +888,7 @@ _Alphabetical Word List: Default spellings_
 * BHOs
 * Big Design Up Front (BDUF)
 * bioinformatics
-* Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)
+* <strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong>
 * bitmap
 * bit mask
 * Bitnet
