@@ -835,10 +835,10 @@ title: O'Reilly Style Guide
 
 
 
+<section data-type="sect1" id="word-list">
+<h1>O’Reilly Word List</h1>
 
-<h1 id="word-list">O’Reilly Word List</h1>
-
-_Alphabetical Word List: Default spellings_
+<p>Alphabetical Word List: Default spellings</p>
 
 <a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | <a href="#wordlist-D">D</a> | <a href="#wordlist-E">E</a> | <a href="#wordlist-F">F</a> | <a href="#wordlist-G">G</a> | <a href="#wordlist-H">H</a> | <a href="#wordlist-I">I</a> | <a href="#wordlist-J">J</a> | <a href="#wordlist-K">K</a> | <a href="#wordlist-L">L</a> | <a href="#wordlist-M">M</a> | <a href="#wordlist-N">N</a> | <a href="#wordlist-O">O</a> | <a href="#wordlist-P">P</a> | <a href="#wordlist-Q">Q</a> | <a href="#wordlist-R">R</a> | <a href="#wordlist-S">S</a> | <a href="#wordlist-T">T</a> | <a href="#wordlist-U">U</a> | <a href="#wordlist-V">V</a> | <a href="#wordlist-W">W</a> | <a href="#wordlist-X">X</a> | <a href="#wordlist-Y">Y</a> | <a href="#wordlist-Z">Z</a> |
 
