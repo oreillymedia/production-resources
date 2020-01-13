@@ -58,7 +58,7 @@ title: O'Reilly Style Guide
   <li>
     <p>Anchor URLs to text nodes whenever possible, like you would on a website. See <a href="#links">Links</a> for more information.</p>
 
-<div data-type="warning" id="id-BeU0teho"><h6>Warning</h6>
+<div data-type="warning" id="id-BeU0teho">
   <p>Be as descriptive as possible because the print version of your book renders hyperlinks like this: "text anchor (<a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a>)."</p>
 
 <p>For example, this:</p>
@@ -75,7 +75,8 @@ title: O'Reilly Style Guide
 
 <li>
 <p>Long URLs will be shortened so that they’re easy for print readers to type manually.</p>
-<div data-type="warning" id="id-warning-amazon"><h6>Warning</h6>
+ 
+<div data-type="warning" id="id-warning-amazon">
   <p>Do not link to products on any sales channels other than oreilly.com, including Apple, Google, or Amazon. Apple and Google will refuse to sell content that links to products on Amazon. Vendors, please flag any links to these sales channels and let the production editor know they exist.</p>
   
   <p>Saying "XX book is available on Amazon"—sans link—is OK.</p>
@@ -150,7 +151,7 @@ title: O'Reilly Style Guide
 
 <p>Footnotes in running text are numbered and start over at 1 in each chapter. Footnote markers in running text should always appear after punctuation.</p>
 
-<div data-type"note">
+<div data-type="note"><h6>Note</h6>
 <p>This:</p>
 <blockquote>
 <p>The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price.<sup>1</sup></p></blockquote>
@@ -162,7 +163,7 @@ title: O'Reilly Style Guide
 
 <p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads.</p>
 
-<div data-type"note">
+<div data-type="note"><h6>Note</h6>
 <p>This:</p>
 
 <blockquote>
@@ -795,7 +796,7 @@ title: O'Reilly Style Guide
 
 <p>For Word copyediting, please do the following before submitting files for conversion: replace any tabs in code with the appropriate number of spaces (see earlier section, <a data-type="xref" href="#code">Code</a>); convert any remaining Word comments to tagged Comment paragraphs highlighted in blue; search for any manual linebreaks (^l) and delete or replace with paragraph breaks as appropriate; and accept all changes and make sure filenames adhere to house style.</p>
 
-<div data-type="note" id="note-1">
+<div data-type="note" id="note-1"><h6>Note</h6>
 <p>If you want to use a font convention that is slightly different for one of the following items, check with your editor first—some things can change; some can’t. For example, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you do use something that differs from the following list, please write it down on your printout of this stylesheet, which should be submitted with your manuscript.</p>
 
 <p>If you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
