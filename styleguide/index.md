@@ -332,7 +332,7 @@ title: O'Reilly Style Guide
 </li>
 </ul>
 
-<div data-type="note"
+<div data-type="note">
 <p>When working in Word, make sure all table cells are tagged with a cell paragraph tag, even if they’re blank. Any bold “headings” that appear below the very first row of a table should be tagged CellSubheading rather than CellHeading.</p>
 
 <p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
