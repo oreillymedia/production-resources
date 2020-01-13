@@ -844,151 +844,158 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-A">A</h2>
 
-* acknowledgments
-* ActionScript
-* ActiveX control
-* Addison-Wesley
-* ad hoc
-* ADO.NET
-* Agile (cap when referring to Agile software development or when used on its own as a noun)
-* Ajax
-* a.k.a. or aka (be consistent)
-* a.m. or A.M.
-* Alt key
-* Alt-N
-* anonymous FTP
-* anti-pattern
-* appendixes
-* applet (or Java applet)
-* AppleScript
-* AppleScript Studio (ASS)
-* ARPAnet
-* ASCII
-* ASP.NET
-* at sign
-* autogenerate
-* awk
+<ul>
+ <li> acknowledgments</li>
+ <li> ActionScript</li>
+ <li>ActiveX control</li>
+ <li>Addison-Wesley</li>
+ <li>ad hoc</li>
+ <li>ADO.NET</li>
+ <li>Agile (cap when referring to Agile software development or when used on its own as a noun)</li>
+ <li>Ajax</li>
+ <li>a.k.a. or aka (be consistent)</li>
+ <li>a.m. or A.M.</li>
+ <li>Alt key</li>
+ <li>Alt-N</li>
+ <li>anonymous FTP</li>
+ <li>anti-pattern</li>
+ <li>appendixes</li>
+ <li>applet (or Java applet)</li>
+ <li>AppleScript</li>
+ <li>AppleScript Studio (ASS)</li>
+ <li>ARPAnet</li>
+ <li>ASCII</li>
+ <li>ASP.NET</li>
+ <li>at sign</li>
+ <li>autogenerate</li>
+ <li>awk</li>
+</ul>
 
 <h2 id="wordlist-B">B</h2>
 
-* backend
-* background processes
-* backquote
-* backslash
-* Backspace key
-* backtick
-* backup (n)
-* back up (v)
-* backward
-* backward compatible
-* bandwidth
-* BeOS
-* Berkeley Software Distribution (BSD)
-* Berkeley Unix (older books may have UNIX)
-* BHOs
-* Big Design Up Front (BDUF)
-* bioinformatics
-* <strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong>
-* bitmap
-* bit mask
-* Bitnet
-* bit plane
-* bitwise operators
-* BlackBerry
-* Boolean (unless referring to a datatype in code, in which case s/b lowercase)
-* Bourne-again shell (bash)
-* Bourne shell
-* braces or curly braces
-* brackets or square brackets
-* browsable
-* _build-&gt;measure-&gt;learn_ cycle
-* built-in (a, n)
-* button bar
+<ul>
+<li> backend</li>
+ <li>background processes</li>
+ <li>backquote</li>
+ <li>backslash</li>
+ <li>Backspace key</li>
+ <li>backtick</li>
+ <li>backup (n)</li>
+ <li>back up (v)</li>
+ <li>backward</li>
+ <li>backward compatible</li>
+ <li>bandwidth</li>
+ <li>BeOS</li>
+ <li>Berkeley Software Distribution (BSD)</li>
+ <li>Berkeley Unix (older books may have UNIX)</li>
+ <li>BHOs</li>
+ <li>Big Design Up Front (BDUF)</li>
+ <li>bioinformatics</li>
+ <li><strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong></li>
+ <li>bitmap</li>
+ <li>bit mask</li>
+ <li>Bitnet</li>
+ <li>bit plane</li>
+ <li>bitwise operators</li>
+ <li>BlackBerry</li>
+ <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
+ <li>Bourne-again shell (bash)</li>
+ <li>Bourne shell</li>
+ <li>braces or curly braces</li>
+ <li>brackets or square brackets</li>
+ <li>browsable</li>
+ <li>_build-&gt;measure-&gt;learn_ cycle</li>
+ <li>built-in (a, n)</li>
+ <li>button bar</li>
+ </ul>
  
 <h2 id="wordlist-C">C</h2>
-
-* CacheStorage
-* call-to-cation
-* Caps Lock key
-* caret or circumflex
-* CAT-5
-* CD-ROM
-* C language (n)
-* C-language (a)
-* checkbox
-* checkmark
-* check-in (n)
-* classpath
-* click-through (a)
-* client/server
-* client side (n)
-* client-side (a)
-* <strong>cloud native (n or a)</strong>
-* co-class
-* coauthor
-* code set
-* colorcell
-* colormap
-* Command key (Macintosh)
-* command line (n)
-* command-line (a)
-* Common Object Request
-* Broker Architecture (CORBA)
-* compact disc
-* compile time (n)
-* compile-time (a)
-* CompuServe
-* Control key (Mac)
-* copyleft
-* copyright
-* coworker
-* CPU
-* criterion (s), criteria (p)
-* cross-reference
-* C shell
-* &lt;CR&gt;&lt;LF&gt;
-* Ctrl key (Windows)
-* Ctrl-Alt-Delete
-* Ctrl-N
-* curly braces or braces
-* cybersecurity
+<ul>
+ <li>CacheStorage</li>
+ <li>call-to-cation</li>
+ <li>Caps Lock key</li>
+ <li>caret or circumflex</li>
+ <li>CAT-5</li>
+ <li>CD-ROM</li>
+ <li>C language (n)</li>
+ <li> C-language (a)</li>
+ <li>checkbox</li>
+ <li>checkmark</li>
+ <li>check-in (n)</li>
+ <li>classpath</li>
+ <li>click-through (a)</li>
+ <li>client/server</li>
+ <li>client side (n)</li>
+ <li>client-side (a)</li>
+ <li><strong>cloud native (n or a)</strong></li>
+ <li>co-class</li>
+ <li>coauthor</li>
+ <li>code set</li>
+ <li>colorcell</li>
+ <li>colormap</li>
+ <li>Command key (Macintosh)</li>
+ <li>command line (n)</li>
+ <li>command-line (a)</li>
+ <li>Common Object Request</li>
+ <li>Broker Architecture (CORBA)</li>
+ <li>compact disc</li>
+ <li>compile time (n)</li>
+ <li>compile-time (a)</li>
+ <li>CompuServe</li>
+ <li>Control key (Mac)</li>
+ <li>copyleft</li>
+ <li>copyright</li>
+ <li>coworker</li>
+ <li>CPU</li>
+ <li>criterion (s), criteria (p)</li>
+ <li>cross-reference</li>
+ <li>C shell</li>
+ <li>&lt;CR&gt;&lt;LF&gt;</li>
+ <li>Ctrl key (Windows)</li>
+ <li>Ctrl-Alt-Delete</li>
+ <li>Ctrl-N</li>
+ <li>curly braces or braces</li>
+ <li>cybersecurity</li>
+ </ul>
 
 <h2 id="wordlist-D">D</h2>
-* database
-* data block
-* datacenter or data center (be consistent)
-* Data Encryption Standard (DES)
-* datafile
-* datatype or data type (be consistent)
-* data is
-* dataset or data set (be consistent)
-* DB-9
-* Debian GNU/Linux
-* decision making (n)
-* decision-making (a)
-* DevOps
-* dial-up (a)
-* dial up (v)
-* disk
-* disk-imaging software
-* Delete key
-* design time (n)
-* design-time (a)
-* DNS
-* DocBook
-* Document Object Model (DOM)
-* Domain Name System
-* dot
-* dot-com
-* double-click
-* double-precision (a)
-* double quotes
-* down arrow
-* downlevel (a)
-* download
-* drag-and-drop (n)
-* drag and drop (v)
-* drop-down (a)
+<ul>
+ <li>database</li>
+ <li>data block</li>
+ <li>datacenter or data center (be consistent)</li>
+ <li>Data Encryption Standard (DES)</li>
+ <li>datafile</li>
+ <li>datatype or data type (be consistent)</li>
+ <li>data is</li>
+ <li>dataset or data set (be consistent)</li>
+ <li>DB-9</li>
+ <li>Debian GNU/Linux</li>
+ <li>decision making (n)</li>
+ <li>decision-making (a)</li>
+ <li>DevOps</li>
+ <li>dial-up (a)</li>
+ <li>dial up (v)</li>
+ <li>disk</li>
+ <li>disk-imaging software</li>
+ <li>Delete key</li>
+ <li>design time (n)</li>
+ <li>design-time (a)</li>
+ <li>DNS</li>
+ <li>DocBook</li>
+ <li>Document Object Model (DOM)</li>
+ <li>Domain Name System</li>
+ <li>dot</li>
+ <li>dot-com</li>
+ <li>double-click</li>
+ <li>double-precision (a)</li>
+ <li>double quotes</li>
+ <li>down arrow</li>
+ <li>downlevel (a)</li>
+ <li>download</li>
+ <li>drag-and-drop (n)</li>
+ <li>drag and drop (v)</li>
+ <li>drop-down (a)</li>
+ </ul>
 
 <h2 id="worldlist-E">E</h2>
 * ebook* ebusiness* ecommerce 
