@@ -40,6 +40,10 @@ title: O'Reilly Style Guide
 <p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ). Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the <a href="#word-list">O’Reilly Word List</a>.</p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
+
+<div data-type="tip">
+ <p>If you are familiar with our style guide and here to check for updates, look for <strong>bold text</strong>. We set new and refined conventions in bold for a short period.</p>
+ </div>
 </section>
 
 
