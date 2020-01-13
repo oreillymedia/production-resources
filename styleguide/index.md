@@ -137,7 +137,8 @@ title: O'Reilly Style Guide
 <p>On first reference to another book, include author and publisher name. For example, "You can find more information in <em>The Elements of Typographic Style</em> by Robert Bringhurst (H&amp;M)," or "For more information, consult Robert Bringhurt’s <em>The Elements of Typographic Style</em> (H&amp;M)." On subsequent references, just use the book title.</p>
 
 <p>When referencing an O’Reilly book within the text, note only "O’Reilly" in parentheses, not "O’Reilly Media, Inc." References to other O’Reilly books should be linked to the book’s <a href="http://shop.oreilly.com/category/browse-subjects.do">catalog page</a>.</p>
-<div data-type="note" id="id-BeU1hLI7"><h6>Note</h6>
+
+<div data-type="warning">
 <p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." Not this: "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
 </div>
 
@@ -149,37 +150,31 @@ title: O'Reilly Style Guide
 <section data-type="sect3" id="footnotes">
 <h3>Footnotes</h3>
 
+<ul>
+ <li>
 <p>Footnotes in running text are numbered and start over at 1 in each chapter. Footnote markers in running text should always appear after punctuation.</p>
 
-<div data-type="note"><h6>Note</h6>
-<p>This:</p>
-<blockquote>
-<p>The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price.<sup>1</sup></p></blockquote>
+<div data-type="warning">
+<p>This: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price.<sup>1</sup></p>
 
-<p>Not this:</p>
-<blockquote>
-<p>The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price<sup>1</sup>.</p></blockquote>
+<p>Not this: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price<sup>1</sup>.</p>
 </div>
-
+</li>
+<li>
 <p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads.</p>
 
-<div data-type="note"><h6>Note</h6>
-<p>This:</p>
-
-<blockquote>
- <p>1. The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</p>
+<div data-type="warning">
+<p>This: 1. The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</p>
  <p>2. Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</p>
-</blockquote>
 
-<p>Not this:</p>
-
-<blockquote>
-<p>1. https://en.wikipedia.org/wiki/JavaScript</p>
+<p>Not this: 1. https://en.wikipedia.org/wiki/JavaScript</p>
  <p>2. https://doi.org/10.1086/680389</p>
- </blockquote>
  </div>
-
+ </li>
+<li>
 <p>Table footnotes are lettered (a, b, c, etc.) and appear directly after the table. They should be kept to a minimum.</p>
+</li>
+</ul>
 
 <p>More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.</p>
 </section>
@@ -222,9 +217,8 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="headings">
 <h2>Headings</h2>
 
-<ul>
-<li>
  <p>Capitalization in headings:</p>
+ 
  <ul>
   <li><p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase and coordinating conjunctions (e.g., and, but, for, etc.).</p></li> 
   <li><p>Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”).</p></li> 
@@ -243,15 +237,13 @@ title: O'Reilly Style Guide
 <p>Admonition (note/tip/warning) titles are initial-capped, or title case (like A- and B-level headings, mentioned previously). Admonition titles are optional.</p>
 </li>
  </ul>
- </li>
-<li>
-<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
-</li>
-<li>
- <p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
- </li>
  
-</ul>
+
+<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
+
+<p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
+
+
 </section>
 
 
@@ -263,7 +255,7 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Spell out numbers under 10, and even hundreds, thousands, millions, etc., unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges).</p>
+ <p>Spell out numbers under 10, <strong>and even hundreds, thousands, millions, etc.</strong>, unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges).</p>
 </li>
 <li>
 <p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 not 32904). Exceptions: page numbers, addresses, port numbers, etc.</p>
@@ -318,11 +310,13 @@ title: O'Reilly Style Guide
 
 <p>Every figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Lack of specific in-text references may cause incorrect placement of figures.</p>
 
+<div data-type="note">
 <p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
 
 <p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> for examples of Asciidoc cross references.</p>
 
 <p>If you are writing or copyediting in DocBook, please reference each figure, table, and example with an &lt;xref&gt;.</p>
+</div>
 
 <p>Any word groupings within a figure should have an initial cap on the first word only, with the exception of proper nouns. Generally, we don’t use periods at the end of these word groupings.</p>
 
@@ -338,9 +332,11 @@ title: O'Reilly Style Guide
 </li>
 </ul>
 
+<div data-type="note"
 <p>When working in Word, make sure all table cells are tagged with a cell paragraph tag, even if they’re blank. Any bold “headings” that appear below the very first row of a table should be tagged CellSubheading rather than CellHeading.</p>
 
 <p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
+</div>
 </section>
 
 
@@ -495,15 +491,25 @@ title: O'Reilly Style Guide
 
 <p>In books produced in Atlas, URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
 
+<ul>
+ <li>
 <p>Navigate to the <a href="https://oreilly.com">O'Reilly home page</a> for more information.</p>
+ </li>
+ </ul>
 
 <p>In the print book, the URL will unfurl in a parenthetical after the linked text:</p>
 
+<ul>
+ <li>
 <p>Navigate to the O'Reilly home page (<em>https://oreilly.com</em>) for more information.</p>
-
+ </li>
+ </ul>
+ 
 <p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
 
+<div data-type="note">
 <p>We do not anchor URLs to text in books produced in InDesign.</p>
+ </div>
 
 </section>
 
@@ -705,16 +711,16 @@ title: O'Reilly Style Guide
  <li>
 <p>Do not stack admonitions, sidebars, or headings.</p>
 </li>
+ <li>
+ <p>Em-dashes are always closed (no space around them).</p>
+  </li>
+ <li>
+<p>Ellipses are always closed (no space around them).</p>
+  </li>
+ <li>
+<p>Compound words are closed up when used as nouns (“coverup”), hyphenated when used as adjectives (“the cover-up measures”), and two words when used as verbs (“cover up the flaw with…”).</p>
+</li>
 </ul>
-
-<dl>
- <dt>Em-dashes</dt>
-<dd>Always closed (no space around them).</dd>
-<dt>Ellipses</dt>
-<dd>Always closed (no space around them).</dd>
-<dt>Hyphens</dt>
-<dd>Close up words used as nouns (“coverup”); hyphenate words used as adjectives (“the cover-up measures”); verbs are two words (“cover up the flaw with…”).</dd>
- </dl>
  
 </section>
 
@@ -796,7 +802,7 @@ title: O'Reilly Style Guide
 
 <p>For Word copyediting, please do the following before submitting files for conversion: replace any tabs in code with the appropriate number of spaces (see earlier section, <a data-type="xref" href="#code">Code</a>); convert any remaining Word comments to tagged Comment paragraphs highlighted in blue; search for any manual linebreaks (^l) and delete or replace with paragraph breaks as appropriate; and accept all changes and make sure filenames adhere to house style.</p>
 
-<div data-type="note" id="note-1"><h6>Note</h6>
+<div data-type="warning">
 <p>If you want to use a font convention that is slightly different for one of the following items, check with your editor first—some things can change; some can’t. For example, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you do use something that differs from the following list, please write it down on your printout of this stylesheet, which should be submitted with your manuscript.</p>
 
 <p>If you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
