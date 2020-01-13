@@ -998,522 +998,550 @@ title: O'Reilly Style Guide
  </ul>
 
 <h2 id="worldlist-E">E</h2>
-* ebook* ebusiness* ecommerce 
-* eBay
-* Emacs
-* email
-* empty-element tag
-* end-of-file (EOF)
-* end-tag
-* end user (n.), end-user (adj.)
-* Engines of Groth
-* Enter key
-* equals sign
-* ereader
-* Escape key (or Esc key)
-* et al.
-* Ethernet
-* exclamation mark
-* Exim
-        
+<ul>
+<li>ebook* ebusiness* ecommerce </li>
+ <li>eBay</li>
+ <li>Emacs</li>
+ <li>email</li>
+ <li>empty-element tag</li>
+ <li>end-of-file (EOF)</li>
+ <li>end-tag</li>
+ <li>end user (n.), end-user (adj.)</li>
+ <li>Engines of Groth</li>
+ <li>Enter key</li>
+ <li>equals sign</li>
+ <li>ereader</li>
+ <li>Escape key (or Esc key)</li>
+ <li>et al.</li>
+ <li>Ethernet</li>
+ <li>exclamation mark</li>
+ <li>Exim</li>
+        </ul>
 
 <h2 id="wordlist-F">F</h2>
-* failback
-* failover
-* fax
-* file manager
-* filename
-* file server
-* filesystem
-* file type
-* FireWire
-* foreground
-* FORTRAN
-* Fortran 90
-* forward (adv)
-* frame type
-* FreeBSD
-* Free Documentation License (FDL)
-* Free Software Foundation (FSF)
-* frontend
-* _ftp_ (Unix command)
-* FTP (protocol)
-* FTP site
-* full stack (Full Stack in headings), no hyphen, even if adjective
+<ul>
+ <li>failback</li>
+ <li>failover</li>
+ <li>fax</li>
+ <li>file manager</li>
+ <li>filename</li>
+ <li>file server</li>
+ <li>filesystem</li>
+ <li>file type</li>
+ <li>FireWire</li>
+ <li>foreground</li>
+ <li>FORTRAN</li>
+ <li>Fortran 90</li>
+ <li>forward (adv)</li>
+ <li>frame type</li>
+ <li>FreeBSD</li>
+ <li>Free Documentation License (FDL)</li>
+ <li>Free Software Foundation (FSF)</li>
+ <li>frontend</li>
+ <li>_ftp_ (Unix command)</li>
+ <li>FTP (protocol)</li>
+ <li>FTP site</li>
+ <li>full stack (Full Stack in headings), no hyphen, even if adjective</li>
+        </ul>
         
 <h2 id="wordlist-G">G</h2>
-
-* gateway
-* Gb (gigabit)
-* GB (gigabyte)
-* GBps (gigabytes per second)
-* GHz
-* gid
-* GIMP
-* GNOME
-* GNU Emacs
-* GNU Public License (GPL)
-* GNUstep
-* Google PageRank
-* grayscale
-* greater-than sign or &gt;
-* greenlight (v)
-* GUI, GUIs
+<ul>
+ <li>gateway</li>
+ <li>Gb (gigabit)</li>
+ <li>GB (gigabyte)</li>
+ <li>GBps (gigabytes per second)</li>
+ <li>GHz</li>
+ <li>gid</li>
+ <li>GIMP</li>
+ <li>GNOME</li>
+ <li>GNU Emacs</li>
+ <li>GNU Public License (GPL)</li>
+ <li>GNUstep</li>
+ <li>Google PageRank</li>
+ <li>grayscale</li>
+ <li>greater-than sign or &gt;</li>
+ <li>greenlight (v)</li>
+ <li>GUI, GUIs</li>
+ </ul>
         
 <h2 id="wordlist-H">H</h2>
-
-* handcode
-* handoff (n)
-* hardcoded
-* hardcore
-* hardcode (v)
-* hardcopy
-* hard link
-* hash sign or sharp sign
-* high-level (adj)
-* home page
-* hostname
-* hotspot
-* HTML
-* HTTP
-* hypertext
+<ul>
+ <li>handcode</li>
+ <li>handoff (n)</li>
+ <li>hardcoded</li>
+ <li>hardcore</li>
+ <li>hardcode (v)</li>
+ <li>hardcopy</li>
+ <li>hard link</li>
+ <li>hash sign or sharp sign</li>
+ <li>high-level (adj)</li>
+ <li>home page</li>
+ <li>hostname</li>
+ <li>hotspot</li>
+ <li>HTML</li>
+ <li>HTTP</li>
+ <li>hypertext</li>
+        </ul>
         
 <h2 id="wordlist-I">I</h2>
-
-* IDs
-* IDE
-* IndexedDB
-* inline
-* inode
-* interclient
-* internet, the internet
-* internetwork
-* intranet
-* Intrinsics
-* I/O
-* IP (Internet Protocol)
-* IPsec
-* ISO
-* ISP
+<ul>
+ <li>IDs</li>
+ <li>IDE</li>
+ <li>IndexedDB</li>
+ <li>inline</li>
+ <li>inode</li>
+ <li>interclient</li>
+ <li>internet, the internet</li>
+ <li>internetwork</li>
+ <li>intranet</li>
+ <li>Intrinsics</li>
+ <li>I/O</li>
+ <li>IP (Internet Protocol)</li>
+ <li>IPsec</li>
+ <li>ISO</li>
+ <li>ISP</li>
+ </ul>
  
 <h2 id="wordlist-J">J</h2>
 
-* Jabber
-* Jabber client
-* Jabber server
-* Jabber applet
-* JAR archive
-* JAR file
-* JavaScript
-* JPEG
+<ul>
+ <li>Jabber</li>
+ <li>Jabber client</li>
+ <li>Jabber server</li>
+ <li>Jabber applet</li>
+ <li>JAR archive</li>
+ <li>JAR file</li>
+ <li>JavaScript</li>
+ <li>JPEG</li>
+ </ul>
 
 <h2 id="wordlist-K">K</h2>
-
-* K Desktop Environment (KDE)
-* Kb (kilobit)
-* KB (kilobyte) (denotes file size or disk space)
-* Kbps (kilobits per second)
-* Kerberos
-* keepalive (n or a)
-* keyclick
-* keycode
-* keymaps
-* keypad
-* keystroke
-* keysym
-* keywords
-* key performance indicators (KPIs)
-* kHz (kilohertz)
-* Korn shell
+<ul>
+ <li>K Desktop Environment (KDE)</li>
+ <li>Kb (kilobit)</li>
+ <li>KB (kilobyte) (denotes file size or disk space)</li>
+ <li>Kbps (kilobits per second)</li>
+ <li>Kerberos</li>
+ <li>keepalive (n or a)</li>
+ <li>keyclick</li>
+ <li>keycode</li>
+ <li>keymaps</li>
+ <li>keypad</li>
+ <li>keystroke</li>
+ <li>keysym</li>
+ <li>keywords</li>
+ <li>key performance indicators (KPIs)</li>
+ <li>kHz (kilohertz)</li>
+ <li>Korn shell</li>
+ </ul>
 
 <h2 id="wordlist-L">L</h2>
-
-* Lean (capitalize noun or adjective when referring to Lean business methodology)
-* local area network or LAN
-* left angle bracket or &lt;
-* lefthand (a)
-* leftmost
-* less-than sign or &lt;
-* leveled (not levelled)
-* life cycle
-* line-feed (a)
-* line feed (n)
-* Linux
-* LinuxPPC
-* listbox
-* logfile
-* login, logout, or logon (n or a)
-* log in, log out, or log on (v)
-* lower- and uppercase
-* lowercase
-* lower-level (a)
-* lower-right (a)
-* Linux Professional Institute (LPI)
+<ul>
+ <li>Lean (capitalize noun or adjective when referring to Lean business methodology)</li>
+ <li>local area network or LAN</li>
+ <li>left angle bracket or &lt;</li>
+ <li>lefthand (a)</li>
+ <li>leftmost</li>
+ <li>less-than sign or &lt;</li>
+ <li>leveled (not levelled)</li>
+ <li>life cycle</li>
+ <li>line-feed (a)</li>
+ <li>line feed (n)</li>
+ <li>Linux</li>
+ <li>LinuxPPC</li>
+ <li>listbox</li>
+ <li>logfile</li>
+ <li>login, logout, or logon (n or a)</li>
+ <li>log in, log out, or log on (v)</li>
+ <li>lower- and uppercase</li>
+ <li>lowercase</li>
+ <li>lower-level (a)</li>
+ <li>lower-right (a)</li>
+ <li>Linux Professional Institute (LPI)</li>
+</ul>
 
 <h2 id="wordlist-M">M</h2>
-
-* Macintosh
-* Mac OS
-* Mac OS 9 (_note the use of spaces_)
-* macOS (replaces Mac OS X)
-* <strong>machine learning (noun and adj., no hyphen)</strong>
-* mail-handling (adjective)
-* manpage
-* markup
-* Mb (megabit)
-* MB (megabyte)
-* MBps (megabytes per second)
-* McGraw-Hill
-* menu bar
-* metacharacter
-* Meta key
-* Meta-N
-* MHz (megahertz)
-* mice or mouses (be consistent)
-* microservices
-* Microsoft Windows
-* Microsoft Windows Me
-* Microsoft Windows NT
-* Microsoft Windows XP
-* Microsoft Windows 2000
-* MIDlet
-* MKS Toolkit
-* MS-DOS
-* multiline (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)
-* Multi-Touch (when referring to Apple's trademark)
-* My Services
-* MySpace
+<ul>
+ <li>Macintosh</li>
+ <li>Mac OS</li>
+ <li>Mac OS 9 (_note the use of spaces_)</li>
+ <li>macOS (replaces Mac OS X)</li>
+ <li><strong>machine learning (noun and adj., no hyphen)</strong></li>
+ <li>mail-handling (adjective)</li>
+ <li>manpage</li>
+ <li>markup</li>
+ <li>Mb (megabit)</li>
+ <li>MB (megabyte)</li>
+ <li>MBps (megabytes per second)</li>
+ <li>McGraw-Hill</li>
+ <li>menu bar</li>
+ <li>metacharacter</li>
+ <li>Meta key</li>
+ <li>Meta-N</li>
+ <li>MHz (megahertz)</li>
+ <li>mice or mouses (be consistent)</li>
+ <li>microservices</li>
+ <li>Microsoft Windows</li>
+ <li>Microsoft Windows Me</li>
+ <li>Microsoft Windows NT</li>
+ <li>Microsoft Windows XP</li>
+ <li>Microsoft Windows 2000</li>
+ <li>MIDlet</li>
+ <li>MKS Toolkit</li>
+ <li>MS-DOS</li>
+ <li>multiline (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)</li>
+ <li>Multi-Touch (when referring to Apple's trademark)</li>
+ <li>My Services</li>
+ <li>MySpace</li>
+ </ul>
         
 <h2 id="wordlist-N">N</h2>
-
-* nameserver
-* name service
-* namespace
-* the Net
-* .NET
-* NetBIOS
-* NetBSD
-* NetInfo
-* newline
-* newsgroups
-* NeXTSTEP
-* NOOP
-* nonlocal
-* NoSQL
-* Novell NetWare
-* the _New York Times_
+<ul>
+ <li>nameserver</li>
+ <li>name service</li>
+ <li>namespace</li>
+ <li>the Net</li>
+ <li>.NET</li>
+ <li>NetBIOS</li>
+ <li>NetBSD</li>
+ <li>NetInfo</li>
+ <li>newline</li>
+ <li>newsgroups</li>
+ <li>NeXTSTEP</li>
+ <li>NOOP</li>
+ <li>nonlocal</li>
+ <li>NoSQL</li>
+ <li>Novell NetWare</li>
+ <li>the _New York Times_</li>
+ </ul>
 
 <h2 id="wordlist-O">O</h2>
-
-* Objective-C
-* object linking and embedding (OLE)
-* object-oriented programming (OOP)
-* object request broker (ORB)
-* OK
-* offline
-* offload
-* onboard
-* ongoing
-* online
-* <strong>open source (n or a)</strong>
-* open source software (OSS)
-* OpenBSD
-* OpenMotif
-* OpenStep
-* OpenWindows
-* Option key (Macintosh)
-* Oracle7
-* Oracle8
-* Oracle 8.0
-* Oracle 8_i_ (italic “i”)
-* Oracle 9_i_ (italic “i”)
-* Oracle Parallel Query Option
-* O’Reilly Media, Inc.
-* OS/2
-* OSA
-* OSF/Motif
-* OS X
+<ul>
+  <li>Objective-C</li>
+ <li>object linking and embedding (OLE)</li>
+ <li>object-oriented programming (OOP)</li>
+ <li>object request broker (ORB)</li>
+ <li>OK</li>
+ <li>offline</li>
+ <li>offload</li>
+ <li>onboard</li>
+ <li>ongoing</li>
+ <li>online</li>
+ <li><strong>open source (n or a)</strong></li>
+ <li>open source software (OSS)</li>
+ <li>OpenBSD</li>
+ <li>OpenMotif</li>
+ <li>OpenStep</li>
+ <li>OpenWindows</li>
+ <li>Option key (Macintosh)</li>
+ <li>Oracle7</li>
+ <li>Oracle8</li>
+ <li>Oracle 8.0</li>
+ <li>Oracle 8_i_ (italic “i”)</li>
+ <li>Oracle 9_i_ (italic “i”)</li>
+ <li>Oracle Parallel Query Option</li>
+ <li>O’Reilly Media, Inc.</li>
+ <li>OS/2</li>
+ <li>OSA</li>
+ <li>OSF/Motif</li>
+ <li>OS X</li>
+ </ul>
 
 <h2 id="wordlist-P">P</h2>
-
-* packet switch networks
-* Paint Shop Pro
-* pagefile
-* page rank (but Google PageRank™)
-* parentheses (p)
-* parenthesis (s)
-* Pascal
-* password
-* pathname
-* pattern-matching (a)
-* peer-to-peer (or P2P)
-* % (not percent)
-* performant (Oracle)
-* period
-* Perl
-* Perl DBI
-* plain text (n)
-* plain-text (a)
-* Plug and Play (PnP)
-* plug in (v)
-* plug-in (a, n)
-* p.m. or P.M.
-* Point-to-Point Protocol (PPP)
-* pop up (v, n)
-* pop-up (a)
-* POP-3
-* Portable Document Format (PDF)
-* Portable Network Graphics (PNG)
-* Portable Operating
-*   System Interface (POSIX)
-* POSIX-compliant
-* Post Office Protocol (POP)
-* postprocess
-* PostScript
-* Prentice Hall
-* process ID
-* progress bar
-* pseudoattribute
-* pseudo-tty
-* public key (n)
-* public-key (a)
-* pull-down (a)
+<ul>
+ <li>packet switch networks</li>
+ <li>Paint Shop Pro</li>
+ <li>pagefile</li>
+ <li>page rank (but Google PageRank™)</li>
+ <li>parentheses (p)</li>
+ <li>parenthesis (s)</li>
+ <li>Pascal</li>
+ <li>password</li>
+ <li>pathname</li>
+ <li>pattern-matching (a)</li>
+ <li>peer-to-peer (or P2P)</li>
+ <li>% (not percent)</li>
+ <li>performant (Oracle)</li>
+ <li>period</li>
+ <li>Perl</li>
+ <li>Perl DBI</li>
+ <li>plain text (n)</li>
+ <li>plain-text (a)</li>
+ <li>Plug and Play (PnP)</li>
+ <li>plug in (v)</li>
+ <li>plug-in (a, n)</li>
+ <li>p.m. or P.M.</li>
+ <li>Point-to-Point Protocol (PPP)</li>
+ <li>pop up (v, n)</li>
+ <li>pop-up (a)</li>
+ <li>POP-3</li>
+ <li>Portable Document Format (PDF)</li>
+ <li>Portable Network Graphics (PNG)</li>
+ <li>Portable Operating
+  <ul>
+   <li>System Interface (POSIX)</li>
+  </ul>
+ <li>POSIX-compliant</li>
+ <li>Post Office Protocol (POP)</li>
+ <li>postprocess</li>
+ <li>PostScript</li>
+ <li>Prentice Hall</li>
+ <li>process ID</li>
+ <li>progress bar</li>
+ <li>pseudoattribute</li>
+ <li>pseudo-tty</li>
+ <li>public key (n)</li>
+ <li>public-key (a)</li>
+ <li>pull-down (a)</li>
+ </ul>
 
 <h2 id="wordlist-Q">Q</h2>
-
-* qmail
-* Qt
-* QuarkXPress
-* Quartz
-* Quartz Extreme
-* QuickTime
-* quotation marks (spell out first time; it can be “quotes” thereafter)
+<ul>
+ <li>qmail</li>
+ <li>Qt</li>
+ <li>QuarkXPress</li>
+ <li>Quartz</li>
+ <li>Quartz Extreme</li>
+ <li>QuickTime</li>
+ <li>quotation marks (spell out first time; it can be “quotes” thereafter)</li>
+ </ul>
 
 <h2 id="wordlist-R">R</h2>
-
-* random-access (a)
-* RCS
-* read-only (a)
-* read/write
-* real time (n)
-* real-time (a)
-* re-create
-* Red Hat Linux
-* Red Hat Package Manager (RPM)
-* redirection
-* reference page or manpage
-* remote-access server
-* rename
-* Rendezvous (_Mac OS X Zeroconf networking_)
-* Return (key)
-* RFC 822
-* rich text (n)
-* rich-text (a)
-* right angle bracket or
-* greater-than sign (&gt;)
-* right-click
-* righthand (a)
-* rmail
-* roll back (v)
-* rollback (n)
-* rootkit
-* Rubout key
-* rulebase
-* ruleset
-* runtime (n, a)
+<ul>
+ <li>random-access (a)</li>
+ <li>RCS</li>
+ <li>read-only (a)</li>
+ <li>read/write</li>
+ <li>real time (n)</li>
+ <li>real-time (a)</li>
+ <li>re-create</li>
+ <li>Red Hat Linux</li>
+ <li>Red Hat Package Manager (RPM)</li>
+ <li>redirection</li>
+ <li>reference page or manpage</li>
+ <li>remote-access server</li>
+ <li>rename</li>
+ <li>Rendezvous (_Mac OS X Zeroconf networking_)</li>
+ <li>Return (key)</li>
+ <li>RFC 822</li>
+ <li>rich text (n)</li>
+ <li>rich-text (a)</li>
+ <li>right angle bracket or</li>
+ <li>greater-than sign (&gt;)</li>
+ <li>right-click</li>
+ <li>righthand (a)</li>
+ <li>rmail</li>
+ <li>roll back (v)</li>
+ <li>rollback (n)</li>
+ <li>rootkit</li>
+ <li>Rubout key</li>
+ <li>rulebase</li>
+ <li>ruleset</li>
+ <li>runtime (n, a)</li>
+ </ul>
 
 <h2 id="wordlist-S">S</h2>
-
-* Samba
-* saveset
-* screen dump
-* screenful
-* screensaver
-* screenshot
-* scroll bar
-* securelevel (in Linux)
-* Secure Shell (SSH)
-* Secure Sockets Layer (SSL)
-* sed scripts
-* semicolon
-* server-dependent
-* server side (n)
-* server-side (a)
-* service worker
-* servlet
-* set up (v)
-* setup (n)
-* SGML
-* sharp sign or hash sign
-* shell (lowercase even in shell name: Bourne shell)
-* shell scripts
-* Shift key
-* shortcut
-* Simple API for XML (SAX)
-* single-precision (a)
-* single quote
-* site map
-* slideshow
-* Smalltalk
-* SMP (a, n)
-* SOAP
-* Social Security number (SSN)
-* source code
-* space bar
-* spam (not SPAM)
-* spellcheck
-* spellchecker
-* split screen
-* square brackets or brackets
-* standalone
-* standard input (stdin)
-* standard output (stdout)
-* start tag
-* startup file
-* stateful
-* stateless
-* status bar
-* stylesheet
-* subprocess (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)
-* SUSE Linux
-* swapfile
-* swapspace
-* sync
-* system administrator
-* system-wide
+<ul>
+ <li>Samba</li>
+ <li>saveset</li>
+ <li>screen dump</li>
+ <li>screenful</li>
+ <li>screensaver</li>
+ <li>screenshot</li>
+ <li>scroll bar</li>
+ <li>securelevel (in Linux)</li>
+ <li>Secure Shell (SSH)</li>
+ <li>Secure Sockets Layer (SSL)</li>
+ <li>sed scripts</li>
+ <li>semicolon</li>
+ <li>server-dependent</li>
+ <li>server side (n)</li>
+ <li>server-side (a)</li>
+ <li>service worker</li>
+ <li>servlet</li>
+ <li>set up (v)</li>
+ <li>setup (n)</li>
+ <li>SGML</li>
+ <li>sharp sign or hash sign</li>
+ <li>shell (lowercase even in shell name: Bourne shell)</li>
+ <li>shell scripts</li>
+ <li>Shift key</li>
+ <li>shortcut</li>
+ <li>Simple API for XML (SAX)</li>
+ <li>single-precision (a)</li>
+ <li>single quote</li>
+ <li>site map</li>
+ <li>slideshow</li>
+ <li>Smalltalk</li>
+ <li>SMP (a, n)</li>
+ <li>SOAP</li>
+ <li>Social Security number (SSN)</li>
+ <li>source code</li>
+ <li>space bar</li>
+ <li>spam (not SPAM)</li>
+ <li>spellcheck</li>
+ <li>spellchecker</li>
+ <li>split screen</li>
+ <li>square brackets or brackets</li>
+ <li>standalone</li>
+ <li>standard input (stdin)</li>
+ <li>standard output (stdout)</li>
+ <li>start tag</li>
+ <li>startup file</li>
+ <li>stateful</li>
+ <li>stateless</li>
+ <li>status bar</li>
+ <li>stylesheet</li>
+ <li>subprocess (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)</li>
+ <li>SUSE Linux</li>
+ <li>swapfile</li>
+ <li>swapspace</li>
+ <li>sync</li>
+ <li>system administrator</li>
+ <li>system-wide</li>
+ </ul>
 
 <h2 id="wordlist-T">T</h2>
-
-* 10-baseT
-* T1
-* t-shirt
-* Tab key
-* TAR file
-* TCP/IP
-* Telnet (the protocol)
-* telnet (v)
-* terabyte
-* T<subscript>E</subscript>X
-* texinfo
-* text box
-* text-input mode
-* thread pooling (n)
-* time-sharing processes
-* timestamp
-* time zone
-* title bar
-* Token Ring
-* toolbar
-* toolkit
-* tool tip
-* top-level (a)
-* toward
-* trade-off
-* troubleshoot
+<ul>
+ <li>10-baseT</li>
+ <li>T1</li>
+ <li>t-shirt</li>
+ <li>Tab key</li>
+ <li>TAR file</li>
+ <li>TCP/IP</li>
+ <li>Telnet (the protocol)</li>
+ <li>telnet (v)</li>
+ <li>terabyte</li>
+ <li>T<subscript>E</subscript>X</li>
+ <li>texinfo</li>
+ <li>text box</li>
+ <li>text-input mode</li>
+ <li>thread pooling (n)</li>
+ <li>time-sharing processes</li>
+ <li>timestamp</li>
+ <li>time zone</li>
+ <li>title bar</li>
+ <li>Token Ring</li>
+ <li>toolbar</li>
+ <li>toolkit</li>
+ <li>tool tip</li>
+ <li>top-level (a)</li>
+ <li>toward</li>
+ <li>trade-off</li>
+ <li>troubleshoot</li>
+ </ul>
 
 <h2 id="wordlist-U">U</h2>
-
-* UK (for United Kingdom)
-* Ultrix
-* Universal Serial Bus (USB)
-* Unix (UNIX in many books, esp. older ones)
-* up arrow
-* upper- and lowercase
-* uppercase
-* upper-left corner
-* UPSs
-* up-to-date
-* URLs
-* US (for United States)
-* Usenet
-* user ID (n)
-* user-ID (a)
-* username
+<ul>
+ <li>UK (for United Kingdom)</li>
+ <li>Ultrix</li>
+ <li>Universal Serial Bus (USB)</li>
+ <li>Unix (UNIX in many books, esp. older ones)</li>
+ <li>up arrow</li>
+ <li>upper- and lowercase</li>
+ <li>uppercase</li>
+ <li>upper-left corner</li>
+ <li>UPSs</li>
+ <li>up-to-date</li>
+ <li>URLs</li>
+ <li>US (for United States)</li>
+ <li>Usenet</li>
+ <li>user ID (n)</li>
+ <li>user-ID (a)</li>
+ <li>username</li>
+ </ul>
 
 <h2 id="wordlist-V">V</h2>
-
-* v2 or version 2
-* VAX/VMS
-* VB.NET
-* versus (avoid vs.)
-* vice versa
-* VoiceXML
-* Visual Basic .NET
-* Visual Basic 6 or VB 6
-* Visual C++ .NET
-* Visual Studio .NET
-* VS.NET
-* Volume One
+<ul>
+ <li>v2 or version 2</li>
+ <li>VAX/VMS</li>
+ <li>VB.NET</li>
+ <li>versus (avoid vs.)</li>
+ <li>vice versa</li>
+ <li>VoiceXML</li>
+ <li>Visual Basic .NET</li>
+ <li>Visual Basic 6 or VB 6</li>
+ <li>Visual C++ .NET</li>
+ <li>Visual Studio .NET</li>
+ <li>VS.NET</li>
+ <li>Volume One</li>
+ </ul>
 
 <h2 id="wordlist-W">W</h2>
-
-* the _Wall Street Journal_
-* the web (n)
-* web (a)
-* web client
-* webmaster
-* web page
-* web server
-* web services (unless preceded by a proper noun, as in Microsoft Web Services)
-* website
-* white pages
-* whitepaper (I printed my whitepaper on white paper.)
-* whitespace
-* wide area network or WAN
-* WiFi
-* wiki
-* wildcard
-* Windows 95
-* Windows 98
-* Windows 2000
-* Windows NT
-* Windows Vista
-* Windows XP
-* Wizard (proper noun)
-* wizard (a, n)
-* workaround
-* workbench
-* workgroup
-* workstation
-* World Wide Web (WWW)
-* wraparound
-* writable
-* write-only (a)
-* WYSIWYG
+<ul>
+ <li>the <em>Wall Street Journal</em></li>
+ <li>the web (n)</li>
+ <li>web (a)</li>
+ <li>web client</li>
+ <li>webmaster</li>
+ <li>web page</li>
+ <li>web server</li>
+ <li>web services (unless preceded by a proper noun, as in Microsoft Web Services)</li>
+ <li>website</li>
+ <li>white pages</li>
+ <li>whitepaper (I printed my whitepaper on white paper.)</li>
+ <li>whitespace</li>
+ <li>wide area network or WAN</li>
+ <li>WiFi</li>
+ <li>wiki</li>
+ <li>wildcard</li>
+ <li>Windows 95</li>
+ <li>Windows 98</li>
+ <li>Windows 2000</li>
+ <li>Windows NT</li>
+ <li>Windows Vista</li>
+ <li>Windows XP</li>
+ <li>Wizard (proper noun)</li>
+ <li>wizard (a, n)</li>
+ <li>workaround</li>
+ <li>workbench</li>
+ <li>workgroup</li>
+ <li>workstation</li>
+ <li>World Wide Web (WWW)</li>
+ <li>wraparound</li>
+ <li>writable</li>
+ <li>write-only (a)</li>
+ <li>WYSIWYG</li>
+ </ul>
 
 <h2 id="wordlist-X">X</h2>
-
-* (x,y) (no space)
-* x-axis
-* Xbox
-* X client
-* _x_ coordinate
-* X protocol
-* X server
-* X Toolkit
-* XView
-* X Window series
-* X Window System
-* x86
-* xFree86
-* XHTML
-* XLink
-* XML
-* XML Query Language (XQuery)
-* XML-RPC
-* XPath
-* XPointer
-* XSL
-* XSLT
+<ul>
+ <li>(x,y) (no space)</li>
+ <li>x-axis</li>
+ <li>Xbox</li>
+ <li>X client</li>
+ <li>_x_ coordinate</li>
+ <li>X protocol</li>
+ <li>X server</li>
+ <li>X Toolkit</li>
+ <li>XView</li>
+ <li>X Window series</li>
+ <li>X Window System</li>
+ <li>x86</li>
+ <li>xFree86</li>
+ <li>XHTML</li>
+ <li>XLink</li>
+ <li>XML</li>
+ <li>XML Query Language (XQuery)</li>
+ <li>XML-RPC</li>
+ <li>XPath</li>
+ <li>XPointer</li>
+ <li>XSL</li>
+ <li>XSLT</li>
+ </ul>
 
 <h2 id="wordlist-Y">Y</h2>
-* Yahoo!
-* y-axis
-* _y_ coordinate
+<ul>
+ <li>Yahoo!</li>
+ <li>y-axis</li>
+ <li>_y_ coordinate</li>
+ </ul>
 
 <h2 id="wordlist-Z">Z</h2>
-* Zeroconf (short for “Zero Configuration”)
-* zeros
-* zip code
-* zip (v)
-* ZIP file
+<ul>
+ <li>Zeroconf (short for “Zero Configuration”)</li>
+ <li>zeros</li>
+ <li>zip code</li>
+ <li>zip (v)</li>
+ <li>ZIP file</li>
+ </ul>
