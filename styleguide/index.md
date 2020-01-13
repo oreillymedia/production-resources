@@ -1164,7 +1164,7 @@ title: O'Reilly Style Guide
 <ul>
  <li>Macintosh</li>
  <li>Mac OS</li>
- <li>Mac OS 9 (_note the use of spaces_)</li>
+ <li>Mac OS 9 (<em>note the use of spaces</em>)</li>
  <li>macOS (replaces Mac OS X)</li>
  <li><strong>machine learning (noun and adj., no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
@@ -1212,7 +1212,7 @@ title: O'Reilly Style Guide
  <li>nonlocal</li>
  <li>NoSQL</li>
  <li>Novell NetWare</li>
- <li>the _New York Times_</li>
+ <li>the <em>New York Times</em></li>
  </ul>
 
 <h2 id="wordlist-O">O</h2>
@@ -1237,8 +1237,8 @@ title: O'Reilly Style Guide
  <li>Oracle7</li>
  <li>Oracle8</li>
  <li>Oracle 8.0</li>
- <li>Oracle 8_i_ (italic “i”)</li>
- <li>Oracle 9_i_ (italic “i”)</li>
+ <li>Oracle 8<em>i</em> (italic “i”)</li>
+ <li>Oracle 9<em>i</em> (italic “i”)</li>
  <li>Oracle Parallel Query Option</li>
  <li>O’Reilly Media, Inc.</li>
  <li>OS/2</li>
@@ -1281,6 +1281,7 @@ title: O'Reilly Style Guide
   <ul>
    <li>System Interface (POSIX)</li>
   </ul>
+ </li>
  <li>POSIX-compliant</li>
  <li>Post Office Protocol (POP)</li>
  <li>postprocess</li>
@@ -1321,7 +1322,7 @@ title: O'Reilly Style Guide
  <li>reference page or manpage</li>
  <li>remote-access server</li>
  <li>rename</li>
- <li>Rendezvous (_Mac OS X Zeroconf networking_)</li>
+ <li>Rendezvous (<em>Mac OS X Zeroconf networking</em>)</li>
  <li>Return (key)</li>
  <li>RFC 822</li>
  <li>rich text (n)</li>
@@ -1510,7 +1511,7 @@ title: O'Reilly Style Guide
  <li>x-axis</li>
  <li>Xbox</li>
  <li>X client</li>
- <li>_x_ coordinate</li>
+ <li><em>x</em> coordinate</li>
  <li>X protocol</li>
  <li>X server</li>
  <li>X Toolkit</li>
@@ -1534,7 +1535,7 @@ title: O'Reilly Style Guide
 <ul>
  <li>Yahoo!</li>
  <li>y-axis</li>
- <li>_y_ coordinate</li>
+ <li><em>y</em> coordinate</li>
  </ul>
 
 <h2 id="wordlist-Z">Z</h2>
