@@ -1199,7 +1199,7 @@ _Alphabetical Word List: Default Spellings_
 * Mac OS
 * Mac OS 9 (_note the use of spaces_)
 * macOS (replaces Mac OS X)
-* machine learning (noun), machine-learning (adj.)
+* machine learning (noun and adj., no hyphen)
 * mail-handling (adjective)
 * manpage
 * markup
