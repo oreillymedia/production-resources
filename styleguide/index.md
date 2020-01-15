@@ -1163,8 +1163,6 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-M">M</h2>
 <ul>
  <li>Macintosh</li>
- <li>Mac OS</li>
- <li>Mac OS 9 (<em>note the use of spaces</em>)</li>
  <li>macOS (replaces Mac OS X)</li>
  <li><strong>machine learning (noun and adj., no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
