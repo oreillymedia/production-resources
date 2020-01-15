@@ -332,7 +332,7 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns.  Code styling is allowed within the figure name or caption. There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
+<p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns. <strong>Code styling is allowed within the figure name or caption.</strong> There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
 </li>
 <li>
 <p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
