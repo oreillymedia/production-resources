@@ -876,7 +876,7 @@ title: O'Reilly Style Guide
 <ul>
 <li> backend</li>
  <li>background processes</li>
- <li><strong>backpressure</stron></li>
+ <li><strong>backpressure</strong></li>
  <li>backquote</li>
  <li>backslash</li>
  <li>Backspace key</li>
@@ -890,7 +890,7 @@ title: O'Reilly Style Guide
  <li>Berkeley Software Distribution (BSD)</li>
  <li>Berkeley Unix (older books may have UNIX)</li>
  <li>BHOs</li>
- <li><strong>big data</stron></li>
+ <li><strong>big data</strong></li>
  <li>Big Design Up Front (BDUF)</li>
  <li>bioinformatics</li>
  <li><strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong></li>
