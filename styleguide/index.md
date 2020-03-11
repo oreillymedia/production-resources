@@ -260,7 +260,7 @@ title: O'Reilly Style Guide
 <p>What to spell out and when:</p>
 <ul>
 <li>
- <p>Spell out numbers under 10, <strong>and even hundreds, thousands, millions, etc.</strong>, unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges).</p>
+ <p>Spell out numbers under 10 <strong>and certain round multiples of those numbers</strong> unless the same object appears in a sentence with an object 10 or over (five apples; five apples and <strong>one hundred</strong> oranges; 5 apples and 110 oranges). <strong>The whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
 </li>
 <li>
 <p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 not 32904). Exceptions: page numbers, addresses, port numbers, etc.</p>
@@ -876,6 +876,7 @@ title: O'Reilly Style Guide
 <ul>
 <li> backend</li>
  <li>background processes</li>
+ <li><strong>backpressure</stron></li>
  <li>backquote</li>
  <li>backslash</li>
  <li>Backspace key</li>
@@ -889,6 +890,7 @@ title: O'Reilly Style Guide
  <li>Berkeley Software Distribution (BSD)</li>
  <li>Berkeley Unix (older books may have UNIX)</li>
  <li>BHOs</li>
+ <li><strong>big data</stron></li>
  <li>Big Design Up Front (BDUF)</li>
  <li>bioinformatics</li>
  <li><strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong></li>
@@ -972,6 +974,7 @@ title: O'Reilly Style Guide
  <li>Debian GNU/Linux</li>
  <li>decision making (n)</li>
  <li>decision-making (a)</li>
+ <li><strong>deep learning (noun and adj., no hyphen)</strong></li>
  <li>DevOps</li>
  <li>dial-up (a)</li>
  <li>dial up (v)</li>
@@ -1137,6 +1140,7 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-L">L</h2>
 <ul>
+ <li><strong>lambda (lc unless referring to a product name)</strong></li>
  <li>Lean (capitalize noun or adjective when referring to Lean business methodology)</li>
  <li>local area network or LAN</li>
  <li>left angle bracket or &lt;</li>
