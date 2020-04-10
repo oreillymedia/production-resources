@@ -109,7 +109,7 @@ title: O'Reilly Style Guide
   </p>
  </li>
 <li>
- <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. <strong>But if the author prefers, we can also define certain terms the first time they appear in each chapter.<s/trong></p>
+ <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. <strong>But if the author prefers, we can also define certain terms the first time they appear in each chapter.</strong></p>
 </li>
  <li>
   <p><strong>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</strong></p>
