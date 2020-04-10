@@ -37,7 +37,7 @@ title: O'Reilly Style Guide
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
-<p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ). Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the <a href="#word-list">O’Reilly Word List</a>.</p>
+<p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ). Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the <a href="#word-list">O’Reilly Word List</a>. <strong>Use your book-specific word list (to be provided by your Production Editor) to document any choices not covered or determined here (e.g., A.M. or a.m., data center or datacenter, etc.) as well as proper nouns, acronymns, etc. These instructions are also in the word list we provide to copyeditors.</strong></p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 
@@ -109,8 +109,11 @@ title: O'Reilly Style Guide
   </p>
  </li>
 <li>
-<p>Acronyms should generally be spelled out the first time they appear in a book, as in: "Computer Development Environment (CDE)." After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. But if you prefer, you can also define them the first time they appear in each chapter.</p>
+ <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. <strong>But if the author prefers, we can also define certain terms the first time they appear in each chapter.<s/trong></p>
 </li>
+ <li>
+  <p><strong>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</strong></p>
+ </li>
 <li>
 <p>A.M. and P.M. or a.m. and p.m.—be consistent.</p>
 </li>
@@ -335,10 +338,10 @@ title: O'Reilly Style Guide
 <p>Figure 1-1. Figure captions are initial-capped on first word only, with the exception of proper nouns. <strong>Code styling is allowed within the figure name or caption.</strong> There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
 </li>
 <li>
-<p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
+<p>Table 1-1. Column heads and table titles are initial-capped on the first word only, with the exception of proper nouns.  <strong>Code styling is allowed within the table name or caption.</strong> There is no period after table titles.</p>
 </li>
 <li>
-<p>Example 1-1. Example titles are initial-capped on the first word only, with the exception of proper nouns.  Code styling is allowed within the example name or caption. There is no period after example titles.</p>
+<p>Example 1-1. Example titles are initial-capped on the first word only, with the exception of proper nouns. <strong>Code styling is allowed within the example name or caption.</strong> There is no period after example titles.</p>
 </li>
 </ul>
 
@@ -685,7 +688,7 @@ title: O'Reilly Style Guide
 <p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
 </li>
 <li>
-<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). Any exceptions will be noted in the word list below (e.g., "re-create").</p>
+<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). Any exceptions will be noted in the word list below (e.g., "re-create," "re-identification").</p>
 </li>
 <li>
 <p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
@@ -845,13 +848,14 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-A">A</h2>
 
 <ul>
- <li> acknowledgments</li>
- <li> ActionScript</li>
+ <li>acknowledgments</li>
+ <li>ActionScript</li>
  <li>ActiveX control</li>
  <li>Addison-Wesley</li>
  <li>ad hoc</li>
  <li>ADO.NET</li>
  <li>Agile (cap when referring to Agile software development or when used on its own as a noun)</li>
+ <li><strong>AI (no need to expand acronym to artificial intelligence)</strong></li>
  <li>Ajax</li>
  <li>a.k.a. or aka (be consistent)</li>
  <li>a.m. or A.M.</li>
@@ -859,6 +863,7 @@ title: O'Reilly Style Guide
  <li>Alt-N</li>
  <li>anonymous FTP</li>
  <li>anti-pattern</li>
+ <li><strong>API (no need to expand acronym to application programming interface)</strong></li>
  <li>appendixes</li>
  <li>applet (or Java applet)</li>
  <li>AppleScript</li>
@@ -925,6 +930,7 @@ title: O'Reilly Style Guide
  <li>checkmark</li>
  <li>check-in (n)</li>
  <li>classpath</li>
+ <li><strong>CLI (no need to expand acronym to command-line interface)</strong></li>
  <li>click-through (a)</li>
  <li>client/server</li>
  <li>client side (n)</li>
@@ -975,6 +981,7 @@ title: O'Reilly Style Guide
  <li>decision making (n)</li>
  <li>decision-making (a)</li>
  <li><strong>deep learning (noun and adj., no hyphen)</strong></li>
+ <li><strong>de-identification (hyphenate)</strong></li>
  <li>DevOps</li>
  <li>dial-up (a)</li>
  <li>dial up (v)</li>
@@ -1229,7 +1236,7 @@ title: O'Reilly Style Guide
  <li>onboard</li>
  <li>ongoing</li>
  <li>online</li>
- <li><strong>open source (n or a)</strong></li>
+ <li><strong>open source (n or a, rewrite to avoid using in a verb form)</strong></li>
  <li>open source software (OSS)</li>
  <li>OpenBSD</li>
  <li>OpenMotif</li>
@@ -1322,6 +1329,7 @@ title: O'Reilly Style Guide
  <li>Red Hat Package Manager (RPM)</li>
  <li>redirection</li>
  <li>reference page or manpage</li>
+ <li><strong>re-identification (hyphenate)</strong></li>
  <li>remote-access server</li>
  <li>rename</li>
  <li>Rendezvous (<em>Mac OS X Zeroconf networking</em>)</li>
@@ -1436,6 +1444,7 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-U">U</h2>
 <ul>
+ <li><strong>UI (no need to expand to user interface)</strong></li>
  <li>UK (for United Kingdom)</li>
  <li>Ultrix</li>
  <li>Universal Serial Bus (USB)</li>
@@ -1452,6 +1461,7 @@ title: O'Reilly Style Guide
  <li>user ID (n)</li>
  <li>user-ID (a)</li>
  <li>username</li>
+ <li><strong>UX (no need to expand to user experience)</strong></li>
  </ul>
 
 <h2 id="wordlist-V">V</h2>
