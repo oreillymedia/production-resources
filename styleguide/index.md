@@ -97,7 +97,7 @@ title: O'Reilly Style Guide
 
 <p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ). Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the <a href="#word-list">O’Reilly Word List</a>.</p>
 
-
+<p><a href="#getting_started">back to top</a></p>
 
 
 <section data-type="sect2" id="abbreviationsacronyms">
@@ -130,6 +130,8 @@ title: O'Reilly Style Guide
 <p>United States and United Kingdom should be spelled out on first mention. After that, just use the acronym with no periods (so, US or UK).</p>
 </li>
 </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -186,7 +188,7 @@ title: O'Reilly Style Guide
 <p>More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.</p>
 </section>
 
-
+<p><a href="#getting_started">back to top</a></p>
 
 </section>
 
@@ -212,6 +214,8 @@ title: O'Reilly Style Guide
 <p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
 
 <p>For information about styling URLs and hyperlinks, see <a data-type="xref" href="#considering_electronic_formats">Considering Electronic Formats</a>.</p>
+
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -250,7 +254,7 @@ title: O'Reilly Style Guide
 
 <p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
 
-
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -304,12 +308,9 @@ title: O'Reilly Style Guide
 <p>Use multiplication symbol “x” for dimensions, not by (e.g., "8.5 x 11").</p>
 </li>
 </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 </section>
-
-
-
-
-
 
 
 
@@ -350,6 +351,8 @@ title: O'Reilly Style Guide
 
 <p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
 </div>
+
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -470,6 +473,7 @@ title: O'Reilly Style Guide
 </tr>
 </tbody>
 </table>
+
 </section>
 
 
@@ -493,6 +497,7 @@ title: O'Reilly Style Guide
 </div>
 
 
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -523,6 +528,8 @@ title: O'Reilly Style Guide
 <p>We do not anchor URLs to text in books produced in InDesign.</p>
  </div>
 
+
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -638,6 +645,7 @@ title: O'Reilly Style Guide
 </dl>
 </section>
 
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -671,6 +679,7 @@ title: O'Reilly Style Guide
 </ul>
 </section>
 
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -734,6 +743,7 @@ title: O'Reilly Style Guide
 </li>
 </ul>
  
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -822,6 +832,7 @@ title: O'Reilly Style Guide
 
 <p>For Word copyediting, please do the following before submitting files for conversion: replace any tabs in code with the appropriate number of spaces (see earlier section, <a data-type="xref" href="#code">Code</a>); convert any remaining Word comments to tagged Comment paragraphs highlighted in blue; search for any manual linebreaks (^l) and delete or replace with paragraph breaks as appropriate; and accept all changes and make sure filenames adhere to house style.</p>
 
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -833,6 +844,8 @@ title: O'Reilly Style Guide
 <p>Use Chicago Maual of Style, 17th Edition for anything not mentioned here.</p>
 
 <p>Bulleted lists on the back cover should begin with a capitalized word and end with <em>no</em> punctuation. Even if the list item is a complete sentence, it will not take a period.</p>
+
+<p><a href="#getting_started">back to top</a></p>
 </section>
 
 
@@ -876,6 +889,8 @@ title: O'Reilly Style Guide
  <li>awk</li>
 </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-B">B</h2>
 
 <ul>
@@ -916,6 +931,8 @@ title: O'Reilly Style Guide
  <li>button bar</li>
  </ul>
  
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-C">C</h2>
 <ul>
  <li>CacheStorage</li>
@@ -966,6 +983,8 @@ title: O'Reilly Style Guide
  <li>cybersecurity</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-D">D</h2>
 <ul>
  <li>database</li>
@@ -1007,6 +1026,8 @@ title: O'Reilly Style Guide
  <li>drop-down (a)</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="worldlist-E">E</h2>
 <ul>
 <li>ebook* ebusiness* ecommerce </li>
@@ -1027,6 +1048,8 @@ title: O'Reilly Style Guide
  <li>exclamation mark</li>
  <li>Exim</li>
         </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-F">F</h2>
 <ul>
@@ -1053,7 +1076,9 @@ title: O'Reilly Style Guide
  <li>FTP site</li>
  <li>full stack (Full Stack in headings), no hyphen, even if adjective</li>
         </ul>
-        
+    
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-G">G</h2>
 <ul>
  <li>gateway</li>
@@ -1073,7 +1098,9 @@ title: O'Reilly Style Guide
  <li>greenlight (v)</li>
  <li>GUI, GUIs</li>
  </ul>
-        
+       
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-H">H</h2>
 <ul>
  <li>handcode</li>
@@ -1093,6 +1120,8 @@ title: O'Reilly Style Guide
  <li>hypertext</li>
         </ul>
         
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-I">I</h2>
 <ul>
  <li>IDs</li>
@@ -1112,6 +1141,8 @@ title: O'Reilly Style Guide
  <li>ISP</li>
  </ul>
  
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-J">J</h2>
 
 <ul>
@@ -1124,6 +1155,8 @@ title: O'Reilly Style Guide
  <li>JavaScript</li>
  <li>JPEG</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-K">K</h2>
 <ul>
@@ -1144,6 +1177,8 @@ title: O'Reilly Style Guide
  <li>kHz (kilohertz)</li>
  <li>Korn shell</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-L">L</h2>
 <ul>
@@ -1170,6 +1205,8 @@ title: O'Reilly Style Guide
  <li>lower-right (a)</li>
  <li>Linux Professional Institute (LPI)</li>
 </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-M">M</h2>
 <ul>
@@ -1203,7 +1240,9 @@ title: O'Reilly Style Guide
  <li>My Services</li>
  <li>MySpace</li>
  </ul>
-        
+      
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-N">N</h2>
 <ul>
  <li>nameserver</li>
@@ -1223,6 +1262,8 @@ title: O'Reilly Style Guide
  <li>Novell NetWare</li>
  <li>the <em>New York Times</em></li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-O">O</h2>
 <ul>
@@ -1255,6 +1296,8 @@ title: O'Reilly Style Guide
  <li>OSF/Motif</li>
  <li>OS X</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-P">P</h2>
 <ul>
@@ -1305,6 +1348,8 @@ title: O'Reilly Style Guide
  <li>pull-down (a)</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-Q">Q</h2>
 <ul>
  <li>qmail</li>
@@ -1315,6 +1360,8 @@ title: O'Reilly Style Guide
  <li>QuickTime</li>
  <li>quotation marks (spell out first time; it can be “quotes” thereafter)</li>
  </ul>
+ 
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-R">R</h2>
 <ul>
@@ -1350,6 +1397,8 @@ title: O'Reilly Style Guide
  <li>ruleset</li>
  <li>runtime (n, a)</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-S">S</h2>
 <ul>
@@ -1412,6 +1461,8 @@ title: O'Reilly Style Guide
  <li>system-wide</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-T">T</h2>
 <ul>
  <li>10-baseT</li>
@@ -1442,6 +1493,8 @@ title: O'Reilly Style Guide
  <li>troubleshoot</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-U">U</h2>
 <ul>
  <li><strong>UI (no need to expand to user interface)</strong></li>
@@ -1464,6 +1517,8 @@ title: O'Reilly Style Guide
  <li><strong>UX (no need to expand to user experience)</strong></li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-V">V</h2>
 <ul>
  <li>v2 or version 2</li>
@@ -1479,6 +1534,8 @@ title: O'Reilly Style Guide
  <li>VS.NET</li>
  <li>Volume One</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-W">W</h2>
 <ul>
@@ -1517,6 +1574,8 @@ title: O'Reilly Style Guide
  <li>WYSIWYG</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-X">X</h2>
 <ul>
  <li>(x,y) (no space)</li>
@@ -1543,12 +1602,16 @@ title: O'Reilly Style Guide
  <li>XSLT</li>
  </ul>
 
+<p><a href="#getting_started">back to top</a></p>
+
 <h2 id="wordlist-Y">Y</h2>
 <ul>
  <li>Yahoo!</li>
  <li>y-axis</li>
  <li><em>y</em> coordinate</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-Z">Z</h2>
 <ul>
@@ -1558,3 +1621,5 @@ title: O'Reilly Style Guide
  <li>zip (v)</li>
  <li>ZIP file</li>
  </ul>
+
+<p><a href="#getting_started">back to top</a></p>
