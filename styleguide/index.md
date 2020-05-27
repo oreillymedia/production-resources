@@ -148,7 +148,7 @@ title: O'Reilly Style Guide
 <p>When referencing an O’Reilly book within the text, note only "O’Reilly" in parentheses, not "O’Reilly Media, Inc." References to other O’Reilly books should be linked to the book’s <a href="http://shop.oreilly.com/category/browse-subjects.do">catalog page</a>.</p>
 
 <div data-type="warning">
-<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." Not this: "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
+<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." <em>Not this:</em> "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
 </div>
 
 <h3>Citations</h3>
@@ -166,18 +166,24 @@ title: O'Reilly Style Guide
 <div data-type="tip">
 <p>This: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price.<sup>1</sup></p>
 
-<p>Not this: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price<sup>1</sup>.</p>
+<p><em>Not this:</em> The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price<sup>1</sup>.</p>
 </div>
 </li>
 <li>
 <p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads.</p>
 
 <div data-type="tip">
-<p>This: 1. The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</p>
- <p>2. Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</p>
+ <p>This:</p>
+ <ol>
+  <li>The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</li>
+ lip>Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</li>
+ </ol>
 
-<p>Not this: 1. https://en.wikipedia.org/wiki/JavaScript</p>
- <p>2. https://doi.org/10.1086/680389</p>
+<p><em>Not this:</em></p>
+<ol>
+  <li>https://en.wikipedia.org/wiki/JavaScript</li>
+ <li>https://doi.org/10.1086/680389</li>
+ </ol>
  </div>
  </li>
 <li>
@@ -270,7 +276,7 @@ title: O'Reilly Style Guide
  <p>Spell out numbers under 10 <strong>and certain round multiples of those numbers</strong> unless the same object appears in a sentence with an object 10 or over (five apples; five apples and <strong>one hundred</strong> oranges; 5 apples and 110 oranges). <strong>The whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
 </li>
 <li>
-<p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 not 32904). Exceptions: page numbers, addresses, port numbers, etc.</p>
+<p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
 </li>
 <li>
 <p>Use numerals for versions (version 5 or v5).</p>
@@ -290,7 +296,7 @@ title: O'Reilly Style Guide
  
  <ul>
  <li>
-  <p>Use spaces around inline operators (1 + 1 = 2. NOT 1+1=2).</p>
+  <p>Use spaces around inline operators (1 + 1 = 2. <em>NOT 1+1=2</em>).</p>
  </li>
 <li>
 <p>32-bit integer.</p>
@@ -305,7 +311,7 @@ title: O'Reilly Style Guide
 <p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
 </li>
 <li>
-<p>Use multiplication symbol “x” for dimensions, not by (e.g., "8.5 x 11").</p>
+<p>Use multiplication symbol “&times;” for dimensions, not "by" (e.g., "8.5 &times; 11").</p>
 </li>
 </ul>
 
@@ -541,11 +547,11 @@ title: O'Reilly Style Guide
 
 <p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. List items should be treated as separate items and should not be strung together with punctuation or conjunctions. </p> 
 
-<p>Not O'Reilly style:</p>
+<p><em>NOT O'Reilly style:</em></p>
 <ul>
- <li>Here is an item, and</li>
- <li><p>here is another item; and</p></li>
- <li><p>here is the final item.</p></li>
+ <li><em>Here is an item, and</em></li>
+ <li><em>here is another item; and</em></li>
+ <li><em>here is the final item.</em></li>
  </ul>
  
  <p>O'Reilly style:</p>
@@ -662,6 +668,9 @@ title: O'Reilly Style Guide
 <p>Serial comma (this, that, and the other).</p>
 </li>
 <li>
+<p>Commas and periods go inside quotation marks.</p>
+</li>
+<li>
 <p>Curly quotes and apostrophes (“ ” not " ") in regular text.</p>
 </li>
 <li>
@@ -669,6 +678,15 @@ title: O'Reilly Style Guide
 </li>
 <li>
 <p>No period after list items unless one item forms a complete sentence (then use periods for all items within that list, even fragments).</p>
+</li>
+ <li>
+ <p>Em-dashes are always closed (no space around them).</p>
+  </li>
+ <li>
+<p>Ellipses are always closed (no space around them).</p>
+  </li>
+<li>
+<p>For menu items that end with an ellipsis (e.g., "New Folder…"), do not include ellipsis in running text.</p>
 </li>
 <li>
 <p>Lowercase the first letter after a colon: this is how we do it. (Exception: headings.)</p>
@@ -697,7 +715,10 @@ title: O'Reilly Style Guide
 <p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
 </li>
 <li>
-<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). Any exceptions will be noted in the word list below (e.g., "re-create," "re-identification").</p>
+<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). <strong>Exceptions are noted in the word list below (e.g., "re-create," "re-identification")</strong>.</p>
+</li>
+ <li>
+<p>Compound words are closed up when used as nouns (“coverup”), hyphenated when used as adjectives (“the cover-up measures”), and two words when used as verbs (“cover up the flaw with…”).</p>
 </li>
 <li>
 <p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
@@ -712,9 +733,6 @@ title: O'Reilly Style Guide
 <p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
 </li>
 <li>
-<p>For menu items that end with an ellipsis (e.g., "New Folder…"), do not include ellipsis in running text.</p>
-</li>
-<li>
 <p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
 </li>
  <li>
@@ -724,22 +742,13 @@ title: O'Reilly Style Guide
 <p>Common foreign terms (such as “en masse”) are roman.</p>
 </li>
 <li>
-<p>Commas and periods go inside quotation marks.</p>
-</li>
-<li>
 <p>Introduce unnumbered code blocks with colons.</p>
 </li>
  <li>
 <p>Do not stack admonitions, sidebars, or headings.</p>
 </li>
  <li>
- <p>Em-dashes are always closed (no space around them).</p>
-  </li>
- <li>
-<p>Ellipses are always closed (no space around them).</p>
-  </li>
- <li>
-<p>Compound words are closed up when used as nouns (“coverup”), hyphenated when used as adjectives (“the cover-up measures”), and two words when used as verbs (“cover up the flaw with…”).</p>
+<p>Avoid obscenities. If it must be included, obscure in some way (grawlix, a two em dash, etc.)</p>
 </li>
 </ul>
  
@@ -901,8 +910,7 @@ title: O'Reilly Style Guide
  <li>backslash</li>
  <li>Backspace key</li>
  <li>backtick</li>
- <li>backup (n)</li>
- <li>back up (v)</li>
+ <li>backup (n); back up (v)</li>
  <li>backward</li>
  <li>backward compatible</li>
  <li>bandwidth</li>
@@ -971,7 +979,7 @@ title: O'Reilly Style Guide
  <li>copyleft</li>
  <li>copyright</li>
  <li>coworker</li>
- <li>CPU</li>
+ <li><strong>CPU (no need to expand to central processing unit)</strong></li>
  <li>criterion (s), criteria (p)</li>
  <li>cross-reference</li>
  <li>C shell</li>
@@ -999,7 +1007,7 @@ title: O'Reilly Style Guide
  <li>Debian GNU/Linux</li>
  <li>decision making (n)</li>
  <li>decision-making (a)</li>
- <li><strong>deep learning (noun and adj., no hyphen)</strong></li>
+ <li><strong>deep learning (n and a, no hyphen)</strong></li>
  <li><strong>de-identification (hyphenate)</strong></li>
  <li>DevOps</li>
  <li>dial-up (a)</li>
@@ -1037,7 +1045,7 @@ title: O'Reilly Style Guide
  <li>empty-element tag</li>
  <li>end-of-file (EOF)</li>
  <li>end-tag</li>
- <li>end user (n.), end-user (adj.)</li>
+ <li>end user (n); end-user (a)</li>
  <li>Engines of Groth</li>
  <li>Enter key</li>
  <li>equals sign</li>
@@ -1110,8 +1118,9 @@ title: O'Reilly Style Guide
  <li>hardcode (v)</li>
  <li>hardcopy</li>
  <li>hard link</li>
+ <li><strong>hardware-in-the-loop</strong></li>
  <li>hash sign or sharp sign</li>
- <li>high-level (adj)</li>
+ <li>high-level (a)</li>
  <li>home page</li>
  <li>hostname</li>
  <li>hotspot</li>
@@ -1212,7 +1221,7 @@ title: O'Reilly Style Guide
 <ul>
  <li>Macintosh</li>
  <li>macOS (replaces Mac OS X)</li>
- <li><strong>machine learning (noun and adj., no hyphen)</strong></li>
+ <li><strong>machine learning (n and a, no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
  <li>manpage</li>
  <li>markup</li>
@@ -1234,6 +1243,7 @@ title: O'Reilly Style Guide
  <li>Microsoft Windows 2000</li>
  <li>MIDlet</li>
  <li>MKS Toolkit</li>
+ <li><strong>model-in-the-loop</strong></li>
  <li>MS-DOS</li>
  <li>multiline (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)</li>
  <li>Multi-Touch (when referring to Apple's trademark)</li>
@@ -1436,6 +1446,7 @@ title: O'Reilly Style Guide
  <li>SMP (a, n)</li>
  <li>SOAP</li>
  <li>Social Security number (SSN)</li>
+ <li><strong>software-in-the-loop</strong></li>
  <li>source code</li>
  <li>space bar</li>
  <li>spam (not SPAM)</li>
