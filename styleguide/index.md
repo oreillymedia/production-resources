@@ -148,7 +148,7 @@ title: O'Reilly Style Guide
 <p>When referencing an O’Reilly book within the text, note only "O’Reilly" in parentheses, not "O’Reilly Media, Inc." References to other O’Reilly books should be linked to the book’s <a href="http://shop.oreilly.com/category/browse-subjects.do">catalog page</a>.</p>
 
 <div data-type="warning">
-<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." <em>Not this:</em> "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
+<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." <em>NOT THIS:</em> "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
 </div>
 
 <h3>Citations</h3>
@@ -176,7 +176,7 @@ title: O'Reilly Style Guide
  <p>This:</p>
  <ol>
   <li>The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</li>
- lip>Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</li>
+ <li>Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</li>
  </ol>
 
 <p><em>Not this:</em></p>
@@ -556,9 +556,9 @@ title: O'Reilly Style Guide
  
  <p>O'Reilly style:</p>
  <ul>
- <li><p>Here is an item</p></li>
- <li><p>Here is another item</p></li>
- <li><p>Here is the final item</p></li>
+ <li>Here is an item</li>
+ <li>Here is another item</li>
+ <li>Here is the final item</li>
  </ul>
 
 <p>Following are examples of each type of list.</p>
