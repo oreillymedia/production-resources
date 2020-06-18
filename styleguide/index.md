@@ -5,7 +5,7 @@ title: O'Reilly Style Guide
 
 # O'Reilly Style Guide and Word List
 
-* <a href="#getting_started">About ORM Style</a>
+* <a href="#getting_started">About O'Reilly Style</a>
 * <a href="#considering_electronic_formats">Considering Electronic Formats</a>
 * <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
   * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
@@ -41,10 +41,6 @@ title: O'Reilly Style Guide
 </strong></p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
-
-<div data-type="tip">
- <p>If you are familiar with our style guide and here to check for updates, look for <strong>bold text</strong>. Bold text indicates a recent change.</p>
- </div>
 </section>
 
 
@@ -96,7 +92,7 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="orm_grammar_punctuation_etc">
 <h1>O’Reilly Grammar, Punctuation, etc.</h1>
 
-<p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ). Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the <a href="#word-list">O’Reilly Word List</a>.</p>
+<p>For any words or conventions not covered here, refer to <em>The Chicago Manual of Style</em>, 17th Edition and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
 
 <p><a href="#getting_started">back to top</a></p>
 
@@ -548,6 +544,7 @@ title: O'Reilly Style Guide
 
 <p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. List items should be treated as separate items and should not be strung together with punctuation or conjunctions. </p> 
 
+<div data-type="tip">
 <p><em>NOT O'Reilly style:</em></p>
 <ul>
  <li><em>Here is an item, and</em></li>
@@ -561,6 +558,7 @@ title: O'Reilly Style Guide
  <li>Here is another item</li>
  <li>Here is the final item</li>
  </ul>
+ </div>
 
 <p>Following are examples of each type of list.</p>
 
@@ -716,7 +714,7 @@ title: O'Reilly Style Guide
 <p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
 </li>
 <li>
-<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). <strong>Exceptions are noted in the word list below (e.g., "re-create," "re-identification")</strong>.</p>
+<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). <strong>Exceptions are noted in the word list (e.g., "re-create," "re-identification")</strong>.</p>
 </li>
  <li>
 <p>Compound words are closed up when used as nouns (“coverup”), hyphenated when used as adjectives (“the cover-up measures”), and two words when used as verbs (“cover up the flaw with…”).</p>
