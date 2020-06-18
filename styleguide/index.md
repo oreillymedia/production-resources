@@ -31,13 +31,14 @@ title: O'Reilly Style Guide
  
 
 <section data-type="sect1" id="getting_started">
-<h1>About ORM Style</h1>
+<h1>About O'Reilly Style</h1>
 
-<p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. O’Reilly’s production team updates it with new terms and refined conventions as needed, so please check in regularly.</p>
+<p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. As writers and editors, we know that language changes over time, so please <strong>check back regularly for updates</strong> to terms and conventions.</p>
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
-<p>Our general style reference is <em>The Chicago Manual of Style</em>, 17th Edition (though some O’Reilly styles differ). Our dictionary is <em><a href="https://www.merriam-webster.com/">Merriam-Webster’s Collegiate Dictionary</a></em>, 11th Edition. Please refer here for any words not on the <a href="#word-list">O’Reilly Word List</a>. <strong>Use your book-specific word list (to be provided by your Production Editor) to document any choices not covered or determined here (e.g., A.M. or a.m., data center or datacenter, etc.) as well as proper nouns, acronymns, etc. These instructions are also in the word list we provide to copyeditors.</strong></p>
+<p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th Edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. <strong>Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
+</strong></p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 
@@ -237,7 +238,7 @@ title: O'Reilly Style Guide
  <p>Capitalization in headings:</p>
  
  <ul>
-  <li><p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase and coordinating conjunctions (e.g., and, but, for, etc.).</p></li> 
+  <li><p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase.</p></li> 
   <li><p>Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”).</p></li> 
   <li><p>Hyphenated words in subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less). Hyphenated words in titles or captions should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
 </li>
@@ -784,7 +785,7 @@ title: O'Reilly Style Guide
 </thead>
 <tbody>
 <tr>
-<td><p>Filenames, file extensions (such as .<em>jpeg</em>), directory paths, commands in Unix, Oracle, SQL, and Linux books</p></td>
+<td><p>Filenames, file extensions (such as .jpeg), directory paths, and commands in Unix, Oracle, SQL, and Linux books</p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
@@ -825,7 +826,7 @@ title: O'Reilly Style Guide
 <td><p><em>Body font italic</em> (but smaller)</p></td>
 </tr>
 <tr>
-<td><p>Placeholders in paths, directories, GUI items, URLs, or other text that would be italic anyway</p></td>
+<td><p>Placeholders in paths, directories, URLs, or other text that would be italic anyway</p></td>
 <td><p><em><a href="http://www.&lt;yourname&gt;.com"><em class="hyperlink">http://www.&lt;yourname&gt;.com</em></a></em></p></td>
 </tr>
 <tr>
@@ -928,6 +929,8 @@ title: O'Reilly Style Guide
  <li>bit plane</li>
  <li>bitwise operators</li>
  <li>BlackBerry</li>
+ <li><strong>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</strong></li>
+ <li><strong>–blacklist/whitelist s/b avoided (alternatives: blocklist/allowlist, deny/permit, forbidden/permissible)</strong></li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
  <li>Bourne-again shell (bash)</li>
  <li>Bourne shell</li>
@@ -1032,6 +1035,7 @@ title: O'Reilly Style Guide
  <li>drag-and-drop (n)</li>
  <li>drag and drop (v)</li>
  <li>drop-down (a)</li>
+ <li><strong>–dummy s/b avoided (alternatives include: placeholder)</strong></li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -1184,6 +1188,7 @@ title: O'Reilly Style Guide
  <li>keywords</li>
  <li>key performance indicators (KPIs)</li>
  <li>kHz (kilohertz)</li>
+ <li><strong>–kill s/b avoided (alternatives: end, exit, cancel)</strong></li>
  <li>Korn shell</li>
  </ul>
 
@@ -1225,6 +1230,7 @@ title: O'Reilly Style Guide
  <li>mail-handling (adjective)</li>
  <li>manpage</li>
  <li>markup</li>
+ <li><strong>–master/slave (n, a) s/b avoided (alternatives: parent/child, leader/follower, primary/secondary)</strong></li>
  <li>Mb (megabit)</li>
  <li>MB (megabyte)</li>
  <li>MBps (megabytes per second)</li>
@@ -1241,6 +1247,7 @@ title: O'Reilly Style Guide
  <li>Microsoft Windows NT</li>
  <li>Microsoft Windows XP</li>
  <li>Microsoft Windows 2000</li>
+ <li><strong>–middleman s/b avoided (alternatives: go-between, link, etc.)</strong></li>
  <li>MIDlet</li>
  <li>MKS Toolkit</li>
  <li><strong>model-in-the-loop</strong></li>
@@ -1266,6 +1273,7 @@ title: O'Reilly Style Guide
  <li>newline</li>
  <li>newsgroups</li>
  <li>NeXTSTEP</li>
+ <li><strong>NGINX (company), nginx (server)</strong></li>
  <li>NOOP</li>
  <li>nonlocal</li>
  <li>NoSQL</li>
@@ -1334,8 +1342,8 @@ title: O'Reilly Style Guide
  <li>plug-in (a, n)</li>
  <li>p.m. or P.M.</li>
  <li>Point-to-Point Protocol (PPP)</li>
- <li>pop up (v, n)</li>
- <li>pop-up (a)</li>
+ <li>pop up (v)</li>
+ <li>pop-up (<strong>n</strong>, a)</li>
  <li>POP-3</li>
  <li>Portable Document Format (PDF)</li>
  <li>Portable Network Graphics (PNG)</li>
@@ -1441,6 +1449,7 @@ title: O'Reilly Style Guide
  <li>single-precision (a)</li>
  <li>single quote</li>
  <li>site map</li>
+ <li><strong>–slave/master (n, a) s/b avoided (alternatives: child/parent, follower/leader, secondary/primary)</strong></li>
  <li>slideshow</li>
  <li>Smalltalk</li>
  <li>SMP (a, n)</li>
@@ -1559,7 +1568,9 @@ title: O'Reilly Style Guide
  <li>web server</li>
  <li>web services (unless preceded by a proper noun, as in Microsoft Web Services)</li>
  <li>website</li>
+ <li><strong>–white hat/black hat s/b avoided (alternatives: ethical/unethical, preventative/malicious)</strong></li>
  <li>white pages</li>
+  <li><strong>–whitelist/blacklist s/b avoided (alternatives: allowlist/blocklist, permit/deny, permissible/forbidden)</strong></li>
  <li>whitepaper (I printed my whitepaper on white paper.)</li>
  <li>whitespace</li>
  <li>wide area network or WAN</li>
