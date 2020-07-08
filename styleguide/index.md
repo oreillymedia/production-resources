@@ -37,12 +37,13 @@ title: O'Reilly Style Guide
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
-<p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th Edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. <strong>Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
+<p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. <strong>Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
 </strong></p>
+
+<p><strong>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. Always follow a person’s preference and note exceptions, if necessary (e.g., the research is decades old).</strong></p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
-
 
 
 
@@ -92,7 +93,7 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="orm_grammar_punctuation_etc">
 <h1>O’Reilly Grammar, Punctuation, etc.</h1>
 
-<p>For any words or conventions not covered here, refer to <em>The Chicago Manual of Style</em>, 17th Edition and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
+<p>For any words or conventions not covered here, refer to <em>The Chicago Manual of Style</em>, 17th edition and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
 
 <p><a href="#getting_started">back to top</a></p>
 
@@ -725,6 +726,9 @@ title: O'Reilly Style Guide
 <li>
 <p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
 </li>
+ <li>
+  <p><strong>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First person pronouns, contractions, and active verbs are all encouraged.</strong></p>
+ </li>
 <li>
 <p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
 </li>
@@ -747,7 +751,7 @@ title: O'Reilly Style Guide
 <p>Do not stack admonitions, sidebars, or headings.</p>
 </li>
  <li>
-<p>Avoid obscenities. If it must be included, obscure in some way (grawlix, a two em dash, etc.)</p>
+<p><strong>Avoid obscenities and slurs, and obscure if included (grawlix, a two em dash, etc.)</strong></p>
 </li>
 </ul>
  
@@ -883,7 +887,7 @@ title: O'Reilly Style Guide
  <li>Alt key</li>
  <li>Alt-N</li>
  <li>anonymous FTP</li>
- <li>anti-pattern</li>
+ <li><strong>antipattern</strong></li>
  <li><strong>API (no need to expand acronym to application programming interface)</strong></li>
  <li>appendixes</li>
  <li>applet (or Java applet)</li>
@@ -927,6 +931,7 @@ title: O'Reilly Style Guide
  <li>bit plane</li>
  <li>bitwise operators</li>
  <li>BlackBerry</li>
+ <li><strong>–black-box/white-box testing s/b avoided (alternatives: behavioral testing/unit testing)</strong></li>
  <li><strong>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</strong></li>
  <li><strong>–blacklist/whitelist s/b avoided (alternatives: blocklist/allowlist, deny/permit, forbidden/permissible)</strong></li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
@@ -981,6 +986,7 @@ title: O'Reilly Style Guide
  <li>copyright</li>
  <li>coworker</li>
  <li><strong>CPU (no need to expand to central processing unit)</strong></li>
+ <li><strong>–crazy s/b avoided (alternatives: foolish, bizarre, etc.)</strong></li>
  <li>criterion (s), criteria (p)</li>
  <li>cross-reference</li>
  <li>C shell</li>
@@ -1068,6 +1074,7 @@ title: O'Reilly Style Guide
  <li>fax</li>
  <li>file manager</li>
  <li>filename</li>
+ <li><strong>filepath</strong></li>
  <li>file server</li>
  <li>filesystem</li>
  <li>file type</li>
@@ -1138,6 +1145,7 @@ title: O'Reilly Style Guide
  <li>IDs</li>
  <li>IDE</li>
  <li>IndexedDB</li>
+ <li><strong>infrastructure as a service (IaaS)</strong></li>
  <li>inline</li>
  <li>inode</li>
  <li>interclient</li>
@@ -1226,6 +1234,7 @@ title: O'Reilly Style Guide
  <li>macOS (replaces Mac OS X)</li>
  <li><strong>machine learning (n and a, no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
+ <li><strong>– man hours s/b avoided (alternatives: work hours, employee hours)</strong></li>
  <li>manpage</li>
  <li>markup</li>
  <li><strong>–master/slave (n, a) s/b avoided (alternatives: parent/child, leader/follower, primary/secondary)</strong></li>
@@ -1335,6 +1344,7 @@ title: O'Reilly Style Guide
  <li>Perl DBI</li>
  <li>plain text (n)</li>
  <li>plain-text (a)</li>
+ <li><strong>platform as a service (PaaS)</strong></li>
  <li>Plug and Play (PnP)</li>
  <li>plug in (v)</li>
  <li>plug-in (a, n)</li>
@@ -1400,13 +1410,12 @@ title: O'Reilly Style Guide
  <li>RFC 822</li>
  <li>rich text (n)</li>
  <li>rich-text (a)</li>
- <li>right angle bracket or</li>
- <li>greater-than sign (&gt;)</li>
+ <li>right angle bracket or greater-than sign (&gt;)</li>
  <li>right-click</li>
  <li>righthand (a)</li>
  <li>rmail</li>
- <li>roll back (v)</li>
- <li>rollback (n)</li>
+ <li>rollback (n); roll back (v)</li>
+ <li><strong>rollout (n); roll out (v)</strong></li>
  <li>rootkit</li>
  <li>Rubout key</li>
  <li>rulebase</li>
@@ -1453,6 +1462,7 @@ title: O'Reilly Style Guide
  <li>SMP (a, n)</li>
  <li>SOAP</li>
  <li>Social Security number (SSN)</li>
+ <li><strong>software as a service (SaaS)</strong></li>
  <li><strong>software-in-the-loop</strong></li>
  <li>source code</li>
  <li>space bar</li>
@@ -1503,6 +1513,7 @@ title: O'Reilly Style Guide
  <li>title bar</li>
  <li>Token Ring</li>
  <li>toolbar</li>
+ <li><strong>toolchain</strong></li>
  <li>toolkit</li>
  <li>tool tip</li>
  <li>top-level (a)</li>
