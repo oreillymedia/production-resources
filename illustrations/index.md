@@ -14,16 +14,19 @@ There are two main types of figures: *screenshots* and drawn *illustrations*.
 
 Either type might also feature *callouts*, which are boxes, arrows, and text that might be added to a figure to aid the reader.
 
+The max figure size in most O’Reilly books is 4.8”x7” and vertically oriented. Please crop your screenshots as tightly as possible and make sure illustrations are structured vertically when possible.
+
 ### Screenshots
 
-*	Don't save screenshots as JPEGs. Please use TIF, PNG, or BMP.
+*	All screenshots, photos, etc. should be provided as PNG, JPG, or TIF file formats. Other formats can have conversion issues. PNG is preferred.
+* The only work that will be done on screenshots, unless you tell us otherwise, is resizing to fit the book/report's trim size.
 *	Please capture the smallest necessary area when a full desktop screenshot is not required. The less in the screenshot, the easier it will be for your audience to read it.
-*	Let us know if you require callouts, and supply one file with callouts added and one without. (Callouts are text, circles, lines, and arrows added to screenshots or photos that label or describe elements.) Here is an example of a figure submitted with desired callouts and then the clean image file for our illustrator to add callouts to:
+*	Let us know if you require callouts, and supply one file with callouts added and one without. (Callouts are text, circles, lines, and arrows added to screenshots or photos that label or describe elements.) There is an example in the next section of a figure submitted with desired callouts and then the clean image file for our illustrator to add callouts to.
 
 
 ### Drawn Illustrations
 
-We're happy to work with you to create a refined graphic, but our illustrator will not redraw a graphic if not requested on the submitted figure log. Unless specified to be redrawn on the figure log, figures will be processed as screenshots (as-is). The only work that will be done on figures, unless you tell us otherwise, is resizing to fit the book/report's trim size.
+We're happy to work with you to create a refined graphic; for most books, we will redraw diagrams in house style to ensure quality and consistency. If there's a reason yours should be left as-is, please let your editor know and leave notes on the figure log accordingly. Generally, our illustrator will not redraw a graphic if not requested on the submitted figure log. Unless specified to be redrawn on the figure log, figures will be processed as screenshots (as-is). The only work that will be done on figures, unless you tell us otherwise, is resizing to fit the book/report's trim size.
 
 * Use whatever method is most comfortable for you when first creating your illlustrations: they can be sketched, described in text, or generated using a computer drawing program. 
 * Please DO NOT submit SVG files, whether to use as-is or as reference for redrawing. Converting SVGs to PNG is unreliable at best and destructive to the file at worst, so to avoid unintentionally introducing errors, please submit only PDFs, PNGs, or AI files. 
