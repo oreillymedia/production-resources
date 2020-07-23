@@ -26,7 +26,7 @@ The max figure size in most O’Reilly books is 4.8”x7” and vertically orien
 
 ### Drawn Illustrations
 
-We're happy to work with you to create a refined graphic; for most books, we will redraw diagrams in house style to ensure quality and consistency. If there's a reason yours should be left as-is, please let your editor know and leave notes on the figure log accordingly. Generally, our illustrator will not redraw a graphic if not requested on the submitted figure log. Unless specified to be redrawn on the figure log, figures will be processed as screenshots (as-is). The only work that will be done on figures, unless you tell us otherwise, is resizing to fit the book/report's trim size.
+We're happy to work with you to create a refined graphic; for most books, we will redraw diagrams in house style to ensure quality and consistency. If there's a reason yours should be left as-is, please let your editor know and leave notes on the figure log accordingly. If something is not specified to be redrawn on the figure log, it will be processed as a screenshot (as-is). 
 
 * Use whatever method is most comfortable for you when first creating your illlustrations: they can be sketched, described in text, or generated using a computer drawing program. 
 * Please DO NOT submit SVG files, whether to use as-is or as reference for redrawing. Converting SVGs to PNG is unreliable at best and destructive to the file at worst, so to avoid unintentionally introducing errors, please submit only PDFs, PNGs, or AI files. 
