@@ -150,9 +150,9 @@ title: O'Reilly Style Guide
 </div>
 
 <h3>Citations</h3>
-<p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <em>The Chicago Manual of Style</em>, 17th Edition.</p>
+<p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 17th edition. <strong>Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernable consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</strong></p> 
 
-
+<p><strong>Let your production editor know which conventions you applied by adding a note to the Word List Doc.</strong></p>
 
 <section data-type="sect3" id="footnotes">
 <h3>Footnotes</h3>
@@ -174,7 +174,7 @@ title: O'Reilly Style Guide
  <p>This:</p>
  <ol>
   <li>The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</li>
- <li>Grove, John. 2015. “Calhoun and Conservative Reform.” American Political Thought 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</li>
+  <li>Grove, John. 2015. “Calhoun and Conservative Reform.” <em>American Political Thought</em> 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</li>
  </ol>
 
 <p><em>Not this:</em></p>
