@@ -787,7 +787,7 @@ title: O'Reilly Style Guide
 </thead>
 <tbody>
 <tr>
-<td><p>Filenames, file extensions (such as .jpeg), directory paths, and commands in Unix, Oracle, SQL, and Linux books</p></td>
+<td><p>Filenames, file extensions (such as .jpeg), directory paths, libraries, and commands in Unix, Oracle, SQL, and Linux books</p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
