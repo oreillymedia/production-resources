@@ -33,14 +33,14 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="getting_started">
 <h1>About O'Reilly Style</h1>
 
-<p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. As writers and editors, we know that language changes over time, so please <strong>check back regularly for updates</strong> to terms and conventions.</p>
+<p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. As writers and editors, we know that language changes over time, so <strong>please check back regularly for updates to terms and conventions</strong>.</p>
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
 
 <p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. <strong>Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
 </strong></p>
 
-<p><strong>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. Always follow a person’s preference and note exceptions, if necessary (e.g., the research is decades old).</strong></p>
+<p><strong>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. Always follow a person’s preference and note exceptions, if necessary (e.g., if quoting research that is decades old).</strong></p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
@@ -931,7 +931,7 @@ title: O'Reilly Style Guide
  <li>bit plane</li>
  <li>bitwise operators</li>
  <li>BlackBerry</li>
- <li><strong>–black-box/white-box testing s/b avoided (alternatives: behavioral testing/unit testing)</strong></li>
+ <li><strong>–black-box/white-box testing s/b avoided (alternatives: behavioral/structural testing, closed/open testing, opaque/clear testing)</strong></li>
  <li><strong>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</strong></li>
  <li><strong>–blacklist/whitelist s/b avoided (alternatives: blocklist/allowlist, deny/permit, forbidden/permissible)</strong></li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
