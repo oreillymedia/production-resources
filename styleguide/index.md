@@ -35,7 +35,7 @@ title: O'Reilly Style Guide
 
 <p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. As writers and editors, we know that language changes over time, so <strong>please check back regularly for updates to terms and conventions</strong>.</p>
 
-<p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>).</p>
+<p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>). For sponsored projects, please see our <a href="https://oreil.ly/editorial-independence">statement of editorial independence</a></p>
 
 <p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. <strong>Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
 </strong></p>
@@ -1519,7 +1519,11 @@ title: O'Reilly Style Guide
  <li>top-level (a)</li>
  <li>toward</li>
  <li>trade-off</li>
+ <li><strong> – tribe s/b avoided (alternatives: company, institution, network, community)</strong></li>
  <li>troubleshoot</li>
+ <li>tweet, retweet, live-tweet v, n (avoid “tweet out”)</li>
+ <li>Twitter user (preferred to "tweeter")</li>
+ <li>Twitterstorm, tweetstorm</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
