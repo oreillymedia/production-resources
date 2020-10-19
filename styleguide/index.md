@@ -917,6 +917,7 @@ title: O'Reilly Style Guide
  <li>backward</li>
  <li>backward compatible</li>
  <li>bandwidth</li>
+ <li><strong>Bash</strong></li> 
  <li>BeOS</li>
  <li>Berkeley Software Distribution (BSD)</li>
  <li>Berkeley Unix (older books may have UNIX)</li>
@@ -1150,6 +1151,7 @@ title: O'Reilly Style Guide
  <li>inode</li>
  <li>interclient</li>
  <li>internet, the internet</li>
+ <li><strong>Internet of Things (IoT)</strong></li>
  <li>internetwork</li>
  <li>intranet</li>
  <li>Intrinsics</li>
