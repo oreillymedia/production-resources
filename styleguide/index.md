@@ -906,7 +906,7 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-B">B</h2>
 
 <ul>
-<li> backend</li>
+<li>backend</li>
  <li>background processes</li>
  <li><strong>backpressure</strong></li>
  <li>backquote</li>
@@ -916,7 +916,6 @@ title: O'Reilly Style Guide
  <li>backup (n); back up (v)</li>
  <li>backward</li>
  <li>backward compatible</li>
- <li>bandwidth</li>
  <li><strong>Bash</strong></li> 
  <li>BeOS</li>
  <li>Berkeley Software Distribution (BSD)</li>
@@ -951,7 +950,7 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-C">C</h2>
 <ul>
  <li>CacheStorage</li>
- <li>call-to-cation</li>
+ <li>call-to-action</li>
  <li>Caps Lock key</li>
  <li>caret or circumflex</li>
  <li>CAT-5</li>
@@ -1003,7 +1002,6 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-D">D</h2>
 <ul>
- <li>database</li>
  <li>data block</li>
  <li>datacenter or data center (be consistent)</li>
  <li>Data Encryption Standard (DES)</li>
@@ -1036,7 +1034,6 @@ title: O'Reilly Style Guide
  <li>double quotes</li>
  <li>down arrow</li>
  <li>downlevel (a)</li>
- <li>download</li>
  <li>drag-and-drop (n)</li>
  <li>drag and drop (v)</li>
  <li>drop-down (a)</li>
@@ -1123,9 +1120,8 @@ title: O'Reilly Style Guide
 <ul>
  <li>handcode</li>
  <li>handoff (n)</li>
- <li>hardcoded</li>
- <li>hardcore</li>
  <li>hardcode (v)</li>
+ <li>hardcore</li>
  <li>hardcopy</li>
  <li>hard link</li>
  <li><strong>hardware-in-the-loop</strong></li>
@@ -1220,8 +1216,6 @@ title: O'Reilly Style Guide
  <li>logfile</li>
  <li>login, logout, or logon (n or a)</li>
  <li>log in, log out, or log on (v)</li>
- <li>lower- and uppercase</li>
- <li>lowercase</li>
  <li>lower-level (a)</li>
  <li>lower-right (a)</li>
  <li>Linux Professional Institute (LPI)</li>
@@ -1300,8 +1294,6 @@ title: O'Reilly Style Guide
  <li>OK</li>
  <li>offline</li>
  <li>offload</li>
- <li>onboard</li>
- <li>ongoing</li>
  <li>online</li>
  <li><strong>open source (n or a, rewrite to avoid using in a verb form)</strong></li>
  <li>open source software (OSS)</li>
@@ -1334,7 +1326,6 @@ title: O'Reilly Style Guide
  <li>parentheses (p)</li>
  <li>parenthesis (s)</li>
  <li>Pascal</li>
- <li>password</li>
  <li>pathname</li>
  <li>pattern-matching (a)</li>
  <li>peer-to-peer (or P2P)</li>
@@ -1405,7 +1396,6 @@ title: O'Reilly Style Guide
  <li>reference page or manpage</li>
  <li><strong>re-identification (hyphenate)</strong></li>
  <li>remote-access server</li>
- <li>rename</li>
  <li>Rendezvous (<em>Mac OS X Zeroconf networking</em>)</li>
  <li>Return (key)</li>
  <li>RFC 822</li>
@@ -1433,13 +1423,11 @@ title: O'Reilly Style Guide
  <li>screen dump</li>
  <li>screenful</li>
  <li>screensaver</li>
- <li>screenshot</li>
  <li>scroll bar</li>
  <li>securelevel (in Linux)</li>
  <li>Secure Shell (SSH)</li>
  <li>Secure Sockets Layer (SSL)</li>
  <li>sed scripts</li>
- <li>semicolon</li>
  <li>server-dependent</li>
  <li>server side (n)</li>
  <li>server-side (a)</li>
@@ -1452,13 +1440,11 @@ title: O'Reilly Style Guide
  <li>shell (lowercase even in shell name: Bourne shell)</li>
  <li>shell scripts</li>
  <li>Shift key</li>
- <li>shortcut</li>
  <li>Simple API for XML (SAX)</li>
  <li>single-precision (a)</li>
  <li>single quote</li>
  <li>site map</li>
  <li><strong>–slave/master (n, a) s/b avoided (alternatives: child/parent, follower/leader, secondary/primary)</strong></li>
- <li>slideshow</li>
  <li>Smalltalk</li>
  <li>SMP (a, n)</li>
  <li>SOAP</li>
@@ -1521,7 +1507,6 @@ title: O'Reilly Style Guide
  <li>toward</li>
  <li>trade-off</li>
  <li><strong> – tribe s/b avoided (alternatives: company, institution, network, community)</strong></li>
- <li>troubleshoot</li>
  <li>tweet, retweet, live-tweet v, n (avoid “tweet out”)</li>
  <li>Twitter user (preferred to "tweeter")</li>
  <li>Twitterstorm, tweetstorm</li>
