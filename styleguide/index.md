@@ -934,7 +934,7 @@ title: O'Reilly Style Guide
  <li>BlackBerry</li>
  <li><strong>–black-box/white-box testing s/b avoided (alternatives: behavioral/structural testing, closed/open testing, opaque/clear testing)</strong></li>
  <li><strong>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</strong></li>
- <li><strong>–blacklist/whitelist s/b avoided (alternatives: blocklist/allowlist, deny/permit, forbidden/permissible)</strong></li>
+ <li><strong>–blacklist/whitelist s/b avoided (alternatives: block list/allow list, deny/permit, excluded/included)</strong></li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
  <li>Bourne-again shell (bash)</li>
  <li>Bourne shell</li>
@@ -1212,7 +1212,6 @@ title: O'Reilly Style Guide
  <li>leftmost</li>
  <li>less-than sign or &lt;</li>
  <li>leveled (not levelled)</li>
- <li>life cycle</li>
  <li>line-feed (a)</li>
  <li>line feed (n)</li>
  <li>Linux</li>
@@ -1583,9 +1582,10 @@ title: O'Reilly Style Guide
  <li>web server</li>
  <li>web services (unless preceded by a proper noun, as in Microsoft Web Services)</li>
  <li>website</li>
+ <li><strong>–white-box testing s/b avoided (alternatives: structural/behavioral testing open/closed testing, clear/opaque testing)</strong></li>
  <li><strong>–white hat/black hat s/b avoided (alternatives: ethical/unethical, preventative/malicious)</strong></li>
  <li>white pages</li>
-  <li><strong>–whitelist/blacklist s/b avoided (alternatives: allowlist/blocklist, permit/deny, permissible/forbidden)</strong></li>
+ <li><strong>–whitelist/blacklist s/b avoided (alternatives: allow list/block list, permit/deny, included/excluded)</strong></li>
  <li>whitepaper (I printed my whitepaper on white paper.)</li>
  <li>whitespace</li>
  <li>wide area network or WAN</li>
