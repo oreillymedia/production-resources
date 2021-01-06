@@ -271,8 +271,12 @@ title: O'Reilly Style Guide
 <p>What to spell out and when:</p>
 <ul>
 <li>
- <p>Spell out numbers under 10 <strong>and certain round multiples of those numbers</strong> unless the same object appears in a sentence with an object 10 or over (five apples; five apples and <strong>one hundred</strong> oranges; 5 apples and 110 oranges). <strong>The whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
+ <p>Spell out numbers from zero to nine <strong>and certain round multiples of those numbers</strong> unless the same object appears in a sentence with an object 10 or over (five apples; five apples and <strong>one hundred</strong> oranges; 5 apples and 110 oranges). </p>
+  </li
+  <li><strong>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
 </li>
+ <li><p><strong>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</strong></p>
+  </li>
 <li>
 <p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
 </li>
@@ -1295,6 +1299,7 @@ title: O'Reilly Style Guide
  <li>offline</li>
  <li>offload</li>
  <li>online</li>
+ <li><strong>on premises (prep. phrase) on-premises (modifier); may be abbreviated to on prem/on-prem</strong></li>
  <li><strong>open source (n or a, rewrite to avoid using in a verb form)</strong></li>
  <li>open source software (OSS)</li>
  <li>OpenBSD</li>
@@ -1363,6 +1368,7 @@ title: O'Reilly Style Guide
  <li>pseudo-tty</li>
  <li>public key (n)</li>
  <li>public-key (a)</li>
+ <li><strong>publish/subscribe or pub/sub</strong></li>
  <li>pull-down (a)</li>
  </ul>
 
