@@ -273,7 +273,7 @@ title: O'Reilly Style Guide
 <li>
  <p>Spell out numbers from zero to nine <strong>and certain round multiples of those numbers</strong> unless the same object appears in a sentence with an object 10 or over (five apples; five apples and <strong>one hundred</strong> oranges; 5 apples and 110 oranges). </p>
  </li>
-  <li><strong>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
+  <li><p><strong>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
 </li>
  <li><p><strong>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</strong></p>
   </li>
