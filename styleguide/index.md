@@ -107,7 +107,7 @@ title: O'Reilly Style Guide
   </p>
  </li>
 <li>
- <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. <strong>But if the author prefers, we can also define certain terms the first time they appear in each chapter.</strong></p>
+ <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. But if the author prefers, we can also define certain terms the first time they appear in each chapter.</p>
 </li>
  <li>
   <p>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</p>
@@ -499,7 +499,7 @@ title: O'Reilly Style Guide
 
 
 <div data-type="tip" id="formatting-code-in-word-yDsgtXca">
-<h2>Formatting Code in Word</h2>
+<h4>Formatting Code in Word</h4>
 
 <p>When copyediting in Word, please do a global search and replace for tabs in code (search for \^t to find them) before submitting files for conversion; tabs <em>will not</em> convert. A general rule of thumb is one tab can be replaced with four spaces (which is the same number that the clean-up macro in the ORA.dot template uses). However, this number can vary, so the most important thing is that copyeditors replace tabs with the numbers of spaces needed to match the indentation and make sure levels of indentation are preserved.</p>
 </div>
