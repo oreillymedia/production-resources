@@ -33,14 +33,14 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="getting_started">
 <h1>About O'Reilly Style</h1>
 
-<p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. As writers and editors, we know that language changes over time, so <strong>please check back regularly for updates to terms and conventions</strong>.</p>
+<p>This style guide is for authors, copyeditors, and proofreaders working on books of all formats. As writers and editors, we know that language changes over time, so <strong>please check back regularly for updates to terms and conventions. Recent additions will be set in bold for a few months.</strong></p>
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>). For sponsored projects, please see our <a href="https://oreil.ly/editorial-independence">statement of editorial independence</a></p>
 
-<p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. <strong>Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
-</strong></p>
+<p>Check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter, etc.). For questions specific to your book or assignment, please consult with your editor or production editor.
+</p>
 
-<p><strong>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. Always follow a person’s preference and note exceptions, if necessary (e.g., if quoting research that is decades old).</strong></p>
+<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. Always follow a person’s preference and note exceptions, if necessary (e.g., if quoting research that is decades old).</p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
@@ -110,7 +110,7 @@ title: O'Reilly Style Guide
  <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. <strong>But if the author prefers, we can also define certain terms the first time they appear in each chapter.</strong></p>
 </li>
  <li>
-  <p><strong>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</strong></p>
+  <p>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</p>
  </li>
 <li>
 <p>A.M. and P.M. or a.m. and p.m.—be consistent.</p>
@@ -499,7 +499,7 @@ title: O'Reilly Style Guide
 
 
 <div data-type="tip" id="formatting-code-in-word-yDsgtXca">
-<h6>Formatting Code in Word</h6>
+<h2>Formatting Code in Word</h2>
 
 <p>When copyediting in Word, please do a global search and replace for tabs in code (search for \^t to find them) before submitting files for conversion; tabs <em>will not</em> convert. A general rule of thumb is one tab can be replaced with four spaces (which is the same number that the clean-up macro in the ORA.dot template uses). However, this number can vary, so the most important thing is that copyeditors replace tabs with the numbers of spaces needed to match the indentation and make sure levels of indentation are preserved.</p>
 </div>
@@ -755,7 +755,7 @@ title: O'Reilly Style Guide
 <p>Do not stack admonitions, sidebars, or headings.</p>
 </li>
  <li>
-<p><strong>Avoid obscenities and slurs, and obscure if included (grawlix, a two em dash, etc.)</strong></p>
+<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two em dash, etc.)</p>
 </li>
 </ul>
  
