@@ -209,7 +209,7 @@ title: O'Reilly Style Guide
 <p>Section: See the section “Treatment”. (The text “on page x” will be added post-conversion, so the final xref will eventually read “Treatment” on page 37.)</p>
 </li>
 <li>
-<p>Section in another chapter: See “Acceptable Gifts” on page 58 in Chapter 27.</p>
+ <p><strong>Section in another chapter: See “Acceptable Gifts” on page 58 <strike>in Chapter 27</strike></strong>. (Treat section xrefs the same way throughout the book.)</p>
 </li>
 </ul>
  
