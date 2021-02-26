@@ -49,7 +49,7 @@ If you are an author, please note that it is common for a copyeditor to template
 
 <h2 id="system-requirements">System Requirements</h2>
 
-<p>This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here. Generally, the newer your version of Word, the less likely the VBA features like the SmartStyler and Toolbar will work.</p>
+<p>This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here. Generally, the newer your version of Word, the less likely the VBA features like the SmartStyler and Toolbar will work, but you can still access Word's built-in Style Pane and get the job done.</p>
 
 <div data-type="note">
   <h6>Note</h6>
