@@ -4,7 +4,7 @@ title: O'Reilly Word Template
 ---
 # O'Reilly Media Word Template Quickstart Guide
 
-Congratulations on joining the ranks of O'Reilly authors! We know you're anxious to get started writing, so this document has the bare essentials you'll need to begin working right away, including these downloads:
+Congratulations on joining the ranks of O'Reilly authors and templaters! We know you're anxious to get started, so this document has the bare essentials you'll need to begin working right away, including these downloads:
 
 <div class="center">
 <ul class="no-bullets">
@@ -13,6 +13,8 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 <li><a href="Word_Template_Quick_Start_Guide.doc">QuickStart Guide (Word file)</a></li>
 </ul>
 </div>
+
+If you are an author, please note that it is common for a copyeditor to template Word files before they are converted into Atlas, so if your files are not 100% templated, don't worry about that.
 
 <h2 id="table-of-contents-word">Table of Contents</h2>
 
@@ -46,7 +48,7 @@ Congratulations on joining the ranks of O'Reilly authors! We know you're anxious
 
 <h2 id="system-requirements">System Requirements</h2>
 
-<p>This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here.</p>
+<p>This template was created using Word 2000 for Windows. Yeah, it’s kind of old. But it still works! There are many different versions of Word out there, so you might encounter some differences in your specific setup compared to what we talk about here. Generally, the newer your version of Word, the less likely the VBA features like the SmartStyler and Toolbar will work.</p>
 
 <div data-type="note">
   <h6>Note</h6>
@@ -83,7 +85,13 @@ If the opened file says "ORA.dot", choose **File→Save**, and choose **Save As 
 
 If the template opens as a document, and not as a template (if it says "Document1" in the title bar, and not "ORA.dot"), close the document without saving changes. Move the ORA.dot file from your desktop to your *My Templates* folder. The template will now be available from the Project Gallery.
 
+#### To template an existing untemplated chapter
+
+If you are templating an existing chapter that does not have any paragraph styles applied, it is best to create a new document (File -> New from Template). In the pop-up that appears, select My Templates and ORA.dot (if this does not appear, go back to the installation steps). You can then copy-paste the original chapter into this new document and apply template styles using the Style pane. There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
+
 <h2 id="menus-toolbars">The O'Reilly Menus and Toolbars</h2>
+
+**Please note that the SmartStyler and O'Reilly Toolbar do not work in newer versions of Word, but this section remains for those using older software.**
 
 In addition to the two custom toolbars you should see on your screen (labeled "O'Reilly SmartStyler" and "O'Reilly Toolbar"—if you don't see them, go to **View→Toolbars**, and be sure they're checked), you'll notice two new menus, labeled "ORAStyles" and "ORATools." Among these toolbars and menus, you should be able to find most of the tools you'll need.
 
@@ -100,6 +108,8 @@ Please also make sure "All Markup" is selected in the Review tab. If that drop-d
 <h2 id="paragraph-character-styles">Paragraph and Character Styles</h2>
 
 Now that you've arranged your workspace, you're ready to start writing. But first, you need to know that all of your text must have a *Style* applied to it. Every single paragraph needs to have a *Paragraph Style* applied, and if you want certain characters within a paragraph to look different than the rest of that paragraph, such as applying *Italics*, **Bold**, or `Literal`, you'll be using a *Character Style*. 
+
+There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
 
 Styles are just named sets of formatting attributes, used to identify and group structurally identical elements in a document.
 Once you've gotten familiar with the keyboard shortcuts and the SmartStyler, you'll find you won't need to spend much time searching for which style to use. But for now, know that you can find all the Paragraph and Character (also known as *Inline*) styles either from the menu labeled "ORAStyles," or on the O'Reilly Toolbar. They are grouped by category. There are a lot of them, for sure, but that's because we need a lot of them. Again, once you've adjusted to the SmartStyler and hopefully picked up a few keyboard shortcuts, you'll find you won't need to spend much time in these menus searching for styles.
@@ -186,7 +196,7 @@ When you've finished the caption, pressing `Enter` puts you into the proper "Cod
 
 <h3 id="code-length">Code Length and Spacing Guidelines</h3>
 
-Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 80 characters, with 84 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 63 characters, with 67 characters available in captioned examples. Pocket references have even smaller code line length—check with your editor for this information. 
+Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 81 characters, with 85 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 64 characters, with 68 characters available in captioned examples. Pocket references have even smaller code line length—check with your editor for this information. 
 
 Please make sure your code lines do not exceed these restrictions so that code lines don't run into the right margin when files are converted from Microsoft Word and prepared for typesetting. Indent using spaces, not tabs.
 
@@ -219,8 +229,6 @@ Authors who are interested in annotating code blocks or examples have a few diff
 
 Line annotations are short descriptions that are inserted inline within the code. They are distinguished from the code by their font formatting. Annotations are set in standard body font (not `monospace`) in *italics* and a slightly smaller point size. If you'd like to insert line annotations, please use the character style "XRefColor", and insert a note at the first occurrence so that the O'Reilly Tools team will convert it correctly:
 
-Production: Using XRefColor to indicate line annotations. 
-
 #### Callouts
 
 See [Bob Stayton's definition of callouts](http://www.sagehill.net/docbookxsl/AnnotateListing.html#Callouts) along with an example. Callouts are a useful and powerful way of annotating your code because they have the advantage of acting as clickable cross-references in online and mobile formats of your book. In the PDF of your book, the callouts will be clickable in the same way that is demonstrated in Stayton's example. Note that you can click back and forth between the callout and its description in the callout list, which is handy when the code and the callout list straddle pages. 
@@ -252,8 +260,7 @@ Numbered code is built into the O'Reilly Word template and can be inserted using
 We strongly discourage authors from using numbered code lines for two main reasons:
 
 * The line numbers end up hardcoded in typeset and/or downstream versions, making them difficult to maintain, correct, and update. Any references in the body text to the line numbers will also be hardcoded in, and if the code changes, the in-text references will also have to be changed. This maintenance may not sound like a big deal when you are authoring your book, but keep in mind that code may also need to be revised when fixing errata for reprints, and when writing future editions of the book. Numbered code makes the revision process that much more error-prone and cumbersome.
-* 
-* When your readers copy and paste code lines from the digital editions of your book, each line will start with extraneous text (i.e., the line number plus any punctuation and whitespace), thus rendering it unrunnable as code. Most readers will probably access your book through Safari Books Online, PDF, and other digital formats. By adding hardcoded line numbers to your code, you're potentially making it more difficult for readers to actually use it.
+* When your readers copy and paste code lines from the digital editions of your book, each line will start with extraneous text (i.e., the line number plus any punctuation and whitespace), thus rendering it unrunnable as code. Most readers will probably access your book through the O'Reilly Learning Platform, PDF, and other digital formats. By adding hardcoded line numbers to your code, you're potentially making it more difficult for readers to actually use it.
 
 <h2 id="xrefs">Cross References</h2>
 
@@ -261,8 +268,10 @@ Now that you have a document with a few sections of text, and probably some Figu
 
 <div data-type="warning">
   <h6>Disclaimer</h6>
-  <p>This template's Cross Reference Engine, specifically with regards to cross references to external files, does some rather unnatural things that Word wasn't really meant to do, or at least do reliably or accurately. We've had our way with Word, and sometimes Word won't stand for it. Most errors are benign, and a simple close-reopen will resolve them, but occasionally bad things happen to good documents. If you're trying to use the cross references, and you're having trouble, please don't hesitate to contact the O'Reilly Tools group.</p>
+  <p>This template's Cross Reference Engine, specifically with regard to cross references to external files, does some rather unnatural things that Word wasn't really meant to do, or at least do reliably or accurately. We've had our way with Word, and sometimes Word won't stand for it. Most errors are benign, and a simple close-reopen will resolve them, but occasionally bad things happen to good documents. If you're trying to use the cross references, and you're having trouble, please don't hesitate to contact the O'Reilly Tools group.</p>
 </div>
+
+**Once a book is converted from Word to HTML, paragraph-level cross-references are not supported. You can add xrefs to chapters, section titles, and numbered elements like figures, code examples, and tables. The below text has been left for informational purposes only.**
 
 In general, you can create a cross reference to any paragraph in your document, as well as to any paragraph in any other open file that is based on this template and is in the same folder as your document. In most cases, the entire text of the paragraph is inserted, and if it's in a different file, the chapter number is also inserted. In the case of captions, only the caption type and number are included.
 
@@ -281,7 +290,7 @@ Since cross references tend to be a bit fragile, we suggest waiting until your c
 
 <h2 id="misc">Miscellany</h2>
 
-A few final items to feed the impatient mind.
+A few final items to feed the impatient mind. **Please note that the SmartStyler and O'Reilly Toolbar do not work in newer versions of Word, but this section remains for those using older software.**
 
 <h3 id="keyboard-shortcuts">Keyboard Shortcuts</h3>
 
