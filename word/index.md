@@ -22,6 +22,7 @@ If you are an author, please note that it is common for a copyeditor to template
 * <a href="#installing">Installing the Template</a>
   * <a href="#install-windows">Installing on a Windows Machine</a>
   * <a href="#install-mac">Installing on a Mac</a>
+  * <a href="#template_existing">Starting to Template an Existing Chapter</a>
 * <a href="#menus-toolbars">The O'Reilly Menus and Toolbars</a>
 * <a href="#setting-options">Setting a Few Important Options</a>
 * <a href="#paragraph-character-styles">Paragraph and Character Styles</a>
@@ -85,9 +86,9 @@ If the opened file says "ORA.dot", choose **File→Save**, and choose **Save As 
 
 If the template opens as a document, and not as a template (if it says "Document1" in the title bar, and not "ORA.dot"), close the document without saving changes. Move the ORA.dot file from your desktop to your *My Templates* folder. The template will now be available from the Project Gallery.
 
-#### To template an existing untemplated chapter
+<h3 id="template_existing">Starting to Template an Existing Chapter</h3>
 
-If you are templating an existing chapter that does not have any paragraph styles applied, it is best to create a new document (File -> New from Template). In the pop-up that appears, select My Templates and ORA.dot (if this does not appear, go back to the installation steps). You can then copy-paste the original chapter into this new document and apply template styles using the Style pane. There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
+If you are templating an existing chapter that does not have any paragraph styles applied, it is best to create a new document (File→New from Template). In the pop-up that appears, select My Templates and then ORA.dot (if this option does not appear, go back to the installation steps). You should then copy-paste the original chapter content into the new document and apply template styles using the Style pane. There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
 
 <h2 id="menus-toolbars">The O'Reilly Menus and Toolbars</h2>
 
