@@ -11,14 +11,14 @@ O'Reilly's books and products have a uniform, branded appearance that has been w
 If you have any questions, please contact us.
 
 
-Robert Romano  
-Manager of Multimedia  
-romano(at)oreilly.com  
+Robert Romano<br>
+Manager of Multimedia<br>
+romano(at)oreilly.com<br>
 
 
-Catherine Dullea  
-Technical Illustrator  
-cdullea(at)oreilly.com  
+Catherine Dullea<br>
+Technical Illustrator<br>
+cdullea(at)oreilly.com<br>
 
 ## Sizing
 
