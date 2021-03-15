@@ -7,6 +7,12 @@ title: styleguide
 This document will help you understand the procedure for using screenshots and technical illustrations in your project.
 Unless specifically agreed upon, all drawn figures will be created to adhere to O’Reilly Media’s style and branding guidelines.
 
+If you have any questions, please contact us.
+
+Robert Romano                 Catherine Dullea
+Manager of Multimedia         Technical Illustrator
+romano(at)oreilly.com         cdullea(at)oreilly.com
+
 ## Sizing
 
 When creating drawn art and screenshots, please keep in mind the size limitations for a printed book. For instance, 16x9 PowerPoint slides will not scale correctly and will result in illegible text.
@@ -14,8 +20,6 @@ When creating drawn art and screenshots, please keep in mind the size limitation
 The maximum figure size for the majority of O’Reilly titles is:
 4.8” x 7”
 345.6px x 504px
-![4 8_box](https://user-images.githubusercontent.com/80710460/111215223-49429680-85a9-11eb-9c78-9f20059ca4ae.png)
-
 
 
 ## Drawn Illustrations
@@ -39,7 +43,7 @@ version that indicates the callouts you want. Our Illustrator will use standard 
 
 ## Naming Your Files/Organizing with a Figure List
 
-A well-organized figure list allows us to move your book through production more quickly and accurately. The figure list should contain the filename, position of the figure in the book, and other information, such as; required callouts, or notes
+A well-organized figure list allows us to move your book through production more quickly and accurately. The figure list should contain the filename, position of the figure in the book, and other information, such as; required callouts, or notes.
 
 
 
