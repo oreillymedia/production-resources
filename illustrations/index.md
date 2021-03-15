@@ -9,9 +9,13 @@ Unless specifically agreed upon, all drawn figures will be created to adhere to 
 
 If you have any questions, please contact us.
 
-Robert Romano                 Catherine Dullea
-Manager of Multimedia         Technical Illustrator
-romano(at)oreilly.com         cdullea(at)oreilly.com
+Robert Romano
+Manager of Multimedia
+romano(at)oreilly.com
+
+Catherine Dullea
+Technical Illustrator
+cdullea(at)oreilly.com
 
 ## Sizing
 
