@@ -9,9 +9,11 @@ Unless specifically agreed upon, all drawn figures will be created to adhere to 
 
 If you have any questions, please contact us.
 
+
 Robert Romano
 Manager of Multimedia
 romano(at)oreilly.com
+
 
 Catherine Dullea
 Technical Illustrator
@@ -22,7 +24,9 @@ cdullea(at)oreilly.com
 When creating drawn art and screenshots, please keep in mind the size limitations for a printed book. For instance, 16x9 PowerPoint slides will not scale correctly and will result in illegible text.
 
 The maximum figure size for the majority of O’Reilly titles is:
+
 4.8” x 7”
+
 345.6px x 504px
 
 
