@@ -5,19 +5,20 @@ title: styleguide
 # O'Reilly Media Illustration Guidelines
 
 This document will help you understand the procedure for using screenshots and technical illustrations in your project.
-Unless specifically agreed upon, all drawn figures will be created to adhere to O’Reilly Media’s style and branding guidelines.
+
+O'Reilly's books and products have a uniform, branded appearance that has been well received by our customers for over 30 years. Unless specifically agreed upon, all drawn figures will be created to adhere to O’Reilly Media’s style and branding guidelines.
 
 If you have any questions, please contact us.
 
 
-Robert Romano
-Manager of Multimedia
-romano(at)oreilly.com
+Robert Romano  
+Manager of Multimedia  
+romano(at)oreilly.com  
 
 
-Catherine Dullea
-Technical Illustrator
-cdullea(at)oreilly.com
+Catherine Dullea  
+Technical Illustrator  
+cdullea(at)oreilly.com  
 
 ## Sizing
 
@@ -25,9 +26,7 @@ When creating drawn art and screenshots, please keep in mind the size limitation
 
 The maximum figure size for the majority of O’Reilly titles is:
 
-4.8” x 7”
-
-345.6px x 504px
+**4.8” x 7”  (345.6px x 504px)**
 
 
 ## Drawn Illustrations
