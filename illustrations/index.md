@@ -5,102 +5,42 @@ title: styleguide
 # O'Reilly Media Illustration Guidelines
 
 This document will help you understand the procedure for using screenshots and technical illustrations in your project.
+Unless specifically agreed upon, all drawn figures will be created to adhere to O’Reilly Media’s style and branding guidelines.
 
-You can contact O'Reilly's Illustrator at <a href="mailto:dcps-illustrations@oreilly.com">dcps-illustrations@oreilly.com</a>.
+## Sizing
 
-## Types of Figures
+When creating drawn art and screenshots, please keep in mind the size limitations for a printed book. For instance, 16x9 PowerPoint slides will not scale correctly and will result in illegible text.
 
-There are two main types of figures: *screenshots* and drawn *illustrations*. 
-
-Either type might also feature *callouts*, which are boxes, arrows, and text that might be added to a figure to aid the reader.
-
-The max figure size in most O’Reilly books is 4.8”x7” and vertically oriented. Please crop your screenshots as tightly as possible and make sure illustrations are structured vertically when possible.
-
-### Screenshots
-
-*	All screenshots, photos, etc. should be provided as PNG, JPG, or TIF file formats. Other formats can have conversion issues. PNG is preferred.
-* The only work that will be done on screenshots, unless you tell us otherwise, is resizing to fit the book/report's trim size.
-*	Please capture the smallest necessary area when a full desktop screenshot is not required. The less in the screenshot, the easier it will be for your audience to read it.
-*	Let us know if you require callouts, and supply one file with callouts added and one without. (Callouts are text, circles, lines, and arrows added to screenshots or photos that label or describe elements.) There is an example in the next section of a figure submitted with desired callouts and then the clean image file for our illustrator to add callouts to.
+The maximum figure size for the majority of O’Reilly titles is:
+4.8” x 7”
+345.6px x 504px
+![4 8_box](https://user-images.githubusercontent.com/80710460/111215223-49429680-85a9-11eb-9c78-9f20059ca4ae.png)
 
 
-### Drawn Illustrations
 
-We're happy to work with you to create a refined graphic; for most books, we will redraw diagrams in house style to ensure quality and consistency. If there's a reason yours should be left as-is, please let your editor know and leave notes on the figure log accordingly. If something is not specified to be redrawn on the figure log, it will be processed as a screenshot (as-is). 
+## Drawn Illustrations
+Use whatever method is most comfortable for you when first creating your illustrations: they can be sketched, described in text, or generated using a drawing application.
 
-* Use whatever method is most comfortable for you when first creating your illlustrations: they can be sketched, described in text, or generated using a computer drawing program. 
-* Please DO NOT submit SVG files, whether to use as-is or as reference for redrawing. Converting SVGs to PNG is unreliable at best and destructive to the file at worst, so to avoid unintentionally introducing errors, please submit only PDFs, PNGs, or AI files. 
-* If you're using a program such as Visio, PowerPoint, Freehand, Illustrator, or another drawing program, please export your files as PDFs to ensure that there are no translation errors between computers.
-* To help you generate the images, [we have templates in Adobe Illustrator](http://oreillymedia.github.io/production-resources/illustrations/image-stuff.zip) and as PDFs that should be able to be opened in your vector program of choice. Just let us know you want to try your hand at them! If you do choose to work with the Illustrator templates, please send us the .ai files you create, along with exported PDFs. 
-* If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a "clean" version without callouts, and version that mocks up the callouts you want. Our Illustrator will use standard O'Reilly fonts and specs to add callouts to the clean file, using your example as a guide. Use a file-naming convention that makes it clear which how a "clean" file relates to another image. For example, if your file with callouts is named *0102.png*, you should name the clean file *0102_clean.png*:
-** ![Screenshot marked up with callouts](http://oreillymedia.github.io/production-resources/illustrations/callout-screenshot.png)
-** ![Clean screenshot with no callouts](http://oreillymedia.github.io/production-resources/illustrations/clean-screenshot.png)
+* Please submit drafts either as PDFs, PNGs, or TIF. Avoid using JPEG or SVG file types. 
+* If you’re using a Visio, PowerPoint, Google, or other drawing program, please export your files as PDFs or PNG. We can not use native files from 3rd party applications.
 
-## Figure Sizing
 
-When taking screenshots, use the highest resolution possible. That said, it's important to remember that there are page size limitations. For most of our books, your images need to fit into a 4.8 x 7 inch space, so take that ratio into account when taking screenshots. Images will be forced into a vertical orientation, so really wide screenshots will be illegible at this size (or they will be rotated to a horizontal display on a vertical page, which isn't ideal). 
+## Screenshots
 
-TL;DR: Take screenshots at the highest resolution possible—300 dpi is ideal and we don't print anything below 150dpi. 
+Screenshots will be processed to ensure correct sizing, and may be slightly darkened/lightened to meet printing specifications.
 
-## Naming Your Files
+* Please capture the smallest necessary area when a full desktop screenshot is not required. The less in the screenshot, the more useful it will be for the reader.
+* Take screenshots at the highest resolution possible—300 dpi is ideal and we don’t print anything below 150dpi
+* Save screenshots as PNG or TIF. Do not save your screenshots as JPEG. This will result in illegible text.
+* Keep in mind that unless specified, your book will be printed in B&W. Using subtle colors/shades within exported graphs, for example, will not be distinguishable in print.
 
-Most authors prefer to use descriptive filenames. When naming your files, please don't use spaces or other non-standard characters, and please keep the names relatively short. Our Illustrator's scripts will sometimes choke with overly long filenames or files that have spaces in the names.
+If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a “clean” version without callouts, and a
+version that indicates the callouts you want. Our Illustrator will use standard O’Reilly fonts and specs to add callouts to the clean file, using your example as a guide.
 
-When your book is officially submitted to production, we'll run tools that convert your descriptive filenames (and in-source references) to our standard format, which numbers figures by chapter and order within chapter, as described in more detail below.
+## Naming Your Files/Organizing with a Figure List
 
-If you're willing to name your figure files by chapter and order within a chapter, that would be helpful to us (but not a requirement). For example, you could name the third image to appear in chapter 2 as *0203.png* (assuming a .png file in this example). 
+A well-organized figure list allows us to move your book through production more quickly and accurately. The figure list should contain the filename, position of the figure in the book, and other information, such as; required callouts, or notes
 
-If you're including a clean version of a file that has callouts, be sure to add *"_clean"* to the filename, so we can keep them related.
-
-## Organizing with a Figure List
-
-Organization is key. A well-organized figure list allows us to move your book through production more quickly and accurately. The figure list should contain the filename, position of the figure in the book, and caption for each figure. This is also where you tell us about callouts you need, whether we need to crop an image, and whether you need us to redraw something.
-
-The Illustrator might not be looking at a PDF of your book or have access to source files, so a figure list is her best way of working accurately with your images.
-
-When creating figure lists, please use the following conventions:
-
-1. **Fig#**: The location of the figure in the printed book.
-2. **Filename**: These are the names of the files you send to us. It is very important that this information be as accurate as possible.
-3. **Type/Instructions**: Let us know if an illustration needs to be drawn or touched-up by our illustrator. Please provide instructions for cropping, adding callouts, etc.
-4. **Figure Caption**: These are very helpful for us when trying to make solve a figure placement problem or when we need to make sure we're working with the correct image in the right place in the book.
- 
-Here's an example of an ideal figure list (this is also available as a [template for your use](https://docs.google.com/spreadsheets/d/1WWS5PicZC1ub6q9ckZ-i1y4nIga4_96ZSThkWgvQhgc/edit?usp=sharing)):
-
-Fig #   |   Filename   | Type/Instructions   |  Caption
- --- | --- | --- | ---
- 01-01 | some-file-name.pdf | Drawing. Please add an arrow pointing from the outside servers to the middle servers and label it "Workflow."   | Example of server setup showing an important idea.
- 01-02 | my-favorite-picture.png | Screenshot. Please crop tightly on the top third. | This is what the top of thee page will look like.
- 01-03 | hello-world-example.png | Screenshot | The image caption would go here.
- ... | ... | ... | ...
- 02-01 | my-cat.png | Screenshot | Caption goes here.
- 02-02 | Michael-Stipe.pdf | Drawing. Please keep the hand-drawn look and feel. | Caption goes here.
- 
-## Illustration Workflow Examples Showing Importance of Figure Lists
-
-Here's an example showing how a figure list helps production handle images that need callouts.
-
-In Atlas, figure files are usually added to the `images/` directory. Here's a screenshot of an `image/` directory as it might appear before production. In this example, the author is using descriptive filenames, and you'll see two version of the *aircraft_carrier.jpg* image. One version contains callouts added by the author, and one is clean (doesn't include callouts, which production will use to add callouts).
-
-![Images directory before production](http://oreillymedia.github.io/production-resources/illustrations/images-dir-preproduction.png)
-
-During production, we standardize both the filenames and the references to files in the source. We do this only for images that are actually referenced in the source files. Here's what an asciidoc reference to a figure would look like before production renamed the files:
-
-![Figure reference before production](http://oreillymedia.github.io/production-resources/illustrations/fileref-before-prod.png)
-
-And here's what it would look like after production. We apply a prefix (usually a few letters from the book's title), followed by the chapter number and order of the figure within the chapter (so the second image in chapter 1 would be "0102"). In this example, I've added "eidi" as the prefix, and this is the first image in chapter 1:
-
-![Figure reference after production](http://oreillymedia.github.io/production-resources/illustrations/fileref-after-prod.png)
-
-Now, if we take a look at the images directory again, we'll see that the file that is reference has been renamed, but the "clean" version (which wasn't explicitly referenced) has not been renamed:
-
-![Images directory after production](http://oreillymedia.github.io/production-resources/illustrations/image-dir-postprod.png)
-
-This is when a figure list is crucial. Without it, the illustrator won't know which file to use to redraw the callouts. She'll see that *eidi_0101.png* requires work, but won't have any idea where to find it.
-
-And here's another scenario where we need a figure list:
-
-Let's say that we've already renamed the files and we're well into QC, at which point the author spots some problems that require new figures. More often than not, the new image files that we get from authors will use the original descriptive names. So then a human has to try and sort it all out, which inevitably leads to either mistakes or much back and forth, or both. Again, a well-ordered figure list can help avoid this problem.
 
 
 
