@@ -8,6 +8,8 @@ This document will help you understand the procedure for using screenshots and t
 
 O'Reilly's books and products have a uniform, branded appearance that has been well received by our customers for over 30 years. Unless specifically agreed upon, all drawn figures will be created to adhere to O’Reilly Media’s style and branding guidelines.
 
+Examples of our illustrations can be viewed [here.](https://github.com/oreillymedia/production-resources/blob/gh-pages/illustrations/orm_illustration_examples.png)
+
 If you have any questions, please contact us.
 
 
@@ -34,7 +36,7 @@ Use whatever method is most comfortable for you when first creating your illustr
 
 * Please submit drafts either as PDFs, PNGs, or TIF. Avoid using JPEG or SVG file types. 
 * If you’re using a Visio, PowerPoint, Google, or other drawing program, please export your files as PDFs or PNG. We can not use native files from 3rd party applications.
-
+* Please avoid using 3rd party logos and icons.
 
 ## Screenshots
 
