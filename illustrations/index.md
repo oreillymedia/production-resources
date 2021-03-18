@@ -8,7 +8,7 @@ This document will help you understand the procedure for using screenshots and t
 
 O'Reilly's books and products have a uniform, branded appearance that has been well received by our customers for over 30 years. Unless specifically agreed upon, all drawn figures will be created to adhere to O’Reilly Media’s style and branding guidelines.
 
-Examples of our illustrations can be viewed [here.](https://github.com/oreillymedia/production-resources/blob/gh-pages/illustrations/orm_illustration_examples.png)
+Examples of our illustrations can be viewed [**here.**](https://github.com/oreillymedia/production-resources/blob/gh-pages/illustrations/orm_illustration_examples.png)
 
 If you have any questions, please contact us.
 
