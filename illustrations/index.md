@@ -26,9 +26,13 @@ cdullea(at)oreilly.com<br>
 
 When creating drawn art and screenshots, please keep in mind the size limitations for a printed book. For instance, 16x9 PowerPoint slides will not scale correctly and will result in illegible text.
 
-The maximum figure size for the majority of O’Reilly titles is:
+The maximum figure size for standard O’Reilly "Animal" titles is:
 
 **4.8” x 7”  (345.6px x 504px)**
+
+Please note that the "Pocket Reference" series is considerably smaller.
+
+**2.8" x 5.5" (840px x 1650px)
 
 
 ## Drawn Illustrations
@@ -44,6 +48,7 @@ Screenshots will be processed to ensure correct sizing, and may be slightly dark
 
 * Please capture the smallest necessary area when a full desktop screenshot is not required. The less in the screenshot, the more useful it will be for the reader.
 * Take screenshots at the highest resolution possible—300 dpi is ideal and we don’t print anything below 150dpi
+* Take screenshots in RGB color
 * Save screenshots as PNG or TIF. Do not save your screenshots as JPEG. This will result in illegible text.
 * Keep in mind that unless specified, your book will be printed in B&W. Using subtle colors/shades within exported graphs, for example, will not be distinguishable in print.
 
