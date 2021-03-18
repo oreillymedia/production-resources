@@ -32,7 +32,7 @@ The maximum figure size for standard O’Reilly "Animal" titles is:
 
 Please note that the "Pocket Reference" series is considerably smaller.
 
-**2.8" x 5.5" (840px x 1650px)**
+**2.8" x 5.5" (201.6px x 396px)**
 
 
 ## Drawn Illustrations
