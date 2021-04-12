@@ -11,7 +11,6 @@ title: Head First Production and Style Guide
   * <a href="#code">Code</a>
   * <a href="#crossword_puzzles">Crossword Puzzles</a>
   * <a href="#troubleshooting">Troubleshooting</a>
-  * <a href="#console_elements">Console Elements</a>
   * <a href="#dotted_lines_in_exercises">Dotted Lines in Exercises</a>
   * <a href="#exercises">Exercises</a>
   * <a href="#fireside_chats">Fireside Chats</a>
@@ -25,6 +24,8 @@ title: Head First Production and Style Guide
 
 <section data-type="sect2" id="head_first_production_workflow">
 <h2>Head First Production Workflow</h2>
+
+<p>For the art library and a guide to getting started writing a Head First book, see https://github.com/oreillymedia/headfirst-author-materials. Your editor can set you up with access.</p>
 
 <p>Head First books are unique in many ways, including the production process. For one, Head First books do not receive a copyedit, but undergo a robust proofread with a brief review period by the author. Please note that authors will have only two review periods for Head First books (QC1 and QC2).</p>
 
@@ -80,22 +81,31 @@ title: Head First Production and Style Guide
 </section>
 
 <section data-type="sect3" id="crossword_puzzles">
-<h3>Crossword Puzzles (This is currently under construction because Crossword Forge no longer exists!)</h3>
+<h3>Crossword Puzzles</h3>
+ 
+<p>To create Crossword Puzzles, authors will use https://crosswordhobbyist.com/. Your Editor will get you set up with an account.</p>
 
-<p>A PDF listing the settings in the authors subdomain, but a quick rundown follows:</p>
+<p>A note on timing: Creation of Crossword Puzzles should happen toward the end of book development, once your Head First book is nearly complete (the chapters need to be nearly complete so that authors can figure out the words and clues for the crossword puzzle). This should be done ~2 months prior to submitting the book to production (or around the time the final round of tech review is being done).</p>
+
+<p>General steps are as follows:</p>
 
 <ul>
-<li><p>We use Crossword Forge to create the crossword puzzles. Download the software from http://www.solrobots.com/ and we'll get authors a license key.</p></li>
-<li><p>Questions font: Arial Narrow 12pt Black (set it by selecting part of a question, then picking the correct font from the list)</p></li>
-<li><p>Answers font: Marker Felt 12pt Black (set it by selecting part of an answer, then picking the correct font from the list)</p></li>
-<li><p>Page size (in the File > Page Setup menu): Legal.</p></li>
-<li><p>Backdrop: Select Solid color, then click on the color to bring up the color dialog. Choose the sliders option and set the dropdown to Gray Scale Slider. Select the back square, then type 75 into brightness % field. Click okay.</p></li>
-<li><p>Grid: Make sure your crossword grid doesn't touch the edges of the printable area by clicking 'Make puzzle' until you get a configuration you're happy with.</p></li>
-<li><p>Create a PDF File → PRINT (but choose to "print" it as a PDF using the dropdown in the bottom left of the dialog).</p></li>
-<li><p>You'll need to do this twice: once with the crossword showing the empty grid and once with the solutions.</p></li>
-<li><p>Name each file something sensible like hfxx_ch01_xword_q.pdf (for the questions) and hfxx_ch01_xword_a.pdf (for the answers).</p></li>
-<li><p>When you're ready, open your InDesign file and place the PDFs. You may need to re-size them slightly.</p></li>
+<li><p>Editor requests author alias to be created for https://crosswordhobbyist.com.</p></li>
+<li><p>Author is given access to the account</p></li>
+<li><p>Author creates crossword</p></li>
+<li><p>Author selects the “make printable” option and signs in</p></li>
+<li><p>Author saves image files of the crossword, including: empty crossword with clues, and completed/solved crossword (see Tips below)</p></li>
+<li><p>Author inserts the image files of the crosswords into the indd files of their Head First book</p></li>
+ </ul>
+
+<p>Tips for generating crosswords:</p>
+
+<ul>
+<li><p>You can get both versions of the puzzle (blank and answer key) by exporting the PDF twice; there's a way to toggle between Hide Answers and Show Answers, so simply toggle and hit the "Save as PDF" button when the website UI shows the version you're looking for.</p></li>
+<li><p>There are no font options, but you can change the size of grid, background color, and shift things around the grid (space allowing).</p></li>
+<li><p>One neat feature is that if you make a list of terms, crosswordify them, and realize you left one out or made a typo, you can hit "Un-Arrange" to migrate your word list back to the list on the left so you can edit and then re-crosswordify them.</p></li>
 </ul>
+
 </section>
 
 <section data-type="sect3" id="troubleshooting">
@@ -103,14 +113,6 @@ title: Head First Production and Style Guide
 
 <p>If you have lots of questions, make sure you check to see if everything fits on just one page when you "print" it to PDF (if it's more than one page, a scrollbar appears). If it goes over, make sure you've got it set up (in the File > Page Setup menu) to use the LEGAL size (the default size is US LETTER). If it still goes over, remove some questions and solutions.</p>
 
-<section data-type="sect3" id="console_elements">
-<h3>Console Elements (Need these cleared up, they're contradictory)</h3>
-
-<ul>
-<li><p>Must always have "joke" text for the last menu in the menu bar (e.g., File Edit Window Help Macarena)</p></li>
-<li><p>Shouldn't always have a joke—that would get tired pretty quick in a book like SQL where we show the console a lot. Perhaps a joke for every significant event or something?</p></li>
-</ul>
-</section>
 
 <section data-type="sect3" id="dotted_lines_in_exercises">
 <h3>Dotted lines in exercises</h3>
