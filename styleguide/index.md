@@ -271,11 +271,11 @@ title: O'Reilly Style Guide
 <p>What to spell out and when:</p>
 <ul>
 <li>
- <p>Spell out numbers from zero to nine <strong>and certain round multiples of those numbers</strong> unless the same object appears in a sentence with an object 10 or over (five apples; five apples and <strong>one hundred</strong> oranges; 5 apples and 110 oranges). </p>
+ <p>Spell out numbers from zero to nine and certain round multiples of those numbers unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges). </p>
  </li>
-  <li><p><strong>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</strong></p>
+  <li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
 </li>
- <li><p><strong>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</strong></p>
+ <li><p>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</p>
   </li>
 <li>
 <p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
@@ -884,15 +884,15 @@ title: O'Reilly Style Guide
  <li>ad hoc</li>
  <li>ADO.NET</li>
  <li>Agile (cap when referring to Agile software development or when used on its own as a noun)</li>
- <li><strong>AI (no need to expand acronym to artificial intelligence)</strong></li>
+ <li>AI (no need to expand acronym to artificial intelligence)</li>
  <li>Ajax</li>
  <li>a.k.a. or aka (be consistent)</li>
  <li>a.m. or A.M.</li>
  <li>Alt key</li>
  <li>Alt-N</li>
  <li>anonymous FTP</li>
- <li><strong>antipattern</strong></li>
- <li><strong>API (no need to expand acronym to application programming interface)</strong></li>
+ <li>antipattern</li>
+ <li>API (no need to expand acronym to application programming interface)</li>
  <li>appendixes</li>
  <li>applet (or Java applet)</li>
  <li>AppleScript</li>
@@ -912,7 +912,7 @@ title: O'Reilly Style Guide
 <ul>
 <li>backend</li>
  <li>background processes</li>
- <li><strong>backpressure</strong></li>
+ <li>backpressure</li>
  <li>backquote</li>
  <li>backslash</li>
  <li>Backspace key</li>
@@ -920,12 +920,12 @@ title: O'Reilly Style Guide
  <li>backup (n); back up (v)</li>
  <li>backward</li>
  <li>backward compatible</li>
- <li><strong>Bash</strong></li> 
+ <li>Bash</li> 
  <li>BeOS</li>
  <li>Berkeley Software Distribution (BSD)</li>
  <li>Berkeley Unix (older books may have UNIX)</li>
  <li>BHOs</li>
- <li><strong>big data</strong></li>
+ <li>big data</li>
  <li>Big Design Up Front (BDUF)</li>
  <li>bioinformatics</li>
  <li><strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong></li>
@@ -935,9 +935,9 @@ title: O'Reilly Style Guide
  <li>bit plane</li>
  <li>bitwise operators</li>
  <li>BlackBerry</li>
- <li><strong>–black-box/white-box testing s/b avoided (alternatives: behavioral/structural testing, closed/open testing, opaque/clear testing)</strong></li>
- <li><strong>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</strong></li>
- <li><strong>–blacklist/whitelist s/b avoided (alternatives: block list/allow list, deny/permit, excluded/included)</strong></li>
+ <li>–black-box/white-box testing s/b avoided (alternatives: behavioral/structural testing, closed/open testing, opaque/clear testing)</li>
+ <li>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</li>
+ <li>–blacklist/whitelist s/b avoided (alternatives: block list/allow list, deny/permit, excluded/included)</li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
  <li>Bourne-again shell (bash)</li>
  <li>Bourne shell</li>
@@ -965,7 +965,7 @@ title: O'Reilly Style Guide
  <li>checkmark</li>
  <li>check-in (n)</li>
  <li>classpath</li>
- <li><strong>CLI (no need to expand acronym to command-line interface)</strong></li>
+ <li>CLI (no need to expand acronym to command-line interface)</li>
  <li>click-through (a)</li>
  <li>client/server</li>
  <li>client side (n)</li>
@@ -989,8 +989,8 @@ title: O'Reilly Style Guide
  <li>copyleft</li>
  <li>copyright</li>
  <li>coworker</li>
- <li><strong>CPU (no need to expand to central processing unit)</strong></li>
- <li><strong>–crazy s/b avoided (alternatives: foolish, bizarre, etc.)</strong></li>
+ <li>CPU (no need to expand to central processing unit)</li>
+ <li>–crazy s/b avoided (alternatives: foolish, bizarre, etc.)</li>
  <li>criterion (s), criteria (p)</li>
  <li>cross-reference</li>
  <li>C shell</li>
@@ -1017,8 +1017,8 @@ title: O'Reilly Style Guide
  <li>Debian GNU/Linux</li>
  <li>decision making (n)</li>
  <li>decision-making (a)</li>
- <li><strong>deep learning (n and a, no hyphen)</strong></li>
- <li><strong>de-identification (hyphenate)</strong></li>
+ <li>deep learning (n and a, no hyphen)</li>
+ <li>de-identification (hyphenate)</li>
  <li>DevOps</li>
  <li>dial-up (a)</li>
  <li>dial up (v)</li>
@@ -1041,7 +1041,7 @@ title: O'Reilly Style Guide
  <li>drag-and-drop (n)</li>
  <li>drag and drop (v)</li>
  <li>drop-down (a)</li>
- <li><strong>–dummy s/b avoided (alternatives include: placeholder)</strong></li>
+ <li>–dummy s/b avoided (alternatives include: placeholder)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -1107,6 +1107,8 @@ title: O'Reilly Style Guide
  <li>GHz</li>
  <li>gid</li>
  <li>GIMP</li>
+ <li><strong>Git</strong></li>
+ <li><strong>GitHub</strong></li>
  <li>GNOME</li>
  <li>GNU Emacs</li>
  <li>GNU Public License (GPL)</li>
@@ -1128,7 +1130,7 @@ title: O'Reilly Style Guide
  <li>hardcore</li>
  <li>hardcopy</li>
  <li>hard link</li>
- <li><strong>hardware-in-the-loop</strong></li>
+ <li>hardware-in-the-loop</li>
  <li>hash sign or sharp sign</li>
  <li>high-level (a)</li>
  <li>home page</li>
@@ -1151,7 +1153,7 @@ title: O'Reilly Style Guide
  <li>inode</li>
  <li>interclient</li>
  <li>internet, the internet</li>
- <li><strong>Internet of Things (IoT)</strong></li>
+ <li>Internet of Things (IoT)</li>
  <li>internetwork</li>
  <li>intranet</li>
  <li>Intrinsics</li>
@@ -1196,7 +1198,7 @@ title: O'Reilly Style Guide
  <li>keywords</li>
  <li>key performance indicators (KPIs)</li>
  <li>kHz (kilohertz)</li>
- <li><strong>–kill s/b avoided (alternatives: end, exit, cancel)</strong></li>
+ <li>–kill s/b avoided (alternatives: end, exit, cancel)</li>
  <li>Korn shell</li>
  </ul>
 
@@ -1204,7 +1206,7 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-L">L</h2>
 <ul>
- <li><strong>lambda (lc unless referring to a product name)</strong></li>
+ <li>lambda (lc unless referring to a product)</li>
  <li>Lean (capitalize noun or adjective when referring to Lean business methodology)</li>
  <li>local area network or LAN</li>
  <li>left angle bracket or &lt;</li>
@@ -1233,10 +1235,10 @@ title: O'Reilly Style Guide
  <li>macOS (replaces Mac OS X)</li>
  <li><strong>machine learning (n and a, no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
- <li><strong>– man hours s/b avoided (alternatives: work hours, employee hours)</strong></li>
+ <li>– man hours s/b avoided (alternatives: work hours, employee hours)</li>
  <li>manpage</li>
  <li>markup</li>
- <li><strong>–master/slave (n, a) s/b avoided (alternatives: parent/child, leader/follower, primary/secondary)</strong></li>
+ <li>–master/slave (n, a) s/b avoided (alternatives: parent/child, leader/follower, primary/secondary)</li>
  <li>Mb (megabit)</li>
  <li>MB (megabyte)</li>
  <li>MBps (megabytes per second)</li>
@@ -1253,10 +1255,10 @@ title: O'Reilly Style Guide
  <li>Microsoft Windows NT</li>
  <li>Microsoft Windows XP</li>
  <li>Microsoft Windows 2000</li>
- <li><strong>–middleman s/b avoided (alternatives: go-between, link, etc.)</strong></li>
+ <li>–middleman s/b avoided (alternatives: go-between, link, etc.)</li>
  <li>MIDlet</li>
  <li>MKS Toolkit</li>
- <li><strong>model-in-the-loop</strong></li>
+ <li>model-in-the-loop</li>
  <li>MS-DOS</li>
  <li>multiline (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)</li>
  <li>Multi-Touch (when referring to Apple's trademark)</li>
@@ -1279,7 +1281,7 @@ title: O'Reilly Style Guide
  <li>newline</li>
  <li>newsgroups</li>
  <li>NeXTSTEP</li>
- <li><strong>NGINX (company), nginx (server)</strong></li>
+ <li>NGINX (company), nginx (server)</li>
  <li>NOOP</li>
  <li>nonlocal</li>
  <li>NoSQL</li>
@@ -1299,8 +1301,8 @@ title: O'Reilly Style Guide
  <li>offline</li>
  <li>offload</li>
  <li>online</li>
- <li><strong>on premises (prep. phrase) on-premises (modifier); may be abbreviated to on prem/on-prem</strong></li>
- <li><strong>open source (n or a, rewrite to avoid using in a verb form)</strong></li>
+ <li>on premises (prep. phrase) on-premises (modifier); may be abbreviated to on prem/on-prem</li>
+ <li>open source (n or a, rewrite to avoid using in a verb form)</li>
  <li>open source software (OSS)</li>
  <li>OpenBSD</li>
  <li>OpenMotif</li>
@@ -1348,7 +1350,7 @@ title: O'Reilly Style Guide
  <li>p.m. or P.M.</li>
  <li>Point-to-Point Protocol (PPP)</li>
  <li>pop up (v)</li>
- <li>pop-up (<strong>n</strong>, a)</li>
+ <li>pop-up (n, a)</li>
  <li>POP-3</li>
  <li>Portable Document Format (PDF)</li>
  <li>Portable Network Graphics (PNG)</li>
@@ -1400,7 +1402,7 @@ title: O'Reilly Style Guide
  <li>Red Hat Package Manager (RPM)</li>
  <li>redirection</li>
  <li>reference page or manpage</li>
- <li><strong>re-identification (hyphenate)</strong></li>
+ <li>re-identification (hyphenate)</li>
  <li>remote-access server</li>
  <li>Rendezvous (<em>Mac OS X Zeroconf networking</em>)</li>
  <li>Return (key)</li>
@@ -1450,13 +1452,13 @@ title: O'Reilly Style Guide
  <li>single-precision (a)</li>
  <li>single quote</li>
  <li>site map</li>
- <li><strong>–slave/master (n, a) s/b avoided (alternatives: child/parent, follower/leader, secondary/primary)</strong></li>
+ <li>–slave/master (n, a) s/b avoided (alternatives: child/parent, follower/leader, secondary/primary)</li>
  <li>Smalltalk</li>
  <li>SMP (a, n)</li>
  <li>SOAP</li>
  <li>Social Security number (SSN)</li>
  <li><strong>software as a service (SaaS)</strong></li>
- <li><strong>software-in-the-loop</strong></li>
+ <li>software-in-the-loop</li>
  <li>source code</li>
  <li>space bar</li>
  <li>spam (not SPAM)</li>
@@ -1512,7 +1514,7 @@ title: O'Reilly Style Guide
  <li>top-level (a)</li>
  <li>toward</li>
  <li>trade-off</li>
- <li><strong> – tribe s/b avoided (alternatives: company, institution, network, community)</strong></li>
+ <li>– tribe s/b avoided (alternatives: company, institution, network, community)</li>
  <li>tweet, retweet, live-tweet v, n (avoid “tweet out”)</li>
  <li>Twitter user (preferred to "tweeter")</li>
  <li>Twitterstorm, tweetstorm</li>
@@ -1522,7 +1524,7 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-U">U</h2>
 <ul>
- <li><strong>UI (no need to expand to user interface)</strong></li>
+ <li>UI (no need to expand to user interface)</li>
  <li>UK (for United Kingdom)</li>
  <li>Ultrix</li>
  <li>Universal Serial Bus (USB)</li>
@@ -1539,7 +1541,7 @@ title: O'Reilly Style Guide
  <li>user ID (n)</li>
  <li>user-ID (a)</li>
  <li>username</li>
- <li><strong>UX (no need to expand to user experience)</strong></li>
+ <li>UX (no need to expand to user experience)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -1573,10 +1575,10 @@ title: O'Reilly Style Guide
  <li>web server</li>
  <li>web services (unless preceded by a proper noun, as in Microsoft Web Services)</li>
  <li>website</li>
- <li><strong>–white-box testing s/b avoided (alternatives: structural/behavioral testing open/closed testing, clear/opaque testing)</strong></li>
- <li><strong>–white hat/black hat s/b avoided (alternatives: ethical/unethical, preventative/malicious)</strong></li>
+ <li>–white-box testing s/b avoided (alternatives: structural/behavioral testing open/closed testing, clear/opaque testing)</li>
+ <li>–white hat/black hat s/b avoided (alternatives: ethical/unethical, preventative/malicious)</li>
  <li>white pages</li>
- <li><strong>–whitelist/blacklist s/b avoided (alternatives: allow list/block list, permit/deny, included/excluded)</strong></li>
+ <li>–whitelist/blacklist s/b avoided (alternatives: allow list/block list, permit/deny, included/excluded)</li>
  <li>whitepaper (I printed my whitepaper on white paper.)</li>
  <li>whitespace</li>
  <li>wide area network or WAN</li>
