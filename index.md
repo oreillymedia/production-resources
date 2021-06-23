@@ -8,7 +8,7 @@ If you want to know more about what happens during production, you’ve come to 
 
 Many of the resources on this page are especially helpful if you’re just starting to write, so feel free to explore the links on this page, which include our style guide and word list, tips about illustrations, and more.
 
-Regardless of how your book is submitted to us (via Atlas, Word, InDesign, GoogleDocs, etc.), the end results usually include print books, downloadable web-optimized PDFs, .epub files, and .mobi files. The total time for production (from submission of the book to files being sent to the printer) is around two months, but this varies depending on page count, complexity, and layout. 
+Regardless of how your book is submitted to us (via Atlas, Word, InDesign, Google Docs, etc.), the end results usually include print books, downloadable web-optimized PDFs, and .epub files. The total time for production (from submission of the book to files being sent to the printer) is around two months, but this varies depending on page count, complexity, and layout. 
 
 ## Basic Workflow Stages
 
@@ -54,6 +54,10 @@ Looking for guidance on our house style? Check out our [style guide](http://orei
 ## Head First Production Workflow and Word List
 
 Head First books are unique in more ways than one. Check out our [Head First style guide](http://oreillymedia.github.io/production-resources/head-first-production/).
+
+## Author Resource Center
+
+Please see the [Author Resource Center](https://app.oreilly.com/authors/welcome.csp) for more information about working with O'Reilly, including details about the editorial process, marketing, and the author portal.
 
 ## Permissions and Fair Use
 
