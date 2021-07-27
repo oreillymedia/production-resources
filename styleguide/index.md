@@ -547,7 +547,9 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="lists">
 <h2>Lists</h2>
 
-<p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. List items should be treated as separate items and should not be strung together with punctuation or conjunctions. </p> 
+<p>Typically, we use three types of lists: numbered lists, for ordered steps or chronological items; variable lists, for terms and explanations/definitions; and bulleted lists, for series of items. List items are sentence-capped. List items should be treated as separate items and should not be strung together with punctuation or conjunctions. Unless one item in a list forms a complete sentence, the list's items do not take periods. If one does form a complete sentence, use periods for all items within that list, even fragments.</p> 
+
+
 
 <div data-type="tip">
 <p><em>NOT O'Reilly style:</em></p>
@@ -996,8 +998,6 @@ title: O'Reilly Style Guide
  <li>C shell</li>
  <li>&lt;CR&gt;&lt;LF&gt;</li>
  <li>Ctrl key (Windows)</li>
- <li>Ctrl-Alt-Delete</li>
- <li>Ctrl-N</li>
  <li>curly braces or braces</li>
  <li>cybersecurity</li>
  </ul>
