@@ -206,10 +206,7 @@ title: O'Reilly Style Guide
 <p>Chapter: See Chapter 27.</p>
 </li>
 <li>
-<p>Section: See the section “Treatment”. (The text “on page x” will be added post-conversion, so the final xref will eventually read “Treatment” on page 37.)</p>
-</li>
-<li>
- <p><strong>Section in another chapter: See “Acceptable Gifts” on page 58 <strike>in Chapter 27</strike></strong>. (Treat section xrefs the same way throughout the book.)</p>
+<p>Section: See the section “Treatment”. (The text “on page x” will be added post-conversion, so the final xref will eventually read “Treatment” on page 37.) <strong>Treat section xrefs the same way throughout the book.</strong></p>
 </li>
 </ul>
  
@@ -733,7 +730,7 @@ title: O'Reilly Style Guide
 <p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
 </li>
  <li>
-  <p><strong>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First person pronouns, contractions, and active verbs are all encouraged.</strong></p>
+  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First person pronouns, contractions, and active verbs are all encouraged.<strong>(Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</strong></p>
  </li>
 <li>
 <p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
@@ -1148,7 +1145,7 @@ title: O'Reilly Style Guide
  <li>IDs</li>
  <li>IDE</li>
  <li>IndexedDB</li>
- <li><strong>infrastructure as a service (IaaS)</strong></li>
+ <li>infrastructure as a service (IaaS)</li>
  <li>inline</li>
  <li>inode</li>
  <li>interclient</li>
@@ -1293,7 +1290,7 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-O">O</h2>
 <ul>
-  <li>Objective-C</li>
+ <li>Objective-C</li>
  <li>object linking and embedding (OLE)</li>
  <li>object-oriented programming (OOP)</li>
  <li>object request broker (ORB)</li>
@@ -1315,7 +1312,11 @@ title: O'Reilly Style Guide
  <li>Oracle 8<em>i</em> (italic “i”)</li>
  <li>Oracle 9<em>i</em> (italic “i”)</li>
  <li>Oracle Parallel Query Option</li>
- <li>O’Reilly Media, Inc.</li>
+ <li>O’Reilly Media, Inc.
+  <ul>
+  <li><strong>O’Reilly’s platform s/b "the O’Reilly platform" or "the O’Reilly learning platform" and then "O’Reilly" on subsequent mentions.</strong></li>
+  </ul>
+ </li>
  <li>OS/2</li>
  <li>OSA</li>
  <li>OSF/Motif</li>
@@ -1343,7 +1344,7 @@ title: O'Reilly Style Guide
  <li>Perl DBI</li>
  <li>plain text (n)</li>
  <li>plain-text (a)</li>
- <li><strong>platform as a service (PaaS)</strong></li>
+ <li>platform as a service (PaaS)</li>
  <li>Plug and Play (PnP)</li>
  <li>plug in (v)</li>
  <li>plug-in (a, n)</li>
@@ -1370,7 +1371,7 @@ title: O'Reilly Style Guide
  <li>pseudo-tty</li>
  <li>public key (n)</li>
  <li>public-key (a)</li>
- <li><strong>publish/subscribe or pub/sub</strong></li>
+ <li>publish/subscribe or pub/sub</li>
  <li>pull-down (a)</li>
  </ul>
 
@@ -1414,7 +1415,7 @@ title: O'Reilly Style Guide
  <li>righthand (a)</li>
  <li>rmail</li>
  <li>rollback (n); roll back (v)</li>
- <li><strong>rollout (n); roll out (v)</strong></li>
+ <li>rollout (n); roll out (v)</li>
  <li>rootkit</li>
  <li>Rubout key</li>
  <li>rulebase</li>
@@ -1457,7 +1458,7 @@ title: O'Reilly Style Guide
  <li>SMP (a, n)</li>
  <li>SOAP</li>
  <li>Social Security number (SSN)</li>
- <li><strong>software as a service (SaaS)</strong></li>
+ <li>software as a service (SaaS)</li>
  <li>software-in-the-loop</li>
  <li>source code</li>
  <li>space bar</li>
