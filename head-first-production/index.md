@@ -25,7 +25,7 @@ title: Head First Production and Style Guide
 <section data-type="sect2" id="head_first_production_workflow">
 <h2>Head First Production Workflow</h2>
 
-<p>For the art library and a guide to getting started writing a Head First book, see https://github.com/oreillymedia/headfirst-author-materials. Your editor can set you up with access.</p>
+<p>For the art library and a guide to getting started writing a Head First book, see https://github.com/oreillymedia/headfirst-author-materials. Your editor can set you up with access. Some style guide materials for the 2021 redesign are available at https://oreil.ly/hfstyle_2021.</p>
 
 <p>Head First books are unique in many ways, including the production process. For one, Head First books do not receive a copyedit, but undergo a robust proofread with a brief review period by the author. Please note that authors will have only two review periods for Head First books (QC1 and QC2).</p>
 
