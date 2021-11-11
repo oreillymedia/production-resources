@@ -206,7 +206,13 @@ title: O'Reilly Style Guide
 <p>Chapter: See Chapter 27.</p>
 </li>
 <li>
-<p>Section: See the section “Treatment”. (The text “on page x” will be added post-conversion, so the final xref will eventually read “Treatment” on page 37.) <strong>Treat section xrefs the same way throughout the book.</strong></p>
+<p>Section: See “Treatment” on page xx. (The text “on page xx” will be dynamic in Atlas, updating as page numbers change.)</p>
+</li>
+<li>
+<p>Figure: ...as shown in Figure 1-1.</p>
+</li>
+<li>
+<p>Sidebars: See “A Note for Mac Users” on page xx. (As with section xrefs, the page number will update automatically in Atlas.)</p>
 </li>
 </ul>
  
@@ -327,7 +333,7 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="figures_tables_and_examples">
 <h2>Figures, Tables, and Examples</h2>
 
-<p>Every figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Lack of specific in-text references may cause incorrect placement of figures.</p>
+<p>Every figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Lack of specific in-text references may cause incorrect placement of figures. <strgon>See <a href="cross_references">#cross_references</a> above for more detail on including cross references.</strong></p>
 
 <div data-type="tip">
 <p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
@@ -1503,6 +1509,7 @@ title: O'Reilly Style Guide
  <li>text box</li>
  <li>text-input mode</li>
  <li>thread pooling (n)</li>
+ <li><strong>timeout (in tech/computing contexts)</strong></li>
  <li>time-sharing processes</li>
  <li>timestamp</li>
  <li>time zone</li>
