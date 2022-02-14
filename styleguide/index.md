@@ -347,13 +347,13 @@ title: O'Reilly Style Guide
 
 <ul>
 <li>
-<p>Figure 1-1. Figure captions are sentence-cased, with the exception of proper nouns. <strong>Code styling is allowed within the figure name or caption.</strong> There is no period after figure captions, but if all captions are long and sentence style, periods can be used as long as they are used consistently throughout.</p>
+<p>Figure 1-1. Figure captions are sentence-cased, with the exception of proper nouns. Code styling is allowed within the figure name or caption. There is no period after figure captions. Exceptions should be discussed with your production editor (e.g., if several long captions require punctuation, we can collaborate on efficient ways to achieve consistency). </p>
 </li>
 <li>
-<p>Table 1-1. Column heads and table titles are sentence-cased, with the exception of proper nouns.  <strong>Code styling is allowed within the table name or caption.</strong> There is no period after table titles.</p>
+<p>Table 1-1. Column heads and table titles are sentence-cased, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
 </li>
 <li>
-<p>Example 1-1. Example titles are sentence-cased, with the exception of proper nouns. <strong>Code styling is allowed within the example name or caption.</strong> There is no period after example titles.</p>
+<p>Example 1-1. Example titles are sentence-cased, with the exception of proper nouns. Code styling is allowed within the example name or caption. There is no period after example titles.</p>
 </li>
 </ul>
 
@@ -725,9 +725,6 @@ title: O'Reilly Style Guide
 </li>
 <li>
 <p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). <strong>Exceptions are noted in the word list (e.g., "re-create," "re-identification")</strong>.</p>
-</li>
- <li>
-<p>Compound words are closed up when used as nouns (“coverup”), hyphenated when used as adjectives (“the cover-up measures”), and two words when used as verbs (“cover up the flaw with…”).</p>
 </li>
 <li>
 <p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
@@ -1217,6 +1214,7 @@ title: O'Reilly Style Guide
  <li>leftmost</li>
  <li>less-than sign or &lt;</li>
  <li>leveled (not levelled)</li>
+ <li><strong>life cycle or lifecycle (be consistent)</strong></li>
  <li>line-feed (a)</li>
  <li>line feed (n)</li>
  <li>Linux</li>
@@ -1420,6 +1418,7 @@ title: O'Reilly Style Guide
  <li>right-click</li>
  <li>righthand (a)</li>
  <li>rmail</li>
+ <li><strong>road map or roadmap (be consistent)</strong></li>
  <li>rollback (n); roll back (v)</li>
  <li>rollout (n); roll out (v)</li>
  <li>rootkit</li>
