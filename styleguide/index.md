@@ -922,7 +922,7 @@ title: O'Reilly Style Guide
  <li>backup (n); back up (v)</li>
  <li>backward</li>
  <li>backward compatible</li>
- <li>Bash</li> 
+ <li>bash (avoid starting sentence with this word, but if unavoidable, cap as Bash)</li> 
  <li>BeOS</li>
  <li>Berkeley Software Distribution (BSD)</li>
  <li>Berkeley Unix (older books may have UNIX)</li>
