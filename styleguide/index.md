@@ -821,7 +821,6 @@ title: O'Reilly Style Guide
 <td><p><code>Constant width</code></p></td>
 </tr>
 <tr>
-<tr>
  <td><p>SQL commands (<code>SELECT</code>, <code>INSERT</code>, <code>ALTER TABLE</code>, <code>CREATE INDEX</code>, etc.)</p></td>
 <td><p><code>CONSTANT WIDTH CAPS</code></p></td>
 </tr>
