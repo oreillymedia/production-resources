@@ -979,6 +979,7 @@ title: O'Reilly Style Guide
  <li><strong>cloud native (n or a)</strong></li>
  <li>co-class</li>
  <li>coauthor</li>
+ <li>codebase</li>
  <li>code set</li>
  <li>colorcell</li>
  <li>colormap</li>
