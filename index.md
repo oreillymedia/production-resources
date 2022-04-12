@@ -18,7 +18,7 @@ Intake
 : After your book is sent to production, our Tools team goes over the files and fixes any validity errors, adds boilerplate content (such as the copyright page), cleans up and normalizes the markup, and organizes the figures. 
 
 Copy Edit
-: We send either PDF or Word files to our copy editors, depending on how you wrote the book. The copy editor makes suggested edits and leaves comments in the files. When they are done, the files are sent back to the author for review. After receiving the author’s responses, the copy editor cleans everything up and sends the files back to the production editor, who will enter the edits directly into the source files (for Word files, we simple accept the final changes).
+: We send either PDF or Word files to our copy editors, depending on how you wrote the book. The copy editor makes suggested edits and leaves comments in the files. When they are done, the files are sent back to the author for review. After receiving the author’s responses, the copy editor cleans everything up and sends the files back to the production editor, who will enter the edits directly into the source files (for Word files, we simply accept the final changes).
 
 Conversion
 : This step only happens for books that were written in Word and for those books that we plan to lay out using Indesign. Books that were written in Atlas skip this step entirely. In some cases, we convert Word files to an Atlas-friendly format, such as HTML or asciidoc. In other cases, we’ll lay out the book using Indesign. 
