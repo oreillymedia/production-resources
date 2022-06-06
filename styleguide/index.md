@@ -152,7 +152,7 @@ title: O'Reilly Style Guide
 <h3>Citations</h3>
 <p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 17th edition. <strong>Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernable consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</strong></p> 
 
-<p><strong>Let your production editor know which conventions you applied by adding a note to the Word List Doc.</strong></p>
+<p><strong>Let your production editor know which of Chicago's systems you applied by adding a note to the Word List Doc.</strong></p>
 
 <section data-type="sect3" id="footnotes">
 <h3>Footnotes</h3>
