@@ -982,7 +982,7 @@ title: O'Reilly Style Guide
  <li>code set</li>
  <li>colorcell</li>
  <li>colormap</li>
- <li>Command key (Macintosh)</li>
+ <li>Command key (Mac)</li>
  <li>command line (n)</li>
  <li>command-line (a)</li>
  <li>Common Object Request</li>
@@ -1236,7 +1236,7 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-M">M</h2>
 <ul>
- <li>Macintosh</li>
+ <li><strong>Mac (or MacBook)</strong></li>
  <li>macOS (replaces Mac OS X)</li>
  <li><strong>machine learning (n and a, no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
@@ -1313,7 +1313,7 @@ title: O'Reilly Style Guide
  <li>OpenMotif</li>
  <li>OpenStep</li>
  <li>OpenWindows</li>
- <li>Option key (Macintosh)</li>
+ <li>Option key (Mac)</li>
  <li>Oracle7</li>
  <li>Oracle8</li>
  <li>Oracle 8.0</li>
