@@ -1237,6 +1237,7 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-M">M</h2>
 <ul>
  <li><strong>Mac (or MacBook)</strong></li>
+ <li>Mac</li>
  <li>macOS (replaces Mac OS X)</li>
  <li><strong>machine learning (n and a, no hyphen)</strong></li>
  <li>mail-handling (adjective)</li>
