@@ -21,7 +21,7 @@ Copy Edit
 : We send either PDF or Word files to our copy editors, depending on how you wrote the book. The copy editor makes suggested edits and leaves comments in the files. When they are done, the files are sent back to the author for review. After receiving the author’s responses, the copy editor cleans everything up and sends the files back to the production editor, who will enter the edits directly into the source files (for Word files, we simply accept the final changes).
 
 Conversion
-: This step only happens for books that were written in Word and for those books that we plan to lay out using Indesign. Books that were written in Atlas skip this step entirely. In some cases, we convert Word files to an Atlas-friendly format, such as HTML or asciidoc. In other cases, we’ll lay out the book using Indesign. 
+: This step only happens for books that were written in Word and for those books that we plan to lay out using InDesign. Books that were written in Atlas skip this step entirely. In some cases, we convert Word files to an Atlas-friendly format, such as HTML or asciidoc. In other cases, we’ll lay out the book using InDesign. 
 
 QC1 (Quality Check #1) 
 : After all of the copy edits have been entered, the production editor generates a PDF of the book and sends it to the author as well as a proofreader. We also hire an indexer, who will write an index using tags embedded directly into the source files. The author and proofreader review the book and make comments on the PDF. After the QC1 period ends, the production editor enters the proofreader’s and author’s edits into the source files and sends the draft index to the author for review. 
@@ -36,7 +36,7 @@ FTP (Files to Printer!)
 : Once the final files have been approved, we send everything to the printer! 
 
 Post-Prod
-: The production editor takes care of post-production, which involves creating final ebook formats (.epub and .mobi) and distributing them to the necessary channels. The production editor also sends the author a final email with instructions detailing how authors can use the Errata Portal and stay up-to-date with their books. Once this email goes out, production is officially finished! In general, printed books are available in stores 10-15 business days after the FTP date. 
+: The production editor takes care of post-production, which involves creating final ebook formats (.epub and PDF) and distributing them to the necessary channels. The production editor also sends the author a final email with instructions detailing how authors can use the Errata Portal and stay up-to-date with their books. Once this email goes out, production is officially finished! In general, printed books are available in stores 10-15 business days after the FTP date. 
 
 
 ## Illustration/Artwork Guidelines
