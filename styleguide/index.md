@@ -140,7 +140,7 @@ title: O'Reilly Style Guide
 
 <p>In general, when referring to another book within a book’s text, include the author name(s) for up to two authors. For three or more authors, state the first author name, followed by “et al.” (be sure to include the period).</p>
 
-<p>On first reference to another book, include author and publisher name. For example, "You can find more information in <em>The Elements of Typographic Style</em> by Robert Bringhurst (H&amp;M)," or "For more information, consult Robert Bringhurt’s <em>The Elements of Typographic Style</em> (H&amp;M)." On subsequent references, just use the book title.</p>
+<p>On first reference to another book, include author and publisher name. For example, "You can find more information in <em>The Elements of Typographic Style</em> by Robert Bringhurst (H&amp;M)," or "For more information, consult Robert Bringhurst’s <em>The Elements of Typographic Style</em> (H&amp;M)." On subsequent references, just use the book title.</p>
 
 <p>When referencing an O’Reilly book within the text, note only "O’Reilly" in parentheses, not "O’Reilly Media, Inc." References to other O’Reilly books should be linked to the book’s <a href="http://shop.oreilly.com/category/browse-subjects.do">catalog page</a>.</p>
 
@@ -149,7 +149,7 @@ title: O'Reilly Style Guide
 </div>
 
 <h3>Citations</h3>
-<p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 17th edition. <strong>Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernable consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</strong></p> 
+<p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 17th edition. <strong>Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernible consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</strong></p> 
 
 <p><strong>Let your production editor know which of Chicago's systems you applied by adding a note to the Word List Doc.</strong></p>
 
@@ -289,7 +289,7 @@ title: O'Reilly Style Guide
 <p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
 </li>
 <li>
- <p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: .05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
+ <p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: 0.05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
  </li>
  <li>
 <p>Ordinal numbers: Spell out first through ninth, use numerals for 10th and above. No superscript.</p>
@@ -563,9 +563,9 @@ title: O'Reilly Style Guide
  
  <p>O'Reilly style:</p>
  <ul>
- <li>Here is an item</li>
- <li>Here is another item</li>
- <li>Here is the final item</li>
+ <li>Here is an item.</li>
+ <li>Here is another item.</li>
+ <li>Here is the final item.</li>
  </ul>
  </div>
 
@@ -669,7 +669,7 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="punctuation">
 <h2>Punctuation</h2>
 
-<p>For anything not covered in this list, please consult the Chicago Manual of Style, 17th Edition.</p>
+<p>For anything not covered in this list, please consult the _Chicago Manual of Style_, 17th Edition.</p>
 
 <ul>
 <li>
@@ -688,7 +688,7 @@ title: O'Reilly Style Guide
 <p>No period after list items unless one item forms a complete sentence (then use periods for all items within that list, even fragments).</p>
 </li>
  <li>
- <p>Em-dashes are always closed (no space around them).</p>
+ <p>Em dashes are always closed (no space around them).</p>
   </li>
  <li>
 <p>Ellipses are always closed (no space around them).</p>
@@ -723,7 +723,7 @@ title: O'Reilly Style Guide
 <p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
 </li>
 <li>
-<p>Unless part of a proper noun, close up words with the prefixes “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogammer,” “subprocess,” "coauthor"). <strong>Exceptions are noted in the word list (e.g., "re-create," "re-identification")</strong>.</p>
+<p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
 </li>
 <li>
 <p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
@@ -732,7 +732,7 @@ title: O'Reilly Style Guide
 <p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
 </li>
  <li>
-  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First person pronouns, contractions, and active verbs are all encouraged.<strong>(Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</strong></p>
+  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged.<strong>(Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</strong></p>
  </li>
 <li>
 <p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
@@ -756,7 +756,7 @@ title: O'Reilly Style Guide
 <p>Do not stack admonitions, sidebars, or headings.</p>
 </li>
  <li>
-<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two em dash, etc.)</p>
+<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
 </li>
 </ul>
  
@@ -816,7 +816,7 @@ title: O'Reilly Style Guide
 <td><p><code>Constant width</code></p></td>
 </tr>
 <tr>
-<td><p>Language and script elements: class names, types, namespaces, attributes, methods, variables, keywords, functions, modules, commands, properties, parameters, values, objects, events, XML and HTML tags, and similar elements. Some examples include: <code>System.Web.UI</code>, a <code>while</code> loop, the <code>Socket</code> class, and the <code>Obsolete</code> attribute. <strong>Exception:</strong> commands in Unix, Oracle, and Linux book, which are regular italics.</p></td>
+<td><p>Language and script elements: class names, types, namespaces, attributes, methods, variables, keywords, functions, modules, commands, properties, parameters, values, objects, events, XML and HTML tags, and similar elements. Some examples include: <code>System.Web.UI</code>, a <code>while</code> loop, the <code>Socket</code> class, and the <code>Obsolete</code> attribute. <strong>Exception:</strong> commands in Unix, Oracle, and Linux books, which are regular italics.</p></td>
 <td><p><code>Constant width</code></p></td>
 </tr>
 <tr>
@@ -862,7 +862,7 @@ title: O'Reilly Style Guide
 
 <section data-type="sect1" id="cover-style">
 <h1>O'Reilly Cover Style</h1>
-<p>Use Chicago Maual of Style, 17th Edition for anything not mentioned here.</p>
+<p>Use _Chicago Manual of Style_, 17th Edition for anything not mentioned here.</p>
 
 <p>Bulleted lists on the back cover should begin with a capitalized word and end with <em>no</em> punctuation. Even if the list item is a complete sentence, it will not take a period.</p>
 
@@ -1052,7 +1052,9 @@ title: O'Reilly Style Guide
 
 <h2 id="worldlist-E">E</h2>
 <ul>
-<li>ebook* ebusiness* ecommerce </li>
+<li>ebook</li>
+ <li>ebusiness</li> 
+ <li>ecommerce</li> 
  <li>eBay</li>
  <li>Emacs</li>
  <li>email</li>
@@ -1265,7 +1267,7 @@ title: O'Reilly Style Guide
  <li>MKS Toolkit</li>
  <li>model-in-the-loop</li>
  <li>MS-DOS</li>
- <li>multiline (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)</li>
+ <li>multiline </li>
  <li>Multi-Touch (when referring to Apple's trademark)</li>
  <li>My Services</li>
  <li>MySpace</li>
@@ -1338,7 +1340,7 @@ title: O'Reilly Style Guide
  <li>packet switch networks</li>
  <li>Paint Shop Pro</li>
  <li>pagefile</li>
- <li>page rank (but Google PageRank™)</li>
+ <li>page rank (but Google PageRank)</li>
  <li>parentheses (p)</li>
  <li>parenthesis (s)</li>
  <li>Pascal</li>
@@ -1413,7 +1415,7 @@ title: O'Reilly Style Guide
  <li>reference page or manpage</li>
  <li>re-identification (hyphenate)</li>
  <li>remote-access server</li>
- <li>Rendezvous (<em>Mac OS X Zeroconf networking</em>)</li>
+ <li>Rendezvous (<em>Mac OS X zeroconf networking</em>)</li>
  <li>Return (key)</li>
  <li>RFC 822</li>
  <li>rich text (n)</li>
@@ -1485,7 +1487,7 @@ title: O'Reilly Style Guide
  <li>stateless</li>
  <li>status bar</li>
  <li>stylesheet</li>
- <li>subprocess (Unless before a proper noun, always close up the following prefixes: “non,” “sub,” “multi,” and “pseudo.”)</li>
+ <li>subprocess</li>
  <li>SUSE Linux</li>
  <li>swapfile</li>
  <li>swapspace</li>
