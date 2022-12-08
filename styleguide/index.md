@@ -669,7 +669,7 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="punctuation">
 <h2>Punctuation</h2>
 
-<p>For anything not covered in this list, please consult the _Chicago Manual of Style_, 17th Edition.</p>
+ <p>For anything not covered in this list, please consult the <em>Chicago Manual of Style</em>, 17th Edition.</p>
 
 <ul>
 <li>
@@ -862,7 +862,7 @@ title: O'Reilly Style Guide
 
 <section data-type="sect1" id="cover-style">
 <h1>O'Reilly Cover Style</h1>
-<p>Use _Chicago Manual of Style_, 17th Edition for anything not mentioned here.</p>
+<p>Use <em>Chicago Manual of Style</em>, 17th Edition for anything not mentioned here.</p>
 
 <p>Bulleted lists on the back cover should begin with a capitalized word and end with <em>no</em> punctuation. Even if the list item is a complete sentence, it will not take a period.</p>
 
