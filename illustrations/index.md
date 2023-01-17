@@ -30,7 +30,7 @@ Please note that the "Pocket Reference" series is considerably smaller.
 **2.8" x 5.5" (201.6px x 396px)**
 
 
-Regardless of figure size, all readable text can not be less that 8pt for legibility. Please keep this in mind when taking larger screenshots, or considering larger drawn figures with lots of visual information, as all figures will need to be resized to fit within a printed book.
+Regardless of figure size, any text elements cannot be less than 8pt or they will not be legible. Please keep this in mind when taking larger screenshots or creating larger diagrams with lots of visual information, as all figures will need to be resized to fit within a printed book.
 
 
 ## Drawn Illustrations
