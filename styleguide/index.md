@@ -790,7 +790,7 @@ title: O'Reilly Style Guide
 </thead>
 <tbody>
 <tr>
-<td><p>Filenames, file extensions (such as .jpeg), directory paths, libraries, and commands in Unix, Oracle, and Linux books</p></td>
+<td><p>Filenames, file extensions (such as .jpeg), directory paths, and libraries.</p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
@@ -814,12 +814,12 @@ title: O'Reilly Style Guide
 <td><p><code>Constant width</code></p></td>
 </tr>
 <tr>
-<td><p>Language and script elements: class names, types, namespaces, attributes, methods, variables, keywords, functions, modules, commands, properties, parameters, values, objects, events, XML and HTML tags, and similar elements. Some examples include: <code>System.Web.UI</code>, a <code>while</code> loop, the <code>Socket</code> class, and the <code>Obsolete</code> attribute. <strong>Exception:</strong> commands in Unix, Oracle, and Linux books, which are regular italics.</p></td>
+<td><p>Language and script elements: class names, types, namespaces, attributes, methods, variables, keywords, functions, modules, commands, properties, parameters, values, objects, events, XML and HTML tags, and similar elements. Some examples include: <code>System.Web.UI</code>, a <code>while</code> loop, the <code>Socket</code> class, the <code>grep</code> command, and the <code>Obsolete</code> attribute.</p></td>
 <td><p><code>Constant width</code></p></td>
 </tr>
 <tr>
- <td><p>SQL commands (<code>SELECT</code>, <code>INSERT</code>, <code>ALTER TABLE</code>, <code>CREATE INDEX</code>, etc.)</p></td>
-<td><p><code>CONSTANT WIDTH CAPS</code></p></td>
+ <td><p>SQL commands (<code>SELECT</code>, <code>INSERT</code>, <code>ALTER</code> <code>TABLE</code>, <code>CREATE</code> <code>INDEX</code>, etc.)</p></td>
+ <td><p><code>CONSTANT</code> <code>WIDTH</code> <code>CAPS</code></p></td>
 </tr>
 <tr>
 <td><p>Replaceable items (placeholder items in syntax); “username” in the following example is a placeholder:
