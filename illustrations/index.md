@@ -50,8 +50,19 @@ Screenshots will be processed to ensure correct sizing, and may be slightly dark
 * Save screenshots as PNG or TIF. Do not save your screenshots as JPEG. This will result in illegible text.
 * Keep in mind that unless specified, your book will be printed in B&W. Using subtle colors/shades within exported graphs, for example, will not be distinguishable in print.
 
-If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a “clean” version without callouts, and a
-version that indicates the callouts you want. Our Illustrator will use standard O’Reilly fonts and specs to add callouts to the clean file, using your example as a guide.
+**The following methods are best practice as recommended by our design team for capturing images**
+
+How to take a screenshot on Mac:
+1.    Shift + Command + 3 takes a screenshot of the entire screen. Shift + Command + 4 lets you highlight a specific part of the screen to capture
+2.    It saves to your desktop as a PNG. Just leave that file as-is.
+
+How to take a screenshot on Windows 10 with the PrtScn key
+1.    Press PrtScn. This copies the entire screen to the clipboard. ... 
+2.    Press Alt + PrtScn. This copies the active window to the clipboard, which you can paste into another program.
+3.    Press the Windows key + Shift + S. ... 
+4.    Press the Windows key + PrtScn.
+
+If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a “clean” version without callouts, and a version that indicates the callouts you want. Our Illustrator will use standard O’Reilly fonts and specs to add callouts to the clean file, using your example as a guide.
 
 ## Naming Your Files/Organizing with a Figure List
 
