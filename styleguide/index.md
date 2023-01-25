@@ -777,9 +777,7 @@ title: O'Reilly Style Guide
 
 
 <div data-type="warning">
-<p>If you want to use a font convention that is slightly different for one of the following items, check with your editor first—some things can change; some can’t. For example, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you do use something that differs from the following list, please write it down on your printout of this stylesheet, which should be submitted with your manuscript.</p>
-
-<p>If you have a “new” element, please consult with your editor about which font to use, then write it on your printout and submit it with your manuscript.</p>
+<p>If you want to use a font convention that is slightly different for one of the following items, check with your editor first—some things can change; some can’t. For example, URLs will not be anything but <em>italic</em>, but you might come up with a different font convention for function names or menu items. If you have a “new” element, please consult with your editor about which font to use.</p>
 </div>
 
 <table>
