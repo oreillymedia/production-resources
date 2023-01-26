@@ -115,7 +115,7 @@ title: O'Reilly Style Guide
 <p>A.M. and P.M. or a.m. and p.m.—be consistent.</p>
 </li>
 <li>
-<p>K = 1,024; k = 1,000. So a 56 kbps modem is equal to 56,000 bps, while 64K of memory is equal to 65,536.</p>
+<p>K = 1,024; k = 1,000. So a 56 kbps modem is equal to 56,000 bps, while 64 K of memory is equal to 65,536.</p>
 </li>
 <li>
 <p>In units of measure, do not use a hyphen. For example, it’s 32 MB hard drive, not 32-MB hard drive. (Though when the unit is spelled out, use a hyphen, e.g., 32-megabyte hard drive.)</p>
