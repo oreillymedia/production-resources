@@ -40,7 +40,7 @@ title: O'Reilly Style Guide
 
 <p>For term conventions, check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter).</p>
 
-<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. <strong>The <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington has another</a> that is tech-specific.</strong> The <a href="https://ncdj.org/style-guide">Disability Language Style Guide</a> is a thorough guide to writing about disabilities with sensitivity. Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old).</p>
+<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. <strong>The <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington has another</a> that is tech-specific.</strong> The <strong><a href="https://ncdj.org/style-guide">Disability Language Style Guide</a></strong> is a thorough guide to writing about disabilities with sensitivity. Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old).</p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
@@ -152,7 +152,7 @@ title: O'Reilly Style Guide
 <h3>Citations</h3>
 <p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 17th edition. <strong>Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernible consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</strong></p> 
 
-<p><strong>Let your production editor know which of Chicago's systems you applied by adding a note to the Word List Doc.</strong></p>
+<p>Let your production editor know which of Chicago's systems you applied by adding a note to the Word List Doc.</p>
 
 <section data-type="sect3" id="footnotes">
 <h3>Footnotes</h3>
@@ -333,7 +333,7 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="figures_tables_and_examples">
 <h2>Figures, Tables, and Examples</h2>
 
-<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. <strong>See <a href="#cross_references">Cross References</a> above for more detail on including cross references.</strong></p>
+<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. See <a href="#cross_references">Cross References</a> above for more detail on including cross references.</p>
 
 <div data-type="tip">
 <p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
@@ -745,7 +745,7 @@ title: O'Reilly Style Guide
 <p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
 </li>
  <li>
-  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged.<strong>(Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</strong></p>
+  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
  </li>
 <li>
 <p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
@@ -803,7 +803,8 @@ title: O'Reilly Style Guide
 </thead>
 <tbody>
 <tr>
-<td><p>Filenames, file extensions (such as .jpeg), directory paths, and libraries.</p></td>
+
+<td><p>Filenames, file extensions (such as .jpeg), directory paths, libraries, and commands in Unix, Oracle, and Linux books. <strong>Exception: Python packages (e.g., NumPy, scikit-learn, TensorFlow, etc.) are roman and cased according to convention.</strong></p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
@@ -944,7 +945,7 @@ title: O'Reilly Style Guide
  <li>big data</li>
  <li>Big Design Up Front (BDUF)</li>
  <li>bioinformatics</li>
- <li><strong>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</strong></li>
+ <li>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</li>
  <li>bitmap</li>
  <li>bit mask</li>
  <li>Bitnet</li>
@@ -986,7 +987,7 @@ title: O'Reilly Style Guide
  <li>client/server</li>
  <li>client side (n)</li>
  <li>client-side (a)</li>
- <li><strong>cloud native (n or a)</strong></li>
+ <li>cloud native (n or a)</li>
  <li>co-class</li>
  <li>coauthor</li>
  <li>codebase</li>
@@ -1093,7 +1094,7 @@ title: O'Reilly Style Guide
  <li>fax</li>
  <li>file manager</li>
  <li>filename</li>
- <li><strong>filepath</strong></li>
+ <li>filepath</li>
  <li>file server</li>
  <li>filesystem</li>
  <li>file type</li>
@@ -1124,8 +1125,8 @@ title: O'Reilly Style Guide
  <li>GHz</li>
  <li>gid</li>
  <li>GIMP</li>
- <li><strong>Git</strong></li>
- <li><strong>GitHub</strong></li>
+ <li>Git</li>
+ <li>GitHub</li>
  <li>GNOME</li>
  <li>GNU Emacs</li>
  <li>GNU Public License (GPL)</li>
@@ -1231,7 +1232,7 @@ title: O'Reilly Style Guide
  <li>leftmost</li>
  <li>less-than sign or &lt;</li>
  <li>leveled (not levelled)</li>
- <li><strong>life cycle or lifecycle (be consistent)</strong></li>
+ <li>life cycle or lifecycle (be consistent)</li>
  <li>line-feed (a)</li>
  <li>line feed (n)</li>
  <li>Linux</li>
@@ -1249,9 +1250,9 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-M">M</h2>
 <ul>
- <li><strong>Mac (or MacBook)</strong></li>
+ <li>Mac (or MacBook)</li>
  <li>macOS (replaces Mac OS X)</li>
- <li><strong>machine learning (n and a, no hyphen)</strong></li>
+ <li>machine learning (n and a, no hyphen)</li>
  <li>mail-handling (adjective)</li>
  <li>– man hours s/b avoided (alternatives: work hours, employee hours)</li>
  <li>manpage</li>
@@ -1335,7 +1336,7 @@ title: O'Reilly Style Guide
  <li>Oracle Parallel Query Option</li>
  <li>O’Reilly Media, Inc.
   <ul>
-  <li><strong>O’Reilly’s platform s/b "the O’Reilly platform" or "the O’Reilly learning platform" and then "O’Reilly" on subsequent mentions.</strong></li>
+  <li>O’Reilly’s platform s/b "the O’Reilly platform" or "the O’Reilly learning platform" and then "O’Reilly" on subsequent mentions</li>
   </ul>
  </li>
  <li>OS/2</li>
@@ -1435,7 +1436,7 @@ title: O'Reilly Style Guide
  <li>right-click</li>
  <li>righthand (a)</li>
  <li>rmail</li>
- <li><strong>road map or roadmap (be consistent)</strong></li>
+ <li>road map or roadmap (be consistent)</li>
  <li>rollback (n); roll back (v)</li>
  <li>rollout (n); roll out (v)</li>
  <li>rootkit</li>
@@ -1525,14 +1526,14 @@ title: O'Reilly Style Guide
  <li>text box</li>
  <li>text-input mode</li>
  <li>thread pooling (n)</li>
- <li><strong>timeout (in tech/computing contexts)</strong></li>
+ <li>timeout (in tech/computing contexts)</li>
  <li>time-sharing processes</li>
  <li>timestamp</li>
  <li>time zone</li>
  <li>title bar</li>
  <li>Token Ring</li>
  <li>toolbar</li>
- <li><strong>toolchain</strong></li>
+ <li>toolchain</li>
  <li>toolkit</li>
  <li>tool tip</li>
  <li>top-level (a)</li>
