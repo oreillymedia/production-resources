@@ -1300,7 +1300,7 @@ title: O'Reilly Style Guide
  <li>newline</li>
  <li>newsgroups</li>
  <li>NeXTSTEP</li>
- <li>NGINX (company), nginx (server)</li>
+ <li>NGINX (company), <code>nginx</code> (server)</li>
  <li>NOOP</li>
  <li>nonlocal</li>
  <li>NoSQL</li>
