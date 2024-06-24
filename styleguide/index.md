@@ -1122,6 +1122,7 @@ title: O'Reilly Style Guide
  <li>Gb (gigabit)</li>
  <li>GB (gigabyte)</li>
  <li>GBps (gigabytes per second)</li>
+ <li>generative AI (GenAI)</li>
  <li>GHz</li>
  <li>gid</li>
  <li>GIMP</li>
