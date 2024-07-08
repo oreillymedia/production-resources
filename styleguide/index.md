@@ -804,7 +804,7 @@ title: O'Reilly Style Guide
 <tbody>
 <tr>
 
-<td><p>Filenames, file extensions (such as .jpeg), directory paths, libraries, and commands in Unix, Oracle, and Linux books. <strong>Exception: Python packages (e.g., NumPy, scikit-learn, TensorFlow, etc.) are roman and cased according to convention.</strong></p></td>
+<td><p>Filenames, file extensions (such as .jpeg), directory paths, and libraries. <strong>Exception: Python packages (e.g., NumPy, scikit-learn, TensorFlow, etc.) are roman and cased according to convention.</strong></p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
