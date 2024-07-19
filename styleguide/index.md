@@ -1342,7 +1342,7 @@ title: O'Reilly Style Guide
  <li>OS/2</li>
  <li>OSA</li>
  <li>OSF/Motif</li>
- <li>OS X</li>
+ <li>OS X (do not use, write macOS instead)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
