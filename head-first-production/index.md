@@ -215,7 +215,6 @@ title: Head First Production and Style Guide
 <h2 id="wordlist-G">G</h2>
 
   
-</ul> 
 
 <h2 id="wordlist-H">H</h2>
 
