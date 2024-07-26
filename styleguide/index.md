@@ -240,7 +240,9 @@ title: O'Reilly Style Guide
  <ul>
   <li><p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase.</p></li> 
   <li><p>Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”).</p></li> 
-  <li><p>Hyphenated words in subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less). Hyphenated words in titles or captions should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
+  <li><p>Subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less).</p>
+</li>
+  <li><p>Hyphenated words should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
 </li>
   <li>
 <p>C-level headings have initial cap on the first word only (also called sentence-case), with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase).</p>
