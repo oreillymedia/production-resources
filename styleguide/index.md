@@ -397,7 +397,7 @@ title: O'Reilly Style Guide
 </thead>
 <tbody>
 <tr>
-<td><p><strong>Animal</strong></p></td>
+<td><p><strong>Animal (7x9)</strong></p></td>
 <td><p>81</p></td>
 <td><p>85</p></td>
 <td><p>73</p></td>
