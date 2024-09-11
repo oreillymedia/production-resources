@@ -49,6 +49,7 @@ Screenshots will be processed to ensure correct sizing, and may be slightly dark
 * Take screenshots in RGB color
 * Save screenshots as PNG or TIF. Do not save your screenshots as JPEG. This will result in illegible text.
 * Keep in mind that unless specified, your book will be printed in B&W. Using subtle colors/shades within exported graphs, for example, will not be distinguishable in print.
+* Light mode screenshots are preferable, though we can print dark mode screenshots in moderation (particularly if they do not appear back-to-back). 
 
 **The following methods are best practice as recommended by our design team for capturing images**
 
