@@ -4,7 +4,7 @@ title: O'Reilly Word Template
 ---
 # O'Reilly Media Word Template Quickstart Guide
 
-Congratulations on joining the ranks of O'Reilly authors and templaters! We know you're anxious to get started, so this document has the bare essentials you'll need to begin working right away, including the <a href="orm-styles.dotm">O'Reilly Word template</a>, which contains all the custom styles we use when templating book content.
+Congratulations on joining the ranks of O'Reilly authors and templaters! We know you're anxious to get started, so this document has the bare essentials you'll need to begin working right away, including the <a href="https://oreil.ly/ormBookTemplate">O'Reilly Word template</a>, which contains all the custom styles we use when templating book content.
 
 If you are an author, please note that it is common for a copyeditor to template Word files before they are converted into HTML, so if your files are not 100% templated (or not templated at all), don't worry about that!
 
