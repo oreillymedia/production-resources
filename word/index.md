@@ -168,7 +168,9 @@ To include a reference to the example in the text, simply refer to the example b
 
 <h3 id="code-length">Code Length and Spacing Guidelines</h3>
 
-Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 81 characters, with 85 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 64 characters, with 68 characters available in captioned examples. Pocket references have even smaller code line length—check with your editor for this information. 
+Maximum line length for code varies slightly between book formats. For standard Animal books, the maximum line length for code is 81 characters, with 85 characters available in captioned examples. In small Animal books (6x9), standard line length for code is 64 characters, with 68 characters available in captioned examples. 
+
+For more information, including max line length in other O'Reilly book series, please refer to the <a href="https://oreillymedia.github.io/production-resources/styleguide/#line-length-ZKs1FLck">Line Length section</a> of the O’Reilly Style Guide.
 
 Please make sure your code lines do not exceed these restrictions so that code lines don't run into the right margin when files are converted from Microsoft Word and prepared for typesetting. Indent using spaces, not tabs.
 
