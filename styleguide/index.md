@@ -1076,7 +1076,7 @@ title: O'Reilly Style Guide
  <li>end-of-file (EOF)</li>
  <li>end-tag</li>
  <li>end user (n); end-user (a)</li>
- <li>Engines of Groth</li>
+ <li>Engines of Growth</li>
  <li>Enter key</li>
  <li>equals sign</li>
  <li>ereader</li>
