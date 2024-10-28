@@ -110,6 +110,8 @@ Styles are just named sets of formatting attributes, used to identify and group 
 
 There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
 
+Note that when you apply italics or bold using your keyboard (Ctrl/Cmd + i, Ctrl/Cmd + b) or the SmartStyler menu, you're using scripts that toggle italics/bold using O'Reilly's template styles, in place of Word's built-in italic/bold style and functionality. Thus, if you select text that has standard italics, and you press Ctrl/Cmd + i, the text will become unitalicized Roman text, rather than become styled with Emphasis,fi. Pressing Ctrl/Cmd + i once more will then toggle the text to italicized Emphasis,fi style.
+
 <h3 id="styles-follow-styles">Styles that Follow Other Styles</h3>
 
 As an added convenience, many of the Paragraph Styles in the template have been set up so that pressing `Enter` at the end of the paragraph automatically makes the *next* paragraph the style that is most likely to follow it. Press `Enter` after a heading, and you're in *normal* style (the default style used for standard paragraph text). Press `Enter` at the end of a *Sidebar Title*, and you're automatically placed in the *Sidebar Body* text style.
