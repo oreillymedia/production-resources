@@ -86,7 +86,7 @@ These steps may vary slightly depending on your version of Microsoft Word.
 
 If you are templating an existing chapter that does not have any paragraph styles applied, you can attach the template to the document by going to Tools > Templates and Add-ins, clicking Attach... and selecting the orm-styles.dotm template from the explorer/finder window. Make sure "Automatically update document styles" is checked, then click OK. You can now apply template styles using the Style pane or the macro buttons. Note that these steps may vary slightly, depending on your version of Microsoft Word.
 
-Alternatively, you can create a new document for the chapter content (File→New from Template). In the pop-up that appears, select My Templates (or Templates) and then orm-styles.dotm (if this option does not appear, go back to the installation steps). You can then copy-paste the original chapter content into the new document and apply template styles using the Style pane. There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
+Alternatively, you can create a new document for the chapter content (File→New from Template). In the pop-up that appears, select My Templates (or Templates) and then orm-styles.dotm (if this option does not appear, go back to the installation steps). You can then copy-paste the original chapter content into the new document and apply template styles using the Style pane. There is a cheat sheet of common template styles at <a href="https://oreil.ly/word-template-styles"><em>https://oreil.ly/word-template-styles</em></a>.
 
 <h2 id="menus-toolbars">The O'Reilly Menus and Toolbars</h2>
 
@@ -108,7 +108,7 @@ Now that you've arranged your workspace, you're ready to start templating, or ap
 
 Styles are just named sets of formatting attributes, used to identify and group structurally identical elements in a document. Many paragraphs and snippets of text in your document will need to have styles applied to them. Standard paragraphs do not need to have a _Paragraph Style_ applied, but all other "block" elements (to borrow a term from HTML parlance), such as list items, preformatted text (i.e., code listings), and block quotes or epigraphs will need to be styled with the appropriate Paragraph Style. In addition, if you want certain characters within a paragraph (or other block element) to look different than the rest of that paragraph, such as applying *Italics*, **Bold**, or `Literal`, you'll be using a *Character Style*. 
 
-There is a cheat sheet of common template styles at https://oreil.ly/word-template-styles.
+There is a cheat sheet of common template styles at <a href="https://oreil.ly/word-template-styles"><em>https://oreil.ly/word-template-styles</em></a>.
 
 Note that when you apply italics or bold using your keyboard (Ctrl/Cmd + i, Ctrl/Cmd + b) or the SmartStyler menu, you're using scripts that toggle italics/bold using O'Reilly's template styles, in place of Word's built-in italic/bold style and functionality. Thus, if you select text that has standard italics, and you press Ctrl/Cmd + i, the text will become unitalicized Roman text, rather than become styled with Emphasis,fi. Pressing Ctrl/Cmd + i once more will then toggle the text to italicized Emphasis,fi style.
 
