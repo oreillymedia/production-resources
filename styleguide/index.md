@@ -3,7 +3,6 @@ layout: default
 title: O'Reilly Style Guide
 ---
 
-
 # O'Reilly Style Guide and Word List
 
 * <a href="#getting_started">About O'Reilly Style</a>
@@ -11,25 +10,25 @@ title: O'Reilly Style Guide
 * <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
   * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
   * <a href="#bibliographical_entries">Bibliographical Entries</a>
-  * <a href="#code">Code</a>
-	    * <a href="#line-length-ZKs1FLck">Line Length</a>
-	    * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
+    * <a href="#footnotes">Footnotes</a>
   * <a href="#cross_references">Cross References</a>
+  * <a href="#headings">Headings</a>
   * <a href="#dates_and_numbers">Dates and Numbers</a>
   * <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
+  * <a href="#code">Code</a>
+    * <a href="#line-length-ZKs1FLck">Line Length</a>
+    * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
+    * <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>
   * <a href="#gen_ai">Generative AI</a>
-  * <a href="#headings">Headings</a>
   * <a href="#links">Links</a>
   * <a href="#lists">Lists</a>
-	    * <a href="#bulleted_list">Bulleted list</a>
-	    * <a href="#numbered_list">Numbered list</a>
-	    * <a href="#variable_list">Variable list</a>
+    * <a href="#numbered_list">Numbered list</a>
+    * <a href="#variable_list">Variable list</a>
+    * <a href="#bulleted_list">Bulleted list</a>
   * <a href="#miscellaneous">Miscellaneous</a> 
   * <a href="#punctuation">Punctuation</a>
   * <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
-* <a href="#cover-style">O'Reilly Cover Copy</a>
 * <a href="#word-list">O’Reilly Word List</a> 
-
  
 
 <section data-type="sect1" id="getting_started">
@@ -39,11 +38,9 @@ title: O'Reilly Style Guide
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>). For sponsored projects, please see our <a href="https://oreil.ly/editorial-independence">statement of editorial independence</a>.</p>
 
-<p>For term conventions, check our guide and word list first, then <strong><a href="https://www.chicagomanualofstyle.org/home.html"><em>The Chicago Manual of Style</em>, 18th edition</a></strong>, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter).</p>
+<p>For term conventions, check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter).</p>
 
-<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. O’Reilly aims to avoid the following problematic language and recommends using resources such as the <a href="https://consciousstyleguide.com">Conscious Style Guide</a>, the <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington’s “IT Inclusive Language Guide”</a>, and the <a href="https://ncdj.org/style-guide">Disability Language Style Guide</a> for alternatives.
-
-<p>Avoid language that is unintentionally gendered (e.g., middleman, man hours), violent (e.g., hit, kill), and otherwise exclusionary, incendiary, or inaccurate (e.g., crazy, dummy, master/slave, tribe). Avoid associating positive or negative characteristics with colors that are also associated, problematically, with people (blackbox, black hat, white list, etc.). Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old or technology that has fallen behind the times).</p>
+<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. <strong>The <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington has another</a> that is tech-specific.</strong> The <strong><a href="https://ncdj.org/style-guide">Disability Language Style Guide</a></strong> is a thorough guide to writing about disabilities with sensitivity. Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old).</p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
@@ -64,15 +61,17 @@ title: O'Reilly Style Guide
     <p>Anchor URLs to text nodes whenever possible, like you would on a website. See <a href="#links">Links</a> for more information.</p>
 
 <div data-type="tip" id="id-BeU0teho">
-  <p>Avoid anchoring URLs to generic words or phrases such as "here," "this website," etc. Be as descriptive as possible because the print version of your book renders hyperlinks like this: "text anchor (<a href="http://url.example.com/"><em>http://url.example.com/</em></a>)."</p>
+  <p>Be as descriptive as possible because the print version of your book renders hyperlinks like this: "text anchor (<a href="http://url.example.com/"><em class="hyperlink">http://url.example.com/</em></a>)."</p>
 
 <p>For example, this:</p>
 <blockquote>
-<p>Download the <a href="http://www.url.thisismadeup.com">source code</a> (<em>http://www.url.thisismadeup.com</em>) and install the package"</p></blockquote>
+<p>Download the source code (<a href="http://www.url.thisismadeup.com"><em class="hyperlink">http://www.url.thisismadeup.com</em></a>) and install the package"</p></blockquote>
 
 <p>is more useful than this:</p>
 <blockquote>
-<p>"Download the source code from <a href="http://www.url.thisismadeup.com">this website</a> (<em>http://www.url.thisismadeup.com</em>) and install the package."</p></blockquote>
+<p>"Download the source code from this website (<a href="http://www.url.thisismadeup.com"><em class="hyperlink">http://www.url.thisismadeup.com</em></a>) and install the package."</p></blockquote>
+
+<p>Avoid anchoring URLs to generic words or phrases such as "here," "this website," etc.</p>
 </div>
   </li>
 
@@ -86,8 +85,6 @@ title: O'Reilly Style Guide
 </div>
 </li>
 </ul>
-
-<p>For information about formatting code in books written in Word or Google Docs properly for conversion, see <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>.</p>
 </section>
 
 
@@ -96,35 +93,39 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="orm_grammar_punctuation_etc">
 <h1>O’Reilly Grammar, Punctuation, etc.</h1>
 
-<p>For any words or conventions not covered here, refer to <strong><em>The Chicago Manual of Style</em>, 18th edition</strong> and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
+<p>For any words or conventions not covered here, refer to <em>The Chicago Manual of Style</em>, 17th edition and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
 
 <p><a href="#getting_started">back to top</a></p>
 
 
 <section data-type="sect2" id="abbreviationsacronyms">
-<h2>Abbreviations &amp; Acronyms</h2>
-<p>See the <strong><em>The Chicago Manual of Style</em></a>, 18th edition</strong> for questions about abbreviations and acronyms that are not covered here:</p>
+<h2>Abbreviations/Acronyms</h2>
+
 <ul>
+ <li>
+  <p>Generic pronouns should be they/their when needed, not he, she, or he/she.
+  </p>
+ </li>
 <li>
-<p>A.M. and P.M. or a.m. and p.m.—be consistent.</p>
+ <p>Acronyms should <em>generally</em> be spelled out the first time they appear in a book, as in: "collaborative development environment (CDE)." See the <a href="#word-list">Word List</a> for common exceptions. After the acronym has been defined, you should generally use the acronym only (not the whole term, unless it makes more sense contextually to use the whole term). Usually, acronyms are defined only once per book. But if the author prefers, we can also define certain terms the first time they appear in each chapter.</p>
 </li>
  <li>
   <p>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</p>
  </li>
- <li>
-<p>In units of measure, do not use a hyphen. For example, it’s 32 MB hard drive, not 32-MB hard drive. (Though when the unit is spelled out, use a hyphen, e.g., 32-megabyte hard drive.)</p>
+<li>
+<p>A.M. and P.M. or a.m. and p.m.—be consistent.</p>
 </li>
 <li>
 <p>K = 1,024; k = 1,000. So a 56 kbps modem is equal to 56,000 bps, while 64 K of memory is equal to 65,536.</p>
 </li>
 <li>
- <p>Many acronyms are common enough that they should be used without expanding. For our books, that typically includes (but is not limited to) AI when it stands for artificial intelligence, API (application programming interface), CLI (command-line interface), CPU (central processing unit), HTML (HyperText Markup Language), IP (Internet Protocol), UI (user interface), UX (user experience), etc.</p>
-</li>
-<li>
-<p>United States and United Kingdom should be spelled out on first mention. After that, just use the acronym with no periods (so, US or UK).</p>
+<p>In units of measure, do not use a hyphen. For example, it’s 32 MB hard drive, not 32-MB hard drive. (Though when the unit is spelled out, use a hyphen, e.g., 32-megabyte hard drive.)</p>
 </li>
 <li>
 <p>University degrees (e.g., B.A., B.S., M.A., M.S., Ph.D., etc.) can appear with or without periods—just be consistent.</p>
+</li>
+<li>
+<p>United States and United Kingdom should be spelled out on first mention. After that, just use the acronym with no periods (so, US or UK).</p>
 </li>
 </ul>
 
@@ -137,30 +138,239 @@ title: O'Reilly Style Guide
 
 <section data-type="sect2" id="bibliographical_entries">
 <h2>Bibliographical Entries and Citations</h2>
-<p>When citing materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <strong><a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 18th edition</strong>. Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernible consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</p> 
 
-<p>Let your production editor know which of Chicago's systems you applied by adding a note to the Word List Doc.</p>
+<p>In general, when referring to another book within a book’s text, include the author name(s) for up to two authors. For three or more authors, state the first author name, followed by “et al.” (be sure to include the period).</p>
 
-<p>In general, when referring to another book within a book’s text, include the author name(s) for up to two authors. For three or more authors, state the first author name, followed by “et al.” (be sure to include the period). On first reference, include author and publisher name. For example, "You can find more information in <em>The Elements of Typographic Style</em> by Robert Bringhurst (H&amp;M)," or "For more information, consult Robert Bringhurst’s <em>The Elements of Typographic Style</em> (H&amp;M)." On subsequent references, just use the book title.</p>
+<p>On first reference to another book, include author and publisher name. For example, "You can find more information in <em>The Elements of Typographic Style</em> by Robert Bringhurst (H&amp;M)," or "For more information, consult Robert Bringhurst’s <em>The Elements of Typographic Style</em> (H&amp;M)." On subsequent references, just use the book title.</p>
 
 <p>When referencing an O’Reilly book within the text, note only "O’Reilly" in parentheses, not "O’Reilly Media, Inc." References to other O’Reilly books should be linked to the book’s <a href="http://shop.oreilly.com/category/browse-subjects.do">catalog page</a>.</p>
 
 <div data-type="warning">
-<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>," and remember not to link to product pages where the book is available for purchase (see <a href="##considering_electronic_formats">Considering Electronic Formats</a>). </p>
+<p>Make sure that the catalog page is anchored to the book’s title, rather than standing on its own like this: "See <a href="http://shop.oreilly.com/product/0636920024033.do"><em>Programming F# 3.0</em></a>." <em>NOT THIS:</em> "See <em>Programming F# 3.0</em> (<a href="http://shop.oreilly.com/product/0636920024033.do"><em class="hyperlink">http://shop.oreilly.com/product/0636920024033.do</em></a>)."</p>
 </div>
 
-<p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads. For example:</p>
+<h3>Citations</h3>
+<p>When citing other materials in bibliographies, reference lists, or footnotes, use the “Notes and Bibliography” system from the <a href="https://www.chicagomanualofstyle.org/tools_citationguide.html"><em>The Chicago Manual of Style</em></a>, 17th edition. <strong>Chicago also has an Author-Date system that some authors prefer, which is perfectly acceptable. If there is no discernible consistency, suggest Chicago's Notes for footnotes and Bibliography for endnotes or back matter.</strong></p> 
+
+<p>Let your production editor know which of Chicago's systems you applied by adding a note to the Word List Doc.</p>
+
+<section data-type="sect3" id="footnotes">
+<h3>Footnotes</h3>
+
+<ul>
+ <li>
+<p>Footnotes in running text are numbered and start over at 1 in each chapter. Footnote markers in running text should always appear after punctuation.</p>
+
+<div data-type="tip">
+<p>This: The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price.<sup>1</sup></p>
+
+<p><em>Not this:</em> The following query selects the <code>symbol</code> column and all columns from <code>stocks</code> whose names start with the prefix price<sup>1</sup>.</p>
+</div>
+</li>
+<li>
+<p>Footnotes should contain more than just a URL, whether a full citation for the text the URL points to or context for where the link leads.</p>
+
+<div data-type="tip">
+ <p>This:</p>
  <ol>
-  <li>For more information, see the Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript).</li>
+  <li>The Wikipedia entry on JavaScript (https://en.wikipedia.org/wiki/JavaScript) provides more information.</li>
   <li>Grove, John. 2015. “Calhoun and Conservative Reform.” <em>American Political Thought</em> 4, no. 2 (March): 203–27. https://doi.org/10.1086/680389.</li>
  </ol>
-<p><em>Not</em> this:</p>
+
+<p><em>Not this:</em></p>
 <ol>
   <li>https://en.wikipedia.org/wiki/JavaScript</li>
  <li>https://doi.org/10.1086/680389</li>
  </ol>
+ </div>
+ </li>
+<li>
+<p>Table footnotes are lettered (a, b, c, etc.) and appear directly after the table. They should be kept to a minimum.</p>
+</li>
+</ul>
+
+<p>More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.</p>
+</section>
+
+<p><a href="#getting_started">back to top</a></p>
+
+</section>
+
+<section data-type="sect2" id="cross_references">
+<h2>Cross References</h2>
+
+<p>Here are a few examples of cross references:</p>
+
+<ul>
+<li>
+<p>Chapter: See Chapter 27.</p>
+</li>
+<li>
+<p>Section: See “Treatment” on page xx. (The text “on page xx” will be dynamic in Atlas, updating as page numbers change.)</p>
+</li>
+<li>
+<p>Figure: ...as shown in Figure 1-1.</p>
+</li>
+<li>
+<p>Sidebars: See “A Note for Mac Users” on page xx. (As with section xrefs, the page number will update automatically in Atlas.)</p>
+</li>
+</ul>
+ 
+<p>More details on cross-references in Asciidoc are available in our <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> guide.</p>
+
+<p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
+
+<p>For information about styling URLs and hyperlinks, see <a data-type="xref" href="#considering_electronic_formats">Considering Electronic Formats</a>.</p>
+
 <p><a href="#getting_started">back to top</a></p>
 </section>
+
+
+
+
+
+
+
+
+<section data-type="sect2" id="headings">
+<h2>Headings</h2>
+
+ <p>Capitalization in headings:</p>
+ 
+ <ul>
+  <li><p>In most of our design templates, A- and B-level headings are initial-capped (or title case): cap the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase.</p></li> 
+  <li><p>Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”).</p></li> 
+  <li><p>Subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less).</p>
+</li>
+  <li><p>Hyphenated words should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
+</li>
+  <li>
+<p>C-level headings have initial cap on the first word only (also called sentence-case), with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase).</p>
+</li>
+  <li>
+<p>D-level headings (rare) are run-in with the following paragraph and have an initial cap on the first word only, with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase), with a period at the end of the heading.</p>
+</li>
+  <li>
+<p>Sidebar titles are initial-capped, or title case (like A- and B-level headings, mentioned previously).</p>
+</li>
+  <li>
+<p>Admonition (note/tip/warning) titles are initial-capped, or title case (like A- and B-level headings, mentioned previously). Admonition titles are optional.</p>
+</li>
+ </ul>
+ 
+
+<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
+
+<p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
+
+
+
+<section data-type="sect2" id="dates_and_numbers">
+<h2>Dates and Numbers</h2>
+
+<p>What to spell out and when:</p>
+<ul>
+<li>
+ <p>Spell out numbers from zero to nine and certain round multiples of those numbers unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges). </p>
+ </li>
+  <li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
+</li>
+ <li><p>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</p>
+  </li>
+<li>
+<p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
+</li>
+<li>
+<p>Use numerals for versions (version 5 or v5).</p>
+</li>
+<li>
+<p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
+</li>
+<li>
+ <p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: 0.05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
+ </li>
+ <li>
+<p>Ordinal numbers: Spell out first through ninth, use numerals for 10th and above. No superscript.</p>
+</li>
+ </ul>
+ 
+ <p>Formatting:</p>
+ 
+ <ul>
+ <li>
+  <p>Use spaces around inline operators (1 + 1 = 2. <em>NOT 1+1=2</em>).</p>
+ </li>
+<li>
+<p>32-bit integer.</p>
+</li>
+<li>
+<p>1980s or ’80s.</p>
+</li>
+<li>
+<p>Phone numbers can appear in the format xxx-xxx-xxxx.</p>
+</li>
+<li>
+<p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
+</li>
+<li>
+<p>Use multiplication symbol “&times;” for dimensions, not "by" (e.g., "8.5 &times; 11").</p>
+</li>
+</ul>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
+
+
+
+
+
+
+<section data-type="sect2" id="figures_tables_and_examples">
+<h2>Figures, Tables, and Examples</h2>
+
+<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. See <a href="#cross_references">Cross References</a> above for more detail on including cross references.</p>
+
+<div data-type="tip">
+<p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
+
+<p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> for examples of Asciidoc cross references.</p>
+
+<p>If you are writing or copyediting in DocBook, please reference each figure, table, and example with an &lt;xref&gt;.</p>
+</div>
+
+<p>Any word groupings within a figure should have an initial cap on the first word only, with the exception of proper nouns. Generally, we don’t use periods at the end of these word groupings.</p>
+
+<ul>
+<li>
+<p>Figure 1-1. Figure captions are sentence-cased, with the exception of proper nouns. Code styling is allowed within the figure name or caption. There is no period after figure captions. Exceptions should be discussed with your production editor (e.g., if several long captions require punctuation, we can collaborate on efficient ways to achieve consistency). </p>
+</li>
+<li>
+<p>Table 1-1. Column heads and table titles are sentence-cased, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
+</li>
+<li>
+<p>Example 1-1. Example titles are sentence-cased, with the exception of proper nouns. Code styling is allowed within the example name or caption. There is no period after example titles.</p>
+</li>
+</ul>
+
+<div data-type="tip">
+<p>When working in Word, make sure all table cells are tagged with a cell paragraph tag, even if they’re blank. Any bold “headings” that appear below the very first row of a table should be tagged CellSubheading rather than CellHeading.</p>
+
+<p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
+</div>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
+
+
 
 
 
@@ -303,137 +513,7 @@ title: O'Reilly Style Guide
 <p><a href="#getting_started">back to top</a></p>
 </section>
 
-
-
-<section data-type="sect2" id="cross_references">
-<h2>Cross References</h2>
-
-<p>Here are a few examples of cross references:</p>
-
-<ul>
-<li>
-<p>Chapter: See Chapter 27.</p>
-</li>
-<li>
-<p>Section: See “Treatment” on page xx. (The text “on page xx” will be dynamic in Atlas, updating as page numbers change.)</p>
-</li>
-<li>
-<p>Figure: ...as shown in Figure 1-1.</p>
-</li>
-<li>
-<p>Sidebars: See “A Note for Mac Users” on page xx. (As with section xrefs, the page number will update automatically in Atlas.)</p>
-</li>
-</ul>
- 
-<p>More details on cross-references in Asciidoc are available in our <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> guide.</p>
-
-<p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
-
-<p>For information about styling URLs and hyperlinks, see <a data-type="xref" href="#considering_electronic_formats">Considering Electronic Formats</a>.</p>
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-<section data-type="sect2" id="dates_and_numbers">
-<h2>Dates and Numbers</h2>
-
-<p>Here is some additional guidance on what to spell out and when:</p>
-<ul>
-<li><p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: 0.05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
- </li>
-<li><p>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</p>
-  </li>
-<li><p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
-</li>
-<li><p>Spell out numbers from zero to nine and certain round multiples of those numbers unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges). </p>
- </li>
-<li><p>Spell out ordinal numbers first through ninth, use numerals for 10th and above. No superscript.</p>
-</li>
-<li><p>Use numerals for versions (version 5 or v5).</p>
-</li>
-<li><p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
-</li>
-<li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
-<li>
- </ul>
- 
- <p>This is how we format dates and other numbers:</p>
- 
-<ul>
-<li>
-<p>1980s or ’80s.</p>
-</li>
-<li>
-<p>32-bit integer.</p>
-</li>
-<li>
-<p>Phone numbers can appear in the format xxx-xxx-xxxx.</p>
-</li>
-<li>
-<p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
-</li>
-<li>
-<p>Use multiplication symbol “&times;” for dimensions, not "by" (e.g., "8.5 &times; 11").</p>
-</li>
-<li>
- <p>Use spaces around inline operators (1 + 1 = 2. <em>NOT 1+1=2</em>).</p>
-</li>
-</ul>
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
-
-
-
-
-
-<section data-type="sect2" id="figures_tables_and_examples">
-<h2>Figures, Tables, and Examples</h2>
-
-<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. See <a href="#cross_references">Cross References</a> above for more detail on including cross references.</p>
-
-<div data-type="tip">
-<p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
-
-<p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> for examples of Asciidoc cross references.</p>
-
-<p>If you are writing or copyediting in DocBook, please reference each figure, table, and example with an &lt;xref&gt;.</p>
-</div>
-
-<p>Any word groupings within a figure should have an initial cap on the first word only, with the exception of proper nouns. Generally, we don’t use periods at the end of these word groupings.</p>
-
-<ul>
-<li>
-<p>Figure 1-1. Figure captions are sentence-cased, with the exception of proper nouns. Code styling is allowed within the figure name or caption. There is no period after figure captions. Exceptions should be discussed with your production editor (e.g., if several long captions require punctuation, we can collaborate on efficient ways to achieve consistency). </p>
-</li>
-<li>
-<p>Table 1-1. Column heads and table titles are sentence-cased, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
-</li>
-<li>
-<p>Example 1-1. Example titles are sentence-cased, with the exception of proper nouns. Code styling is allowed within the example name or caption. There is no period after example titles.</p>
-</li>
-</ul>
-
-<div data-type="tip">
-<p>When working in Word, make sure all table cells are tagged with a cell paragraph tag, even if they’re blank. Any bold “headings” that appear below the very first row of a table should be tagged CellSubheading rather than CellHeading.</p>
-
-<p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
-</div>
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
-
-
-
-
-<section data-type="sect2" id="gen_ai">
+<section data-type="sect2" id="#gen_ai">
  <h2>Generative AI</h2>
 
  <p>Display text generated by artificial intelligence in blockquotes. To separate a prompt from a response, showing who “said” what, use italics:</p> 
@@ -448,53 +528,10 @@ title: O'Reilly Style Guide
 <p><a href="#getting_started">back to top</a></p>
 </section>
 
-
-
-
-
-
-<section data-type="sect2" id="headings">
-<h2>Headings</h2>
-
-<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
-
-<p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
-
- <p>Follow these rules for capitalization in headings:</p>
- 
- <ul>
-  <li><p>A- and B-level headings are initial-capped (or title case)in most of our design templates. Capitalize the first letter of each word, with the exception of articles, conjunctions, and program names or technical words that are always lowercase.</p></li> 
-  <li>
-<p>C-level headings have initial cap on the first word only (also called sentence-case), with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase).</p>
-</li>
-  <li>
-<p>D-level headings (rare) are run-in with the following paragraph and have an initial cap on the first word only, with the exception of proper nouns and the first word that follows a colon (unless that word refers to code and should be lowercase), with a period at the end of the heading.</p>
-</li>
-  <li>
-<p>Sidebar titles are initial-capped, or title case (like A- and B-level headings, mentioned previously).</p>
-</li>
-  <li>
-<p>Admonition (note/tip/warning) titles are initial-capped, or title case (like A- and B-level headings, mentioned previously). Admonition titles are optional.</p>
-</li>
-  <li><p>Hyphenated words should both be capped if the second word is a main word, but only the first should be capped if the second word isn’t too important (it’s a bit of a judgment call). For example: Big-Endian, Built-in. See <em>The Chicago Manual of Style</em>.</p>
-</li>
-  <li><p>Prepositions of four letters or fewer are not initial-capped, unless they function as part of a verb (e.g., “Set Up Your Operating System”).</p></li> 
-  <li><p>Subordinating conjunctions (e.g., as, if, that, because, etc.) are always initial-capped (even if they are four letters or less).</p>
-</li>
- </ul>
- 
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
-
-
 <section data-type="sect2" id="links">
 <h2>Links</h2>
 
-<p>URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
+<p>In books produced in Atlas, URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
 
 <ul>
  <li>
@@ -510,9 +547,9 @@ title: O'Reilly Style Guide
  </li>
  </ul>
  
-<p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. See also <a href="#considering_electronic_formats">Considering Electronic Formats</a>.</p>
+<p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
 
-<div data-type="warning">
+<div data-type="tip">
 <p>We do not anchor URLs to text in books produced in InDesign.</p>
  </div>
 
@@ -548,50 +585,6 @@ title: O'Reilly Style Guide
  </div>
 
 <p>Following are examples of each type of list.</p>
-
-
-<section data-type="sect3" id="bulleted_list">
-<h3>Bulleted list</h3>
-
-<p>The following series of items is an example of a bulleted list:</p>
-
-<ul>
-<li>
-<p>Labels</p>
-</li>
-<li>
-<p>Buttons</p>
-</li>
-<li>
-<p>Text boxes</p>
-</li>
-</ul>
-
-<p>“Bulleted” lists nested inside of bulleted lists should have em dashes as bullets.</p>
-
-<p>Frequently, bulleted lists should be converted to variable lists. Any bulleted list whose entries consist of a short term and its definition should be converted. For example, the following bulleted list entries:</p>
-
-<ul>
-<li>
-<p>Spellchecking: process of correcting spelling</p>
-</li>
-<li>
-<p>Pagebreaking—process of breaking pages</p>
-</li>
-</ul>
-
-<p>should be variable list entries:</p>
-<dl>
-<dt><em>Spellchecking</em></dt>
-<dd>
-<p>Process of correcting spelling</p>
-</dd>
-<dt><em>Pagebreaking</em></dt>
-<dd>
-<p>Process of breaking pages</p>
-</dd>
-</dl>
-</section>
 
 
 <section data-type="sect3" id="numbered_list">
@@ -636,8 +629,100 @@ title: O'Reilly Style Guide
 
 
 
+
+
+<section data-type="sect3" id="bulleted_list">
+<h3>Bulleted list</h3>
+
+<p>The following series of items is an example of a bulleted list:</p>
+
+<ul>
+<li>
+<p>Labels</p>
+</li>
+<li>
+<p>Buttons</p>
+</li>
+<li>
+<p>A text box</p>
+</li>
+</ul>
+
+<p>“Bulleted” lists nested inside of bulleted lists should have em dashes as bullets.</p>
+
+<p>Frequently, bulleted lists should be converted to variable lists. Any bulleted list whose entries consist of a short term and its definition should be converted. For example, the following bulleted list entries:</p>
+
+<ul>
+<li>
+<p>Spellchecking: process of correcting spelling</p>
+</li>
+<li>
+<p>Pagebreaking—process of breaking pages</p>
+</li>
+</ul>
+
+<p>should be variable list entries:</p>
+<dl>
+<dt><em>Spellchecking</em></dt>
+<dd>
+<p>Process of correcting spelling</p>
+</dd>
+<dt><em>Pagebreaking</em></dt>
+<dd>
+<p>Process of breaking pages</p>
+</dd>
+</dl>
+</section>
+
 <p><a href="#getting_started">back to top</a></p>
 </section>
+
+
+
+
+
+<section data-type="sect2" id="punctuation">
+<h2>Punctuation</h2>
+
+ <p>For anything not covered in this list, please consult the <em>Chicago Manual of Style</em>, 17th Edition.</p>
+
+<ul>
+<li>
+<p>Serial comma (this, that, and the other).</p>
+</li>
+<li>
+<p>Commas and periods go inside quotation marks.</p>
+</li>
+<li>
+<p>Curly quotes and apostrophes (“ ” not " ") in regular text.</p>
+</li>
+<li>
+<p>Straight quotes (" " not “ ”) in constant-width text and all code. Some Unix commands use backticks (<code>`</code>), which must be preserved.</p>
+</li>
+<li>
+<p>No period after list items unless one item forms a complete sentence (then use periods for all items within that list, even fragments).</p>
+</li>
+ <li>
+ <p>Em dashes are always closed (no space around them).</p>
+  </li>
+ <li>
+<p>Ellipses are always closed (no space around them).</p>
+  </li>
+<li>
+<p>For menu items that end with an ellipsis (e.g., "New Folder…"), do not include ellipsis in running text.</p>
+</li>
+<li>
+<p>Lowercase the first letter after a colon: this is how we do it. (Exception: headings.)</p>
+</li>
+<li>
+<p>Parentheses are always roman, even when the contents are italic. For parentheses within parentheses, use square brackets (here’s the first parenthetical [and here’s the second]).</p>
+</li>
+</ul>
+</section>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
 
 
 
@@ -697,55 +782,6 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect2" id="punctuation">
-<h2>Punctuation</h2>
-
- <p>For anything not covered in this list, please consult the <strong><em>Chicago Manual of Style</em>, 18th edition</strong>.</p>
-
-<ul>
-<li>
-<p>Commas and periods go inside quotation marks.</p>
-</li>
-<li>
-<p>Curly quotes and apostrophes (“ ” not " ") in regular text.</p>
-</li>
- <li>
-<p>Ellipses are always closed (no space around them).</p>
-</li>
- <li>
- <p>Em dashes are always closed (no space around them).</p>
-  </li>
- <li><p>Footnote markers in running text should always appear <em>after</em> punctuation (e.g., ".<sup>1</sup>" and <em>not</em> "<sup>1</sup>.").</p></li>
-<li><p>Footnotes in running text are numbered and start over at 1 in each chapter. (More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.)</p></li>
-<li>
-<p>For menu items that end with an ellipsis (e.g., "New Folder…"), do not include ellipsis in running text.</p>
-</li>
-<li>
-<p>Lowercase the first letter after a colon: this is how we do it. (Exception: headings.)</p>
-</li>
-<li>
-<p>No period after list items unless one item forms a complete sentence (then use periods for all items within that list, even fragments).</p>
-</li>
-<li>
-<p>Parentheses are always roman, even when the contents are italic. For parentheses within parentheses, use square brackets (here’s the first parenthetical [and here’s the second]).</p>
-</li>
-<li>
-<p>Serial comma (this, that, and the other).</p>
-</li>
-<li>
-<p>Straight quotes (" " not “ ”) in constant-width text and all code. Some Unix commands use backticks (<code>`</code>), which must be preserved.</p>
-</li>
- <li><p>Table footnotes are lettered (a, b, c, etc.) and appear directly after the table. They should be kept to a minimum.</p>
-</li>
-</ul>
-</section>
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
-
 
 
 <section data-type="sect1" id="typography_and_font_conventions">
@@ -770,7 +806,7 @@ title: O'Reilly Style Guide
 <tbody>
 <tr>
 
-<td><p>Filenames, file extensions (such as .jpeg), directory paths, and libraries. Exception: Python packages (e.g., NumPy, scikit-learn, TensorFlow, etc.) are roman and cased according to convention.</p></td>
+<td><p>Filenames, file extensions (such as .jpeg), directory paths, and libraries. <strong>Exception: Python packages (e.g., NumPy, scikit-learn, TensorFlow, etc.) are roman and cased according to convention.</strong></p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
@@ -839,20 +875,10 @@ title: O'Reilly Style Guide
 
 
 <section data-type="sect1" id="cover-style">
-<h1>O'Reilly Cover Copy</h1>
-<p>Use <strong><em>Chicago Manual of Style</em>, 18th edition</strong> for anything not mentioned here.</p>
+<h1>O'Reilly Cover Style</h1>
+<p>Use <em>Chicago Manual of Style</em>, 17th Edition for anything not mentioned here.</p>
 
-<p>Bulleted lists on the back cover should begin with a capitalized word and end with no punctuation. Even if the list item is a complete sentence, it will not take a period.</p>
-
-<p>Lowercase job attributions in cover copy as much as possible.	Formal job titles can be title case, and anything more informal should be lowercase (most will fall in the second category).	It is OK to mix casing if there are multiple attributions with differing levels of formality. If the attribution starts on a line of its own, it will be sentence-cased. For example:</p>
-
-<blockquote>
-<p>"This is a great book."</p>
-<p>—Robin Linacre, lead author of <em>Splink</em></p>
-
-<p>"I read this every day."</p>
-<p>—Sawyer Nyquist, Chief Engineering Officer, The Data Shop</p>
-</blockquote>
+<p>Bulleted lists on the back cover should begin with a capitalized word and end with <em>no</em> punctuation. Even if the list item is a complete sentence, it will not take a period.</p>
 
 <p><a href="#getting_started">back to top</a></p>
 </section>
@@ -863,27 +889,29 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="word-list">
 <h1>O’Reilly Word List</h1>
 
-<p>This section lists favored spelling variations and default conventions for common terms, acronyms, and abbreviations. Use Merriam Webster’s Collegiate Dictionary for anything not covered here.</p>
+<p>Alphabetical Word List: Default spellings</p>
 
 <a href="#wordlist-A">A</a> | <a href="#wordlist-B">B</a> | <a href="#wordlist-C">C</a> | <a href="#wordlist-D">D</a> | <a href="#wordlist-E">E</a> | <a href="#wordlist-F">F</a> | <a href="#wordlist-G">G</a> | <a href="#wordlist-H">H</a> | <a href="#wordlist-I">I</a> | <a href="#wordlist-J">J</a> | <a href="#wordlist-K">K</a> | <a href="#wordlist-L">L</a> | <a href="#wordlist-M">M</a> | <a href="#wordlist-N">N</a> | <a href="#wordlist-O">O</a> | <a href="#wordlist-P">P</a> | <a href="#wordlist-Q">Q</a> | <a href="#wordlist-R">R</a> | <a href="#wordlist-S">S</a> | <a href="#wordlist-T">T</a> | <a href="#wordlist-U">U</a> | <a href="#wordlist-V">V</a> | <a href="#wordlist-W">W</a> | <a href="#wordlist-X">X</a> | <a href="#wordlist-Y">Y</a> | <a href="#wordlist-Z">Z</a> |
 
 <h2 id="wordlist-A">A</h2>
 
 <ul>
- <li>a.k.a. or aka (be consistent)</li>
- <li>a.m. or A.M.</li>
  <li>acknowledgments</li>
  <li>ActionScript</li>
  <li>ActiveX control</li>
- <li>ad hoc</li>
  <li>Addison-Wesley</li>
+ <li>ad hoc</li>
  <li>ADO.NET</li>
  <li>Agile (cap when referring to Agile software development or when used on its own as a noun)</li>
+ <li>AI (no need to expand acronym to artificial intelligence)</li>
  <li>Ajax</li>
+ <li>a.k.a. or aka (be consistent)</li>
+ <li>a.m. or A.M.</li>
  <li>Alt key</li>
  <li>Alt-N</li>
  <li>anonymous FTP</li>
  <li>antipattern</li>
+ <li>API (no need to expand acronym to application programming interface)</li>
  <li>appendixes</li>
  <li>applet (or Java applet)</li>
  <li>AppleScript</li>
@@ -901,7 +929,6 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-B">B</h2>
 
 <ul>
- <li>_build-&gt;measure-&gt;learn_ cycle</li>
 <li>backend</li>
  <li>background processes</li>
  <li>backpressure</li>
@@ -910,8 +937,8 @@ title: O'Reilly Style Guide
  <li>Backspace key</li>
  <li>backtick</li>
  <li>backup (n); back up (v)</li>
- <li>backward compatible</li>
  <li>backward</li>
+ <li>backward compatible</li>
  <li>bash (avoid starting sentence with this word, but if unavoidable, cap as Bash)</li> 
  <li>BeOS</li>
  <li>Berkeley Software Distribution (BSD)</li>
@@ -920,19 +947,23 @@ title: O'Reilly Style Guide
  <li>big data</li>
  <li>Big Design Up Front (BDUF)</li>
  <li>bioinformatics</li>
- <li>bit mask</li>
- <li>bit plane</li>
  <li>Bitcoin (capitalize the concept/network/currency in general; lowercase specific units of currency)</li>
  <li>bitmap</li>
+ <li>bit mask</li>
  <li>Bitnet</li>
+ <li>bit plane</li>
  <li>bitwise operators</li>
  <li>BlackBerry</li>
+ <li>–black-box/white-box testing s/b avoided (alternatives: behavioral/structural testing, closed/open testing, opaque/clear testing)</li>
+ <li>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</li>
+ <li>–blacklist/whitelist s/b avoided (alternatives: block list/allow list, deny/permit, excluded/included)</li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
- <li>Bourne shell</li>
  <li>Bourne-again shell (bash)</li>
+ <li>Bourne shell</li>
  <li>braces or curly braces</li>
  <li>brackets or square brackets</li>
  <li>browsable</li>
+ <li>_build-&gt;measure-&gt;learn_ cycle</li>
  <li>built-in (a, n)</li>
  <li>button bar</li>
  </ul>
@@ -941,35 +972,35 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-C">C</h2>
 <ul>
-  <li> C-language (a)</li>
- <li>&lt;CR&gt;&lt;LF&gt;</li>
- <li>C language (n)</li>
- <li>C shell</li>
-<li>CacheStorage</li>
+ <li>CacheStorage</li>
  <li>call-to-action</li>
  <li>Caps Lock key</li>
  <li>caret or circumflex</li>
  <li>CAT-5</li>
  <li>CD-ROM</li>
- <li>check-in (n)</li>
+ <li>C language (n)</li>
+ <li> C-language (a)</li>
  <li>checkbox</li>
  <li>checkmark</li>
+ <li>check-in (n)</li>
  <li>classpath</li>
+ <li>CLI (no need to expand acronym to command-line interface)</li>
  <li>click-through (a)</li>
+ <li>client/server</li>
  <li>client side (n)</li>
  <li>client-side (a)</li>
- <li>client/server</li>
  <li>cloud native (n or a)</li>
  <li>co-class</li>
  <li>coauthor</li>
- <li>code set</li>
  <li>codebase</li>
+ <li>code set</li>
  <li>colorcell</li>
  <li>colormap</li>
  <li>Command key (Mac)</li>
  <li>command line (n)</li>
  <li>command-line (a)</li>
- <li>Common Object Request Broker Architecture (CORBA)</li>
+ <li>Common Object Request</li>
+ <li>Broker Architecture (CORBA)</li>
  <li>compact disc</li>
  <li>compile time (n)</li>
  <li>compile-time (a)</li>
@@ -978,8 +1009,12 @@ title: O'Reilly Style Guide
  <li>copyleft</li>
  <li>copyright</li>
  <li>coworker</li>
+ <li>CPU (no need to expand to central processing unit)</li>
+ <li>–crazy s/b avoided (alternatives: foolish, bizarre, etc.)</li>
  <li>criterion (s), criteria (p)</li>
  <li>cross-reference</li>
+ <li>C shell</li>
+ <li>&lt;CR&gt;&lt;LF&gt;</li>
  <li>Ctrl key (Windows)</li>
  <li>curly braces or braces</li>
  <li>cybersecurity</li>
@@ -990,56 +1025,57 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-D">D</h2>
 <ul>
  <li>data block</li>
- <li>Data Encryption Standard (DES)</li>
- <li>data is</li>
  <li>datacenter or data center (be consistent)</li>
+ <li>Data Encryption Standard (DES)</li>
  <li>datafile</li>
- <li>dataset or data set (be consistent)</li>
  <li>datatype or data type (be consistent)</li>
+ <li>data is</li>
+ <li>dataset or data set (be consistent)</li>
  <li>DB-9</li>
- <li>de-identification (hyphenate)</li>
  <li>Debian GNU/Linux</li>
  <li>decision making (n)</li>
  <li>decision-making (a)</li>
  <li>deep learning (n and a, no hyphen)</li>
+ <li>de-identification (hyphenate)</li>
+ <li>DevOps</li>
+ <li>dial-up (a)</li>
+ <li>dial up (v)</li>
+ <li>disk</li>
+ <li>disk-imaging software</li>
  <li>Delete key</li>
  <li>design time (n)</li>
  <li>design-time (a)</li>
- <li>DevOps</li>
- <li>dial up (v)</li>
- <li>dial-up (a)</li>
- <li>disk-imaging software</li>
- <li>disk</li>
  <li>DNS</li>
  <li>DocBook</li>
  <li>Document Object Model (DOM)</li>
  <li>Domain Name System</li>
- <li>dot-com</li>
  <li>dot</li>
- <li>double quotes</li>
+ <li>dot-com</li>
  <li>double-click</li>
  <li>double-precision (a)</li>
+ <li>double quotes</li>
  <li>down arrow</li>
  <li>downlevel (a)</li>
- <li>drag and drop (v)</li>
  <li>drag-and-drop (n)</li>
+ <li>drag and drop (v)</li>
  <li>drop-down (a)</li>
+ <li>–dummy s/b avoided (alternatives include: placeholder)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="worldlist-E">E</h2>
 <ul>
- <li>eBay</li>
 <li>ebook</li>
  <li>ebusiness</li> 
  <li>ecommerce</li> 
+ <li>eBay</li>
  <li>Emacs</li>
  <li>email</li>
  <li>empty-element tag</li>
- <li>end user (n); end-user (a)</li>
  <li>end-of-file (EOF)</li>
  <li>end-tag</li>
+ <li>end user (n); end-user (a)</li>
  <li>Engines of Growth</li>
  <li>Enter key</li>
  <li>equals sign</li>
@@ -1055,27 +1091,27 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-F">F</h2>
 <ul>
-<li>failback</li>
+ <li>failback</li>
  <li>failover</li>
  <li>fax</li>
  <li>file manager</li>
- <li>file server</li>
- <li>file type</li>
  <li>filename</li>
  <li>filepath</li>
+ <li>file server</li>
  <li>filesystem</li>
+ <li>file type</li>
  <li>FireWire</li>
  <li>foreground</li>
- <li>Fortran 90</li>
  <li>FORTRAN</li>
+ <li>Fortran 90</li>
  <li>forward (adv)</li>
  <li>frame type</li>
+ <li>FreeBSD</li>
  <li>Free Documentation License (FDL)</li>
  <li>Free Software Foundation (FSF)</li>
- <li>FreeBSD</li>
  <li>frontend</li>
- <li>FTP (protocol)</li>
  <li>_ftp_ (Unix command)</li>
+ <li>FTP (protocol)</li>
  <li>FTP site</li>
  <li>full stack (Full Stack in headings), no hyphen, even if adjective</li>
         </ul>
@@ -1110,10 +1146,10 @@ title: O'Reilly Style Guide
 <ul>
  <li>handcode</li>
  <li>handoff (n)</li>
- <li>hard link</li>
  <li>hardcode (v)</li>
- <li>hardcopy</li>
  <li>hardcore</li>
+ <li>hardcopy</li>
+ <li>hard link</li>
  <li>hardware-in-the-loop</li>
  <li>hash sign or sharp sign</li>
  <li>high-level (a)</li>
@@ -1129,19 +1165,19 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-I">I</h2>
 <ul>
-  <li>I/O</li>
+ <li>IDs</li>
  <li>IDE</li>
-<li>IDs</li>
  <li>IndexedDB</li>
  <li>infrastructure as a service (IaaS)</li>
  <li>inline</li>
  <li>inode</li>
  <li>interclient</li>
- <li>Internet of Things (IoT)</li>
  <li>internet, the internet</li>
+ <li>Internet of Things (IoT)</li>
  <li>internetwork</li>
  <li>intranet</li>
  <li>Intrinsics</li>
+ <li>I/O</li>
  <li>IP (Internet Protocol)</li>
  <li>IPsec</li>
  <li>ISO</li>
@@ -1153,10 +1189,10 @@ title: O'Reilly Style Guide
 <h2 id="wordlist-J">J</h2>
 
 <ul>
- <li>Jabber applet</li>
+ <li>Jabber</li>
  <li>Jabber client</li>
  <li>Jabber server</li>
-<li>Jabber</li>
+ <li>Jabber applet</li>
  <li>JAR archive</li>
  <li>JAR file</li>
  <li>JavaScript</li>
@@ -1167,13 +1203,12 @@ title: O'Reilly Style Guide
 
 <h2 id="wordlist-K">K</h2>
 <ul>
-<li>K Desktop Environment (KDE)</li>
+ <li>K Desktop Environment (KDE)</li>
  <li>Kb (kilobit)</li>
  <li>KB (kilobyte) (denotes file size or disk space)</li>
  <li>Kbps (kilobits per second)</li>
- <li>keepalive (n or a)</li>
  <li>Kerberos</li>
- <li>key performance indicators (KPIs)</li>
+ <li>keepalive (n or a)</li>
  <li>keyclick</li>
  <li>keycode</li>
  <li>keymaps</li>
@@ -1181,7 +1216,9 @@ title: O'Reilly Style Guide
  <li>keystroke</li>
  <li>keysym</li>
  <li>keywords</li>
+ <li>key performance indicators (KPIs)</li>
  <li>kHz (kilohertz)</li>
+ <li>–kill s/b avoided (alternatives: end, exit, cancel)</li>
  <li>Korn shell</li>
  </ul>
 
@@ -1191,69 +1228,74 @@ title: O'Reilly Style Guide
 <ul>
  <li>lambda (lc unless referring to a product)</li>
  <li>Lean (capitalize noun or adjective when referring to Lean business methodology)</li>
+ <li>local area network or LAN</li>
  <li>left angle bracket or &lt;</li>
  <li>lefthand (a)</li>
  <li>leftmost</li>
  <li>less-than sign or &lt;</li>
  <li>leveled (not levelled)</li>
  <li>life cycle or lifecycle (be consistent)</li>
- <li>line feed (n)</li>
  <li>line-feed (a)</li>
- <li>Linux Professional Institute (LPI)</li>
+ <li>line feed (n)</li>
  <li>Linux</li>
  <li>LinuxPPC</li>
  <li>listbox</li>
- <li>local area network or LAN</li>
- <li>log in, log out, or log on (v)</li>
  <li>logfile</li>
  <li>login, logout, or logon (n or a)</li>
+ <li>log in, log out, or log on (v)</li>
  <li>lower-level (a)</li>
  <li>lower-right (a)</li>
+ <li>Linux Professional Institute (LPI)</li>
 </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-M">M</h2>
-<ul> <li>Mac (or MacBook)</li>
+<ul>
+ <li>Mac (or MacBook)</li>
+ <li>macOS (replaces Mac OS X)</li>
  <li>machine learning (n and a, no hyphen)</li>
- <li>macOS</li>
  <li>mail-handling (adjective)</li>
+ <li>– man hours s/b avoided (alternatives: work hours, employee hours)</li>
  <li>manpage</li>
  <li>markup</li>
+ <li>–master/slave (n, a) s/b avoided (alternatives: parent/child, leader/follower, primary/secondary)</li>
  <li>Mb (megabit)</li>
  <li>MB (megabyte)</li>
  <li>MBps (megabytes per second)</li>
  <li>McGraw-Hill</li>
  <li>menu bar</li>
+ <li>metacharacter</li>
  <li>Meta key</li>
  <li>Meta-N</li>
- <li>metacharacter</li>
  <li>MHz (megahertz)</li>
  <li>mice or mouses (be consistent)</li>
  <li>microservices</li>
- <li>Microsoft Windows 2000</li>
+ <li>Microsoft Windows</li>
  <li>Microsoft Windows Me</li>
  <li>Microsoft Windows NT</li>
  <li>Microsoft Windows XP</li>
- <li>Microsoft Windows</li>
+ <li>Microsoft Windows 2000</li>
+ <li>–middleman s/b avoided (alternatives: go-between, link, etc.)</li>
  <li>MIDlet</li>
  <li>MKS Toolkit</li>
  <li>model-in-the-loop</li>
  <li>MS-DOS</li>
- <li>Multi-Touch (when referring to Apple's trademark)</li>
  <li>multiline </li>
+ <li>Multi-Touch (when referring to Apple's trademark)</li>
  <li>My Services</li>
  <li>MySpace</li>
-</ul>
+ </ul>
       
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-N">N</h2>
 <ul>
-  <li>.NET</li>
+ <li>nameserver</li>
  <li>name service</li>
-<li>nameserver</li>
  <li>namespace</li>
+ <li>the Net</li>
+ <li>.NET</li>
  <li>NetBIOS</li>
  <li>NetBSD</li>
  <li>NetInfo</li>
@@ -1261,32 +1303,26 @@ title: O'Reilly Style Guide
  <li>newsgroups</li>
  <li>NeXTSTEP</li>
  <li>NGINX (company), <code>nginx</code> (server)</li>
- <li>nonlocal</li>
  <li>NOOP</li>
+ <li>nonlocal</li>
  <li>NoSQL</li>
  <li>Novell NetWare</li>
  <li>the <em>New York Times</em></li>
- <li>the Net</li>
-</ul>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-O">O</h2>
 <ul>
- <li>O’Reilly Media, Inc.
-  <ul>
-  <li>O’Reilly’s platform s/b "the O’Reilly platform" or "the O’Reilly learning platform" and then "O’Reilly" on subsequent mentions</li>
-  </ul>
-</li>
+ <li>Objective-C</li>
  <li>object linking and embedding (OLE)</li>
- <li>object request broker (ORB)</li>
  <li>object-oriented programming (OOP)</li>
-<li>Objective-C</li>
+ <li>object request broker (ORB)</li>
+ <li>OK</li>
  <li>offline</li>
  <li>offload</li>
- <li>OK</li>
- <li>on premises (prep. phrase) on-premises (modifier); may be abbreviated to on prem/on-prem</li>
  <li>online</li>
+ <li>on premises (prep. phrase) on-premises (modifier); may be abbreviated to on prem/on-prem</li>
  <li>open source (n or a, rewrite to avoid using in a verb form)</li>
  <li>open source software (OSS)</li>
  <li>OpenBSD</li>
@@ -1294,59 +1330,69 @@ title: O'Reilly Style Guide
  <li>OpenStep</li>
  <li>OpenWindows</li>
  <li>Option key (Mac)</li>
+ <li>Oracle7</li>
+ <li>Oracle8</li>
  <li>Oracle 8.0</li>
  <li>Oracle 8<em>i</em> (italic “i”)</li>
  <li>Oracle 9<em>i</em> (italic “i”)</li>
  <li>Oracle Parallel Query Option</li>
- <li>Oracle7</li>
- <li>Oracle8</li>
+ <li>O’Reilly Media, Inc.
+  <ul>
+  <li>O’Reilly’s platform s/b "the O’Reilly platform" or "the O’Reilly learning platform" and then "O’Reilly" on subsequent mentions</li>
+  </ul>
+ </li>
  <li>OS/2</li>
  <li>OSA</li>
  <li>OSF/Motif</li>
+ <li>OS X (do not use, write macOS instead)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-P">P</h2>
 <ul>
- <li>% (not percent)</li>
- <li>p.m. or P.M.</li>
-<li>packet switch networks</li>
- <li>page rank (but Google PageRank)</li>
- <li>pagefile</li>
+ <li>packet switch networks</li>
  <li>Paint Shop Pro</li>
+ <li>pagefile</li>
+ <li>page rank (but Google PageRank)</li>
  <li>parentheses (p)</li>
  <li>parenthesis (s)</li>
  <li>Pascal</li>
  <li>pathname</li>
  <li>pattern-matching (a)</li>
  <li>peer-to-peer (or P2P)</li>
+ <li>% (not percent)</li>
  <li>performant (Oracle)</li>
  <li>period</li>
- <li>Perl DBI</li>
  <li>Perl</li>
+ <li>Perl DBI</li>
  <li>plain text (n)</li>
  <li>plain-text (a)</li>
  <li>platform as a service (PaaS)</li>
  <li>Plug and Play (PnP)</li>
  <li>plug in (v)</li>
  <li>plug-in (a, n)</li>
+ <li>p.m. or P.M.</li>
  <li>Point-to-Point Protocol (PPP)</li>
  <li>pop up (v)</li>
- <li>POP-3</li>
  <li>pop-up (n, a)</li>
+ <li>POP-3</li>
  <li>Portable Document Format (PDF)</li>
  <li>Portable Network Graphics (PNG)</li>
- <li>Portable Operating System Interface (POSIX)</li>
-<li>POSIX-compliant</li>
+ <li>Portable Operating
+  <ul>
+   <li>System Interface (POSIX)</li>
+  </ul>
+ </li>
+ <li>POSIX-compliant</li>
  <li>Post Office Protocol (POP)</li>
  <li>postprocess</li>
  <li>PostScript</li>
  <li>Prentice Hall</li>
  <li>process ID</li>
  <li>progress bar</li>
- <li>pseudo-tty</li>
  <li>pseudoattribute</li>
+ <li>pseudo-tty</li>
  <li>public key (n)</li>
  <li>public-key (a)</li>
  <li>publish/subscribe or pub/sub</li>
@@ -1360,8 +1406,8 @@ title: O'Reilly Style Guide
  <li>qmail</li>
  <li>Qt</li>
  <li>QuarkXPress</li>
- <li>Quartz Extreme</li>
  <li>Quartz</li>
+ <li>Quartz Extreme</li>
  <li>QuickTime</li>
  <li>quotation marks (spell out first time; it can be “quotes” thereafter)</li>
  </ul>
@@ -1372,16 +1418,16 @@ title: O'Reilly Style Guide
 <ul>
  <li>random-access (a)</li>
  <li>RCS</li>
- <li>re-create</li>
- <li>re-identification (hyphenate)</li>
  <li>read-only (a)</li>
  <li>read/write</li>
  <li>real time (n)</li>
  <li>real-time (a)</li>
+ <li>re-create</li>
  <li>Red Hat Linux</li>
  <li>Red Hat Package Manager (RPM)</li>
  <li>redirection</li>
  <li>reference page or manpage</li>
+ <li>re-identification (hyphenate)</li>
  <li>remote-access server</li>
  <li>Rendezvous (<em>Mac OS X zeroconf networking</em>)</li>
  <li>Return (key)</li>
@@ -1400,7 +1446,7 @@ title: O'Reilly Style Guide
  <li>rulebase</li>
  <li>ruleset</li>
  <li>runtime (n, a)</li>
-</ul>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
@@ -1412,12 +1458,12 @@ title: O'Reilly Style Guide
  <li>screenful</li>
  <li>screensaver</li>
  <li>scroll bar</li>
+ <li>securelevel (in Linux)</li>
  <li>Secure Shell (SSH)</li>
  <li>Secure Sockets Layer (SSL)</li>
- <li>securelevel (in Linux)</li>
  <li>sed scripts</li>
- <li>server side (n)</li>
  <li>server-dependent</li>
+ <li>server side (n)</li>
  <li>server-side (a)</li>
  <li>service worker</li>
  <li>servlet</li>
@@ -1429,9 +1475,10 @@ title: O'Reilly Style Guide
  <li>shell scripts</li>
  <li>Shift key</li>
  <li>Simple API for XML (SAX)</li>
- <li>single quote</li>
  <li>single-precision (a)</li>
+ <li>single quote</li>
  <li>site map</li>
+ <li>–slave/master (n, a) s/b avoided (alternatives: child/parent, follower/leader, secondary/primary)</li>
  <li>Smalltalk</li>
  <li>SMP (a, n)</li>
  <li>SOAP</li>
@@ -1461,63 +1508,67 @@ title: O'Reilly Style Guide
  <li>sync</li>
  <li>system administrator</li>
  <li>system-wide</li>
-</ul>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-T">T</h2>
 <ul>
  <li>10-baseT</li>
- <li>t-shirt</li>
- <li>T<subscript>E</subscript>X</li>
  <li>T1</li>
+ <li>t-shirt</li>
  <li>Tab key</li>
  <li>TAR file</li>
  <li>TCP/IP</li>
  <li>Telnet (the protocol)</li>
  <li>telnet (v)</li>
  <li>terabyte</li>
+ <li>T<subscript>E</subscript>X</li>
  <li>texinfo</li>
  <li>text box</li>
  <li>text-input mode</li>
  <li>thread pooling (n)</li>
- <li>time zone</li>
- <li>time-sharing processes</li>
  <li>timeout (in tech/computing contexts)</li>
+ <li>time-sharing processes</li>
  <li>timestamp</li>
+ <li>time zone</li>
  <li>title bar</li>
  <li>Token Ring</li>
- <li>tool tip</li>
  <li>toolbar</li>
  <li>toolchain</li>
  <li>toolkit</li>
+ <li>tool tip</li>
  <li>top-level (a)</li>
  <li>toward</li>
  <li>trade-off</li>
+ <li>– tribe s/b avoided (alternatives: company, institution, network, community)</li>
  <li>tweet, retweet, live-tweet v, n (avoid “tweet out”)</li>
+ <li>Twitter user (preferred to "tweeter")</li>
  <li>Twitterstorm, tweetstorm</li>
-</ul>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-U">U</h2>
 <ul>
- <li>UK (United Kingdom)</li>
+ <li>UI (no need to expand to user interface)</li>
+ <li>UK (for United Kingdom)</li>
  <li>Ultrix</li>
  <li>Universal Serial Bus (USB)</li>
  <li>Unix (UNIX in many books, esp. older ones)</li>
  <li>up arrow</li>
- <li>up-to-date</li>
  <li>upper- and lowercase</li>
- <li>upper-left corner</li>
  <li>uppercase</li>
+ <li>upper-left corner</li>
  <li>UPSs</li>
+ <li>up-to-date</li>
  <li>URLs</li>
  <li>US (for United States)</li>
  <li>Usenet</li>
  <li>user ID (n)</li>
  <li>user-ID (a)</li>
  <li>username</li>
+ <li>UX (no need to expand to user experience)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -1529,14 +1580,14 @@ title: O'Reilly Style Guide
  <li>VB.NET</li>
  <li>versus (avoid vs.)</li>
  <li>vice versa</li>
+ <li>VoiceXML</li>
  <li>Visual Basic .NET</li>
  <li>Visual Basic 6 or VB 6</li>
  <li>Visual C++ .NET</li>
  <li>Visual Studio .NET</li>
- <li>VoiceXML</li>
- <li>Volume One</li>
  <li>VS.NET</li>
-</ul>
+ <li>Volume One</li>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
@@ -1546,26 +1597,29 @@ title: O'Reilly Style Guide
  <li>the web (n)</li>
  <li>web (a)</li>
  <li>web client</li>
+ <li>webmaster</li>
  <li>web page</li>
  <li>web server</li>
  <li>web services (unless preceded by a proper noun, as in Microsoft Web Services)</li>
- <li>webmaster</li>
  <li>website</li>
+ <li>–white-box testing s/b avoided (alternatives: structural/behavioral testing open/closed testing, clear/opaque testing)</li>
+ <li>–white hat/black hat s/b avoided (alternatives: ethical/unethical, preventative/malicious)</li>
  <li>white pages</li>
+ <li>–whitelist/blacklist s/b avoided (alternatives: allow list/block list, permit/deny, included/excluded)</li>
  <li>whitepaper (I printed my whitepaper on white paper.)</li>
  <li>whitespace</li>
  <li>wide area network or WAN</li>
  <li>WiFi</li>
  <li>wiki</li>
  <li>wildcard</li>
- <li>Windows 2000</li>
  <li>Windows 95</li>
  <li>Windows 98</li>
+ <li>Windows 2000</li>
  <li>Windows NT</li>
  <li>Windows Vista</li>
  <li>Windows XP</li>
- <li>wizard (a, n)</li>
  <li>Wizard (proper noun)</li>
+ <li>wizard (a, n)</li>
  <li>workaround</li>
  <li>workbench</li>
  <li>workgroup</li>
@@ -1575,43 +1629,43 @@ title: O'Reilly Style Guide
  <li>writable</li>
  <li>write-only (a)</li>
  <li>WYSIWYG</li>
-</ul>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-X">X</h2>
 <ul>
-<li>(x,y) (no space)</li>
+ <li>(x,y) (no space)</li>
+ <li>x-axis</li>
+ <li>Xbox</li>
  <li>X client</li>
  <li><em>x</em> coordinate</li>
  <li>X protocol</li>
  <li>X server</li>
  <li>X Toolkit</li>
+ <li>XView</li>
  <li>X Window series</li>
  <li>X Window System</li>
- <li>x-axis</li>
  <li>x86</li>
- <li>Xbox</li>
  <li>xFree86</li>
  <li>XHTML</li>
  <li>XLink</li>
+ <li>XML</li>
  <li>XML Query Language (XQuery)</li>
  <li>XML-RPC</li>
- <li>XML</li>
  <li>XPath</li>
  <li>XPointer</li>
  <li>XSL</li>
  <li>XSLT</li>
- <li>XView</li>
-</ul>
+ </ul>
 
 <p><a href="#getting_started">back to top</a></p>
 
 <h2 id="wordlist-Y">Y</h2>
 <ul>
- <li><em>y</em> coordinate</li>
- <li>y-axis</li>
  <li>Yahoo!</li>
+ <li>y-axis</li>
+ <li><em>y</em> coordinate</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -1620,8 +1674,8 @@ title: O'Reilly Style Guide
 <ul>
  <li>Zeroconf (short for “Zero Configuration”)</li>
  <li>zeros</li>
- <li>zip (v)</li>
  <li>zip code</li>
+ <li>zip (v)</li>
  <li>ZIP file</li>
  </ul>
 
