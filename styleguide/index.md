@@ -9,24 +9,24 @@ title: O'Reilly Style Guide
 * <a href="#getting_started">About O'Reilly Style</a>
 * <a href="#considering_electronic_formats">Considering Electronic Formats</a>
 * <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
-  * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
-  * <a href="#bibliographical_entries">Bibliographical Entries</a>
-  * <a href="#code">Code</a>
-	    * <a href="#line-length-ZKs1FLck">Line Length</a>
-	    * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
-  * <a href="#cross_references">Cross References</a>
-  * <a href="#dates_and_numbers">Dates and Numbers</a>
-  * <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
-  * <a href="#gen_ai">Generative AI</a>
-  * <a href="#headings">Headings</a>
-  * <a href="#links">Links</a>
-  * <a href="#lists">Lists</a>
-	    * <a href="#bulleted_list">Bulleted list</a>
-	    * <a href="#numbered_list">Numbered list</a>
-	    * <a href="#variable_list">Variable list</a>
-  * <a href="#miscellaneous">Miscellaneous</a> 
-  * <a href="#punctuation">Punctuation</a>
-  * <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
+  ** <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
+  ** <a href="#bibliographical_entries">Bibliographical Entries</a>
+  ** <a href="#code">Code</a>
+	    *** <a href="#line-length-ZKs1FLck">Line Length</a>
+	    *** <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
+  ** <a href="#cross_references">Cross References</a>
+  ** <a href="#dates_and_numbers">Dates and Numbers</a>
+  ** <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
+  ** <a href="#gen_ai">Generative AI</a>
+  ** <a href="#headings">Headings</a>
+  ** <a href="#links">Links</a>
+  ** <a href="#lists">Lists</a>
+	    *** <a href="#bulleted_list">Bulleted list</a>
+	    *** <a href="#numbered_list">Numbered list</a>
+	    *** <a href="#variable_list">Variable list</a>
+ ** <a href="#punctuation">Punctuation</a>
+ ** <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
+** <a href="#miscellaneous">Miscellaneous</a> 
 * <a href="#cover-style">O'Reilly Cover Copy</a>
 * <a href="#word-list">O’Reilly Word List</a> 
 
@@ -645,58 +645,6 @@ title: O'Reilly Style Guide
 
 
 
-<section data-type="sect1" id="miscellaneous">
-<h1>Miscellaneous</h1>
-
-<ul>
-<li>
-<p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
-</li>
-<li>
-<p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
-</li>
-<li>
-<p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
-</li>
-<li>
-<p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
-</li>
- <li>
-  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
- </li>
-<li>
-<p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
-</li>
-<li>
-<p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
-</li>
-<li>
-<p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
-</li>
- <li>
-  <p>Use the American spellings of words when they differ.</p>
-  </li>
-<li>
-<p>Common foreign terms (such as “en masse”) are roman.</p>
-</li>
-<li>
-<p>Introduce unnumbered code blocks with colons.</p>
-</li>
- <li>
-<p>Do not stack admonitions, sidebars, or headings.</p>
-</li>
- <li>
-<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
-</li>
-</ul>
- 
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
-
-
 <section data-type="sect2" id="punctuation">
 <h2>Punctuation</h2>
 
@@ -835,6 +783,54 @@ title: O'Reilly Style Guide
 </section>
 
 
+
+<section data-type="sect1" id="miscellaneous">
+<h1>Miscellaneous</h1>
+
+<ul>
+<li>
+<p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
+</li>
+<li>
+<p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
+</li>
+<li>
+<p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
+</li>
+<li>
+<p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
+</li>
+ <li>
+  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
+ </li>
+<li>
+<p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
+</li>
+<li>
+<p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
+</li>
+<li>
+<p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
+</li>
+ <li>
+  <p>Use the American spellings of words when they differ.</p>
+  </li>
+<li>
+<p>Common foreign terms (such as “en masse”) are roman.</p>
+</li>
+<li>
+<p>Introduce unnumbered code blocks with colons.</p>
+</li>
+ <li>
+<p>Do not stack admonitions, sidebars, or headings.</p>
+</li>
+ <li>
+<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
+</li>
+</ul>
+ 
+<p><a href="#getting_started">back to top</a></p>
+</section>
 
 
 
