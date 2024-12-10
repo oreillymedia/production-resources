@@ -43,7 +43,7 @@ title: O'Reilly Style Guide
 
 <p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. O’Reilly aims to avoid the following problematic language and recommends using resources such as the <a href="https://consciousstyleguide.com">Conscious Style Guide</a>, the <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington’s “IT Inclusive Language Guide”</a>, and the <a href="https://ncdj.org/style-guide">Disability Language Style Guide</a> for alternatives.
 
-<p>Avoid language that is unintentionally gendered (e.g., middleman, man hours), violent (e.g., hit, kill), and otherwise exclusionary, incendiary, or inaccurate (e.g., crazy, dummy, master/slave, tribe). Avoid associating positive or negative characteristics with colors that are also associated, problematically, with people (blackbox, black hat, white list, etc.). Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old or technology that has fallen behind the times).</p>
+<p>Avoid language that is unnecessarily gendered (e.g., middleman, man hours), violent (e.g., hit, kill), and otherwise exclusionary, incendiary, or imprecise (e.g., crazy, dummy, master/slave, tribe). Avoid associating positive or negative characteristics with colors that are also associated, problematically, with people (blackbox, black hat, white list, etc.). Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old or technology that has fallen behind the times).</p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
@@ -355,7 +355,7 @@ title: O'Reilly Style Guide
   <li><p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
   </li>
   <li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
-  <li>
+  </li>
 </ul>
  
  <p>This is how we format dates and other numbers:</p>
@@ -783,32 +783,19 @@ title: O'Reilly Style Guide
 <h1>Miscellaneous</h1>
 
 <ul>
-  <li><p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
-  </li>
-  <li><p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
-  </li>
-  <li><p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
-  </li>
-  <li><p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
-  </li>
-  <li><p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. (Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
-  </li>
-  <li><p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
-  </li>
-  <li><p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
-  </li>
-  <li><p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
-  </li>
-  <li><p>Use the American spellings of words when they differ.</p>
-    </li>
-  <li><p>Common foreign terms (such as “en masse”) are roman.</p>
-  </li>
-  <li><p>Introduce unnumbered code blocks with colons.</p>
-  </li>
-  <li><p>Do not stack admonitions, sidebars, or headings.</p>
-  </li>
-  <li><p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
-  </li>
+    <li><p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p></li>
+    <li><p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p></li>
+    <li><p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p></li>
+    <li><p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p></li>
+    <li><p>Common foreign terms (such as “en masse”) are roman.</p></li>
+    <li><p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p></li>
+    <li><p>Do not stack admonitions, sidebars, or headings.</p></li>
+  <li><p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p></li>
+    <li><p>Introduce unnumbered code blocks with colons.</p></li>
+    <li><p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p></li>
+    <li><p>Use the American spellings of words when they differ.</p></li>
+    <li><p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. (Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p></li>
+    <li><p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p></li>
 </ul>
  
 <p><a href="#getting_started">back to top</a></p>
