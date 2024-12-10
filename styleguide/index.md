@@ -9,24 +9,24 @@ title: O'Reilly Style Guide
 * <a href="#getting_started">About O'Reilly Style</a>
 * <a href="#considering_electronic_formats">Considering Electronic Formats</a>
 * <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
-  ** <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
-  ** <a href="#bibliographical_entries">Bibliographical Entries</a>
-  ** <a href="#code">Code</a>
-	    *** <a href="#line-length-ZKs1FLck">Line Length</a>
-	    *** <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
-  ** <a href="#cross_references">Cross References</a>
-  ** <a href="#dates_and_numbers">Dates and Numbers</a>
-  ** <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
-  ** <a href="#gen_ai">Generative AI</a>
-  ** <a href="#headings">Headings</a>
-  ** <a href="#links">Links</a>
-  ** <a href="#lists">Lists</a>
-	    *** <a href="#bulleted_list">Bulleted list</a>
-	    *** <a href="#numbered_list">Numbered list</a>
-	    *** <a href="#variable_list">Variable list</a>
- ** <a href="#punctuation">Punctuation</a>
- ** <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
-** <a href="#miscellaneous">Miscellaneous</a> 
+    * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
+    * <a href="#bibliographical_entries">Bibliographical Entries</a>
+    * <a href="#code">Code</a>
+        * <a href="#line-length-ZKs1FLck">Line Length</a>
+        * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
+    * <a href="#cross_references">Cross References</a>
+    * <a href="#dates_and_numbers">Dates and Numbers</a>
+    * <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
+    * <a href="#gen_ai">Generative AI</a>
+    * <a href="#headings">Headings</a>
+    * <a href="#links">Links</a>
+    * <a href="#lists">Lists</a>
+        * <a href="#bulleted_list">Bulleted list</a>
+        * <a href="#numbered_list">Numbered list</a>
+        * <a href="#variable_list">Variable list</a>
+    * <a href="#punctuation">Punctuation</a>
+    * <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
+* <a href="#miscellaneous">Miscellaneous</a> 
 * <a href="#cover-style">O'Reilly Cover Copy</a>
 * <a href="#word-list">O’Reilly Word List</a> 
 
@@ -103,7 +103,7 @@ title: O'Reilly Style Guide
 
 <section data-type="sect2" id="abbreviationsacronyms">
 <h2>Abbreviations &amp; Acronyms</h2>
-<p>See the <strong><em>The Chicago Manual of Style</em></a>, 18th edition</strong> for questions about abbreviations and acronyms that are not covered here:</p>
+<p>See the <strong><em>The Chicago Manual of Style</em>, 18th edition</strong> for questions about abbreviations and acronyms that are not covered here:</p>
 <ul>
 <li>
 <p>A.M. and P.M. or a.m. and p.m.—be consistent.</p>
@@ -340,45 +340,39 @@ title: O'Reilly Style Guide
 
 <p>Here is some additional guidance on what to spell out and when:</p>
 <ul>
-<li><p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: 0.05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
- </li>
-<li><p>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</p>
+  <li><p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: 0.05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
   </li>
-<li><p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
-</li>
-<li><p>Spell out numbers from zero to nine and certain round multiples of those numbers unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges). </p>
- </li>
-<li><p>Spell out ordinal numbers first through ninth, use numerals for 10th and above. No superscript.</p>
-</li>
-<li><p>Use numerals for versions (version 5 or v5).</p>
-</li>
-<li><p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
-</li>
-<li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
-<li>
- </ul>
+  <li><p>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</p>
+    </li>
+  <li><p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
+  </li>
+  <li><p>Spell out numbers from zero to nine and certain round multiples of those numbers unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges). </p>
+  </li>
+  <li><p>Spell out ordinal numbers first through ninth, use numerals for 10th and above. No superscript.</p>
+  </li>
+  <li><p>Use numerals for versions (version 5 or v5).</p>
+  </li>
+  <li><p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
+  </li>
+  <li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
+  <li>
+</ul>
  
  <p>This is how we format dates and other numbers:</p>
  
 <ul>
-<li>
-<p>1980s or ’80s.</p>
-</li>
-<li>
-<p>32-bit integer.</p>
-</li>
-<li>
-<p>Phone numbers can appear in the format xxx-xxx-xxxx.</p>
-</li>
-<li>
-<p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
-</li>
-<li>
-<p>Use multiplication symbol “&times;” for dimensions, not "by" (e.g., "8.5 &times; 11").</p>
-</li>
-<li>
- <p>Use spaces around inline operators (1 + 1 = 2. <em>NOT 1+1=2</em>).</p>
-</li>
+  <li><p>1980s or ’80s.</p>
+  </li>
+  <li><p>32-bit integer.</p>
+  </li>
+  <li><p>Phone numbers can appear in the format xxx-xxx-xxxx.</p>
+  </li>
+  <li><p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
+  </li>
+  <li><p>Use multiplication symbol “&times;” for dimensions, not "by" (e.g., "8.5 &times; 11").</p>
+  </li>
+  <li><p>Use spaces around inline operators (1 + 1 = 2. <em>NOT 1+1=2</em>).</p>
+  </li>
 </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -394,7 +388,7 @@ title: O'Reilly Style Guide
 <section data-type="sect2" id="figures_tables_and_examples">
 <h2>Figures, Tables, and Examples</h2>
 
-<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. See <a href="#cross_references">Cross References</a> above for more detail on including cross references.</p>
+<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. See <a href="#cross_references">Cross References</a> for more detail on including cross references.</p>
 
 <div data-type="tip">
 <p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
@@ -781,6 +775,7 @@ title: O'Reilly Style Guide
 
 <p><a href="#getting_started">back to top</a></p>
 </section>
+</section>
 
 
 
@@ -788,45 +783,32 @@ title: O'Reilly Style Guide
 <h1>Miscellaneous</h1>
 
 <ul>
-<li>
-<p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
-</li>
-<li>
-<p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
-</li>
-<li>
-<p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
-</li>
-<li>
-<p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
-</li>
- <li>
-  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
- </li>
-<li>
-<p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
-</li>
-<li>
-<p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
-</li>
-<li>
-<p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
-</li>
- <li>
-  <p>Use the American spellings of words when they differ.</p>
+  <li><p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
   </li>
-<li>
-<p>Common foreign terms (such as “en masse”) are roman.</p>
-</li>
-<li>
-<p>Introduce unnumbered code blocks with colons.</p>
-</li>
- <li>
-<p>Do not stack admonitions, sidebars, or headings.</p>
-</li>
- <li>
-<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
-</li>
+  <li><p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
+  </li>
+  <li><p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
+  </li>
+  <li><p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
+  </li>
+  <li><p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. (Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
+  </li>
+  <li><p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
+  </li>
+  <li><p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
+  </li>
+  <li><p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
+  </li>
+  <li><p>Use the American spellings of words when they differ.</p>
+    </li>
+  <li><p>Common foreign terms (such as “en masse”) are roman.</p>
+  </li>
+  <li><p>Introduce unnumbered code blocks with colons.</p>
+  </li>
+  <li><p>Do not stack admonitions, sidebars, or headings.</p>
+  </li>
+  <li><p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
+  </li>
 </ul>
  
 <p><a href="#getting_started">back to top</a></p>
