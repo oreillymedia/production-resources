@@ -456,37 +456,6 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 <p><a href="#getting_started">back to top</a></p>
 </section>
 
-<section data-type="sect2" id="links">
-<h2>Links</h2>
-
-<p>In books produced in Atlas, URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
-
-<ul>
- <li>
-<p>Navigate to the <a href="https://oreilly.com">O'Reilly home page</a> for more information.</p>
- </li>
- </ul>
-
-<p>In the print book, the URL will unfurl in a parenthetical after the linked text:</p>
-
-<ul>
- <li>
-<p>Navigate to the O'Reilly home page (<em>https://oreilly.com</em>) for more information.</p>
- </li>
- </ul>
- 
-<p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
-
-<div data-type="tip">
-<p>We do not anchor URLs to text in books produced in InDesign.</p>
- </div>
-
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
 
 
 <section data-type="sect2" id="headings">
@@ -522,6 +491,37 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 
 <p><a href="#getting_started">back to top</a></p>
 </section>
+
+<section data-type="sect2" id="links">
+<h2>Links</h2>
+
+<p>In books produced in Atlas, URLs should be anchored to descriptive text where possible. In ebook versions, the markup will render like this:</p>
+
+<ul>
+ <li>
+<p>Navigate to the <a href="https://oreilly.com">O'Reilly home page</a> for more information.</p>
+ </li>
+ </ul>
+
+<p>In the print book, the URL will unfurl in a parenthetical after the linked text:</p>
+
+<ul>
+ <li>
+<p>Navigate to the O'Reilly home page (<em>https://oreilly.com</em>) for more information.</p>
+ </li>
+ </ul>
+ 
+<p>Because of this difference in appearance of links in ebooks and print books, long and complex URLs are shortened during production. In the past, we used bit.ly to shorten these URLs, but as of May 2019, all shortened links will be hosted and tracked internally, using the oreil.ly short link. </p>
+
+<div data-type="tip">
+<p>We do not anchor URLs to text in books produced in InDesign.</p>
+ </div>
+
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
 
 
 
@@ -802,8 +802,6 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 
 
 <section data-type="sect1" id="cover-style">
-<h1>O'Reilly Cover Style</h1>
-<p>Use <em>Chicago Manual of Style</em>, 17th Edition for anything not mentioned here.</p>
 <h1>O'Reilly Cover Copy</h1>
 <p>Use <strong><em>Chicago Manual of Style</em>, 18th edition</strong> for anything not mentioned here.</p>
 
