@@ -126,19 +126,19 @@ div[data-type="note"], div[data-type="warning"], div[data-type="tip"] {
 h2 {
     font-size: 20pt;
     text-align: center;
-    border-bottom: 1px solid #009999;
-    color: #009999;
+    border-bottom: 1px solid #d3002d;
+    color: #d3002d;
 }
 
 h3 {
     font-size: 16pt;
-    color: #009999;
+    color: #d3002d;
     padding-top: 10px;
 }
 
 h4 {
     font-size: 12pt;
-    color: #009999;
+    color: #d3002d;
 }
 
 
@@ -220,19 +220,19 @@ body {
 h2 {
     font-size: 24pt;
     text-align: center;
-    border-bottom: 1px solid #009999;
-    color: #009999;
+    border-bottom: 1px solid #d3002d;
+    color: #d3002d;
 }
 
 h3 {
     font-size: 20pt;
-    color: #009999;
+    color: #d3002d;
     padding-top: 10px;
 }
 
 h4 {
     font-size: 16pt;
-    color: #009999;
+    color: #d3002d;
 }
 
 .no-bullets li  {
