@@ -438,7 +438,8 @@ title: O'Reilly Style Guide
  <p>We want to accurately replicate the back-and-forth between human and AI. Human prompts can be edited very lightly (e.g., punctuation, capitalization), but AI-generated text should be kept verbatim. If AI output is edited for some reason, be sure to still acknowledge the AI's contribution. It must be clear what is AI-generated.</p>
 
  <p>Display content that has a programming context in a code block, with a normal paragraph separating the prompt and the response as needed. The code content should be left verbatim, for the most part, though typos can be flagged for author/production attention. There will not be syntax highlighting. Here is an example:</p>
- <pre>prompt = "Write an email apologizing to Sarah for the tragic gardening mishap. Explain how it happened."
+ <blockquote><pre>prompt = "Write an email apologizing to Sarah for the tragic gardening mishap. 
+          Explain how it happened."
 
 output = generator(prompt)
 
@@ -450,7 +451,7 @@ Subject: My Sincere Apologies for the Gardening Mishap
 
 Dear Sarah,
 
-I hope this message finds you well. I am writing to express my deep</pre>
+I hope this message finds you well. I am writing to express my deep...</pre></blockquote>
   
 <p><a href="#getting_started">back to top</a></p>
 </section>
