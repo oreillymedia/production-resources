@@ -8,26 +8,25 @@ title: O'Reilly Style Guide
 * <a href="#getting_started">About O'Reilly Style</a>
 * <a href="#considering_electronic_formats">Considering Electronic Formats</a>
 * <a href="#orm_grammar_punctuation_etc">O’Reilly Grammar, Punctuation, etc.
-  * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
-  * <a href="#bibliographical_entries">Bibliographical Entries</a>
-    * <a href="#footnotes">Footnotes</a>
-  * <a href="#cross_references">Cross References</a>
-  * <a href="#headings">Headings</a>
-  * <a href="#dates_and_numbers">Dates and Numbers</a>
-  * <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
-  * <a href="#code">Code</a>
-    * <a href="#line-length-ZKs1FLck">Line Length</a>
-    * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
-    * <a href="#formatting-code-in-word-yDsgtXca">Formatting Code in Word</a>
-  * <a href="#gen_ai">Generative AI</a>
-  * <a href="#links">Links</a>
-  * <a href="#lists">Lists</a>
-    * <a href="#numbered_list">Numbered list</a>
-    * <a href="#variable_list">Variable list</a>
-    * <a href="#bulleted_list">Bulleted list</a>
-  * <a href="#miscellaneous">Miscellaneous</a> 
-  * <a href="#punctuation">Punctuation</a>
-  * <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
+    * <a href="#abbreviationsacronyms">Abbreviations/Acronyms</a>
+    * <a href="#bibliographical_entries">Bibliographical Entries</a>
+    * <a href="#code">Code</a>
+        * <a href="#line-length-ZKs1FLck">Line Length</a>
+        * <a href="#syntax-highlighting-zVsXIecp">Syntax Highlighting</a>
+    * <a href="#cross_references">Cross References</a>
+    * <a href="#dates_and_numbers">Dates and Numbers</a>
+    * <a href="#figures_tables_and_examples">Figures, Tables, and Examples</a>
+    * <a href="#gen_ai">Generative AI</a>
+    * <a href="#headings">Headings</a>
+    * <a href="#links">Links</a>
+    * <a href="#lists">Lists</a>
+        * <a href="#bulleted_list">Bulleted list</a>
+        * <a href="#numbered_list">Numbered list</a>
+        * <a href="#variable_list">Variable list</a>
+    * <a href="#punctuation">Punctuation</a>
+    * <a href="#typography_and_font_conventions">Typography and Font Conventions</a>
+* <a href="#miscellaneous">Miscellaneous</a> 
+* <a href="#cover-style">O'Reilly Cover Copy</a>
 * <a href="#word-list">O’Reilly Word List</a> 
  
 
@@ -40,7 +39,9 @@ title: O'Reilly Style Guide
 
 <p>For term conventions, check our guide and word list first, then <em>The Chicago Manual of Style</em>, 17th edition, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter).</p>
 
-<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. The <a href="https://consciousstyleguide.com">Conscious Style Guide</a> is one good resource, aggregating links to relevant organizations. <strong>The <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington has another</a> that is tech-specific.</strong> The <strong><a href="https://ncdj.org/style-guide">Disability Language Style Guide</a></strong> is a thorough guide to writing about disabilities with sensitivity. Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old).</p>
+<p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. O’Reilly aims to avoid the following problematic language and recommends using resources such as the <a href="https://consciousstyleguide.com">Conscious Style Guide</a>, the <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington’s “IT Inclusive Language Guide”</a>, and the <a href="https://ncdj.org/style-guide">Disability Language Style Guide</a> for alternatives.
+
+<p>Avoid language that is unnecessarily gendered (e.g., middleman, man hours), violent (e.g., hit, kill), and otherwise exclusionary, incendiary, or imprecise (e.g., crazy, dummy, master/slave, tribe). Avoid associating positive or negative characteristics with colors that are also associated, problematically, with people (blackbox, black hat, white list, etc.). Always follow a person’s preference and note exceptions, if necessary (e.g., quoting research that is decades old or technology that has fallen behind the times).</p>
 
 <p>For questions specific to your book or assignment, please consult with your editor or production editor.</p>
 </section>
@@ -99,7 +100,8 @@ title: O'Reilly Style Guide
 
 
 <section data-type="sect2" id="abbreviationsacronyms">
-<h2>Abbreviations/Acronyms</h2>
+<h2>Abbreviations &amp; Acronyms</h2>
+<p>See the <strong><em>The Chicago Manual of Style</em>, 18th edition</strong> for questions about abbreviations and acronyms that are not covered here:</p>
 
 <ul>
  <li>
@@ -513,10 +515,134 @@ title: O'Reilly Style Guide
 <p><a href="#getting_started">back to top</a></p>
 </section>
 
+
+
+<section data-type="sect2" id="cross_references">
+<h2>Cross References</h2>
+
+<p>Here are a few examples of cross references:</p>
+
+<ul>
+<li>
+<p>Chapter: See Chapter 27.</p>
+</li>
+<li>
+<p>Section: See “Treatment” on page xx. (The text “on page xx” will be dynamic in Atlas, updating as page numbers change.)</p>
+</li>
+<li>
+<p>Figure: ...as shown in Figure 1-1.</p>
+</li>
+<li>
+<p>Sidebars: See “A Note for Mac Users” on page xx. (As with section xrefs, the page number will update automatically in Atlas.)</p>
+</li>
+</ul>
+ 
+<p>More details on cross-references in Asciidoc are available in our <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> guide.</p>
+
+<p>These cross-reference styles are also available in DocBook under various &lt;xref&gt;: formats. Please refer to the <a href="http://chimera.labs.oreilly.com/books/1234000000058/ch02.html#creating_xrefs">DocBook Authoring Guidelines</a>.</p>
+
+<p>For information about styling URLs and hyperlinks, see <a data-type="xref" href="#considering_electronic_formats">Considering Electronic Formats</a>.</p>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
+<section data-type="sect2" id="dates_and_numbers">
+<h2>Dates and Numbers</h2>
+
+<p>Here is some additional guidance on what to spell out and when:</p>
+<ul>
+  <li><p>Always use the symbol % with numerals rather than the spelled out word (percent), and make sure it is closed up to number: 0.05%. Unless the percentage begins a sentence or title/caption, the number should be a numeral with the % symbol.</p>
+  </li>
+  <li><p>Centuries follow the same zero through nine rule, so those will usually be numerals (i.e., 20th century, 21st century).</p>
+    </li>
+  <li><p>In most numbers of one thousand or more, commas should be used between groups of three digits, counting from the right (32,904 <em>NOT 32904</em>). Exceptions: page numbers, addresses, port numbers, etc.</p>
+  </li>
+  <li><p>Spell out numbers from zero to nine and certain round multiples of those numbers unless the same object appears in a sentence with an object 10 or over (five apples; five apples and one hundred oranges; 5 apples and 110 oranges). </p>
+  </li>
+  <li><p>Spell out ordinal numbers first through ninth, use numerals for 10th and above. No superscript.</p>
+  </li>
+  <li><p>Use numerals for versions (version 5 or v5).</p>
+  </li>
+  <li><p>Use a numeral if it’s an actual value (e.g., 5% 7″ $6.00).</p>
+  </li>
+  <li><p>Whole numbers one through nine followed by hundred, thousand, million, billion, and so forth are usually spelled out (except in the sciences or with monetary amounts).</p>
+  </li>
+</ul>
+ 
+ <p>This is how we format dates and other numbers:</p>
+ 
+<ul>
+  <li><p>1980s or ’80s.</p>
+  </li>
+  <li><p>32-bit integer.</p>
+  </li>
+  <li><p>Phone numbers can appear in the format xxx-xxx-xxxx.</p>
+  </li>
+  <li><p>Use an en dash (–) with negative numbers or for minus signs, rather than a hyphen.</p>
+  </li>
+  <li><p>Use multiplication symbol “&times;” for dimensions, not "by" (e.g., "8.5 &times; 11").</p>
+  </li>
+  <li><p>Use spaces around inline operators (1 + 1 = 2. <em>NOT 1+1=2</em>).</p>
+  </li>
+</ul>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
+
+
+
+
+
+
+<section data-type="sect2" id="figures_tables_and_examples">
+<h2>Figures, Tables, and Examples</h2>
+
+<p>Every formally numbered figure, table, and example should be preceded by a specific in-text reference (for example: see Figure 99-1; Example 1-99 shows; Table 1-1 lists, etc.). Formal figures, tables, and examples should not be introduced with colons or phrases like “in the following figure,” or “as shown in this table.” Though we do support unnumbered informal figures/tables/examples, these should be used only for elements whose contents are not discussed at length or referred back to. Lack of specific in-text references may cause incorrect placement of figures. See <a href="#cross_references">Cross References</a> for more detail on including cross references.</p>
+
+<div data-type="tip">
+<p>If you are writing or copyediting in Word, figure, table, and example numbers should be numbered as follows: 1-2 (note hyphen [-], not en dash [–] between numbers). The first number is the chapter number. This will be soft-coded in production if not during the writing process.</p>
+
+<p>If you are writing or copyediting in Asciidoc, please refer to <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#XREFS">Writing in AsciiDoc</a> for examples of Asciidoc cross references.</p>
+
+<p>If you are writing or copyediting in DocBook, please reference each figure, table, and example with an &lt;xref&gt;.</p>
+</div>
+
+<p>Any word groupings within a figure should have an initial cap on the first word only, with the exception of proper nouns. Generally, we don’t use periods at the end of these word groupings.</p>
+
+<ul>
+<li>
+<p>Figure 1-1. Figure captions are sentence-cased, with the exception of proper nouns. Code styling is allowed within the figure name or caption. There is no period after figure captions. Exceptions should be discussed with your production editor (e.g., if several long captions require punctuation, we can collaborate on efficient ways to achieve consistency). </p>
+</li>
+<li>
+<p>Table 1-1. Column heads and table titles are sentence-cased, with the exception of proper nouns.  Code styling is allowed within the table name or caption. There is no period after table titles.</p>
+</li>
+<li>
+<p>Example 1-1. Example titles are sentence-cased, with the exception of proper nouns. Code styling is allowed within the example name or caption. There is no period after example titles.</p>
+</li>
+</ul>
+
+<div data-type="tip">
+<p>When working in Word, make sure all table cells are tagged with a cell paragraph tag, even if they’re blank. Any bold “headings” that appear below the very first row of a table should be tagged CellSubheading rather than CellHeading.</p>
+
+<p>Also in Word, all figures must be within a FigureHolder paragraph followed directly by a FigureTitle paragraph.</p>
+</div>
+
+<p><a href="#getting_started">back to top</a></p>
+</section>
+
+
+
+
+
+
 <section data-type="sect2" id="#gen_ai">
  <h2>Generative AI</h2>
 
- <p>Display text generated by artificial intelligence in blockquotes. To separate a prompt from a response, showing who “said” what, use italics:</p> 
+ <p>There are two main contexts where generative AI content appears: chatbot/UI interactions, and code/programming interactions. The former will appear in more non-technical books, while the latter is common in books aimed at developers and engineers. Query production if you're not sure what category something belongs in.</p>
+ <p>Display "conversational" text generated in an AI chatbot environment in blockquotes. To separate a prompt from a response, showing who “said” what, use italics:</p> 
  
  <blockquote>
   <p><em>Prompt</em>: Can you write some text?</p>
@@ -525,6 +651,21 @@ title: O'Reilly Style Guide
   
  <p>We want to accurately replicate the back-and-forth between human and AI. Human prompts can be edited very lightly (e.g., punctuation, capitalization), but AI-generated text should be kept verbatim. If AI output is edited for some reason, be sure to still acknowledge the AI's contribution. It must be clear what is AI-generated.</p>
 
+ <p>Display content that has a programming context in a code block, with a normal paragraph separating the prompt and the response as needed. The code content should be left verbatim, for the most part, though typos can be flagged for author/production attention. There will not be syntax highlighting. Here is an example:</p>
+ <pre>prompt = "Write an email apologizing to Sarah for the tragic gardening mishap. Explain how it happened."
+
+output = generator(prompt)
+
+print(output[0]['generated_text'])</pre>
+  <p>This generates the text:</p>
+  <pre>Solution 1:
+
+Subject: My Sincere Apologies for the Gardening Mishap
+
+Dear Sarah,
+
+I hope this message finds you well. I am writing to express my deep</pre>
+  
 <p><a href="#getting_started">back to top</a></p>
 </section>
 
@@ -729,58 +870,48 @@ title: O'Reilly Style Guide
 
 
 
+<section data-type="sect2" id="punctuation">
+<h2>Punctuation</h2>
 
-<section data-type="sect1" id="miscellaneous">
-<h1>Miscellaneous</h1>
+ <p>For anything not covered in this list, please consult the <strong><em>Chicago Manual of Style</em>, 18th edition</strong>.</p>
 
 <ul>
 <li>
-<p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p>
+<p>Commas and periods go inside quotation marks.</p>
 </li>
 <li>
-<p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p>
-</li>
-<li>
-<p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p>
-</li>
-<li>
-<p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p>
+<p>Curly quotes and apostrophes (“ ” not " ") in regular text.</p>
 </li>
  <li>
-  <p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p>
- </li>
-<li>
-<p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p>
-</li>
-<li>
-<p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p>
-</li>
-<li>
-<p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p>
+<p>Ellipses are always closed (no space around them).</p>
 </li>
  <li>
-  <p>Use the American spellings of words when they differ.</p>
+ <p>Em dashes are always closed (no space around them).</p>
   </li>
+ <li><p>Footnote markers in running text should always appear <em>after</em> punctuation (e.g., ".<sup>1</sup>" and <em>not</em> "<sup>1</sup>.").</p></li>
+<li><p>Footnotes in running text are numbered and start over at 1 in each chapter. (More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.)</p></li>
 <li>
-<p>Common foreign terms (such as “en masse”) are roman.</p>
+<p>For menu items that end with an ellipsis (e.g., "New Folder…"), do not include ellipsis in running text.</p>
 </li>
 <li>
-<p>Introduce unnumbered code blocks with colons.</p>
+<p>Lowercase the first letter after a colon: this is how we do it. (Exception: headings.)</p>
 </li>
- <li>
-<p>Do not stack admonitions, sidebars, or headings.</p>
+<li>
+<p>No period after list items unless one item forms a complete sentence (then use periods for all items within that list, even fragments).</p>
 </li>
- <li>
-<p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p>
+<li>
+<p>Parentheses are always roman, even when the contents are italic. For parentheses within parentheses, use square brackets (here’s the first parenthetical [and here’s the second]).</p>
+</li>
+<li>
+<p>Serial comma (this, that, and the other).</p>
+</li>
+<li>
+<p>Straight quotes (" " not “ ”) in constant-width text and all code. Some Unix commands use backticks (<code>`</code>), which must be preserved.</p>
+</li>
+ <li><p>Table footnotes are lettered (a, b, c, etc.) and appear directly after the table. They should be kept to a minimum.</p>
 </li>
 </ul>
- 
-<p><a href="#getting_started">back to top</a></p>
 </section>
-
-
-
-
 
 
 
@@ -869,8 +1000,31 @@ title: O'Reilly Style Guide
 
 <p><a href="#getting_started">back to top</a></p>
 </section>
+</section>
 
 
+
+<section data-type="sect1" id="miscellaneous">
+<h1>Miscellaneous</h1>
+
+<ul>
+    <li><p>Avoid obscenities and slurs, and obscure if included (grawlix, a two-em dash, etc.)</p></li>
+    <li><p>Avoid using the possessive case for singular nouns ending in “s,” if possible. So, it’s “the Windows Start menu,” not “Windows’s Start menu.”</p></li>
+    <li><p>Avoid wholesale changes to the author’s voice—for example, changing the first-person plural (the royal “we”) to the first-person singular or the second person. However, do try to maintain a consistency within sentences or paragraphs, where appropriate.</p></li>
+    <li><p>Close up words with the following prefixes (unless part of a proper noun) “micro,” “meta,” “multi,” “pseudo,” “re,” “non,” “sub,” and "co" (e.g., “multiusers,” “pseudoattribute,” “nonprogrammer,” “subprocess,” "coauthor"). Exceptions are noted in the word list (e.g., "re-create," "re-identification").</p></li>
+    <li><p>Common foreign terms (such as “en masse”) are roman.</p></li>
+    <li><p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p></li>
+    <li><p>Do not stack admonitions, sidebars, or headings.</p></li>
+  <li><p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p></li>
+    <li><p>Introduce unnumbered code blocks with colons.</p></li>
+    <li><p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p></li>
+    <li><p>Use the American spellings of words when they differ.</p></li>
+    <li><p>We advise using a conversational, user-friendly tone that assumes the reader is intelligent but doesn’t have this particular knowledge yet—like an experienced colleague onboarding a new hire. First-person pronouns, contractions, and active verbs are all encouraged. (Copyeditors: please check with your production editor if you wish to suggest global changes to tone.)</p></li>
+    <li><p>When referring to software elements or labels, always capitalize words that are capitalized on screen. Put quotes around any multiword element names that are lowercase or mixed case on screen and would thus be hard to distinguish from the rest of the text (e.g., Click “Don’t select object until rendered” only if necessary.)</p></li>
+</ul>
+ 
+<p><a href="#getting_started">back to top</a></p>
+</section>
 
 
 
