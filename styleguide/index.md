@@ -1698,8 +1698,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>trade-off</li>
  <li>– tribe s/b avoided (alternatives: company, institution, network, community)</li>
  <li>tweet, retweet, live-tweet v, n (avoid “tweet out”)</li>
- <li>Twitter user (preferred to "tweeter")</li>
- <li>Twitterstorm, tweetstorm</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
