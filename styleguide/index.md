@@ -1061,9 +1061,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>bit plane</li>
  <li>bitwise operators</li>
  <li>BlackBerry</li>
- <li>–black-box/white-box testing s/b avoided (alternatives: behavioral/structural testing, closed/open testing, opaque/clear testing)</li>
- <li>–black hat/white hat s/b avoided (alternatives: unethical/ethical, malicious/preventative)</li>
- <li>–blacklist/whitelist s/b avoided (alternatives: block list/allow list, deny/permit, excluded/included)</li>
  <li>Boolean (unless referring to a datatype in code, in which case s/b lowercase)</li>
  <li>Bourne-again shell (bash)</li>
  <li>Bourne shell</li>
@@ -1117,7 +1114,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>copyright</li>
  <li>coworker</li>
  <li>CPU (no need to expand to central processing unit)</li>
- <li>–crazy s/b avoided (alternatives: foolish, bizarre, etc.)</li>
  <li>criterion (s), criteria (p)</li>
  <li>cross-reference</li>
  <li>C shell</li>
@@ -1166,7 +1162,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>drag-and-drop (n)</li>
  <li>drag and drop (v)</li>
  <li>drop-down (a)</li>
- <li>–dummy s/b avoided (alternatives include: placeholder)</li>
  </ul>
 
 <p><a href="#getting_started">back to top</a></p>
@@ -1326,7 +1321,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>keywords</li>
  <li>key performance indicators (KPIs)</li>
  <li>kHz (kilohertz)</li>
- <li>–kill s/b avoided (alternatives: end, exit, cancel)</li>
  <li>Korn shell</li>
  </ul>
 
@@ -1364,10 +1358,8 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>macOS (replaces Mac OS X)</li>
  <li>machine learning (n and a, no hyphen)</li>
  <li>mail-handling (adjective)</li>
- <li>– man hours s/b avoided (alternatives: work hours, employee hours)</li>
  <li>manpage</li>
  <li>markup</li>
- <li>–master/slave (n, a) s/b avoided (alternatives: parent/child, leader/follower, primary/secondary)</li>
  <li>Mb (megabit)</li>
  <li>MB (megabyte)</li>
  <li>MBps (megabytes per second)</li>
@@ -1384,7 +1376,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>Microsoft Windows NT</li>
  <li>Microsoft Windows XP</li>
  <li>Microsoft Windows 2000</li>
- <li>–middleman s/b avoided (alternatives: go-between, link, etc.)</li>
  <li>MIDlet</li>
  <li>MKS Toolkit</li>
  <li>model-in-the-loop</li>
@@ -1586,7 +1577,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>single-precision (a)</li>
  <li>single quote</li>
  <li>site map</li>
- <li>–slave/master (n, a) s/b avoided (alternatives: child/parent, follower/leader, secondary/primary)</li>
  <li>Smalltalk</li>
  <li>SMP (a, n)</li>
  <li>SOAP</li>
@@ -1649,7 +1639,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>top-level (a)</li>
  <li>toward</li>
  <li>trade-off</li>
- <li>– tribe s/b avoided (alternatives: company, institution, network, community)</li>
  <li>tweet, retweet, live-tweet v, n (avoid “tweet out”)</li>
  </ul>
 
@@ -1708,10 +1697,7 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>web server</li>
  <li>web services (unless preceded by a proper noun, as in Microsoft Web Services)</li>
  <li>website</li>
- <li>–white-box testing s/b avoided (alternatives: structural/behavioral testing open/closed testing, clear/opaque testing)</li>
- <li>–white hat/black hat s/b avoided (alternatives: ethical/unethical, preventative/malicious)</li>
  <li>white pages</li>
- <li>–whitelist/blacklist s/b avoided (alternatives: allow list/block list, permit/deny, included/excluded)</li>
  <li>whitepaper (I printed my whitepaper on white paper.)</li>
  <li>whitespace</li>
  <li>wide area network or WAN</li>
