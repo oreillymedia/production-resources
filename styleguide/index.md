@@ -822,53 +822,6 @@ I hope this message finds you well. I am writing to express my deep</pre>
 
 
 
-<section data-type="sect2" id="punctuation">
-<h2>Punctuation</h2>
-
- <p>For anything not covered in this list, please consult the <em>Chicago Manual of Style</em>, 17th Edition.</p>
-
-<ul>
-<li>
-<p>Serial comma (this, that, and the other).</p>
-</li>
-<li>
-<p>Commas and periods go inside quotation marks.</p>
-</li>
-<li>
-<p>Curly quotes and apostrophes (“ ” not " ") in regular text.</p>
-</li>
-<li>
-<p>Straight quotes (" " not “ ”) in constant-width text and all code. Some Unix commands use backticks (<code>`</code>), which must be preserved.</p>
-</li>
-<li>
-<p>No period after list items unless one item forms a complete sentence (then use periods for all items within that list, even fragments).</p>
-</li>
- <li>
- <p>Em dashes are always closed (no space around them).</p>
-  </li>
- <li>
-<p>Ellipses are always closed (no space around them).</p>
-  </li>
-<li>
-<p>For menu items that end with an ellipsis (e.g., "New Folder…"), do not include ellipsis in running text.</p>
-</li>
-<li>
-<p>Lowercase the first letter after a colon: this is how we do it. (Exception: headings.)</p>
-</li>
-<li>
-<p>Parentheses are always roman, even when the contents are italic. For parentheses within parentheses, use square brackets (here’s the first parenthetical [and here’s the second]).</p>
-</li>
-</ul>
-</section>
-
-<p><a href="#getting_started">back to top</a></p>
-</section>
-
-
-
-
-
-
 
 <section data-type="sect2" id="punctuation">
 <h2>Punctuation</h2>
