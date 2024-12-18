@@ -863,7 +863,7 @@ I hope this message finds you well. I am writing to express my deep</pre>
 <h2 id="wordlist-B">B</h2>
 
 <ul>
- <li>_build-&gt;measure-&gt;learn_ cycle</li>
+ <li>build-measure-learn cycle</li>
 <li>backend</li>
  <li>background processes</li>
  <li>backpressure</li>
@@ -1037,7 +1037,7 @@ I hope this message finds you well. I am writing to express my deep</pre>
  <li>FreeBSD</li>
  <li>frontend</li>
  <li>FTP (protocol)</li>
- <li>_ftp_ (Unix command)</li>
+ <li>ftp (Unix command)</li>
  <li>FTP site</li>
  <li>full stack (Full Stack in headings), no hyphen, even if adjective</li>
         </ul>
