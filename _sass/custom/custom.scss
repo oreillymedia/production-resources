@@ -1,0 +1,58 @@
+.nowrap {
+    white-space: nowrap;
+}
+
+.hide {
+    display:none;
+}
+
+.implementation_notes {
+    text-align:right;
+    color: $link-color;
+    margin-bottom: 0;
+    padding: 5px 36px 5px 0;
+    position: relative;
+    svg {
+        position: absolute;
+        right:0;
+        bottom:1px;
+        width: 2rem;
+        height: 2rem;
+        padding: .5rem;
+        transform: rotate(90deg);
+        }
+    svg.active {
+        transform: rotate(-90deg);
+    }
+    &:hover {
+        svg {
+        background-color: #f5f6fa;
+    }
+    }
+
+}
+.implementation_notes_container td {
+    border-right: 1px solid $link-color;
+    }
+
+
+h4 {
+    color: $link-color;
+}
+.main-content h4 {
+    margin-top: 3em;
+}
+
+.eol {
+    color: #3d3b49; 
+}
+
+.deprecated {
+    color: $link-color;
+    text-decoration: line-through;
+}
+
+.main-content dl, dd, dt {
+    display: block;
+    text-align: left ! important;
+}
