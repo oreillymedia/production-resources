@@ -710,7 +710,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 <tbody>
 <tr>
 
-<td><p>Filenames, file extensions (such as .jpeg), directory paths, and libraries. Exception: Python packages (e.g., NumPy, scikit-learn, TensorFlow, etc.) are roman and cased according to convention.</p></td>
+<td><p>Filenames, file extensions (such as .jpeg), and directory paths.</p></td>
 <td><p><em>Body font italic</em></p></td>
 </tr>
 <tr>
@@ -762,6 +762,11 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 <td><p>Keyboard accelerators (Ctrl, Shift, etc.), menu titles, menu options, menu buttons</p></td>
 <td><p>Body text</p></td>
 </tr>
+<tr>
+<td><p><strong>Packages and libraries (e.g., NumPy, scikit-learn, TensorFlow, rJava, etc.) are roman and cased according to convention.</strong></p></td>
+<td><p>Body text</p></td>
+</tr>
+
 </tbody>
 </table>
 
