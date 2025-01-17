@@ -1,6 +1,6 @@
 ---
 layout: default
-title: styleguide
+title: O'Reilly Media Illustration Guidelines
 ---
 # O'Reilly Media Illustration Guidelines
 
