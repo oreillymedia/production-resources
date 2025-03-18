@@ -37,33 +37,41 @@ Regardless of figure size, any text elements cannot be less than 8pt or they wil
 Use whatever method is most comfortable for you when first creating your illustrations: they can be sketched, described in text, or generated using a drawing application.
 
 * Please submit drafts either as PDFs, PNGs, or TIF. Avoid using JPEG or SVG file types. 
-* If you’re using a Visio, PowerPoint, Google, or other drawing program, please export your files as PDFs or PNG. We can not use native files from 3rd party applications.
-* Please avoid using 3rd party logos and icons.
+* If you’re using a Visio, PowerPoint, Google, or other drawing program, please export your files as PDFs or PNG. We cannot use native files from third-party applications.
+* Please avoid using third-party logos and icons. Using text labels is preferred.
 
 ## Screenshots
 
 Screenshots will be processed to ensure correct sizing, and may be slightly darkened/lightened to meet printing specifications.
 
 * Please capture the smallest necessary area when a full desktop screenshot is not required. The less in the screenshot, the more useful it will be for the reader.
-* Take screenshots at the highest resolution possible—300 dpi is ideal and we don’t print anything below 150dpi
-* Take screenshots in RGB color
+* Take screenshots at the highest resolution possible—300 dpi is ideal and we don’t print anything below 150dpi.
+* Take screenshots in RGB color.
 * Save screenshots as PNG or TIF. Do not save your screenshots as JPEG. This will result in illegible text.
 * Keep in mind that unless specified, your book will be printed in B&W. Using subtle colors/shades within exported graphs, for example, will not be distinguishable in print.
 * Light mode screenshots are preferable, though we can print dark mode screenshots in moderation (particularly if they do not appear back-to-back). 
 
-**The following methods are best practice as recommended by our design team for capturing images**
+**The following methods are best practice as recommended by our design team for capturing images.**
+
+First, set your monitor to the highest resolution you have available (if only temporarily while you are taking screenshots). Here are official Mac and Windows instructions:
+* [Mac]([http://example.com](https://support.apple.com/guide/mac-help/change-your-displays-resolution-mchl86d72b76/mac))
+* [Windows]([http://example.com](https://support.microsoft.com/en-us/windows/change-your-screen-resolution-and-layout-in-windows-5effefe3-2eac-e306-0b5d-2073b765876b))
+
+If the program you are screenshotting has a native way to zoom in within the UI, that's a great place to start! 
 
 How to take a screenshot on Mac:
-1.    Shift + Command + 3 takes a screenshot of the entire screen. Shift + Command + 4 lets you highlight a specific part of the screen to capture
+1.    Shift + Command + 3 takes a screenshot of the entire screen. Shift + Command + 4 lets you highlight a specific part of the screen to capture.
 2.    It saves to your desktop as a PNG. Just leave that file as-is.
+3. If you need to crop the image, open in an image editing program like Photos or Photoshop.
 
-How to take a screenshot on Windows 10 with the PrtScn key
-1.    Press PrtScn. This copies the entire screen to the clipboard. ... 
-2.    Press Alt + PrtScn. This copies the active window to the clipboard, which you can paste into another program.
-3.    Press the Windows key + Shift + S. ... 
-4.    Press the Windows key + PrtScn.
+How to take a screenshot on Windows with PrtScn key:
+1. To capture the entire screen, press Windows key + PrtScn. To capture all active windows, press PrtScn. To capture a single window, select the window, then press Alt + PrtScn.
+2. All methods copy an image to the clipboard. 
+3. You can now paste that clipboard image into an image editing program such as Microsoft Paint or Photoshop, where you can crop it if needed. Save it as a PNG.
 
-If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a “clean” version without callouts, and a version that indicates the callouts you want. Our Illustrator will use standard O’Reilly fonts and specs to add callouts to the clean file, using your example as a guide.
+You may also use the Snipping Tool (Windows key + Shift + S), as explained [here](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b).  
+
+If you need to add callouts (such as arrows, boxes, or explanatory text) to your images, please include two versions of the image: a “clean” version without callouts, and a version that shows the callouts you want. Our illustrator will use standard O’Reilly fonts and specs to add callouts to the clean file, using your example as a guide.
 
 ## Naming Your Files/Organizing with a Figure List
 
