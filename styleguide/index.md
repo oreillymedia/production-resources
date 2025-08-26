@@ -1054,6 +1054,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
  <li>Gb (gigabit)</li>
  <li>GB (gigabyte)</li>
  <li>GBps (gigabytes per second)</li>
+ <li>GenAI</li>
  <li>GHz</li>
  <li>gid</li>
  <li>GIMP</li>
