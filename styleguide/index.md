@@ -37,7 +37,7 @@ title: O'Reilly Style Guide
 
 <p>Authors, please also consult the authoring documentation for the format in which you’re writing (<a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html">Asciidoc</a>, <a href="http://oreillymedia.github.io/HTMLBook/">HTMLbook</a>, <a href="https://docbook.org">DocBook</a>, or <a href="http://oreillymedia.github.io/production-resources/word/">Word</a>). For sponsored projects, please see our <a href="https://oreil.ly/editorial-independence">statement of editorial independence</a>.</p>
 
-<p>For term conventions, check our guide and word list first, then **<em>The Chicago Manual of Style</em>, 18th edition**, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter).</p>
+<p>For term conventions, check our guide and word list first, then <strong><em>The Chicago Manual of Style</em>, 18th edition</strong>, then <em><a href="https://www.merriam-webster.com">Merriam-Webster’s Collegiate Dictionary</a></em>. Use your book-specific word list (provided by production) to document style choices that differ or are not covered here (e.g., A.M. or a.m., data center or datacenter).</p>
 
 <p>To avoid unintentional bias, when writing about groups of people, check the group’s advocacy organization for guidance on appropriate language. O’Reilly aims to avoid the following problematic language and recommends using resources such as the <a href="https://consciousstyleguide.com">Conscious Style Guide</a>, the <a href="https://itconnect.uw.edu/work/inclusive-language-guide">University of Washington’s “IT Inclusive Language Guide”</a>, and the <a href="https://ncdj.org/style-guide">Disability Language Style Guide</a> for alternatives.
 
@@ -93,7 +93,7 @@ title: O'Reilly Style Guide
 <section data-type="sect1" id="orm_grammar_punctuation_etc">
 <h1>O’Reilly Grammar, Punctuation, etc.</h1>
 
-<p>For any words or conventions not covered here, refer to **<em>The Chicago Manual of Style</em>, 18th edition** and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
+<p>For any words or conventions not covered here, refer to <strong><em>The Chicago Manual of Style</em>, 18th edition</strong> and <em><a href="https://www.merriam-webster.com/">Merriam-Webster</a></em>.</p>
 
 
 
