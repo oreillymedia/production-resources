@@ -108,6 +108,9 @@ title: O'Reilly Style Guide
  <li>
   <p>Acronyms should be capitalized when expanded only if the term is a proper noun (and spelled that way by the company). For example, key performance indicator (KPI), but Amazon Web Services (AWS).</p>
  </li>
+    <li>
+  <p>Acronyms inside header text should be expanded instead of abbreviated (unless it is a well-known, common acronym for the audience).</p>
+ </li>
  <li>
 <p>In units of measure, do not use a hyphen. For example, it’s 32 MB hard drive, not 32-MB hard drive. (Though when the unit is spelled out, use a hyphen, e.g., 32-megabyte hard drive.)</p>
 </li>
@@ -461,7 +464,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 <section data-type="sect2" id="headings">
 <h2>Headings</h2>
 
-<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font.</p>
+<p>Headings should not contain inline code font or style formatting such as bold, italic, or code font. Acronyms should be expanded, unless it is a very common one that is well-known to the audience.</p>
 
 <p>Headings should always immediately precede body text. Do not follow a heading with an admonition or another heading without some form of introductory or descriptive text.</p>
 
