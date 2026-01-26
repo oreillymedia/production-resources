@@ -663,7 +663,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 </li>
  <li>
  <p>Em dashes are always closed (no space around them).</p>
-    <p>AI note: Em dashes are widely used in formal writing to indicate interruptions, emphasize clauses, and create strong breaks between thoughts. While some early AI models overused em dashes and they became considered a sign of AI-generated content, O'Reilly does not discourage or ban their use. While we take concerns about AI-generated writing seriously, the use of em dashes alone is not a definitive indicator; rather, we watch for the presence of multiple AI tells.</p>
+    <p>AI note: Em dashes are widely used in formal writing to indicate interruptions, emphasize clauses, and create strong breaks between thoughts. While some early AI models overused em dashes and they became considered a sign of AI-generated content, O'Reilly does not discourage or ban their use. Though we take concerns about AI-generated writing seriously, the use of em dashes alone is not a definitive indicator; rather, we watch for the presence of multiple AI tells.</p>
   </li>
  <li><p>Footnote markers in running text should always appear <em>after</em> punctuation (e.g., ".<sup>1</sup>" and <em>not</em> "<sup>1</sup>.").</p></li>
 <li><p>Footnotes in running text are numbered and start over at 1 in each chapter. (More details about styling footnotes in AsciiDoc are in <a href="http://docs.atlas.oreilly.com/writing_in_asciidoc.html#adding_footnotes">Writing in AsciiDoc</a>.)</p></li>
