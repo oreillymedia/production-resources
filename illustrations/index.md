@@ -35,8 +35,9 @@ Regardless of figure size, any text elements cannot be less than 8pt or they wil
 
 ## Drawn Illustrations
 Use whatever method is most comfortable for you when first creating your illustrations: they can be sketched, described in text, or generated using a drawing application.
+Authors have previously used applications such as Mermaid, Drawio, Excalidraw, and Lucidcharts to create their figures. When submitting your figures from these or any other application, we ask for you to export them as the file types listed below.
 
-* Please submit drafts either as PDFs, PNGs, or TIF. Avoid using JPEG or SVG file types. 
+* Please submit drafts either as PDFs, PNGs, or TIF. Avoid using JPEG or SVG file types. PNGs are the most convenient format for us, however PDF and TIF are also fine! JPEG files can have resolution/compression issues depending on how they are exported, and this can lead to unclear information/pixelization within a submitted file, making redrawing more difficult. SVG files can have issues with pieces dropping out when brought into Adobe Illustrator (our redraw tool), depending on how they are created and what is included in them. To avoid confusion during the redraw process we ask for these file types to be avoided. 
 * If you’re using a Visio, PowerPoint, Google, or other drawing program, please export your files as PDFs or PNG. We cannot use native files from third-party applications.
 * Please avoid using third-party logos and icons. Using text labels is preferred.
 
