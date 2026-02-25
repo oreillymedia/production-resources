@@ -35,6 +35,7 @@ Regardless of figure size, any text elements cannot be less than 8pt or they wil
 
 ## Drawn Illustrations
 Diagrams will be redrawn by O'Reilly to ensure all elements are legible in print and maintain a consistent style and color palette.
+
 Use whatever method is most comfortable for you when first creating your illustrations: they can be sketched, described in text, or generated using a drawing application.
 Authors have previously used applications such as Mermaid, Drawio, Excalidraw, and Lucidcharts to create their figures. When submitting your figures from these or any other application, we ask for you to export them as the file types listed below.
 
