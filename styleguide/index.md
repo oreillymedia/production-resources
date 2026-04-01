@@ -1415,6 +1415,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
  <li>spellcheck</li>
  <li>spellchecker</li>
  <li>split screen</li>
+ <li>SQL</li>li>
  <li>square brackets or brackets</li>
  <li>standalone</li>
  <li>standard input (stdin)</li>
