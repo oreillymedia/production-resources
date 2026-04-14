@@ -625,7 +625,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
 <section data-type="sect3" id="variable_list">
 <h3>Variable list</h3>
 
-<p>The following list of defined terms is an example of a variable list:</p>
+<p>The following list of defined terms is an example of a variable list (note that these should use sentence casing):</p>
 <dl>
 <dt><em>Setup project</em></dt>
 <dd>
@@ -798,6 +798,7 @@ I hope this message finds you well. I am writing to express my deep...</pre></bl
     <li><p>Companies are always singular. So, for example, “Apple emphasizes the value of aesthetics in its product line. Consequently, it dominates the digital-music market” is correct. “Apple emphasize the value of aesthetics in their product line. They dominate the digital-music market” is <em>not</em>. (Also applies to generic terms “organization,” “team,” “group,” etc.)</p></li>
     <li><p>Do not stack admonitions, sidebars, or headings.</p></li>
   <li><p>Do not use a hyphen between an adverb and the word it modifies. So, “incredibly wide table” rather than “incredibly-wide table.”</p></li>
+   <li><p>For filenames with a leading dot, the dot is considered silent for the purpose of determining which article to use (e.g., "a <em>.pdf</em> file" or "an <em>.env</em> file").</p>
     <li><p>Introduce unnumbered code blocks with colons.</p></li>
     <li><p>Use “between” for two items, “among” for three or more. Use “each other” for two, “one another” for three or more.</p></li>
     <li><p>Use the American spellings of words when they differ.</p></li>
