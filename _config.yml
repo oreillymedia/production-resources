@@ -1,3 +1,9 @@
 name: O'Reilly Production
 markdown: kramdown
 baseurl: http://oreillymedia.github.io/production-resources/
+
+# Build settings
+theme: just-the-docs
+color_scheme: orm-colors
+search_enabled: true
+heading_anchors: true
